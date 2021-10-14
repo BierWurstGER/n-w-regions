@@ -1,0 +1,54 @@
+{
+    "Capitals": [
+        {
+            "id": "97380edb-6465-c515-caa5-9ba6b7293769",
+            "worldPosition": {
+                "x": 1203.86572265625,
+                "y": 10949.1630859375,
+                "z": 62.77078628540039
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "99166b03-09ae-228d-6b63-63bc6ab9d353",
+                "radius": 20.0
+            },
+            "sliceName": "slices/Terrain_Water/JungleLake_OutpostRush_B",
+            "sliceAssetId": "{99F80A57-0128-5E28-B013-5F835D3D42E2}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "c750b0b8-0d31-e16a-98ef-e9559f467208",
+            "worldPosition": {
+                "x": 1307.2174072265625,
+                "y": 11147.5810546875,
+                "z": 48.435489654541019
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4023b483-a9e8-17a2-9e33-6fb8bc4b822c",
+                "radius": 20.0
+            },
+            "sliceName": "slices/Terrain_Water/JungleLake_OutpostRush_A",
+            "sliceAssetId": "{9FA68D54-F09D-561D-BA4F-376678A43693}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        }
+    ]
+}

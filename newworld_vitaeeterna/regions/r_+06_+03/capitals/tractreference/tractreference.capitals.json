@@ -1,0 +1,50 @@
+{
+    "Capitals": [
+        {
+            "id": "610d59aa-f298-69f1-0565-63a99209441d",
+            "worldPosition": {
+                "x": 13309.701171875,
+                "y": 7169.03369140625,
+                "z": 326.8131103515625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9e4db2e8-3348-ab72-ea8f-df4ea75e14e9",
+                "radius": 0.10000000149011612
+            },
+            "sliceName": "slices/POIs/Zones/63_tractref",
+            "sliceAssetId": "{D62EF4F8-48B1-5086-831D-283CACA3EAE4}:2"
+        },
+        {
+            "id": "8ea1b0e4-1ab4-9bea-e244-813ca839b576",
+            "worldPosition": {
+                "x": 12364.8984375,
+                "y": 7542.080078125,
+                "z": 386.6413269042969
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "403ee461-e218-0646-f52e-e9ad65b263b3",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Icons/Icon_AngryEarth_FeyBurrow",
+            "sliceAssetId": "{3C22324A-FBE1-5C58-9D47-04FFCA3E2772}:2",
+            "params": {
+                "MAP_ICON_PATH": "LyShineUI/Images/Map/Icon/POIs/angryearth_cave.png",
+                "USER_FACE_NAME_LOC_KEY": "ui_poi_crater_feyburrow"
+            }
+        }
+    ]
+}

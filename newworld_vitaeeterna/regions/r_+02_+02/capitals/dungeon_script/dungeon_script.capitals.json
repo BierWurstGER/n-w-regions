@@ -1,0 +1,50 @@
+{
+    "Capitals": [
+        {
+            "id": "59045c09-5b71-7020-fa0a-4a3f21890145",
+            "worldPosition": {
+                "x": 4712.99951171875,
+                "y": 4461.0,
+                "z": 39.2818489074707
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a940feb5-3c97-dc7a-a4ec-f7a95ab085b7",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/LevelScripts/Ebonscale00Dungeon",
+            "sliceAssetId": "{610AFFEB-CED1-58E6-835C-EC8ADC99D498}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "3cbb287d-e71c-b596-cd70-05647991447a",
+            "worldPosition": {
+                "x": 5037.76318359375,
+                "y": 4315.89013671875,
+                "z": 40.1619987487793
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.15643449127674104,
+                "w": 0.9876883029937744
+            },
+            "scale": 9.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "7ca0b80a-b839-692a-8bae-7275a9838af0",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/MainStoryQuest/TriggerVol_MSQ_EnterShipyard",
+            "sliceAssetId": "{5106E7E1-73CE-5A05-AEB5-9667E9A1CDCF}:2"
+        }
+    ]
+}

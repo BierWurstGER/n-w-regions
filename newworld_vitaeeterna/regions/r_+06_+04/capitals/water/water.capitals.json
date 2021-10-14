@@ -1,0 +1,52 @@
+{
+    "Capitals": [
+        {
+            "id": "cfe17d3d-9eda-4ef5-e445-778c9620062e",
+            "worldPosition": {
+                "x": 13120.458984375,
+                "y": 8451.0419921875,
+                "z": 264.510009765625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3d92c690-9b6c-5f59-acd7-b6eb243a678a",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/FloodedPlains_River_AC",
+            "sliceAssetId": "{8791ABBA-54A9-5096-B863-983E06E62B27}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "f6f09d69-f7aa-ae1b-3ff1-4f72f36aa7ec",
+            "worldPosition": {
+                "x": 13147.478515625,
+                "y": 8382.1416015625,
+                "z": 211.6836700439453
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "855dcdf4-82f1-a2de-e965-88559804bcac",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/FloodedPlains_River_AD",
+            "sliceAssetId": "{B90AF109-91DB-5C90-B6BB-152B9D1FE627}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        }
+    ]
+}

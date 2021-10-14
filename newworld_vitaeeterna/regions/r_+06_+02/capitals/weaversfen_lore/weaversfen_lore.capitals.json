@@ -1,0 +1,54 @@
+{
+    "Capitals": [
+        {
+            "id": "0f36cb1c-1de9-40be-77e4-56cba64bd5b4",
+            "worldPosition": {
+                "x": 12642.33984375,
+                "y": 5519.89013671875,
+                "z": 41.209999084472659
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f0d70959-aa85-7c98-3e68-9885b4153315",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/DeadDrop/IO_WorldEvent_PVP_0001_DeadDropGiveItem_00",
+            "sliceAssetId": "{2D27BE2D-1462-5F8D-AD75-46B1973224AB}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "79805148-5021-1ebb-157e-48043737421e",
+            "worldPosition": {
+                "x": 12423.08984375,
+                "y": 5309.5400390625,
+                "z": 41.657535552978519
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "6350dba0-9a76-e1e7-beba-c3bb5db88260",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\269d276d\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_7980514850211ebb157e48043737421e",
+            "sliceAssetId": "{A4EBCDD0-44FE-5F3A-9432-89AD95C94DC7}:37421e",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
+}
