@@ -1,0 +1,172 @@
+{
+    "Capitals": [
+        {
+            "id": "45e27938-07a9-ce7c-a023-9a28372846c8",
+            "worldPosition": {
+                "x": 10738.7392578125,
+                "y": 4474.13818359375,
+                "z": 148.09869384765626
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.034899383783340457,
+                "w": 0.9993908405303955
+            },
+            "scale": 0.8000018000602722,
+            "footprint": {
+                "type": "Circle",
+                "id": "11a4871b-fc08-7f95-f489-f8728faaa11d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Terrain_Elements/Boulders/jav_wld_boulder_cryst_md01",
+            "sliceAssetId": "{7C11A79F-CD6B-56DC-BA91-ED88C2455D62}:2"
+        },
+        {
+            "id": "20d95d27-22ce-0a09-0f62-e4ad7d2cee32",
+            "worldPosition": {
+                "x": 10703.666015625,
+                "y": 4486.11767578125,
+                "z": 159.3938446044922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4539905786514282,
+                "w": 0.8910064697265625
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "31b6ea50-8899-7c51-0c00-506e9627c080",
+                "radius": 33.0
+            },
+            "sliceName": "slices/POIs/Encounters/AngryEarth/AngryEarth_Den_Cave_A",
+            "sliceAssetId": "{99EF45B0-F477-580A-84FE-6CBDBBF3A4CC}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Natural/Den_Cave_Arena_A_footprint.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "1417aaca-7a8a-4d8f-c385-63f95bec7fd7",
+            "worldPosition": {
+                "x": 10805.091796875,
+                "y": 4490.591796875,
+                "z": 110.32588195800781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.06975670903921128,
+                "w": 0.9975640177726746
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d24bafd4-bdd9-7f13-a5c4-3ef04b83420f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\69099b9e\\jav_wld_Boulder_Xlg_b_1417aaca7a8a4d8fc38563f95bec7fd7",
+            "sliceAssetId": "{9500CD5E-2A3F-519F-BEEA-EA5E1D2FDE44}:ec7fd7"
+        },
+        {
+            "id": "b00c16aa-6246-dbde-90cb-dbe2546c706a",
+            "worldPosition": {
+                "x": 10733.0703125,
+                "y": 4198.28857421875,
+                "z": 166.53427124023438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9743700623512268,
+                "w": 0.22495104372501374
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "117f9304-398d-aa78-87d9-b850ae8b9cd7",
+                "radius": 33.0
+            },
+            "sliceName": "slices/POIs/Nature/Wildlife/Den_Cave_Arena_A",
+            "sliceAssetId": "{A47A1235-BB65-5605-8C5B-837EE1C6AFAF}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Natural/Den_Cave_Arena_A_footprint.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "73c2dfcd-4bdf-086c-7875-347702720485",
+            "worldPosition": {
+                "x": 10795.7900390625,
+                "y": 4203.73681640625,
+                "z": 150.00245666503907
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9636304974555969,
+                "w": 0.2672383487224579
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a48dd911-fd5a-e5ba-3a8f-3147faa0a390",
+                "radius": 25.0
+            },
+            "sliceName": "CoatGen\\69099b9e\\Den_Bear_B_Master_73c2dfcd4bdf086c7875347702720485",
+            "sliceAssetId": "{9500CD5E-2A3F-519F-BEEA-EA5E1D2FDE44}:720485",
+            "cookie": {
+                "innerRadius": 12.0,
+                "outerRadius": 30.0,
+                "maxHeightBlend": 0.75
+            }
+        },
+        {
+            "id": "9b8c629f-929d-d8f7-bb3d-5dbe0aef3cd1",
+            "worldPosition": {
+                "x": 10790.541015625,
+                "y": 4508.47802734375,
+                "z": 110.87252807617188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6560593843460083,
+                "w": 0.7547093033790588
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "904c1207-caa9-724c-8755-c9b1fd9581aa",
+                "radius": 22.0
+            },
+            "sliceName": "slices/POIs/Nature/Wildlife/Den_Bear_B_Master",
+            "sliceAssetId": "{46A133AE-BDFF-5034-B4EE-9F19B4BEBF3A}:2",
+            "cookie": {
+                "innerRadius": 6.0,
+                "outerRadius": 45.0,
+                "maxHeightBlend": 0.8500000238418579,
+                "edgeNoise": 0.0,
+                "groundNoiseScale": 0.0
+            }
+        },
+        {
+            "id": "1a837edb-c2d4-f386-b88c-748ffe824cf6",
+            "worldPosition": {
+                "x": 10815.984375,
+                "y": 4511.625,
+                "z": 110.22756958007813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d38d75d1-de96-33c1-6041-257ecc235ae6",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        }
+    ]
+}
