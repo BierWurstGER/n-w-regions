@@ -1,0 +1,49 @@
+{
+    "Capitals": [
+        {
+            "id": "d9cf4539-b96f-6853-5adc-cda1461ac3d4",
+            "worldPosition": {
+                "x": 799.9999389648438,
+                "y": 570.0,
+                "z": 204.99998474121095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "71d7b4e8-e79a-7156-0874-2fa8a5bbb92d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/Design/start_area_reference",
+            "sliceAssetId": "{46D9FB24-4FFB-58A1-AB87-54A73CB74BB8}:2"
+        },
+        {
+            "id": "591ce49c-ef09-4d7e-7d81-a098dd761e41",
+            "worldPosition": {
+                "x": 906.9999389648438,
+                "y": 802.0,
+                "z": 197.99998474121095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "32eb008d-fd81-1823-fb90-fd6bc5e2adac",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/LevelScripts/Reekwater00Dungeon",
+            "sliceAssetId": "{E614D6F7-B55B-5A20-903C-D83E212718AA}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
+}

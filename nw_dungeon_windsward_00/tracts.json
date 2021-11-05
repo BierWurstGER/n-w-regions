@@ -1,0 +1,28 @@
+{
+  "tractmapCellSize": 1,
+  "heightmapCellSize": 1,
+  "regionSize": 2048,
+  "territoryMasterSlicePath": "slices/POIs/Territories/Territories_Master_Combat.dynamicslice",
+
+  "world": {
+    "type": "Island",
+    "width": 1,
+    "height": 1
+  },
+
+  "tracts": [
+    { "name": "blank",        "displayColor": { "r":     0, "g": 153, "b":   0   } },
+    { "name": "starterarea",  "displayColor": { "r":   102, "g":  51, "b":   102 } },
+    { "name": "grassland",    "displayColor": { "r":   204, "g": 255, "b":   204 } }
+
+
+  ],
+
+  "regions": [
+    { "name": "greenZone",          "spawnManifests": ["greenZone"] }
+  ],
+
+  "forcedRegions": [
+    { "location": { "x": 0, "y": 0 }, "regionName": "greenZone" }
+  ]
+}

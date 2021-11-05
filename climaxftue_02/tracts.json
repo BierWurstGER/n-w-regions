@@ -1,0 +1,26 @@
+{
+  "tractmapCellSize": 2,
+  "heightmapCellSize": 1,
+  "regionSize": 1024,
+
+  "world": {
+    "type": "Island",
+    "width": 1,
+    "height": 1
+  },
+
+  "tracts": [
+    { "name": "starterarea",                 "displayColor": { "r": 255, "g": 175, "b":   0 } },
+	{ "name": "mudflats",                    "displayColor": { "r":  255, "g":  255, "b":  255 } },
+	{ "name": "coastal_path",                    "displayColor": { "r":  80, "g":  100, "b":  100 } },
+	{ "name": "swampy_cove",                    "displayColor": { "r":  60, "g":  100, "b":  100 } },
+	{ "name": "causeway",                    "displayColor": { "r":  40, "g":  100, "b":  100 } }
+  ],
+
+  "regions": [
+    { "name": "r_+00_+00",          "spawnManifests": ["r_+00_+00"] }
+  ],
+
+  "forcedRegions": [
+  ]
+}
