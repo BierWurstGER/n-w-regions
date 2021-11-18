@@ -1,3 +1,52 @@
 {
-    "Capitals": []
+    "Capitals": [
+        {
+            "id": "f3fe792f-4874-5e36-e73a-ba8e3698efdc",
+            "worldPosition": {
+                "x": 10063.0986328125,
+                "y": 6869.68896484375,
+                "z": 408.0638427734375
+            },
+            "rotation": {
+                "x": -0.046908993273973468,
+                "y": -0.02758563868701458,
+                "z": 2.821431266397667e-8,
+                "w": 0.9985182285308838
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "987cdf26-bbf0-74b1-15a2-59750e5a2d5a",
+                "radius": 1.7999999523162842
+            },
+            "sliceName": "slices/POIs/Assembly/Gatherables/Single_Starmetal_B_Spawns",
+            "sliceAssetId": "{6CEF16E0-076F-587C-B3F0-20F70C7D157C}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e06c8e30-e3f0-f531-038c-af4bccb4ed09",
+            "worldPosition": {
+                "x": 10057.435546875,
+                "y": 6851.72412109375,
+                "z": 408.2830505371094
+            },
+            "rotation": {
+                "x": -0.031039591878652574,
+                "y": -0.04669575020670891,
+                "z": -0.001343730604276061,
+                "w": 0.9984259009361267
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5e8fa1e8-be89-0432-574e-40049f89d11a",
+                "radius": 1.7999999523162842
+            },
+            "sliceName": "slices/POIs/Assembly/Gatherables/Single_Starmetal_B_Spawns",
+            "sliceAssetId": "{6CEF16E0-076F-587C-B3F0-20F70C7D157C}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
 }

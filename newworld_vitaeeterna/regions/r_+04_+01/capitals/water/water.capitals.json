@@ -1,11 +1,11 @@
 {
     "Capitals": [
         {
-            "id": "91e42308-3382-1fd7-45c0-58c1fa3482dc",
+            "id": "c48afcd4-25a2-8176-8fb9-f19ecc999134",
             "worldPosition": {
-                "x": 8556.5263671875,
-                "y": 2526.035400390625,
-                "z": 51.25804138183594
+                "x": 8261.568359375,
+                "y": 2906.24267578125,
+                "z": 50.970001220703128
             },
             "rotation": {
                 "x": 0.0,
@@ -15,16 +15,181 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5000ba14-4c30-9d9a-4bff-61aa3f48780f",
-                "radius": 9.0
+                "id": "93177cd9-61e3-17fd-da7b-801b877fcb5f",
+                "radius": 0.009999999776482582
             },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 3.0,
-                "outerRadius": 9.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.25
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CD",
+            "sliceAssetId": "{84ECA642-1F93-5454-9D38-8ECC45096420}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "cf19dbe6-7b66-d9cc-95b8-94abef002f24",
+            "worldPosition": {
+                "x": 9687.669921875,
+                "y": 3836.449951171875,
+                "z": 106.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "97cbeb92-f885-fc0e-50b5-b3504f0c2fb0",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_AC",
+            "sliceAssetId": "{0EAD6E97-60CC-5BD8-8F08-6AFA2458926A}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "76fcdd46-d88f-ddb8-2951-a8b639ed5eef",
+            "worldPosition": {
+                "x": 8267.8369140625,
+                "y": 4016.994873046875,
+                "z": 183.7684326171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0c01dd9d-a58a-9cdd-8570-46c5fde6b8d3",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_C",
+            "sliceAssetId": "{1720871A-FE5F-5D5A-9BE5-E17BAEB0C665}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "3510b9ff-470a-86e3-08fe-2a374acaf590",
+            "worldPosition": {
+                "x": 8930.0107421875,
+                "y": 2198.909912109375,
+                "z": 85.55000305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0fa3787b-0b6b-6189-ec4d-cce2ce394111",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Highlands_C",
+            "sliceAssetId": "{041A35B5-7870-5113-BCFB-A4063E23D03B}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "6d590a4c-c4ed-8734-9e4e-c3fa833cb196",
+            "worldPosition": {
+                "x": 9395.1328125,
+                "y": 2668.815185546875,
+                "z": 81.69100189208985
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7ff8c1ab-0ca1-c946-771b-4db9e6b580d2",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_EA",
+            "sliceAssetId": "{C9CDE0F4-4917-5241-B015-224198DF93CA}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "bdbfd6b6-cfee-99d6-c19f-113bb6969048",
+            "worldPosition": {
+                "x": 8217.9140625,
+                "y": 3084.909423828125,
+                "z": 50.970001220703128
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9d827db3-460b-5763-f226-a8ff1349d111",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CB",
+            "sliceAssetId": "{373D1363-63C2-57C6-89D9-FB8484664BB9}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "eae27ed7-dd3c-d566-0f2d-a1fe8947bad6",
+            "worldPosition": {
+                "x": 8708.552734375,
+                "y": 3675.312744140625,
+                "z": 67.33125305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1424f270-71d6-7587-b76a-f5a9d2a3c899",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_AA",
+            "sliceAssetId": "{3A907AE3-B1BB-5527-BF6C-E6CE09608F5D}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "40415e94-1ff3-6652-7953-8cd7e41d7671",
+            "worldPosition": {
+                "x": 8574.1630859375,
+                "y": 2469.392333984375,
+                "z": 50.970001220703128
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6d380a86-0735-c5c7-cc59-f3a7b6180345",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CE",
+            "sliceAssetId": "{22FF745C-C1A5-5169-A706-EA521629231F}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
@@ -55,6 +220,130 @@
             }
         },
         {
+            "id": "91e42308-3382-1fd7-45c0-58c1fa3482dc",
+            "worldPosition": {
+                "x": 8556.5263671875,
+                "y": 2526.035400390625,
+                "z": 51.25804138183594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5000ba14-4c30-9d9a-4bff-61aa3f48780f",
+                "radius": 9.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 3.0,
+                "outerRadius": 9.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.25
+            }
+        },
+        {
+            "id": "8a9bf2eb-1baf-fd5e-6d95-3762254c8c8e",
+            "worldPosition": {
+                "x": 9549.55078125,
+                "y": 2678.186279296875,
+                "z": 112.2212142944336
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bf308ac3-fda6-0bb3-825e-707317f597f6",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_EB",
+            "sliceAssetId": "{050F0992-F412-59FA-94AF-F28CC20BAD86}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "4c63f20b-7ce1-b45f-4a37-986ed767e887",
+            "worldPosition": {
+                "x": 9362.560546875,
+                "y": 3491.52294921875,
+                "z": 88.88671875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0b68c779-d2b0-b44f-0f02-a150f07da004",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_A",
+            "sliceAssetId": "{13E1C0DB-A4B1-5BE3-ADB7-633C8F838D6E}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "0b5ed87d-cca3-99c5-69b8-3c412d3cc58a",
+            "worldPosition": {
+                "x": 8506.439453125,
+                "y": 3735.143798828125,
+                "z": 83.9625473022461
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f2365892-1313-c1cb-110f-5d655f059c77",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_AB",
+            "sliceAssetId": "{34FE6556-49D1-50BD-BE96-F1B8F6332FAC}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "07ce6c40-964a-d14c-da44-54590bc2e911",
+            "worldPosition": {
+                "x": 9560.4482421875,
+                "y": 2683.7900390625,
+                "z": 120.86210632324219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "fffcebee-b161-e39e-646d-26e0e11e2336",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_EC",
+            "sliceAssetId": "{254B8602-6ED5-56EC-9EF0-83361AC2077D}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
             "id": "6801925b-7980-6831-ca68-0b03110e70a1",
             "worldPosition": {
                 "x": 8830.01953125,
@@ -74,6 +363,174 @@
             },
             "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CA",
             "sliceAssetId": "{D70D263A-7D29-57A9-8137-C43F28CE7139}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "f0d17448-4858-3559-7cd1-5973e1730c9e",
+            "worldPosition": {
+                "x": 9266.615234375,
+                "y": 3420.5302734375,
+                "z": 66.02792358398438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "333cd7e4-e290-85f5-b69d-f6cdcc72c46c",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_D",
+            "sliceAssetId": "{F14232CC-3F93-5424-A72B-B8499949F1F1}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "8b4695be-61ab-a2e2-bcd2-8ee7b277a3a6",
+            "worldPosition": {
+                "x": 8685.5302734375,
+                "y": 3162.42626953125,
+                "z": 50.970001220703128
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bd644827-6e70-2c48-a5e0-fe7294377973",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_C",
+            "sliceAssetId": "{2461998C-1372-5B12-ACF0-D603A640AB26}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "143b3145-cac6-8f89-d952-ac24e89ff3cb",
+            "worldPosition": {
+                "x": 8254.1044921875,
+                "y": 3890.2802734375,
+                "z": 149.18646240234376
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ca135b7e-5062-1fc0-a56b-6041f1f2852f",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_CA",
+            "sliceAssetId": "{DC027DE1-3846-5F5B-A6B8-8B6064BBBB31}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "1959ce40-35b5-bba0-829d-6985fb2ed11d",
+            "worldPosition": {
+                "x": 9099.275390625,
+                "y": 2413.535400390625,
+                "z": 85.55000305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "66ff5465-d36a-111a-a96c-a9adbb38df34",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Highlands_B",
+            "sliceAssetId": "{F252A742-F90C-5A7F-A1D4-1BFC5CE7D005}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "b2eb9e62-0b02-a80c-1bc7-0497b8bbd848",
+            "worldPosition": {
+                "x": 9086.0048828125,
+                "y": 2111.800537109375,
+                "z": 124.0199966430664
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "73ad09e4-b1a2-5c30-4a79-0220ae44fb07",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_EA",
+            "sliceAssetId": "{2CB376B2-CDA3-564F-8812-EA26D9CC9F5A}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "73c39fc6-f1cf-d8ef-1433-d273b61fb88f",
+            "worldPosition": {
+                "x": 8828.6298828125,
+                "y": 2305.036865234375,
+                "z": 68.1500015258789
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "583459e2-c08e-4d27-71ee-246f561c85cc",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Forest_C",
+            "sliceAssetId": "{81ED97FE-9AAF-5D59-98F6-2182C36D71E1}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "1b0b7449-70ea-548e-d898-051f32dc3d4e",
+            "worldPosition": {
+                "x": 9361.9404296875,
+                "y": 4063.097412109375,
+                "z": 93.79000091552735
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1d0b062f-733a-ebfc-b32f-fc0c75871051",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/BrightWoods_Lake_Forest_A",
+            "sliceAssetId": "{A57FBE03-8710-52DF-B818-D5CA0D92716A}:2",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }
@@ -108,11 +565,11 @@
             }
         },
         {
-            "id": "1b0b7449-70ea-548e-d898-051f32dc3d4e",
+            "id": "3af34bf2-50a2-aa94-d4d1-e140ddbd7b39",
             "worldPosition": {
-                "x": 9361.9404296875,
-                "y": 4063.097412109375,
-                "z": 93.79000091552735
+                "x": 9809.1357421875,
+                "y": 3931.0546875,
+                "z": 115.17466735839844
             },
             "rotation": {
                 "x": 0.0,
@@ -122,227 +579,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "1d0b062f-733a-ebfc-b32f-fc0c75871051",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Terrain_Water/BrightWoods_Lake_Forest_A",
-            "sliceAssetId": "{A57FBE03-8710-52DF-B818-D5CA0D92716A}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "3510b9ff-470a-86e3-08fe-2a374acaf590",
-            "worldPosition": {
-                "x": 8930.0107421875,
-                "y": 2198.909912109375,
-                "z": 85.55000305175781
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0fa3787b-0b6b-6189-ec4d-cce2ce394111",
+                "id": "6a7041c3-0bf3-19cf-94bc-c15e9f7f6859",
                 "radius": 0.009999999776482582
             },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Highlands_C",
-            "sliceAssetId": "{041A35B5-7870-5113-BCFB-A4063E23D03B}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "143b3145-cac6-8f89-d952-ac24e89ff3cb",
-            "worldPosition": {
-                "x": 8254.1044921875,
-                "y": 3890.2802734375,
-                "z": 149.18646240234376
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ca135b7e-5062-1fc0-a56b-6041f1f2852f",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_CA",
-            "sliceAssetId": "{DC027DE1-3846-5F5B-A6B8-8B6064BBBB31}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "8b4695be-61ab-a2e2-bcd2-8ee7b277a3a6",
-            "worldPosition": {
-                "x": 8685.5302734375,
-                "y": 3162.42626953125,
-                "z": 50.970001220703128
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bd644827-6e70-2c48-a5e0-fe7294377973",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_C",
-            "sliceAssetId": "{2461998C-1372-5B12-ACF0-D603A640AB26}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "76fcdd46-d88f-ddb8-2951-a8b639ed5eef",
-            "worldPosition": {
-                "x": 8267.8369140625,
-                "y": 4016.994873046875,
-                "z": 183.7684326171875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0c01dd9d-a58a-9cdd-8570-46c5fde6b8d3",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_C",
-            "sliceAssetId": "{1720871A-FE5F-5D5A-9BE5-E17BAEB0C665}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "a2cea818-12fd-4f0e-321f-fd383e064dd1",
-            "worldPosition": {
-                "x": 9755.2900390625,
-                "y": 3687.550048828125,
-                "z": 106.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2128af7e-2bf9-1160-99d5-d36a317938df",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_AB",
-            "sliceAssetId": "{B39BDACF-9A97-5043-9E00-BEDEFDDAD585}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "b2eb9e62-0b02-a80c-1bc7-0497b8bbd848",
-            "worldPosition": {
-                "x": 9086.0048828125,
-                "y": 2111.800537109375,
-                "z": 124.0199966430664
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "73ad09e4-b1a2-5c30-4a79-0220ae44fb07",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_EA",
-            "sliceAssetId": "{2CB376B2-CDA3-564F-8812-EA26D9CC9F5A}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "c48afcd4-25a2-8176-8fb9-f19ecc999134",
-            "worldPosition": {
-                "x": 8261.568359375,
-                "y": 2906.24267578125,
-                "z": 50.970001220703128
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "93177cd9-61e3-17fd-da7b-801b877fcb5f",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CD",
-            "sliceAssetId": "{84ECA642-1F93-5454-9D38-8ECC45096420}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "8a9bf2eb-1baf-fd5e-6d95-3762254c8c8e",
-            "worldPosition": {
-                "x": 9549.55078125,
-                "y": 2678.186279296875,
-                "z": 112.2212142944336
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bf308ac3-fda6-0bb3-825e-707317f597f6",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_EB",
-            "sliceAssetId": "{050F0992-F412-59FA-94AF-F28CC20BAD86}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "eae27ed7-dd3c-d566-0f2d-a1fe8947bad6",
-            "worldPosition": {
-                "x": 8708.552734375,
-                "y": 3675.312744140625,
-                "z": 67.33125305175781
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1424f270-71d6-7587-b76a-f5a9d2a3c899",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_AA",
-            "sliceAssetId": "{3A907AE3-B1BB-5527-BF6C-E6CE09608F5D}:2",
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Forest_AA",
+            "sliceAssetId": "{DE3EFBE0-A8BB-5981-A8D8-C46B524562B7}:2",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }
@@ -372,11 +613,11 @@
             }
         },
         {
-            "id": "73c39fc6-f1cf-d8ef-1433-d273b61fb88f",
+            "id": "a2cea818-12fd-4f0e-321f-fd383e064dd1",
             "worldPosition": {
-                "x": 8828.6298828125,
-                "y": 2305.036865234375,
-                "z": 68.1500015258789
+                "x": 9755.2900390625,
+                "y": 3687.550048828125,
+                "z": 106.0
             },
             "rotation": {
                 "x": 0.0,
@@ -386,204 +627,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "583459e2-c08e-4d27-71ee-246f561c85cc",
+                "id": "2128af7e-2bf9-1160-99d5-d36a317938df",
                 "radius": 0.009999999776482582
             },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Forest_C",
-            "sliceAssetId": "{81ED97FE-9AAF-5D59-98F6-2182C36D71E1}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "6d590a4c-c4ed-8734-9e4e-c3fa833cb196",
-            "worldPosition": {
-                "x": 9395.1328125,
-                "y": 2668.815185546875,
-                "z": 81.69100189208985
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7ff8c1ab-0ca1-c946-771b-4db9e6b580d2",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_EA",
-            "sliceAssetId": "{C9CDE0F4-4917-5241-B015-224198DF93CA}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "1959ce40-35b5-bba0-829d-6985fb2ed11d",
-            "worldPosition": {
-                "x": 9099.275390625,
-                "y": 2413.535400390625,
-                "z": 85.55000305175781
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "66ff5465-d36a-111a-a96c-a9adbb38df34",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Highlands_B",
-            "sliceAssetId": "{F252A742-F90C-5A7F-A1D4-1BFC5CE7D005}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "ee7bd74f-203e-c774-659f-33f3e70fc605",
-            "worldPosition": {
-                "x": 8312.6064453125,
-                "y": 3801.59912109375,
-                "z": 140.88539123535157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a6d6373e-e42a-0d0f-74e5-cc735f17abdf",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_B",
-            "sliceAssetId": "{9177121F-7147-5EA3-8BEA-E1121574056F}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "0b5ed87d-cca3-99c5-69b8-3c412d3cc58a",
-            "worldPosition": {
-                "x": 8506.439453125,
-                "y": 3735.143798828125,
-                "z": 83.9625473022461
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f2365892-1313-c1cb-110f-5d655f059c77",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_AB",
-            "sliceAssetId": "{34FE6556-49D1-50BD-BE96-F1B8F6332FAC}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "6e6e0cb3-2247-57df-ed4b-41b160d8dbc1",
-            "worldPosition": {
-                "x": 9145.3896484375,
-                "y": 2761.3759765625,
-                "z": 50.78473663330078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c438e285-4264-bb03-8444-dfcf746b8713",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_E",
-            "sliceAssetId": "{F8202BCD-7DC6-5CA0-8E03-B05D6203A381}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "07ce6c40-964a-d14c-da44-54590bc2e911",
-            "worldPosition": {
-                "x": 9560.4482421875,
-                "y": 2683.7900390625,
-                "z": 120.86210632324219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "fffcebee-b161-e39e-646d-26e0e11e2336",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_EC",
-            "sliceAssetId": "{254B8602-6ED5-56EC-9EF0-83361AC2077D}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "f0d17448-4858-3559-7cd1-5973e1730c9e",
-            "worldPosition": {
-                "x": 9266.615234375,
-                "y": 3420.5302734375,
-                "z": 66.02792358398438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "333cd7e4-e290-85f5-b69d-f6cdcc72c46c",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_D",
-            "sliceAssetId": "{F14232CC-3F93-5424-A72B-B8499949F1F1}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "4c63f20b-7ce1-b45f-4a37-986ed767e887",
-            "worldPosition": {
-                "x": 9362.560546875,
-                "y": 3491.52294921875,
-                "z": 88.88671875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0b68c779-d2b0-b44f-0f02-a150f07da004",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_A",
-            "sliceAssetId": "{13E1C0DB-A4B1-5BE3-ADB7-633C8F838D6E}:2",
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_AB",
+            "sliceAssetId": "{B39BDACF-9A97-5043-9E00-BEDEFDDAD585}:2",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }
@@ -613,6 +661,30 @@
             }
         },
         {
+            "id": "ee7bd74f-203e-c774-659f-33f3e70fc605",
+            "worldPosition": {
+                "x": 8312.6064453125,
+                "y": 3801.59912109375,
+                "z": 140.88539123535157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a6d6373e-e42a-0d0f-74e5-cc735f17abdf",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Mountains_B",
+            "sliceAssetId": "{9177121F-7147-5EA3-8BEA-E1121574056F}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
             "id": "91f8606a-fe82-b615-e9e5-a86f365cf4b0",
             "worldPosition": {
                 "x": 8225.8525390625,
@@ -637,11 +709,11 @@
             }
         },
         {
-            "id": "bdbfd6b6-cfee-99d6-c19f-113bb6969048",
+            "id": "6e6e0cb3-2247-57df-ed4b-41b160d8dbc1",
             "worldPosition": {
-                "x": 8217.9140625,
-                "y": 3084.909423828125,
-                "z": 50.970001220703128
+                "x": 9145.3896484375,
+                "y": 2761.3759765625,
+                "z": 50.78473663330078
             },
             "rotation": {
                 "x": 0.0,
@@ -651,83 +723,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "9d827db3-460b-5763-f226-a8ff1349d111",
+                "id": "c438e285-4264-bb03-8444-dfcf746b8713",
                 "radius": 0.009999999776482582
             },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CB",
-            "sliceAssetId": "{373D1363-63C2-57C6-89D9-FB8484664BB9}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "cf19dbe6-7b66-d9cc-95b8-94abef002f24",
-            "worldPosition": {
-                "x": 9687.669921875,
-                "y": 3836.449951171875,
-                "z": 106.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "97cbeb92-f885-fc0e-50b5-b3504f0c2fb0",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_AC",
-            "sliceAssetId": "{0EAD6E97-60CC-5BD8-8F08-6AFA2458926A}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "3af34bf2-50a2-aa94-d4d1-e140ddbd7b39",
-            "worldPosition": {
-                "x": 9809.1357421875,
-                "y": 3931.0546875,
-                "z": 115.17466735839844
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6a7041c3-0bf3-19cf-94bc-c15e9f7f6859",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Forest_AA",
-            "sliceAssetId": "{DE3EFBE0-A8BB-5981-A8D8-C46B524562B7}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "40415e94-1ff3-6652-7953-8cd7e41d7671",
-            "worldPosition": {
-                "x": 8574.1630859375,
-                "y": 2469.392333984375,
-                "z": 50.970001220703128
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6d380a86-0735-c5c7-cc59-f3a7b6180345",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_CE",
-            "sliceAssetId": "{22FF745C-C1A5-5169-A706-EA521629231F}:2",
+            "sliceName": "slices/Terrain_Water/GreatPlains_River_Grasslands_E",
+            "sliceAssetId": "{F8202BCD-7DC6-5CA0-8E03-B05D6203A381}:2",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }

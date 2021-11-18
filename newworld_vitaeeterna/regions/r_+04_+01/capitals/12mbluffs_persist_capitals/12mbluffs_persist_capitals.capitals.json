@@ -1,25 +1,52 @@
 {
     "Capitals": [
         {
-            "id": "6356f423-5e45-b19c-faff-0ff8f60e03a2",
+            "id": "67c53e3d-a695-a693-e800-5c43ba9cfaca",
             "worldPosition": {
-                "x": 8225.9990234375,
-                "y": 3351.0,
-                "z": 88.99668884277344
+                "x": 8261.126953125,
+                "y": 3191.1728515625,
+                "z": 79.71996307373047
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
             },
             "footprint": {
                 "type": "Circle",
-                "id": "399d6faa-fc1e-d7ef-4b7a-0f9b338af109",
+                "id": "53bf4269-6752-f651-7896-2742256ae278",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1c868c0c\\Darkness_SpawnGroup_Minor_Master_6356f4235e45b19cfaff0ff8f60e03a2",
-            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:e03a2"
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Dome",
+            "sliceAssetId": "{CC0BCCD2-2BCF-5B6B-A501-A8437E81009E}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_dome.obj"
+            }
+        },
+        {
+            "id": "604ea928-ed69-9120-2c97-2ca3ab9e782b",
+            "worldPosition": {
+                "x": 8289.9990234375,
+                "y": 3435.0,
+                "z": 94.03268432617188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c9ded04b-e29a-c662-6f04-a57bbd07a46d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
+            "sliceAssetId": "{DDB0EEED-324F-5C01-9428-3AD7B1B63B9A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint.obj"
+            }
         },
         {
             "id": "ad15d8e5-820b-46f2-40a3-b0b44f07e43d",
@@ -70,30 +97,6 @@
             }
         },
         {
-            "id": "44324382-c443-41ed-7c37-3148b179dcde",
-            "worldPosition": {
-                "x": 8399.814453125,
-                "y": 3493.635009765625,
-                "z": 112.85476684570313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.02617730386555195,
-                "w": 0.9996573328971863
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f6400077-033a-0e03-cea5-81a90f62dfbd",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
             "id": "c3872786-b4d2-917c-8f04-a680a339f94e",
             "worldPosition": {
                 "x": 8229.484375,
@@ -118,27 +121,27 @@
             }
         },
         {
-            "id": "67c53e3d-a695-a693-e800-5c43ba9cfaca",
+            "id": "44324382-c443-41ed-7c37-3148b179dcde",
             "worldPosition": {
-                "x": 8261.126953125,
-                "y": 3191.1728515625,
-                "z": 79.71996307373047
+                "x": 8399.814453125,
+                "y": 3493.635009765625,
+                "z": 112.85476684570313
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
+                "z": 0.02617730386555195,
+                "w": 0.9996573328971863
             },
             "footprint": {
                 "type": "Circle",
-                "id": "53bf4269-6752-f651-7896-2742256ae278",
+                "id": "f6400077-033a-0e03-cea5-81a90f62dfbd",
                 "radius": 1.0
             },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Dome",
-            "sliceAssetId": "{CC0BCCD2-2BCF-5B6B-A501-A8437E81009E}:2",
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_dome.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
             }
         },
         {
@@ -163,6 +166,27 @@
             "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:42cfe3"
         },
         {
+            "id": "6356f423-5e45-b19c-faff-0ff8f60e03a2",
+            "worldPosition": {
+                "x": 8225.9990234375,
+                "y": 3351.0,
+                "z": 88.99668884277344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "399d6faa-fc1e-d7ef-4b7a-0f9b338af109",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1c868c0c\\Darkness_SpawnGroup_Minor_Master_6356f4235e45b19cfaff0ff8f60e03a2",
+            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:e03a2"
+        },
+        {
             "id": "656e4162-4f00-9a60-7a72-49eecab39d68",
             "worldPosition": {
                 "x": 8225.9990234375,
@@ -182,30 +206,6 @@
             },
             "sliceName": "CoatGen\\1c868c0c\\Darkness_SpawnGroup_Major_Master_656e41624f009a607a7249eecab39d68",
             "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:b39d68"
-        },
-        {
-            "id": "604ea928-ed69-9120-2c97-2ca3ab9e782b",
-            "worldPosition": {
-                "x": 8289.9990234375,
-                "y": 3435.0,
-                "z": 94.03268432617188
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c9ded04b-e29a-c662-6f04-a57bbd07a46d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
-            "sliceAssetId": "{DDB0EEED-324F-5C01-9428-3AD7B1B63B9A}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint.obj"
-            }
         }
     ]
 }

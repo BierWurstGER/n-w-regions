@@ -1,6 +1,27 @@
 {
     "Capitals": [
         {
+            "id": "4ec59502-726f-c48a-6f35-4ce959cffdf5",
+            "worldPosition": {
+                "x": 8094.93896484375,
+                "y": 7471.05859375,
+                "z": 440.6626281738281
+            },
+            "rotation": {
+                "x": 0.11572495102882385,
+                "y": -0.08157551288604737,
+                "z": 1.6464005270222516e-8,
+                "w": 0.9899258613586426
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bb116ea7-0093-74c2-aa01-e92be403d854",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_10m",
+            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
+        },
+        {
             "id": "83a9fcbc-0175-c8bf-7370-2310089b613c",
             "worldPosition": {
                 "x": 8076.611328125,
@@ -43,27 +64,6 @@
             "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
         },
         {
-            "id": "c46f39eb-0b78-819c-1e65-56ed5808b747",
-            "worldPosition": {
-                "x": 8041.9462890625,
-                "y": 7506.5009765625,
-                "z": 450.6105651855469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "49185d23-6ec7-bbd0-fc01-deda5b99a67d",
-                "radius": 2.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_10m",
-            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
-        },
-        {
             "id": "6652b548-3794-232b-4cca-d61ff8678eae",
             "worldPosition": {
                 "x": 7981.7265625,
@@ -79,6 +79,27 @@
             "footprint": {
                 "type": "Circle",
                 "id": "71471240-1644-7ad2-4b03-6181bf6e69be",
+                "radius": 10.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_10m",
+            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
+        },
+        {
+            "id": "14fc4c62-1f5f-133c-422d-5504c7d1bc3b",
+            "worldPosition": {
+                "x": 8026.81494140625,
+                "y": 7678.40234375,
+                "z": 514.3701171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f44207cc-42b1-78df-c788-f12b36f45001",
                 "radius": 10.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_10m",
@@ -107,11 +128,11 @@
             "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
         },
         {
-            "id": "15421fb6-b181-bf6d-d8b3-ef23936305b2",
+            "id": "c46f39eb-0b78-819c-1e65-56ed5808b747",
             "worldPosition": {
-                "x": 8002.80859375,
-                "y": 7501.86279296875,
-                "z": 450.52337646484377
+                "x": 8041.9462890625,
+                "y": 7506.5009765625,
+                "z": 450.6105651855469
             },
             "rotation": {
                 "x": 0.0,
@@ -121,50 +142,8 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "ca4febdc-e7a0-bd7d-a34f-b2402203f147",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_10m",
-            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
-        },
-        {
-            "id": "4ec59502-726f-c48a-6f35-4ce959cffdf5",
-            "worldPosition": {
-                "x": 8094.93896484375,
-                "y": 7471.05859375,
-                "z": 440.6626281738281
-            },
-            "rotation": {
-                "x": 0.11572495102882385,
-                "y": -0.08157551288604737,
-                "z": 1.6464005270222516e-8,
-                "w": 0.9899258613586426
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bb116ea7-0093-74c2-aa01-e92be403d854",
+                "id": "49185d23-6ec7-bbd0-fc01-deda5b99a67d",
                 "radius": 2.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_10m",
-            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
-        },
-        {
-            "id": "14fc4c62-1f5f-133c-422d-5504c7d1bc3b",
-            "worldPosition": {
-                "x": 8026.81494140625,
-                "y": 7678.40234375,
-                "z": 514.3701171875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f44207cc-42b1-78df-c788-f12b36f45001",
-                "radius": 10.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_10m",
             "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
@@ -191,6 +170,27 @@
             "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
         },
         {
+            "id": "15421fb6-b181-bf6d-d8b3-ef23936305b2",
+            "worldPosition": {
+                "x": 8002.80859375,
+                "y": 7501.86279296875,
+                "z": 450.52337646484377
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ca4febdc-e7a0-bd7d-a34f-b2402203f147",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_10m",
+            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
+        },
+        {
             "id": "6229eb4a-d158-0297-88fe-d3b471501e0f",
             "worldPosition": {
                 "x": 8024.1162109375,
@@ -211,6 +211,27 @@
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Refining_Structures/Wood_Works/Logpile_Group_A",
             "sliceAssetId": "{B2037AB5-628A-5EC8-9260-9C87971348D0}:2"
+        },
+        {
+            "id": "56a5dd22-405e-fa2d-6eeb-7203c05ef1ee",
+            "worldPosition": {
+                "x": 7999.99951171875,
+                "y": 7764.99951171875,
+                "z": 520.9999389648438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.026176949962973596,
+                "w": 0.9996573328971863
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4bdd77dc-5fe9-a70c-4998-2676580a3f2b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\cf2b8592\\Collision_NoClimb_56a5dd22405efa2d6eeb7203c05ef1ee",
+            "sliceAssetId": "{A4C3E500-17AD-5C15-B7F2-8D56ACEDCCE4}:5ef1ee"
         }
     ]
 }

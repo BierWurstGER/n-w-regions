@@ -1,21 +1,45 @@
 {
     "Capitals": [
         {
-            "id": "813e6cee-c6d8-682a-6710-c17817759663",
+            "id": "d142c127-61ac-43a9-d760-29f47107c345",
             "worldPosition": {
-                "x": 9699.9208984375,
-                "y": 9610.419921875,
-                "z": 656.1610107421875
+                "x": 9696.904296875,
+                "y": 9650.796875,
+                "z": 656.9458618164063
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7880107164382935,
-                "w": 0.6156615018844605
+                "x": 0.03230103477835655,
+                "y": 0.09941249340772629,
+                "z": -0.30732449889183047,
+                "w": 0.945846438407898
             },
             "footprint": {
                 "type": "Circle",
-                "id": "367d7393-8d19-e093-bbf4-4c03537cdbd9",
+                "id": "dd1ff975-4574-ef2e-e17f-00e6c3fd5256",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5d3b20c\\LootContainer_Abandoned_Elite_T5_d142c12761ac43a9d76029f47107c345",
+            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:7c345",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "3b422f79-a506-ca46-80c2-55e2a89a319c",
+            "worldPosition": {
+                "x": 9648.705078125,
+                "y": 9641.3740234375,
+                "z": 644.8223266601563
+            },
+            "rotation": {
+                "x": -1.0279403106494556e-8,
+                "y": -8.681720942149696e-8,
+                "z": 0.9925252199172974,
+                "w": -0.1220397874712944
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e6d4c353-d5f8-9ddc-3326-1d61bcc5328e",
                 "radius": 1.0
             },
             "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Ancient_T3_M",
@@ -49,21 +73,21 @@
             }
         },
         {
-            "id": "3b422f79-a506-ca46-80c2-55e2a89a319c",
+            "id": "813e6cee-c6d8-682a-6710-c17817759663",
             "worldPosition": {
-                "x": 9648.705078125,
-                "y": 9641.3740234375,
-                "z": 644.8223266601563
+                "x": 9699.9208984375,
+                "y": 9610.419921875,
+                "z": 656.1610107421875
             },
             "rotation": {
-                "x": -1.0279403106494556e-8,
-                "y": -8.681720942149696e-8,
-                "z": 0.9925252199172974,
-                "w": -0.1220397874712944
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7880107164382935,
+                "w": 0.6156615018844605
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e6d4c353-d5f8-9ddc-3326-1d61bcc5328e",
+                "id": "367d7393-8d19-e093-bbf4-4c03537cdbd9",
                 "radius": 1.0
             },
             "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Ancient_T3_M",
@@ -73,28 +97,46 @@
             }
         },
         {
-            "id": "d142c127-61ac-43a9-d760-29f47107c345",
+            "id": "6437b759-cae4-d93e-80a9-39bc8e515da6",
             "worldPosition": {
-                "x": 9687.7998046875,
-                "y": 9647.95703125,
-                "z": 656.62109375
+                "x": 9695.4736328125,
+                "y": 9637.3984375,
+                "z": 656.3665771484375
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.5519371032714844,
-                "w": 0.8338857889175415
+                "z": 0.9762958288192749,
+                "w": -0.21644054353237153
             },
             "footprint": {
                 "type": "Circle",
-                "id": "dd1ff975-4574-ef2e-e17f-00e6c3fd5256",
+                "id": "8459f83d-7bad-633a-11b4-706b89ff01ae",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Abandoned_Elite_T5",
-            "sliceAssetId": "{FAF31B88-F960-50D2-AC32-C03B64F3BCEE}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\5d3b20c\\PointSpawner_DamnedLongswordsman_Commander_Stand_6437b759cae4d93e80a939bc8e515da6",
+            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:515da6"
+        },
+        {
+            "id": "071b8414-f541-8a29-1c16-d0c37b80487d",
+            "worldPosition": {
+                "x": 9747.9033203125,
+                "y": 9631.453125,
+                "z": 595.6762084960938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "07ebad80-760a-bafe-c8a8-bed996bd0b4b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5d3b20c\\POI_BannerAreaTrigger_Master_071b8414f5418a291c16d0c37b80487d",
+            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:80487d"
         },
         {
             "id": "f3bfcbca-05ef-5c45-3601-163cc870b571",
@@ -119,48 +161,6 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "071b8414-f541-8a29-1c16-d0c37b80487d",
-            "worldPosition": {
-                "x": 9747.9033203125,
-                "y": 9631.453125,
-                "z": 595.6762084960938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "07ebad80-760a-bafe-c8a8-bed996bd0b4b",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5d3b20c\\POI_BannerAreaTrigger_Master_071b8414f5418a291c16d0c37b80487d",
-            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:80487d"
-        },
-        {
-            "id": "6437b759-cae4-d93e-80a9-39bc8e515da6",
-            "worldPosition": {
-                "x": 9695.4736328125,
-                "y": 9637.3984375,
-                "z": 656.3665771484375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9762958288192749,
-                "w": -0.21644054353237153
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8459f83d-7bad-633a-11b4-706b89ff01ae",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5d3b20c\\PointSpawner_DamnedLongswordsman_Commander_Stand_6437b759cae4d93e80a939bc8e515da6",
-            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:515da6"
         }
     ]
 }

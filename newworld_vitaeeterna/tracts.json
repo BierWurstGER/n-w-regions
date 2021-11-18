@@ -40,6 +40,10 @@
     { "name": "waterbed_Swamp_fall02",       "displayColor": { "r": 76, "g": 115, "b": 179 } },
     { "name": "waterbed_Swamp_wint01",       "displayColor": { "r": 101, "g": 120, "b": 153 } },
 
+    { "name": "waterbed_desert",             "displayColor": { "r": 127, "g": 175, "b": 255 } },
+    { "name": "waterbed_desert_oasis",       "displayColor": { "r": 127, "g": 159, "b": 255 } },
+    { "name": "waterbed_desert_sulfur",      "displayColor": { "r": 127, "g": 143, "b": 255 } },
+
     { "name": "lakes",                       "displayColor": { "r": 0, "g": 127, "b": 255 } },
     { "name": "lakes_spri01",                "displayColor": { "r": 25, "g": 126, "b": 229 } },
     { "name": "lakes_fall01",                "displayColor": { "r": 51, "g": 127, "b": 204 } },
@@ -57,6 +61,8 @@
     { "name": "coast_fall01",                "displayColor": { "r": 51, "g": 203, "b": 204 } },
     { "name": "coast_fall02",                "displayColor": { "r": 76, "g": 179, "b": 179 } },
     { "name": "coast_wint01",                "displayColor": { "r": 101, "g": 153, "b": 153 } },
+
+    { "name": "coast_desert",                "displayColor": { "r": 127, "g": 254, "b": 255 } },
 
     { "name": "coast_tropical",              "displayColor": { "r": 0, "g": 255, "b": 223 } },
     { "name": "coast_tropical_dense",        "displayColor": { "r": 0, "g": 192, "b": 167 } },
@@ -129,7 +135,7 @@
     { "name": "forest_tropical",             "displayColor": { "r": 206, "g": 255, "b": 127 } },
 
 	{ "name": "forest_aspen",                "displayColor": { "r": 191, "g": 255, "b": 127 } },
-	
+
     { "name": "woodedhills",                 "displayColor": { "r": 191, "g": 255, "b": 0 } },
     { "name": "woodedhills_spri01",          "displayColor": { "r": 177, "g": 229, "b": 25 } },
     { "name": "woodedhills_fall01",          "displayColor": { "r": 165, "g": 204, "b": 51 } },
@@ -185,6 +191,7 @@
     { "name": "desert_plains",               "displayColor": { "r": 255, "g": 0, "b": 191 } },
     { "name": "desert_sulfur",               "displayColor": { "r": 255, "g": 0, "b": 223 } },
     { "name": "desert_mountain",             "displayColor": { "r": 254, "g": 0, "b": 255 } },
+    { "name": "desert_forest",               "displayColor": { "r": 223, "g": 0, "b": 255 } },
     { "name": "desert_oasis",                "displayColor": { "r": 191, "g": 0, "b": 255 } },
 
     { "name": "damned",                      "displayColor": { "r": 127, "g": 76, "b": 179 } },
@@ -374,6 +381,8 @@
 	"Dungeon/Entrance/DungeonEntrance_Reekwater00",
 	"Dungeon/Entrance/DungeonEntrance_Edengrove00",
 	"Dungeon/Entrance/DungeonEntrance_RestlessShores01",
+  "Dungeon/Entrance/DungeonEntrance_ShatterMtn00",
+  "Dungeon/Entrance/DungeonEntrance_Brimstone00",
 	"Devworld/devWorldArena",
 	"Arenas/Events/Reekwater/Enc_Arena_Reekwater_EternalPool_Boss_00",
 	"Arenas/Events/Reekwater/Enc_Arena_Reekwater_Pirate_Boss_00"

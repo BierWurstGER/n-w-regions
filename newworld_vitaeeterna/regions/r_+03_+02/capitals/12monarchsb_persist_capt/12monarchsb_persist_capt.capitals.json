@@ -27,6 +27,32 @@
             }
         },
         {
+            "id": "b4ecad5c-b317-dcea-9d07-8c1e1047dfb7",
+            "worldPosition": {
+                "x": 7754.21240234375,
+                "y": 4313.8408203125,
+                "z": 72.67247772216797
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e86fbdbc-c01e-fd7a-3fbe-29cf8df78a53",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 3.0,
+                "outerRadius": 4.0,
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
             "id": "6fdd6f2f-6812-49e0-d76d-b7579843a45d",
             "worldPosition": {
                 "x": 7709.447265625,
@@ -79,37 +105,32 @@
             }
         },
         {
-            "id": "b4ecad5c-b317-dcea-9d07-8c1e1047dfb7",
+            "id": "c6699803-ac3b-0a89-0f4c-cf7902b5606a",
             "worldPosition": {
-                "x": 7754.21240234375,
-                "y": 4313.8408203125,
-                "z": 72.67247772216797
+                "x": 7515.73486328125,
+                "y": 4334.55224609375,
+                "z": 43.14611053466797
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": -0.021357957273721696,
+                "y": 0.000024028815460042097,
+                "z": 0.0011247945949435235,
+                "w": 0.9997712969779968
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e86fbdbc-c01e-fd7a-3fbe-29cf8df78a53",
-                "radius": 2.0
+                "id": "31fe01b3-b47b-c472-b80d-5d14d765f3a3",
+                "radius": 0.0
             },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 3.0,
-                "outerRadius": 4.0,
-                "maxHeightBlend": 1.0
-            }
+            "sliceName": "slices/POIs/POI_CapitalPlot",
+            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
         },
         {
             "id": "2bddceaf-69b9-efb3-27ad-357d8b8e71aa",
             "worldPosition": {
-                "x": 7657.99951171875,
-                "y": 4306.0,
-                "z": 85.99999237060547
+                "x": 7541.52490234375,
+                "y": 4164.88623046875,
+                "z": 40.01127624511719
             },
             "rotation": {
                 "x": 0.0,
@@ -120,27 +141,6 @@
             "footprint": {
                 "type": "Circle",
                 "id": "9bf71891-7fc8-7df1-d108-e938ba19d06c",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/POI_CapitalPlot",
-            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
-        },
-        {
-            "id": "c6699803-ac3b-0a89-0f4c-cf7902b5606a",
-            "worldPosition": {
-                "x": 7515.73486328125,
-                "y": 4334.55224609375,
-                "z": 43.14611053466797
-            },
-            "rotation": {
-                "x": -0.021357957273721696,
-                "y": 0.000024028819098020904,
-                "z": 0.001124794827774167,
-                "w": 0.9997712969779968
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "31fe01b3-b47b-c472-b80d-5d14d765f3a3",
                 "radius": 0.0
             },
             "sliceName": "slices/POIs/POI_CapitalPlot",
@@ -191,15 +191,15 @@
                 "id": "5043429f-c32c-fd2d-7ffb-2960f53e3a30",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\e4c45e50\\Soulwarden_Chest_cf84ea84e4eb75efca09d39f0b33fd6e",
-            "sliceAssetId": "{84E5BB82-CD8C-57C7-A3E6-861DA324834B}:33fd6e"
+            "sliceName": "slices/POIs/Assembly/QuestAssets/Soulwarden_Chest",
+            "sliceAssetId": "{B5C6E3B5-9EF1-5E4C-9222-126046C3DE44}:2"
         },
         {
-            "id": "40e35b17-85fb-02ef-77c0-a7b6abaca441",
+            "id": "0549a1d2-0cad-d4b6-bcc4-2341fe835736",
             "worldPosition": {
-                "x": 7619.85302734375,
-                "y": 4395.9599609375,
-                "z": 46.34505081176758
+                "x": 8021.529296875,
+                "y": 4277.15966796875,
+                "z": 167.50172424316407
             },
             "rotation": {
                 "x": 0.0,
@@ -209,20 +209,13 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "99f16beb-c82f-6158-47b2-5c1c1dbd0be3",
-                "radius": 8.0
+                "id": "92ac20f9-96a5-1dc2-6fc8-aa1207dfc3f1",
+                "radius": 0.0
             },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp",
-            "sliceAssetId": "{9A1236C4-AF27-5699-BC80-97CB38249655}:2",
-            "cookie": {
-                "innerRadius": 8.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 0.8999999761581421,
-                "edgeNoise": 0.20000000298023225,
-                "groundNoiseScale": 0.009999999776482582
-            },
+            "sliceName": "slices/POIs/Icons/Icon_Nature_Den_Wolf",
+            "sliceAssetId": "{1EC42C8F-E911-5291-B867-0A53C36A26FC}:2",
             "params": {
-                "HAS_VEG_COMPONENTS": "1"
+                "USER_FACE_NAME_LOC_KEY": "ui_poi_wolf_den"
             }
         },
         {
@@ -243,10 +236,41 @@
                 "id": "3482e723-6d02-a6a9-5ee7-2b22f8e00057",
                 "radius": 8.0
             },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp",
-            "sliceAssetId": "{9A1236C4-AF27-5699-BC80-97CB38249655}:2",
+            "sliceName": "CoatGen\\e4c45e50\\BlankSpace_for_Player_Camp_e5439fbf5b640ef266505a1d9f22ca60",
+            "sliceAssetId": "{84E5BB82-CD8C-57C7-A3E6-861DA324834B}:22ca60",
             "params": {
                 "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "40e35b17-85fb-02ef-77c0-a7b6abaca441",
+            "worldPosition": {
+                "x": 7619.85302734375,
+                "y": 4395.9599609375,
+                "z": 46.34505081176758
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "99f16beb-c82f-6158-47b2-5c1c1dbd0be3",
+                "radius": 8.0
+            },
+            "sliceName": "CoatGen\\e4c45e50\\BlankSpace_for_Player_Camp_40e35b1785fb02ef77c0a7b6abaca441",
+            "sliceAssetId": "{84E5BB82-CD8C-57C7-A3E6-861DA324834B}:aca441",
+            "cookie": {
+                "innerRadius": 8.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 0.8999999761581421,
+                "edgeNoise": 0.20000000298023225,
+                "groundNoiseScale": 0.009999999776482582
+            },
+            "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
@@ -272,30 +296,6 @@
             "sliceAssetId": "{7670AE0C-6C1C-5926-9D96-D809C21BB725}:2",
             "params": {
                 "USER_FACE_NAME_LOC_KEY": "ui_poi_shipwreck"
-            }
-        },
-        {
-            "id": "0549a1d2-0cad-d4b6-bcc4-2341fe835736",
-            "worldPosition": {
-                "x": 8021.529296875,
-                "y": 4277.15966796875,
-                "z": 167.50172424316407
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "92ac20f9-96a5-1dc2-6fc8-aa1207dfc3f1",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Icons/Icon_Nature_Den_Wolf",
-            "sliceAssetId": "{1EC42C8F-E911-5291-B867-0A53C36A26FC}:2",
-            "params": {
-                "USER_FACE_NAME_LOC_KEY": "ui_poi_wolf_den"
             }
         }
     ]

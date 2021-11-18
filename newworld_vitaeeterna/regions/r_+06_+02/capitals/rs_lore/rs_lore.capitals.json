@@ -1,6 +1,31 @@
 {
     "Capitals": [
         {
+            "id": "10704a8e-97b1-a438-4a44-f4a81964d7d1",
+            "worldPosition": {
+                "x": 13438.9990234375,
+                "y": 4800.0,
+                "z": 58.751468658447269
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 1.9470718370939722e-7
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "320dc2df-9731-8c4f-8611-49700de1c004",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonF",
+            "sliceAssetId": "{4793BF8B-7DBD-5670-8E65-6CB7C4E37D3D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "da16c90d-ba99-2a28-4e10-7ee3d8c23378",
             "worldPosition": {
                 "x": 13007.5,
@@ -8,9 +33,9 @@
                 "z": 51.402137756347659
             },
             "rotation": {
-                "x": 0.07451494038105011,
+                "x": 0.07451492547988892,
                 "y": -0.06439284235239029,
-                "z": -0.011765383183956147,
+                "z": -0.011765382252633572,
                 "w": 0.9950692057609558
             },
             "footprint": {
@@ -20,6 +45,98 @@
             },
             "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_17",
             "sliceAssetId": "{1800B082-62A7-5DEE-BC5C-A69E31532919}:2"
+        },
+        {
+            "id": "38c80717-9039-aca8-5d29-1096f911558d",
+            "worldPosition": {
+                "x": 13228.9990234375,
+                "y": 5068.0,
+                "z": 57.907012939453128
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b7bb4fe8-4389-4bde-d07c-d3b14064d61b",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonB",
+            "sliceAssetId": "{AF40AA47-E5E6-5D86-B5EF-BBF0BCCD4006}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "ceebffb7-008b-4a80-f451-ad4c99531889",
+            "worldPosition": {
+                "x": 13716.9990234375,
+                "y": 4381.0,
+                "z": 47.85450744628906
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.3826834559440613,
+                "w": 0.9238795042037964
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "d4fc127a-407c-be81-41b7-beffd59076e5",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonH",
+            "sliceAssetId": "{2715E6DA-1AB7-5A2F-A3AC-60B12B68C711}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d7cd675d-7839-455c-f862-8041dc2043d4",
+            "worldPosition": {
+                "x": 13433.8359375,
+                "y": 4813.65869140625,
+                "z": 61.04249954223633
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "99782789-3a02-2d83-e754-ee26594f8def",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5e542347\\Lore_99_MSQ_Title_01_05_d7cd675d7839455cf8628041dc2043d4",
+            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:2043d4"
+        },
+        {
+            "id": "290ee790-d2c4-e65d-fe0f-996725a4664b",
+            "worldPosition": {
+                "x": 13440.654296875,
+                "y": 4642.74755859375,
+                "z": 43.338722229003909
+            },
+            "rotation": {
+                "x": 0.09779269248247147,
+                "y": 0.10070990025997162,
+                "z": 0.003220281796529889,
+                "w": 0.9900928139686585
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9a157e5f-95b0-5d88-b454-caa30222842a",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_04_02",
+            "sliceAssetId": "{3D2C742C-C339-5DC5-902E-49350E103A7F}:2"
         },
         {
             "id": "259bccc6-c6b9-aa5e-a7ee-84038a6a10a3",
@@ -43,32 +160,11 @@
             "sliceAssetId": "{8D202C1E-D46A-5CA6-B289-0CB56CB0AFCA}:2"
         },
         {
-            "id": "7be32ae7-983e-d43b-a9a1-aee1b6e93b60",
+            "id": "46668ca2-811f-e766-71c3-430f5312656c",
             "worldPosition": {
-                "x": 13136.982421875,
-                "y": 4812.95263671875,
-                "z": 54.5457649230957
-            },
-            "rotation": {
-                "x": -0.02253490686416626,
-                "y": 0.043689269572496417,
-                "z": -0.010518503375351429,
-                "w": 0.9987356066703796
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "12a2dc72-a739-b883-e623-b2c1119f4378",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_10_01",
-            "sliceAssetId": "{02723160-6CB1-5666-84DE-451A34C1EBE2}:2"
-        },
-        {
-            "id": "83420457-44bb-49e1-caa0-c136dd64a8a9",
-            "worldPosition": {
-                "x": 13206.3759765625,
-                "y": 5810.57373046875,
-                "z": 76.19066619873047
+                "x": 13242.99609375,
+                "y": 4280.43212890625,
+                "z": 51.46463394165039
             },
             "rotation": {
                 "x": 0.0,
@@ -78,74 +174,57 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "3e34a071-8af1-69b6-94d3-167b5589d76c",
+                "id": "57c9298a-bf3c-0dcb-2693-870445c8fb10",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_05_02_8342045744bb49e1caa0c136dd64a8a9",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:64a8a9"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_08_03",
+            "sliceAssetId": "{DF685B54-0ABC-5134-A062-A857C9BA169C}:2"
         },
         {
-            "id": "b8792ccc-f4f3-91fd-000a-792ee1101628",
+            "id": "634c9de8-9762-b093-ed9f-3f2021b0f73c",
             "worldPosition": {
-                "x": 12606.0517578125,
-                "y": 5781.43896484375,
-                "z": 136.4222869873047
+                "x": 12755.51953125,
+                "y": 4732.25732421875,
+                "z": 50.44331741333008
             },
             "rotation": {
-                "x": -0.051797982305288318,
-                "y": 0.07424797862768173,
-                "z": 3.015899352476481e-8,
-                "w": 0.9958937168121338
+                "x": -0.07097461074590683,
+                "y": -0.04218793287873268,
+                "z": -0.004949161317199469,
+                "w": 0.996573269367218
             },
             "footprint": {
                 "type": "Circle",
-                "id": "744b7d5f-3a11-a1e3-abda-45c54c1dd96b",
+                "id": "9efca6d4-1306-9c95-83fd-600c87baddbe",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_03_02_b8792cccf4f391fda792ee1101628",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:101628"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_02_01",
+            "sliceAssetId": "{9ACDC611-7F10-5D1D-BB17-F04BA26D4859}:2"
         },
         {
-            "id": "3fbf6ef6-b6b7-f203-5f3c-2e885a6fe530",
+            "id": "aaf90d0a-f980-26a3-fb4f-0b38f80279a2",
             "worldPosition": {
-                "x": 12707.4765625,
-                "y": 4693.1455078125,
-                "z": 44.227474212646487
+                "x": 13291.6201171875,
+                "y": 5039.0,
+                "z": 56.13650894165039
             },
             "rotation": {
-                "x": 0.010018573142588139,
-                "y": -0.1040472686290741,
-                "z": 0.989943265914917,
-                "w": -0.09532102942466736
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
-                "type": "Circle",
-                "id": "0306e6fa-5301-0319-95fa-dc4ec7ea82f4",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "9e5f2ae5-9789-b658-3d50-7b87f95a8975",
+                "width": 3.5,
+                "height": 2.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_02_02_3fbf6ef6b6b7f2035f3c2e885a6fe530",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:6fe530"
-        },
-        {
-            "id": "d1673db1-d8f8-eeb4-a65b-b764b72e9cd5",
-            "worldPosition": {
-                "x": 13081.8896484375,
-                "y": 4333.31201171875,
-                "z": 68.37791442871094
-            },
-            "rotation": {
-                "x": -0.014926872216165066,
-                "y": -0.0360531285405159,
-                "z": -6.049763783266826e-7,
-                "w": 0.9992384314537048
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2eae7571-8960-f256-8ea7-8bf601da6f39",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_18",
-            "sliceAssetId": "{9F9B8DA5-114B-5FFD-B2E0-5EECF47624E9}:2"
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonC",
+            "sliceAssetId": "{223E42AE-63F2-50E2-8153-369CB0D38E50}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "4382dfb0-38a6-20e5-d48c-be06f650756b",
@@ -169,32 +248,11 @@
             "sliceAssetId": "{8046B1F5-CC39-5E5B-B0D6-2CEEB339CE06}:2"
         },
         {
-            "id": "634c9de8-9762-b093-ed9f-3f2021b0f73c",
+            "id": "75ac3920-c5d1-69b4-a24d-51e778e7edfe",
             "worldPosition": {
-                "x": 12755.51953125,
-                "y": 4732.25732421875,
-                "z": 50.44331741333008
-            },
-            "rotation": {
-                "x": -0.07097461074590683,
-                "y": -0.04218793287873268,
-                "z": -0.004949161317199469,
-                "w": 0.996573269367218
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9efca6d4-1306-9c95-83fd-600c87baddbe",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_02_01_634c9de89762b093ed9f3f2021b0f73c",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:b0f73c"
-        },
-        {
-            "id": "eeb61a4d-df56-6d73-e4b6-6a40d0b723ec",
-            "worldPosition": {
-                "x": 13388.0947265625,
-                "y": 4828.83203125,
-                "z": 56.51959991455078
+                "x": 12358.091796875,
+                "y": 5400.51318359375,
+                "z": 42.522926330566409
             },
             "rotation": {
                 "x": 0.0,
@@ -204,60 +262,235 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "8d5c7857-baa1-c697-499f-2fb0207caa3a",
+                "id": "dc47d154-5102-40a5-5c73-0f4c3843b1cb",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_99_MSQ_Title_01_04_eeb61a4ddf566d73e4b66a40d0b723ec",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:b723ec"
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_09_03",
+            "sliceAssetId": "{A2CAB854-20D4-5A15-A366-4A4E8DCFAA9B}:2"
         },
         {
-            "id": "125f31b5-0110-abed-22eb-d34c79678ce9",
+            "id": "7379df52-2e81-ba49-783c-a585757b722b",
             "worldPosition": {
-                "x": 13547.103515625,
-                "y": 5729.982421875,
-                "z": 52.451988220214847
+                "x": 14012.712890625,
+                "y": 5019.96728515625,
+                "z": 53.75082015991211
             },
             "rotation": {
-                "x": 0.004262501839548349,
-                "y": 0.006256012246012688,
-                "z": 0.07845665514469147,
-                "w": 0.9968887567520142
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8660256266593933,
+                "w": 0.49999967217445376
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "fb8918b8-7718-fa89-ed8d-f88d1ebeab3b",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "6f422ada-8a18-13a7-9b0f-89aaded515f1",
+            "worldPosition": {
+                "x": 13999.662109375,
+                "y": 4987.203125,
+                "z": 53.75082015991211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.5372992157936096,
+                "w": 0.8433917164802551
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "a32efcde-304f-d1d0-4b50-05f86ba76011",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "107e15d4-c277-1ffd-0f43-07ae534e17cb",
+            "worldPosition": {
+                "x": 13975.77734375,
+                "y": 5016.79150390625,
+                "z": 53.75082015991211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5373000502586365,
+                "w": 0.8433911800384522
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "5f3fc9fa-fa1a-5ba3-0139-a8983c4a6695",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f5637df2-9df7-7000-a34c-aab48232e812",
+            "worldPosition": {
+                "x": 13996.234375,
+                "y": 4965.8369140625,
+                "z": 53.75082015991211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643902361392976,
+                "w": 0.9762961268424988
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "42b3d594-9796-444d-ec41-ee7013742cd4",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "6cfbcc7e-1936-6cf1-eccd-6b91c7b06fa0",
+            "worldPosition": {
+                "x": 14019.849609375,
+                "y": 5039.25537109375,
+                "z": 53.75082015991211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9659258723258972,
+                "w": 0.2588188350200653
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "82f3cc10-3517-b987-8461-922c43ce7356",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "105f3e70-2195-08e4-16ef-59102d3e35c5",
+            "worldPosition": {
+                "x": 13395.888671875,
+                "y": 4812.94775390625,
+                "z": 57.56459426879883
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.4226182997226715,
+                "w": 0.9063077569007874
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "7170ae50-febb-6f9d-77b9-29ba813d7c02",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonE",
+            "sliceAssetId": "{28E27D7A-7B34-5E4B-8229-D65ABB11C756}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e7e10483-c8b2-397b-d79a-a5ced38024c5",
+            "worldPosition": {
+                "x": 13730.9990234375,
+                "y": 4357.0,
+                "z": 40.1256103515625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "db0648d2-2399-b5ce-fe9c-2fd80bd55f1d",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonI",
+            "sliceAssetId": "{3A89431C-2679-5BC7-9C6A-8A0E79511BE9}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "0a75d60e-2cc5-c9ca-c2d6-926687ad2f27",
+            "worldPosition": {
+                "x": 13207.9375,
+                "y": 5826.32421875,
+                "z": 76.00687408447266
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30901700258255007,
+                "w": 0.9510564804077148
             },
             "footprint": {
                 "type": "Circle",
-                "id": "03574532-bffe-9da5-4a52-eee5a5876afc",
+                "id": "30dfc261-c702-0ac2-b5b7-94298fc77572",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_02_04_125f31b50110abed22ebd34c79678ce9",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:678ce9"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_05_01",
+            "sliceAssetId": "{86B5371E-4AF6-54C4-A22B-D129AFC92057}:2"
         },
         {
-            "id": "1f28a54c-a194-d855-6431-195df1ca6066",
+            "id": "7be32ae7-983e-d43b-a9a1-aee1b6e93b60",
             "worldPosition": {
-                "x": 13862.3232421875,
-                "y": 4745.197265625,
-                "z": 40.591373443603519
+                "x": 13136.982421875,
+                "y": 4812.95263671875,
+                "z": 54.5457649230957
             },
             "rotation": {
-                "x": 0.008137892931699753,
-                "y": -0.16880452632904054,
-                "z": -4.370228623429284e-9,
-                "w": 0.9856159687042236
+                "x": -0.02253490686416626,
+                "y": 0.043689269572496417,
+                "z": -0.010518503375351429,
+                "w": 0.9987356066703796
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e46e7c26-0477-fda9-810b-1088cb108786",
+                "id": "12a2dc72-a739-b883-e623-b2c1119f4378",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_08_01",
-            "sliceAssetId": "{CE3C34B1-F9BE-5DC8-82C3-A0846C9B24D6}:2"
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_10_01",
+            "sliceAssetId": "{02723160-6CB1-5666-84DE-451A34C1EBE2}:2"
         },
         {
-            "id": "eb646356-aae4-73ee-a6cf-a35c52bb914f",
+            "id": "08680ecb-e7cf-1cb1-6e74-415fc988dcdc",
             "worldPosition": {
-                "x": 13042.1376953125,
-                "y": 4431.3232421875,
-                "z": 66.9296875
+                "x": 13731.109375,
+                "y": 4341.43310546875,
+                "z": 39.57099914550781
             },
             "rotation": {
                 "x": 0.0,
@@ -267,32 +500,137 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "6b298bfd-205f-5521-72b0-bd020dc0c873",
+                "id": "0aa9b26d-044c-0233-c3d8-55f39797e7d7",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_29_01",
-            "sliceAssetId": "{490F95FA-03E4-570C-96DD-C28473C65EA6}:2"
+            "sliceName": "CoatGen\\5e542347\\WorldEvent_SpawnGroup_Single_Master_08680ecbe7cf1cb16e74415fc988dcdc",
+            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:88dcdc"
         },
         {
-            "id": "fa56e2ab-c0d3-8bc1-a6a3-a3d16a0d6d43",
+            "id": "3fbf6ef6-b6b7-f203-5f3c-2e885a6fe530",
             "worldPosition": {
-                "x": 13445.0048828125,
-                "y": 4671.5693359375,
-                "z": 43.42464065551758
+                "x": 12707.4765625,
+                "y": 4693.1455078125,
+                "z": 44.227474212646487
             },
             "rotation": {
-                "x": 0.010597269982099533,
-                "y": 0.011800078675150872,
-                "z": -0.0275722686201334,
-                "w": 0.9994940161705017
+                "x": 0.010018573142588139,
+                "y": -0.1040472686290741,
+                "z": 0.989943265914917,
+                "w": -0.09532102942466736
             },
             "footprint": {
                 "type": "Circle",
-                "id": "85ea08cd-8254-c51b-2450-ba6a751056b0",
+                "id": "0306e6fa-5301-0319-95fa-dc4ec7ea82f4",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_04_01_fa56e2abc0d38bc1a6a3a3d16a0d6d43",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:d6d43"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_02_02",
+            "sliceAssetId": "{A3394D0E-221A-52B7-B585-0B63639BD58F}:2"
+        },
+        {
+            "id": "d103e07f-0569-dd5f-06a0-bd6f8916c70c",
+            "worldPosition": {
+                "x": 14064.2177734375,
+                "y": 5184.30419921875,
+                "z": 58.32477569580078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755901575088501,
+                "w": 0.7372773885726929
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "af8ed25f-f863-cda0-6c0b-59321e9d9ae8",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_07_01",
+            "sliceAssetId": "{F904A5B2-16F6-5A7D-8812-D83BE9144F79}:2"
+        },
+        {
+            "id": "d1673db1-d8f8-eeb4-a65b-b764b72e9cd5",
+            "worldPosition": {
+                "x": 13081.8896484375,
+                "y": 4333.31201171875,
+                "z": 68.37791442871094
+            },
+            "rotation": {
+                "x": -0.014926872216165066,
+                "y": -0.0360531285405159,
+                "z": -6.049763783266826e-7,
+                "w": 0.9992384314537048
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2eae7571-8960-f256-8ea7-8bf601da6f39",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_18",
+            "sliceAssetId": "{9F9B8DA5-114B-5FFD-B2E0-5EECF47624E9}:2"
+        },
+        {
+            "id": "38ca8854-330a-f0db-9d63-08ae296317b0",
+            "worldPosition": {
+                "x": 12938.8408203125,
+                "y": 4953.96142578125,
+                "z": 41.252220153808597
+            },
+            "rotation": {
+                "x": -0.0062597766518592838,
+                "y": 0.0011654982808977366,
+                "z": 3.569839215900039e-11,
+                "w": 0.9999797344207764
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "078898e4-f005-0c28-1150-5a0849986365",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_09_02",
+            "sliceAssetId": "{7426E45F-4DEB-5A00-A69E-A2B6B0925E99}:2"
+        },
+        {
+            "id": "3cc831e1-a058-c0a1-ecfc-615dc95e4fb3",
+            "worldPosition": {
+                "x": 13273.919921875,
+                "y": 4318.9208984375,
+                "z": 49.13800811767578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071067690849304,
+                "w": 0.7071067690849304
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a1623002-a003-8d11-1634-7186c172605f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_01_02_3cc831e1a058c0a1ecfc615dc95e4fb3",
+            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:5e4fb3"
+        },
+        {
+            "id": "b8792ccc-f4f3-91fd-000a-792ee1101628",
+            "worldPosition": {
+                "x": 12606.0517578125,
+                "y": 5781.43896484375,
+                "z": 136.4222869873047
+            },
+            "rotation": {
+                "x": -0.051797982305288318,
+                "y": 0.07424797862768173,
+                "z": 4.8628457705035547e-8,
+                "w": 0.9958937168121338
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "744b7d5f-3a11-a1e3-abda-45c54c1dd96b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_03_02",
+            "sliceAssetId": "{BAF5CBC8-BE5D-5509-8CA8-DAD9139B2AF5}:2"
         },
         {
             "id": "ad69184b-c5df-6c76-0840-606c08bea361",
@@ -316,11 +654,11 @@
             "sliceAssetId": "{18F78C23-395D-5AA5-B680-96EFE4C321CC}:2"
         },
         {
-            "id": "66e4a8f9-ee4c-a374-0728-794426724c58",
+            "id": "83420457-44bb-49e1-caa0-c136dd64a8a9",
             "worldPosition": {
-                "x": 13252.458984375,
-                "y": 4274.00732421875,
-                "z": 50.22089767456055
+                "x": 13206.3759765625,
+                "y": 5810.57373046875,
+                "z": 76.19066619873047
             },
             "rotation": {
                 "x": 0.0,
@@ -330,11 +668,179 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "416816c7-22c7-81a8-b003-ce8e23a5c7ab",
+                "id": "3e34a071-8af1-69b6-94d3-167b5589d76c",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_01_01_66e4a8f9ee4ca374728794426724c58",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:724c58"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_05_02",
+            "sliceAssetId": "{372D6B8A-AF9B-5F38-A473-27BCC6401EE7}:2"
+        },
+        {
+            "id": "d591307b-036e-0e79-c2cc-fb59aefc53a0",
+            "worldPosition": {
+                "x": 12836.73046875,
+                "y": 4298.9794921875,
+                "z": 50.1139030456543
+            },
+            "rotation": {
+                "x": -0.12254023551940918,
+                "y": -0.079843670129776,
+                "z": -0.00541140791028738,
+                "w": 0.9892318248748779
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aa59c94b-3fa9-edb1-0a6c-d250ec111ffb",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_16",
+            "sliceAssetId": "{0BC93EA3-5787-5E46-A79A-E3105393839E}:2"
+        },
+        {
+            "id": "6144342d-d43d-d1fa-31ff-4ec7f3e768b8",
+            "worldPosition": {
+                "x": 12344.349609375,
+                "y": 5873.7998046875,
+                "z": 120.93438720703125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3a802012-5f91-8d15-4a22-4bfa4b3205a0",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_09_04",
+            "sliceAssetId": "{ED08CB17-1830-5413-9DC4-29D43095E8E8}:2"
+        },
+        {
+            "id": "d2b5fbec-a7e3-79c2-0066-9a267d385df2",
+            "worldPosition": {
+                "x": 12899.4697265625,
+                "y": 5975.5615234375,
+                "z": 103.22146606445313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7372773289680481,
+                "w": 0.6755902171134949
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c2af4dd3-e5db-d2a1-a9fe-0a7543dbbadf",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_09_01_d2b5fbeca7e379c2669a267d385df2",
+            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:385df2"
+        },
+        {
+            "id": "bdb80b2e-233f-3754-8076-39136efd2951",
+            "worldPosition": {
+                "x": 12856.4853515625,
+                "y": 5486.24169921875,
+                "z": 72.15508270263672
+            },
+            "rotation": {
+                "x": 0.004263056442141533,
+                "y": 0.06108179688453674,
+                "z": 0.026880359277129175,
+                "w": 0.9977616667747498
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "47539caa-8f30-a9e0-500d-02cba4da6a64",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_10_02",
+            "sliceAssetId": "{1A55D099-D63D-5EC0-A344-51FA3221C37C}:2"
+        },
+        {
+            "id": "125f31b5-0110-abed-22eb-d34c79678ce9",
+            "worldPosition": {
+                "x": 13547.103515625,
+                "y": 5729.982421875,
+                "z": 52.451988220214847
+            },
+            "rotation": {
+                "x": 0.0042625004425644878,
+                "y": 0.006256013177335262,
+                "z": 0.07845644652843476,
+                "w": 0.9968888163566589
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "03574532-bffe-9da5-4a52-eee5a5876afc",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_02_04",
+            "sliceAssetId": "{2315D749-746E-5F59-AD28-7096885D6896}:2"
+        },
+        {
+            "id": "5c52fdbd-665b-2fd1-f381-f7dec85a7743",
+            "worldPosition": {
+                "x": 13411.4814453125,
+                "y": 4870.18359375,
+                "z": 48.275299072265628
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ba343ef0-119d-d24c-1b33-de1f4a56f2a1",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5e542347\\Lore_99_MSQ_Title_01_03_5c52fdbd665b2fd1f381f7dec85a7743",
+            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:5a7743"
+        },
+        {
+            "id": "1c350025-ae6e-7597-04b5-42b9918a97ac",
+            "worldPosition": {
+                "x": 12604.306640625,
+                "y": 4191.7392578125,
+                "z": 43.02918243408203
+            },
+            "rotation": {
+                "x": -0.004507900681346655,
+                "y": 0.016860201954841615,
+                "z": -1.0799166005881489e-8,
+                "w": 0.9998477101325989
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "46b7cea0-14cc-e6e3-edd1-3653317489fd",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_15",
+            "sliceAssetId": "{F49C130C-36B9-5F9B-AA57-5D79F6CD890C}:2"
+        },
+        {
+            "id": "f23d06d5-fc82-43b9-da25-6e351821c6b9",
+            "worldPosition": {
+                "x": 14072.404296875,
+                "y": 5158.78515625,
+                "z": 62.874847412109378
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.1822354942560196,
+                "w": 0.9832549095153809
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a82d716a-a942-07a7-b690-20879447cd90",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_07_02",
+            "sliceAssetId": "{BF2D2CBD-87FC-5C8C-B0DD-10F0D6CEBB5B}:2"
         },
         {
             "id": "3d3ab88a-e69b-46ad-960a-71b5b742af7e",
@@ -354,8 +860,75 @@
                 "id": "6981d4d3-4066-07c8-8947-3335ba05d09f",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_01_03_3d3ab88ae69b46ad960a71b5b742af7e",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:42af7e"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_01_03",
+            "sliceAssetId": "{7D46ADB1-8052-59D3-A9E3-2970908DD3C3}:2"
+        },
+        {
+            "id": "141072b2-cb4b-c207-16db-7d1aca7e7864",
+            "worldPosition": {
+                "x": 12623.1220703125,
+                "y": 5802.69873046875,
+                "z": 135.8439483642578
+            },
+            "rotation": {
+                "x": 0.09678780287504196,
+                "y": 0.00440910505130887,
+                "z": 0.00013925319944974035,
+                "w": 0.9952952861785889
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3ffd546e-e71e-cd8e-8ef0-8077d0f81f98",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_03_01",
+            "sliceAssetId": "{86AFD222-0A7A-5E69-8F9A-F371577E77C0}:2"
+        },
+        {
+            "id": "21b721ae-a8a8-ae56-b418-6d180c663d43",
+            "worldPosition": {
+                "x": 12641.259765625,
+                "y": 4208.125,
+                "z": 42.04195785522461
+            },
+            "rotation": {
+                "x": 0.004520022310316563,
+                "y": 0.016848094761371614,
+                "z": -9.492930885812712e-9,
+                "w": 0.9998478889465332
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9639e6ab-0fc5-1c7e-6679-1b1755efc653",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_08_02",
+            "sliceAssetId": "{49CA8788-DA30-5AB2-AFA4-95ECA1578FC1}:2"
+        },
+        {
+            "id": "d0214839-7b34-538b-7d84-12533c094ca2",
+            "worldPosition": {
+                "x": 13710.9990234375,
+                "y": 4417.0,
+                "z": 57.71357345581055
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "74d1b099-6360-8bf4-4499-13101efb3ed3",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonG",
+            "sliceAssetId": "{9C4EC5D4-7340-554B-80CE-152C9773C725}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "5e37db07-1cac-ece1-2837-71f5caa26a30",
@@ -383,32 +956,11 @@
             }
         },
         {
-            "id": "d591307b-036e-0e79-c2cc-fb59aefc53a0",
+            "id": "66e4a8f9-ee4c-a374-0728-794426724c58",
             "worldPosition": {
-                "x": 12836.73046875,
-                "y": 4298.9794921875,
-                "z": 50.1139030456543
-            },
-            "rotation": {
-                "x": -0.12254023551940918,
-                "y": -0.079843670129776,
-                "z": -0.00541140791028738,
-                "w": 0.9892318248748779
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "aa59c94b-3fa9-edb1-0a6c-d250ec111ffb",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_16",
-            "sliceAssetId": "{0BC93EA3-5787-5E46-A79A-E3105393839E}:2"
-        },
-        {
-            "id": "46668ca2-811f-e766-71c3-430f5312656c",
-            "worldPosition": {
-                "x": 13242.99609375,
-                "y": 4280.43212890625,
-                "z": 51.46463394165039
+                "x": 13252.458984375,
+                "y": 4274.00732421875,
+                "z": 50.22089767456055
             },
             "rotation": {
                 "x": 0.0,
@@ -418,368 +970,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "57c9298a-bf3c-0dcb-2693-870445c8fb10",
+                "id": "416816c7-22c7-81a8-b003-ce8e23a5c7ab",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_08_03",
-            "sliceAssetId": "{DF685B54-0ABC-5134-A062-A857C9BA169C}:2"
-        },
-        {
-            "id": "d103e07f-0569-dd5f-06a0-bd6f8916c70c",
-            "worldPosition": {
-                "x": 14064.2177734375,
-                "y": 5184.30419921875,
-                "z": 58.32477569580078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "af8ed25f-f863-cda0-6c0b-59321e9d9ae8",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_07_01_d103e07f0569dd5f6a0bd6f8916c70c",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:16c70c"
-        },
-        {
-            "id": "141072b2-cb4b-c207-16db-7d1aca7e7864",
-            "worldPosition": {
-                "x": 12623.1220703125,
-                "y": 5802.69873046875,
-                "z": 135.8439483642578
-            },
-            "rotation": {
-                "x": 0.09678780287504196,
-                "y": 0.004409120883792639,
-                "z": 0.0001392547128489241,
-                "w": 0.9952952861785889
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3ffd546e-e71e-cd8e-8ef0-8077d0f81f98",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_03_01_141072b2cb4bc20716db7d1aca7e7864",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:7e7864"
-        },
-        {
-            "id": "5511e974-3abb-7af3-cb7d-73259444b15a",
-            "worldPosition": {
-                "x": 13466.9921875,
-                "y": 5829.61962890625,
-                "z": 82.8327865600586
-            },
-            "rotation": {
-                "x": 1.4295959260834935e-7,
-                "y": -1.243907519210552e-7,
-                "z": 0.9304175972938538,
-                "w": 0.36650118231773379
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1af221b2-180b-6125-c994-e4d6f378f882",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_02_06_5511e9743abb7af3cb7d73259444b15a",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:44b15a"
-        },
-        {
-            "id": "0a75d60e-2cc5-c9ca-c2d6-926687ad2f27",
-            "worldPosition": {
-                "x": 13207.9375,
-                "y": 5826.32421875,
-                "z": 76.00687408447266
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30901700258255007,
-                "w": 0.9510564804077148
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "30dfc261-c702-0ac2-b5b7-94298fc77572",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_05_01_0a75d60e2cc5c9cac2d6926687ad2f27",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:ad2f27"
-        },
-        {
-            "id": "70c40f16-2ab9-7fc5-9244-5c6d298edf12",
-            "worldPosition": {
-                "x": 13388.982421875,
-                "y": 5795.23486328125,
-                "z": 69.19219207763672
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8526402115821838,
-                "w": 0.5224984288215637
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "180a8ae0-1b5f-1699-e42f-7a0054c0c538",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_02_05_70c40f162ab97fc592445c6d298edf12",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:8edf12"
-        },
-        {
-            "id": "43a22d38-a44a-18f5-0028-7c4ad829fed1",
-            "worldPosition": {
-                "x": 12892.923828125,
-                "y": 5645.94091796875,
-                "z": 78.64977264404297
-            },
-            "rotation": {
-                "x": -0.03923644870519638,
-                "y": 0.05052187666296959,
-                "z": -0.000594321871176362,
-                "w": 0.9979517459869385
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e914da62-3804-bfda-f2b7-1105efe2e3ba",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_10_05",
-            "sliceAssetId": "{47910040-C9A2-56F7-A684-02B90E9E1D42}:2"
-        },
-        {
-            "id": "1c350025-ae6e-7597-04b5-42b9918a97ac",
-            "worldPosition": {
-                "x": 12604.306640625,
-                "y": 4191.7392578125,
-                "z": 43.02918243408203
-            },
-            "rotation": {
-                "x": -0.004507900681346655,
-                "y": 0.01686021499335766,
-                "z": -1.0617239531995893e-8,
-                "w": 0.9998477101325989
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "46b7cea0-14cc-e6e3-edd1-3653317489fd",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_15",
-            "sliceAssetId": "{F49C130C-36B9-5F9B-AA57-5D79F6CD890C}:2"
-        },
-        {
-            "id": "9abeb02d-84fa-350f-3181-229221100c2c",
-            "worldPosition": {
-                "x": 13850.6904296875,
-                "y": 5165.57470703125,
-                "z": 46.61842346191406
-            },
-            "rotation": {
-                "x": 0.025929473340511323,
-                "y": 0.007196394726634026,
-                "z": -0.001136812032200396,
-                "w": 0.999637246131897
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "06a3ac7b-8c5a-7823-41eb-b9c15429c86f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_06_02_9abeb02d84fa350f3181229221100c2c",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:100c2c"
-        },
-        {
-            "id": "290ee790-d2c4-e65d-fe0f-996725a4664b",
-            "worldPosition": {
-                "x": 13440.654296875,
-                "y": 4642.74755859375,
-                "z": 43.338722229003909
-            },
-            "rotation": {
-                "x": 0.09779269248247147,
-                "y": 0.10070990025997162,
-                "z": 0.003220281796529889,
-                "w": 0.9900928139686585
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9a157e5f-95b0-5d88-b454-caa30222842a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_04_02_290ee790d2c4e65dfe0f996725a4664b",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:a4664b"
-        },
-        {
-            "id": "f23d06d5-fc82-43b9-da25-6e351821c6b9",
-            "worldPosition": {
-                "x": 14072.404296875,
-                "y": 5158.78515625,
-                "z": 62.874847412109378
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.1822354942560196,
-                "w": 0.9832549095153809
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a82d716a-a942-07a7-b690-20879447cd90",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_07_02_f23d06d5fc8243b9da256e351821c6b9",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:21c6b9"
-        },
-        {
-            "id": "c5637ba6-a519-ff98-c708-6252e3383fb1",
-            "worldPosition": {
-                "x": 12890.0712890625,
-                "y": 4279.83935546875,
-                "z": 55.49180221557617
-            },
-            "rotation": {
-                "x": 0.04783202335238457,
-                "y": 0.04775955528020859,
-                "z": 0.11294440180063248,
-                "w": 0.9912995100021362
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c754dca3-7cf6-a0be-db8d-5a246c6e5e0c",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_01_04_c5637ba6a519ff98c7086252e3383fb1",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:383fb1"
-        },
-        {
-            "id": "5c52fdbd-665b-2fd1-f381-f7dec85a7743",
-            "worldPosition": {
-                "x": 13411.4814453125,
-                "y": 4870.18359375,
-                "z": 48.275299072265628
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ba343ef0-119d-d24c-1b33-de1f4a56f2a1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_99_MSQ_Title_01_03_5c52fdbd665b2fd1f381f7dec85a7743",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:5a7743"
-        },
-        {
-            "id": "21b721ae-a8a8-ae56-b418-6d180c663d43",
-            "worldPosition": {
-                "x": 12641.259765625,
-                "y": 4208.125,
-                "z": 42.04195785522461
-            },
-            "rotation": {
-                "x": 0.004520022310316563,
-                "y": 0.016848094761371614,
-                "z": -9.492930885812712e-9,
-                "w": 0.9998478889465332
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9639e6ab-0fc5-1c7e-6679-1b1755efc653",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_08_02",
-            "sliceAssetId": "{49CA8788-DA30-5AB2-AFA4-95ECA1578FC1}:2"
-        },
-        {
-            "id": "c7c7eebc-3ef6-9da2-69ff-16ea10a4b44d",
-            "worldPosition": {
-                "x": 13793.150390625,
-                "y": 5137.7568359375,
-                "z": 42.57286071777344
-            },
-            "rotation": {
-                "x": 0.03910541906952858,
-                "y": -0.3124874532222748,
-                "z": -2.25687948329778e-8,
-                "w": 0.9491166472434998
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e09867f8-5a90-a740-75ba-e022f3337cb1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_06_01_c7c7eebc3ef69da269ff16ea10a4b44d",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:a4b44d"
-        },
-        {
-            "id": "d7cd675d-7839-455c-f862-8041dc2043d4",
-            "worldPosition": {
-                "x": 13433.8359375,
-                "y": 4813.65869140625,
-                "z": 61.04249954223633
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "99782789-3a02-2d83-e754-ee26594f8def",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_99_MSQ_Title_01_05_d7cd675d7839455cf8628041dc2043d4",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:2043d4"
-        },
-        {
-            "id": "75ac3920-c5d1-69b4-a24d-51e778e7edfe",
-            "worldPosition": {
-                "x": 12358.091796875,
-                "y": 5400.51318359375,
-                "z": 42.522926330566409
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dc47d154-5102-40a5-5c73-0f4c3843b1cb",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_09_03",
-            "sliceAssetId": "{A2CAB854-20D4-5A15-A366-4A4E8DCFAA9B}:2"
-        },
-        {
-            "id": "38ca8854-330a-f0db-9d63-08ae296317b0",
-            "worldPosition": {
-                "x": 12938.8408203125,
-                "y": 4953.96142578125,
-                "z": 41.252220153808597
-            },
-            "rotation": {
-                "x": -0.0062597766518592838,
-                "y": 0.0011654982808977366,
-                "z": 3.660790420800808e-11,
-                "w": 0.9999797344207764
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "078898e4-f005-0c28-1150-5a0849986365",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_09_02",
-            "sliceAssetId": "{7426E45F-4DEB-5A00-A69E-A2B6B0925E99}:2"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_01_01",
+            "sliceAssetId": "{87F8C81D-3867-59C7-94F8-B16EFB01B59B}:2"
         },
         {
             "id": "77eccc7d-85f3-3f96-9200-48d56890c6ed",
@@ -803,48 +998,6 @@
             "sliceAssetId": "{1D793123-12A5-5218-A910-0CD7D90C70DE}:2"
         },
         {
-            "id": "bdb80b2e-233f-3754-8076-39136efd2951",
-            "worldPosition": {
-                "x": 12856.4853515625,
-                "y": 5486.24169921875,
-                "z": 72.15508270263672
-            },
-            "rotation": {
-                "x": 0.004263056442141533,
-                "y": 0.06108179688453674,
-                "z": 0.026880359277129175,
-                "w": 0.9977616667747498
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "47539caa-8f30-a9e0-500d-02cba4da6a64",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_10_02",
-            "sliceAssetId": "{1A55D099-D63D-5EC0-A344-51FA3221C37C}:2"
-        },
-        {
-            "id": "3cc831e1-a058-c0a1-ecfc-615dc95e4fb3",
-            "worldPosition": {
-                "x": 13273.919921875,
-                "y": 4318.9208984375,
-                "z": 49.13800811767578
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071067690849304,
-                "w": 0.7071067690849304
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a1623002-a003-8d11-1634-7186c172605f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_01_02_3cc831e1a058c0a1ecfc615dc95e4fb3",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:5e4fb3"
-        },
-        {
             "id": "67075a77-7be1-bd7c-f96b-d883825e7509",
             "worldPosition": {
                 "x": 13376.9384765625,
@@ -862,8 +1015,335 @@
                 "id": "0dd7c285-d6e4-6e4b-2c93-f1cc1c2f499a",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5e542347\\Lore_15_RestlessShore_Title_02_03_67075a777be1bd7cf96bd883825e7509",
-            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:5e7509"
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_02_03",
+            "sliceAssetId": "{15C8EF2A-B9F3-5288-8E41-B7CDD693A9F3}:2"
+        },
+        {
+            "id": "fa56e2ab-c0d3-8bc1-a6a3-a3d16a0d6d43",
+            "worldPosition": {
+                "x": 13445.0048828125,
+                "y": 4671.5693359375,
+                "z": 43.42464065551758
+            },
+            "rotation": {
+                "x": 0.010597269982099533,
+                "y": 0.011800078675150872,
+                "z": -0.0275722686201334,
+                "w": 0.9994940161705017
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "85ea08cd-8254-c51b-2450-ba6a751056b0",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_04_01",
+            "sliceAssetId": "{9AC16065-2DF1-5D74-A915-D084F642F069}:2"
+        },
+        {
+            "id": "c5637ba6-a519-ff98-c708-6252e3383fb1",
+            "worldPosition": {
+                "x": 12890.0712890625,
+                "y": 4279.83935546875,
+                "z": 55.49180221557617
+            },
+            "rotation": {
+                "x": 0.04783202335238457,
+                "y": 0.04775955528020859,
+                "z": 0.11294440180063248,
+                "w": 0.9912995100021362
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c754dca3-7cf6-a0be-db8d-5a246c6e5e0c",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_01_04",
+            "sliceAssetId": "{F2B57A58-8376-5403-B92A-C3A228981F0A}:2"
+        },
+        {
+            "id": "eeb61a4d-df56-6d73-e4b6-6a40d0b723ec",
+            "worldPosition": {
+                "x": 13388.0947265625,
+                "y": 4828.83203125,
+                "z": 56.51959991455078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8d5c7857-baa1-c697-499f-2fb0207caa3a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5e542347\\Lore_99_MSQ_Title_01_04_eeb61a4ddf566d73e4b66a40d0b723ec",
+            "sliceAssetId": "{DAB6EA7A-E1D1-570B-B169-ECBCB953406D}:b723ec"
+        },
+        {
+            "id": "eb646356-aae4-73ee-a6cf-a35c52bb914f",
+            "worldPosition": {
+                "x": 13042.1376953125,
+                "y": 4431.3232421875,
+                "z": 66.9296875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6b298bfd-205f-5521-72b0-bd020dc0c873",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_29_01",
+            "sliceAssetId": "{490F95FA-03E4-570C-96DD-C28473C65EA6}:2"
+        },
+        {
+            "id": "277b0c27-7eb9-f8fb-6bbc-44fd11777140",
+            "worldPosition": {
+                "x": 12894.5,
+                "y": 5999.74267578125,
+                "z": 109.81049346923828
+            },
+            "rotation": {
+                "x": 0.1736481636762619,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0fe0004d-1f63-c441-103a-bad4f2f6251b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_09_03",
+            "sliceAssetId": "{432A29BC-3608-5916-B045-402F2D9F7E62}:2"
+        },
+        {
+            "id": "c7c7eebc-3ef6-9da2-69ff-16ea10a4b44d",
+            "worldPosition": {
+                "x": 13793.150390625,
+                "y": 5137.7568359375,
+                "z": 42.57286071777344
+            },
+            "rotation": {
+                "x": 0.03910541906952858,
+                "y": -0.3124874532222748,
+                "z": -3.9250078742725239e-8,
+                "w": 0.9491166472434998
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e09867f8-5a90-a740-75ba-e022f3337cb1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_06_01",
+            "sliceAssetId": "{3F071899-D1B7-5425-BB2C-DC0A96153B67}:2"
+        },
+        {
+            "id": "43a22d38-a44a-18f5-0028-7c4ad829fed1",
+            "worldPosition": {
+                "x": 12892.923828125,
+                "y": 5645.94091796875,
+                "z": 78.64977264404297
+            },
+            "rotation": {
+                "x": -0.03923644870519638,
+                "y": 0.05052187666296959,
+                "z": -0.000594321871176362,
+                "w": 0.9979517459869385
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e914da62-3804-bfda-f2b7-1105efe2e3ba",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_10_05",
+            "sliceAssetId": "{47910040-C9A2-56F7-A684-02B90E9E1D42}:2"
+        },
+        {
+            "id": "5511e974-3abb-7af3-cb7d-73259444b15a",
+            "worldPosition": {
+                "x": 13466.9921875,
+                "y": 5829.61962890625,
+                "z": 82.8327865600586
+            },
+            "rotation": {
+                "x": 1.4295959260834935e-7,
+                "y": -1.243907519210552e-7,
+                "z": 0.9304175972938538,
+                "w": 0.36650118231773379
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1af221b2-180b-6125-c994-e4d6f378f882",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_02_06",
+            "sliceAssetId": "{FFEDFDED-3390-58D9-9050-1A819EBB5303}:2"
+        },
+        {
+            "id": "a2b6826b-7511-c1f7-931f-f2c1534eefa0",
+            "worldPosition": {
+                "x": 12910.85546875,
+                "y": 5984.02001953125,
+                "z": 103.75154113769531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "86fb098f-bce1-190a-c71c-2a8925111a57",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_09_02",
+            "sliceAssetId": "{361B0C8C-FA42-5854-9D66-E900BA97F13C}:2"
+        },
+        {
+            "id": "69e19b83-8e6e-f399-d1f0-d226b304df10",
+            "worldPosition": {
+                "x": 13391.162109375,
+                "y": 4863.908203125,
+                "z": 45.01433563232422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b1439f57-3a62-73fa-a16b-f7f718297973",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonD",
+            "sliceAssetId": "{7443CC34-02D4-5112-AA92-C031952DFC98}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "9abeb02d-84fa-350f-3181-229221100c2c",
+            "worldPosition": {
+                "x": 13850.6904296875,
+                "y": 5165.57470703125,
+                "z": 46.61842346191406
+            },
+            "rotation": {
+                "x": 0.025929473340511323,
+                "y": 0.007196394726634026,
+                "z": -0.001136812032200396,
+                "w": 0.999637246131897
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "06a3ac7b-8c5a-7823-41eb-b9c15429c86f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_06_02",
+            "sliceAssetId": "{D3542F79-80A2-5202-BF4D-6FB1ED94BCE4}:2"
+        },
+        {
+            "id": "1f28a54c-a194-d855-6431-195df1ca6066",
+            "worldPosition": {
+                "x": 13862.3232421875,
+                "y": 4745.197265625,
+                "z": 40.591373443603519
+            },
+            "rotation": {
+                "x": 0.008137892931699753,
+                "y": -0.16880452632904054,
+                "z": -4.370228623429284e-9,
+                "w": 0.9856159687042236
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e46e7c26-0477-fda9-810b-1088cb108786",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_08_01",
+            "sliceAssetId": "{CE3C34B1-F9BE-5DC8-82C3-A0846C9B24D6}:2"
+        },
+        {
+            "id": "70c40f16-2ab9-7fc5-9244-5c6d298edf12",
+            "worldPosition": {
+                "x": 13388.982421875,
+                "y": 5795.23486328125,
+                "z": 69.19219207763672
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8526402115821838,
+                "w": 0.5224984288215637
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "180a8ae0-1b5f-1699-e42f-7a0054c0c538",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_15_RestlessShore_Title_02_05",
+            "sliceAssetId": "{23E9690D-8AFA-5F22-A3CF-31E2DE9E690A}:2"
+        },
+        {
+            "id": "ad217bd1-e89c-a306-6646-20c650e0f9f3",
+            "worldPosition": {
+                "x": 13250.0078125,
+                "y": 5310.2001953125,
+                "z": 115.05000305175781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.004363673739135265,
+                "w": 0.9999904632568359
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "75864b86-6aad-b294-7eb2-fca03d097490",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/IO_WorldEvent_1525_1519_Quiver",
+            "sliceAssetId": "{423B077D-E977-5ADC-9203-3FA48072FBD2}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "6bbc3329-0929-083d-115f-1a2cfd7ca9de",
+            "worldPosition": {
+                "x": 13243.9990234375,
+                "y": 5116.5,
+                "z": 51.719844818115237
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.843391478061676,
+                "w": 0.5372995734214783
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "221dd518-1e29-0df8-e4c1-c38893677e45",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/RestlessShores/DoubloonTrail/IO_WorldEvent_1524_1517_DoubloonA",
+            "sliceAssetId": "{AD25CA1A-DCA0-5D8B-8BC2-AAF31EF466A1}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         }
     ]
 }

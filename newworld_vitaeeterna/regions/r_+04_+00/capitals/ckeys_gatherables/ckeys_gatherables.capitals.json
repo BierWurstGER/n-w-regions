@@ -3,9 +3,9 @@
         {
             "id": "cb4f817a-a4ba-8a95-21e6-3ae31c341fee",
             "worldPosition": {
-                "x": 8278.0,
-                "y": 766.0,
-                "z": 74.0
+                "x": 8279.1328125,
+                "y": 764.1565551757813,
+                "z": 69.80052185058594
             },
             "rotation": {
                 "x": 0.0,
@@ -20,6 +20,30 @@
             },
             "sliceName": "slices/Gatherables/Spawners/Spawner_PinkFungus_A",
             "sliceAssetId": "{E133ECC0-016D-5DA6-9466-E607CA84B4A4}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "63fb63e2-bcf0-9001-005d-85f3a7218ff5",
+            "worldPosition": {
+                "x": 8276.1171875,
+                "y": 769.43798828125,
+                "z": 70.95272827148438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a5227598-7479-6327-97c5-52c42326983e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Gatherables/Spawners/Spawner_PinkFungus_C",
+            "sliceAssetId": "{E116D970-15EF-54D0-A1C4-83EC78F4F5CC}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -44,30 +68,6 @@
             },
             "sliceName": "slices/Gatherables/Spawners/Spawner_PinkFungus_B",
             "sliceAssetId": "{3716CA5C-79F3-557F-9742-5A3A1359EAC6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "63fb63e2-bcf0-9001-005d-85f3a7218ff5",
-            "worldPosition": {
-                "x": 8275.0,
-                "y": 776.0,
-                "z": 77.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a5227598-7479-6327-97c5-52c42326983e",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Gatherables/Spawners/Spawner_PinkFungus_C",
-            "sliceAssetId": "{E116D970-15EF-54D0-A1C4-83EC78F4F5CC}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

@@ -1,222 +1,126 @@
 {
     "Capitals": [
         {
-            "id": "745e8762-2a59-ee8b-c4f6-45ff98670cf1",
+            "id": "0abe9426-27f0-76b8-191e-f5ae54ccbc19",
             "worldPosition": {
-                "x": 7975.0458984375,
-                "y": 223.80337524414063,
-                "z": 41.0
+                "x": 6992.27880859375,
+                "y": 1247.8260498046875,
+                "z": 66.80513000488281
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.258819043636322,
-                "w": 0.9659258127212524
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "631ec100-6db0-f137-116c-8cf6820709ef",
-                "radius": 4.0
-            },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/PirateFigurehead/IO_WorldEvent_1003_PirateFigurehead_01",
-            "sliceAssetId": "{B25730CA-16B0-5E73-8333-03535FA7344E}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "8c9ad42e-9285-ef5d-ddaf-e20e51870ed9",
-            "worldPosition": {
-                "x": 7766.1826171875,
-                "y": 893.2699584960938,
-                "z": 80.2300033569336
-            },
-            "rotation": {
-                "x": 1.6415415871051665e-7,
-                "y": 5.97473643892954e-8,
-                "z": 0.342021107673645,
-                "w": 0.9396922588348389
-            },
-            "scale": 1.0199999809265137,
-            "footprint": {
-                "type": "Circle",
-                "id": "cbb12332-b5a0-e261-2427-4179fa9d7d3b",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/IO_WorldEvent_1002_AncientRelic_01",
-            "sliceAssetId": "{DC155303-747B-59A1-BC83-1476BBC455BD}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "3aca3b5a-aa59-3a2a-4e14-9168d2a374be",
-            "worldPosition": {
-                "x": 7751.96142578125,
-                "y": 883.2649536132813,
-                "z": 80.2300033569336
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.34202006459236147,
-                "w": 0.9396926760673523
-            },
-            "scale": 1.0199999809265137,
-            "footprint": {
-                "type": "Circle",
-                "id": "492ee856-d066-fd8e-bd57-87ff15457f77",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/IO_WorldEvent_1002_AncientRelic_01",
-            "sliceAssetId": "{DC155303-747B-59A1-BC83-1476BBC455BD}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "0e9f693f-b06e-7cb2-ee54-ddf9436f0732",
-            "worldPosition": {
-                "x": 7768.880859375,
-                "y": 879.4757080078125,
-                "z": 136.35850524902345
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8660253882408142,
-                "w": 0.4999999701976776
-            },
-            "scale": 2.2899999618530275,
-            "footprint": {
-                "type": "Circle",
-                "id": "f16f1a81-9c6c-15b5-f936-be0c59e74ee4",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/IO_WorldEvent_1002_AncientRelic_01",
-            "sliceAssetId": "{DC155303-747B-59A1-BC83-1476BBC455BD}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "ce2585ca-6a7b-0296-64a9-94fce41fabd9",
-            "worldPosition": {
-                "x": 7772.6689453125,
-                "y": 882.1944580078125,
-                "z": 120.08000183105469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8870107531547546,
-                "w": 0.46174871921539309
-            },
-            "scale": 1.0199999809265137,
-            "footprint": {
-                "type": "Circle",
-                "id": "0e6d1229-079c-c94b-baef-bd0b9b49f104",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/IO_WorldEvent_1002_AncientRelic_01",
-            "sliceAssetId": "{DC155303-747B-59A1-BC83-1476BBC455BD}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "46c3c2a7-1c47-6e97-448b-6b7a168fd278",
-            "worldPosition": {
-                "x": 6961.44580078125,
-                "y": 1685.648681640625,
-                "z": 41.82229995727539
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8870106935501099,
-                "w": -0.4617488980293274
-            },
-            "scale": 2.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "c352e7cf-a743-0e15-be79-a00eccbd471d",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\83a536df\\Bridge_Trigger_02_46c3c2a71c476e97448b6b7a168fd278",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:8fd278"
-        },
-        {
-            "id": "3f98a91e-f127-81ef-e036-f47be4132773",
-            "worldPosition": {
-                "x": 6775.4599609375,
-                "y": 253.0399932861328,
-                "z": 62.111839294433597
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
+                "x": -0.03231506049633026,
+                "y": 0.015073005110025406,
+                "z": 0.9984129071235657,
+                "w": 0.04359126091003418
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "76282e4e-3dc4-e853-6925-9edf888b3cd9",
+                "id": "844cd2fa-9157-a7fa-bbdd-071d561d3d0c",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/Missions/Interact/DeadDrop/IO_WorldEvent_PVP_0001_DeadDropGiveItem_00",
-            "sliceAssetId": "{2D27BE2D-1462-5F8D-AD75-46B1973224AB}:2",
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "614b66b2-3f38-98d4-a713-a8b538868fec",
+            "id": "d2d920aa-f94a-41e2-a4d1-c2a530670457",
             "worldPosition": {
-                "x": 6974.75,
-                "y": 496.489990234375,
-                "z": 40.20000076293945
+                "x": 6994.6328125,
+                "y": 1192.3172607421875,
+                "z": 67.00102233886719
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.4226182997226715,
-                "w": 0.9063077569007874
+                "z": -0.3420202136039734,
+                "w": 0.9396926164627075
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "9ebfcb76-d6ed-1581-6229-126f619cf7a0",
+                "id": "819bafa3-9c48-3b30-6a4c-5138a4dcd7c8",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_614b66b23f3898d4a713a8b538868fec",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:868fec",
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "55e78859-647e-e358-0371-19b4183d0624",
+            "id": "cb712020-4676-54c7-ef34-e71961c313af",
             "worldPosition": {
-                "x": 6567.08984375,
-                "y": 397.0,
-                "z": 40.53748321533203
+                "x": 6999.52587890625,
+                "y": 1171.007080078125,
+                "z": 67.03205108642578
+            },
+            "rotation": {
+                "x": -0.010562214069068432,
+                "y": -0.005059645511209965,
+                "z": 8.407109248764755e-7,
+                "w": 0.9999313950538635
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f8f6c476-34a7-f9d5-b705-4fba3ae1120c",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b5889e62-e138-b22a-c439-c89e1df7812c",
+            "worldPosition": {
+                "x": 7027.55712890625,
+                "y": 1208.6822509765625,
+                "z": 67.00102233886719
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.4226182997226715,
-                "w": 0.9063077569007874
+                "z": -0.7372767925262451,
+                "w": 0.6755907535552979
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "7ca6fb10-7451-a3ab-3275-4c466ed8c8b8",
+                "id": "30333526-7a74-be56-d513-d01f592cd8a0",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_55e78859647ee35837119b4183d0624",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:3d0624",
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "203c911a-259f-5880-9028-5714459cef8c",
+            "worldPosition": {
+                "x": 6994.54296875,
+                "y": 1227.0322265625,
+                "z": 67.00102233886719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9537171721458435,
+                "w": 0.3007051646709442
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9acb7438-ae1a-d368-63ff-38989c3e1eb7",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -294,53 +198,11 @@
             }
         },
         {
-            "id": "43cde862-e8ec-218d-eac9-209e567c782e",
+            "id": "66e83bea-e982-6add-6795-e3a8ae6b8d01",
             "worldPosition": {
-                "x": 7043.41552734375,
-                "y": 280.4659423828125,
-                "z": 47.35483932495117
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7880107164382935,
-                "w": 0.6156615018844605
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "fefbf58e-3b72-e074-b1be-df019facb0df",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_04",
-            "sliceAssetId": "{333958B1-8559-5E2B-AF92-0392E1113B07}:2"
-        },
-        {
-            "id": "43e93fcf-1bce-9084-c14e-61d4bebd74b9",
-            "worldPosition": {
-                "x": 7057.85498046875,
-                "y": 1085.9427490234375,
-                "z": 77.282470703125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4694715440273285,
-                "w": 0.882947564125061
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a9b680a0-0b78-4e70-7029-39b500cbcb7f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\83a536df\\Lore_99_MSQ_Title_01_02_43e93fcf1bce9084c14e61d4bebd74b9",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:bd74b9"
-        },
-        {
-            "id": "55e6793e-8b70-851d-cf3a-c39748d404fa",
-            "worldPosition": {
-                "x": 6993.0478515625,
-                "y": 261.3769226074219,
-                "z": 47.51038360595703
+                "x": 7269.49609375,
+                "y": 1142.51318359375,
+                "z": 63.89167785644531
             },
             "rotation": {
                 "x": 0.0,
@@ -350,18 +212,213 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "4ab2aaca-d56c-efc5-62b1-bf9a0f43fb8f",
+                "id": "a0adfb30-6450-72a1-9156-71f74da3f165",
                 "radius": 1.0
             },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_01",
-            "sliceAssetId": "{B63072AA-E4C5-5B4D-A7B2-12CCF44C3015}:2"
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_66e83beae9826add6795e3a8ae6b8d01",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:6b8d01",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "eb4bd339-d431-75cc-f789-0f048f7e4257",
+            "id": "3f6ff8da-ad91-bc6c-aab3-16ee0d15cbfa",
+            "worldPosition": {
+                "x": 7247.87744140625,
+                "y": 1133.9808349609375,
+                "z": 68.3040542602539
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0caaa934-cc6f-7319-19cd-69c3da481cde",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_3f6ff8daad91bc6caab316ee0d15cbfa",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:15cbfa",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f27c0fef-2d4a-227d-16e2-7ffe48019b9f",
+            "worldPosition": {
+                "x": 7252.35302734375,
+                "y": 1123.363525390625,
+                "z": 67.76789855957031
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ce064771-a3cf-45e8-83da-2d06c849885b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_f27c0fef2d4a227d16e27ffe48019b9f",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:19b9f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "334fe199-5952-7947-3102-9529e78f20eb",
+            "worldPosition": {
+                "x": 7280.64111328125,
+                "y": 1143.27001953125,
+                "z": 62.884544372558597
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d89dd6a3-476e-237e-2327-e68803465cd7",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_334fe1995952794731029529e78f20eb",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:8f20eb",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c1418509-318f-8dca-3065-aede55230e26",
+            "worldPosition": {
+                "x": 7250.29443359375,
+                "y": 1128.8232421875,
+                "z": 70.67435455322266
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cdfcc07b-99c9-7a8b-e6f4-607abd488eb6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_c1418509318f8dca3065aede55230e26",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:230e26",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "5ca82e80-dcd4-4215-4d25-1faeb44ecce6",
+            "worldPosition": {
+                "x": 7251.7587890625,
+                "y": 1116.765625,
+                "z": 68.18326568603516
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f772e500-ad5d-f541-0064-a6a9956eac59",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_5ca82e80dcd442154d251faeb44ecce6",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:4ecce6",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "67ac842b-6942-b3d0-4f5a-d1a18def003b",
+            "worldPosition": {
+                "x": 7257.52294921875,
+                "y": 1141.1004638671875,
+                "z": 65.72843933105469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "56c72b50-531a-12e6-dc9b-8a3397ea6a5e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_67ac842b6942b3d04f5ad1a18def003b",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:ef003b",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "0c7fa520-f3db-dd00-712b-600411210ad8",
+            "worldPosition": {
+                "x": 7293.1328125,
+                "y": 1142.8260498046875,
+                "z": 61.749996185302737
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fd380751-ba8e-6a21-fa5b-074b662aae72",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Master_Quest_IO_Proximity_Instanced_Spawner_0c7fa520f3dbdd00712b600411210ad8",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:210ad8",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "ce2585ca-6a7b-0296-64a9-94fce41fabd9",
+            "worldPosition": {
+                "x": 7772.6689453125,
+                "y": 882.1944580078125,
+                "z": 120.08000183105469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8870107531547546,
+                "w": 0.46174871921539309
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0e6d1229-079c-c94b-baef-bd0b9b49f104",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_1002_AncientRelic_01_ce2585ca6a7b029664a994fce41fabd9",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:1fabd9",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "3aca3b5a-aa59-3a2a-4e14-9168d2a374be",
             "worldPosition": {
                 "x": 7751.96142578125,
                 "y": 883.2649536132813,
-                "z": 80.26673126220703
+                "z": 80.2300033569336
             },
             "rotation": {
                 "x": 0.0,
@@ -371,369 +428,62 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "2b14d7ee-a875-5a60-c63f-33ec018f60b6",
+                "id": "492ee856-d066-fd8e-bd57-87ff15457f77",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/jav_struc_ruins_statue_soldier_m",
-            "sliceAssetId": "{55778702-4660-5B43-94F5-4DFD053C7ECF}:2"
+            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_1002_AncientRelic_01_3aca3b5aaa593a2a4e149168d2a374be",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:a374be",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "beac360c-21b8-8f07-8c08-dae51f7fff66",
+            "id": "8c9ad42e-9285-ef5d-ddaf-e20e51870ed9",
             "worldPosition": {
-                "x": 6551.04541015625,
-                "y": 204.00225830078126,
-                "z": 42.935791015625
+                "x": 7766.1826171875,
+                "y": 893.2699584960938,
+                "z": 80.2300033569336
             },
             "rotation": {
-                "x": 0.01586884818971157,
-                "y": -0.007262755185365677,
-                "z": -2.510587737702963e-9,
-                "w": 0.9998477101325989
+                "x": 1.6415408765624307e-7,
+                "y": 5.974752070869727e-8,
+                "z": 0.3420201539993286,
+                "w": 0.9396926164627075
             },
             "footprint": {
                 "type": "Circle",
-                "id": "d4b815ba-b1a2-1746-b6d2-54f487d8e478",
+                "id": "cbb12332-b5a0-e261-2427-4179fa9d7d3b",
                 "radius": 1.0
             },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_01",
-            "sliceAssetId": "{71FD0CF4-21B3-582A-A1BE-BECD2DDDF4EB}:2"
+            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_1002_AncientRelic_01_8c9ad42e9285ef5dddafe20e51870ed9",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:870ed9",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "5a0a49ec-1f83-e84e-796e-8f89127fc86b",
+            "id": "0e9f693f-b06e-7cb2-ee54-ddf9436f0732",
             "worldPosition": {
-                "x": 7766.76318359375,
-                "y": 134.44204711914063,
-                "z": 41.73773193359375
-            },
-            "rotation": {
-                "x": 0.06665267050266266,
-                "y": -0.0068780346773564819,
-                "z": 1.245532743610056e-8,
-                "w": 0.9977525472640991
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a408cdd0-23d4-c643-e07e-fbb247471ca2",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_12",
-            "sliceAssetId": "{94877273-8755-5BC9-95E6-6FE47478E757}:2"
-        },
-        {
-            "id": "90e25586-a3e4-cea6-fc46-0a307f686f3f",
-            "worldPosition": {
-                "x": 7692.7060546875,
-                "y": 847.4470825195313,
-                "z": 41.70597839355469
-            },
-            "rotation": {
-                "x": -0.018791725859045984,
-                "y": -0.08551633358001709,
-                "z": 1.494107948474266e-7,
-                "w": 0.996159553527832
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "672bc679-33c1-560e-b2a4-e056464edf47",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_05",
-            "sliceAssetId": "{8AF8781D-2773-5975-A3A8-AFE15B5272C2}:2"
-        },
-        {
-            "id": "95f01284-a300-37a8-0099-5d37afb465a6",
-            "worldPosition": {
-                "x": 7039.8076171875,
-                "y": 311.8222351074219,
-                "z": 53.084754943847659
-            },
-            "rotation": {
-                "x": -0.0000013430886838250445,
-                "y": 1.239450284629129e-7,
-                "z": -7.934511337889805e-14,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "25811ba2-5210-4338-1012-010296460489",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_05",
-            "sliceAssetId": "{BBE65686-4BAC-5E0E-B965-D94B2CC91FE7}:2"
-        },
-        {
-            "id": "fb6cea4b-b1a5-16e8-f976-2af648dc178d",
-            "worldPosition": {
-                "x": 6898.23095703125,
-                "y": 359.326904296875,
-                "z": 60.063697814941409
-            },
-            "rotation": {
-                "x": 0.06732513755559921,
-                "y": 0.13472288846969605,
-                "z": -0.32562583684921267,
-                "w": 0.9334264397621155
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "fecf8c91-d331-b0ad-9bb3-f4e5d01eb35e",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\83a536df\\Lore_DrownedPages0101_fb6cea4bb1a516e8f9762af648dc178d",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:dc178d"
-        },
-        {
-            "id": "5b875be5-2770-9e07-9aaa-41fe6d391062",
-            "worldPosition": {
-                "x": 6902.70849609375,
-                "y": 337.2231140136719,
-                "z": 67.62046813964844
+                "x": 7768.880859375,
+                "y": 879.4757080078125,
+                "z": 136.35850524902345
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.00475634541362524,
-                "w": 0.9999886751174927
+                "z": 0.8660253882408142,
+                "w": 0.4999999701976776
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5dfd972a-5c12-7465-6434-ac9583efbb2d",
+                "id": "f16f1a81-9c6c-15b5-f936-be0c59e74ee4",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\83a536df\\Lore_DrownedPages0104_5b875be527709e079aaa41fe6d391062",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:391062"
-        },
-        {
-            "id": "6b918fa7-f06e-723e-9ca2-c008b92e78d0",
-            "worldPosition": {
-                "x": 6539.44580078125,
-                "y": 160.0738067626953,
-                "z": 42.44105911254883
-            },
-            "rotation": {
-                "x": -3.8941436741879445e-7,
-                "y": 2.382174955073424e-7,
-                "z": -3.3881317890172014e-20,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "41045b3c-2e9e-e05d-bf4f-95e68a34f818",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_05",
-            "sliceAssetId": "{454DB4D9-19C9-5624-8A20-0B72596B2E37}:2"
-        },
-        {
-            "id": "2b44444f-b8b6-c9b7-a4d8-8a799139af74",
-            "worldPosition": {
-                "x": 6903.8828125,
-                "y": 335.06689453125,
-                "z": 64.08460998535156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "36e0ce5d-47bf-bdcd-2b13-20051601f075",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\83a536df\\Lore_DrownedPages0102_2b44444fb8b6c9b7a4d88a799139af74",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:39af74"
-        },
-        {
-            "id": "5a41b0df-a952-4cba-0988-305f78c4d4b1",
-            "worldPosition": {
-                "x": 7080.9384765625,
-                "y": 297.7845153808594,
-                "z": 47.52545928955078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6156614422798157,
-                "w": 0.7880107760429382
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5eb75b62-9e44-5591-ba60-759e50940b9d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_07",
-            "sliceAssetId": "{5D44760B-74F6-5F04-A88A-E0B6AC676F63}:2"
-        },
-        {
-            "id": "3de69165-7bd0-cbd6-61e5-fac6cb411dd4",
-            "worldPosition": {
-                "x": 7702.87646484375,
-                "y": 469.72979736328127,
-                "z": 63.786556243896487
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9238795042037964,
-                "w": -0.38268348574638369
-            },
-            "scale": 2.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "329e2d9d-fa1d-2015-140d-795b39831fe9",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_10_CutlassKeys_Title_05_01",
-            "sliceAssetId": "{922BE411-DA0A-5BC6-BAD9-ADB826D9911E}:2"
-        },
-        {
-            "id": "bc430fa7-5387-5480-3412-0b8f4011aade",
-            "worldPosition": {
-                "x": 6554.56884765625,
-                "y": 240.0653533935547,
-                "z": 43.96775436401367
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d4b9de99-70db-7099-cc4b-6d9b3aaeec04",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_02",
-            "sliceAssetId": "{B5FB4E90-791C-52C7-9251-52EB2D7B1514}:2"
-        },
-        {
-            "id": "508722d6-0c7b-ad82-9e2c-21a02b268155",
-            "worldPosition": {
-                "x": 6844.68310546875,
-                "y": 332.746337890625,
-                "z": 59.527259826660159
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8085106015205383,
-                "w": 0.5884816646575928
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c53fb7a3-b79b-b923-8395-67a1f0c9e16d",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\83a536df\\Lore_DrownedPages0105_508722d60c7bad829e2c21a02b268155",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:268155"
-        },
-        {
-            "id": "26ca5e89-a178-a34f-b084-da50433fd77f",
-            "worldPosition": {
-                "x": 7000.7646484375,
-                "y": 246.44839477539063,
-                "z": 48.20025634765625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c27967f2-7d3d-e20b-7471-d5ec9c70d5cb",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_02",
-            "sliceAssetId": "{6C61B8E6-41AE-55C7-8E49-A46CD4169A00}:2"
-        },
-        {
-            "id": "13a2977c-16e2-6d21-8276-8ff5a2c8d3ad",
-            "worldPosition": {
-                "x": 7067.6728515625,
-                "y": 297.46978759765627,
-                "z": 50.01253128051758
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0d8dd538-f5c9-52e2-c441-5be090dd7953",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_06",
-            "sliceAssetId": "{149F4FDE-8FCD-5DB7-B190-BF97F3B3B2F2}:2"
-        },
-        {
-            "id": "b1672c07-6873-8584-d530-d47ac8de9d49",
-            "worldPosition": {
-                "x": 7766.09912109375,
-                "y": 893.2055053710938,
-                "z": 80.26671600341797
-            },
-            "rotation": {
-                "x": 8.200365897437223e-8,
-                "y": 2.984681302109493e-8,
-                "z": 0.3420209288597107,
-                "w": 0.9396923780441284
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ccd05a7f-c41a-9591-b325-6d210dd64bdf",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/jav_struc_ruins_statue_soldier",
-            "sliceAssetId": "{E5869949-0352-51B1-961B-E8B80B14D75C}:2"
-        },
-        {
-            "id": "280ac333-4788-71ba-8c0b-5d1db25e2913",
-            "worldPosition": {
-                "x": 6536.1943359375,
-                "y": 182.37445068359376,
-                "z": 42.332401275634769
-            },
-            "rotation": {
-                "x": 8.649194427334806e-8,
-                "y": 2.6557714249975107e-8,
-                "z": 0.848048210144043,
-                "w": 0.5299191474914551
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2a3f56d4-dd22-5ca7-d74a-2eac10a3cabf",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_03",
-            "sliceAssetId": "{0000A4F0-B3A8-5E02-9C49-45024A68AAA0}:2"
-        },
-        {
-            "id": "6364b7f5-2f88-3486-8a59-af019b6e8f6f",
-            "worldPosition": {
-                "x": 7028.36474609375,
-                "y": 264.13397216796877,
-                "z": 40.356834411621097
-            },
-            "rotation": {
-                "x": 0.01092811394482851,
-                "y": -0.01942722126841545,
-                "z": 0.9168322682380676,
-                "w": -0.39865002036094668
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "858c476f-5929-f85a-581a-728779ccb4a1",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_13",
-            "sliceAssetId": "{2414ED0D-5C60-50AB-9282-41A605ECC818}:2"
+            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_1002_AncientRelic_01_0e9f693fb06e7cb2ee54ddf9436f0732",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:6f0732",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "05fb5504-389d-6598-01d3-57e4621bc14a",
@@ -758,32 +508,11 @@
             "sliceAssetId": "{24373599-6EE2-51CB-BF55-884798570BE9}:2"
         },
         {
-            "id": "1b9e7da1-0f19-c06c-8697-d37a045d14e1",
+            "id": "bc430fa7-5387-5480-3412-0b8f4011aade",
             "worldPosition": {
-                "x": 6841.466796875,
-                "y": 394.5421142578125,
-                "z": 58.05872344970703
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7600884437561035,
-                "w": 0.6498196721076965
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f5e867ba-c0f2-838b-356e-46f6239313c8",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\83a536df\\Lore_DrownedPages0106_1b9e7da10f19c06c8697d37a045d14e1",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:5d14e1"
-        },
-        {
-            "id": "f4e57930-2f1a-8202-d0c8-287c9ceb1c17",
-            "worldPosition": {
-                "x": 6962.04052734375,
-                "y": 365.784912109375,
-                "z": 62.072662353515628
+                "x": 6554.56884765625,
+                "y": 240.0653533935547,
+                "z": 43.96775436401367
             },
             "rotation": {
                 "x": 0.0,
@@ -793,11 +522,95 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "605c6316-4741-441a-f5a2-eb7dcdcba926",
+                "id": "d4b9de99-70db-7099-cc4b-6d9b3aaeec04",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\83a536df\\Lore_DrownedPages0103_f4e579302f1a8202d0c8287c9ceb1c17",
-            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:eb1c17"
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_02",
+            "sliceAssetId": "{B5FB4E90-791C-52C7-9251-52EB2D7B1514}:2"
+        },
+        {
+            "id": "95f01284-a300-37a8-0099-5d37afb465a6",
+            "worldPosition": {
+                "x": 7039.8076171875,
+                "y": 311.8222351074219,
+                "z": 53.084754943847659
+            },
+            "rotation": {
+                "x": -0.0000013430886838250445,
+                "y": 1.239450284629129e-7,
+                "z": -7.934511337889805e-14,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "25811ba2-5210-4338-1012-010296460489",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_05",
+            "sliceAssetId": "{BBE65686-4BAC-5E0E-B965-D94B2CC91FE7}:2"
+        },
+        {
+            "id": "08aa9867-120d-b246-d02b-545850a663e6",
+            "worldPosition": {
+                "x": 7251.79736328125,
+                "y": 1116.5225830078125,
+                "z": 69.30353546142578
+            },
+            "rotation": {
+                "x": -0.3072739541530609,
+                "y": 0.008510328829288483,
+                "z": -0.06780282407999039,
+                "w": 0.9491643905639648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "463bbef3-5584-7079-c9fe-740d4f400dd9",
+                "radius": 0.4000000059604645
+            },
+            "sliceName": "CoatGen\\83a536df\\WorldEvent_Object_0607_ClothTrailB_00_08aa9867120db246d02b545850a663e6",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:a663e6"
+        },
+        {
+            "id": "24f18a4d-bc3e-1c7f-fdad-a506741347f7",
+            "worldPosition": {
+                "x": 7293.0302734375,
+                "y": 1142.5972900390625,
+                "z": 61.964927673339847
+            },
+            "rotation": {
+                "x": -0.2360268384218216,
+                "y": 0.08512326329946518,
+                "z": -0.20412909984588624,
+                "w": 0.9462434649467468
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e8df9a25-b17c-0c81-e1bb-144e2b288ade",
+                "radius": 0.4000000059604645
+            },
+            "sliceName": "CoatGen\\83a536df\\WorldEvent_Object_0607_ClothTrailB_00_24f18a4dbc3e1c7ffdada506741347f7",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:1347f7"
+        },
+        {
+            "id": "beac360c-21b8-8f07-8c08-dae51f7fff66",
+            "worldPosition": {
+                "x": 6551.04541015625,
+                "y": 204.00225830078126,
+                "z": 42.935791015625
+            },
+            "rotation": {
+                "x": 0.01586884818971157,
+                "y": -0.007262755185365677,
+                "z": -2.510587737702963e-9,
+                "w": 0.9998477101325989
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d4b815ba-b1a2-1746-b6d2-54f487d8e478",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_01",
+            "sliceAssetId": "{71FD0CF4-21B3-582A-A1BE-BECD2DDDF4EB}:2"
         },
         {
             "id": "6a1b58ef-a3b5-de72-9154-f99e3ec8a87d",
@@ -819,6 +632,230 @@
             },
             "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_04",
             "sliceAssetId": "{47BDE533-5AB6-5F03-919C-CC53A35812BE}:2"
+        },
+        {
+            "id": "55e6793e-8b70-851d-cf3a-c39748d404fa",
+            "worldPosition": {
+                "x": 6993.0478515625,
+                "y": 261.3769226074219,
+                "z": 47.51038360595703
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4ab2aaca-d56c-efc5-62b1-bf9a0f43fb8f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_01",
+            "sliceAssetId": "{B63072AA-E4C5-5B4D-A7B2-12CCF44C3015}:2"
+        },
+        {
+            "id": "46c3c2a7-1c47-6e97-448b-6b7a168fd278",
+            "worldPosition": {
+                "x": 6961.44580078125,
+                "y": 1685.648681640625,
+                "z": 41.82229995727539
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8870106935501099,
+                "w": -0.4617488980293274
+            },
+            "scale": 2.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "c352e7cf-a743-0e15-be79-a00eccbd471d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Bridge_Trigger_02_46c3c2a71c476e97448b6b7a168fd278",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:8fd278"
+        },
+        {
+            "id": "5a0a49ec-1f83-e84e-796e-8f89127fc86b",
+            "worldPosition": {
+                "x": 7766.76318359375,
+                "y": 134.44204711914063,
+                "z": 41.73773193359375
+            },
+            "rotation": {
+                "x": 0.06665267050266266,
+                "y": -0.0068780346773564819,
+                "z": 1.245532743610056e-8,
+                "w": 0.9977525472640991
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a408cdd0-23d4-c643-e07e-fbb247471ca2",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_12",
+            "sliceAssetId": "{94877273-8755-5BC9-95E6-6FE47478E757}:2"
+        },
+        {
+            "id": "614b66b2-3f38-98d4-a713-a8b538868fec",
+            "worldPosition": {
+                "x": 7297.2998046875,
+                "y": 1387.300048828125,
+                "z": 40.231544494628909
+            },
+            "rotation": {
+                "x": -0.016258761286735536,
+                "y": -0.010396351106464863,
+                "z": 0.9237074851989746,
+                "w": 0.3826122581958771
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9ebfcb76-d6ed-1581-6229-126f619cf7a0",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_614b66b23f3898d4a713a8b538868fec",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:868fec",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "3f98a91e-f127-81ef-e036-f47be4132773",
+            "worldPosition": {
+                "x": 7613.2998046875,
+                "y": 1531.699951171875,
+                "z": 72.77915954589844
+            },
+            "rotation": {
+                "x": 0.17463040351867677,
+                "y": -0.09668907523155213,
+                "z": -0.4141131639480591,
+                "w": 0.8880685567855835
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "76282e4e-3dc4-e853-6925-9edf888b3cd9",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/DeadDrop/IO_WorldEvent_PVP_0001_DeadDropGiveItem_00",
+            "sliceAssetId": "{2D27BE2D-1462-5F8D-AD75-46B1973224AB}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "55e78859-647e-e358-0371-19b4183d0624",
+            "worldPosition": {
+                "x": 7653.2001953125,
+                "y": 1275.699951171875,
+                "z": 75.05596160888672
+            },
+            "rotation": {
+                "x": 0.1038675457239151,
+                "y": -0.003845641855150461,
+                "z": 0.7618952393531799,
+                "w": 0.6393061876296997
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "7ca6fb10-7451-a3ab-3275-4c466ed8c8b8",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\83a536df\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_55e78859647ee35837119b4183d0624",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:3d0624",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "9d383838-661e-cd44-d7b3-f0ad0f90a1b3",
+            "worldPosition": {
+                "x": 7223.0361328125,
+                "y": 1080.04052734375,
+                "z": 73.71603393554688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.034899450838565829,
+                "w": 0.9993908405303955
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c6320599-6fd0-d190-5f08-bdfaa3e9f18a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\83a536df\\Lore_99_MSQ_Title_01_02_9d383838661ecd44d7b3f0ad0f90a1b3",
+            "sliceAssetId": "{670A650D-234E-5148-9E90-76A51FF4C7C0}:90a1b3"
+        },
+        {
+            "id": "508722d6-0c7b-ad82-9e2c-21a02b268155",
+            "worldPosition": {
+                "x": 6844.68310546875,
+                "y": 332.746337890625,
+                "z": 59.527259826660159
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8085106015205383,
+                "w": 0.5884816646575928
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c53fb7a3-b79b-b923-8395-67a1f0c9e16d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_DrownedPages0105",
+            "sliceAssetId": "{8BDC8219-AFCD-565D-BE04-373DFD064C32}:2"
+        },
+        {
+            "id": "f4e57930-2f1a-8202-d0c8-287c9ceb1c17",
+            "worldPosition": {
+                "x": 6962.04052734375,
+                "y": 365.784912109375,
+                "z": 62.072662353515628
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "605c6316-4741-441a-f5a2-eb7dcdcba926",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_DrownedPages0103",
+            "sliceAssetId": "{D47BBAEB-75FD-5541-A2E5-F36850A595C3}:2"
+        },
+        {
+            "id": "24162d5e-f5bd-1eb8-b6e2-f3f8d4dd11c9",
+            "worldPosition": {
+                "x": 7535.24609375,
+                "y": 599.2134399414063,
+                "z": 46.588600158691409
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9396926164627075,
+                "w": 0.3420201539993286
+            },
+            "scale": 1.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "5732867c-b1bf-cefb-87e2-6da2c2b56050",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Bridge_Trigger_04",
+            "sliceAssetId": "{AD291EEE-2371-5D1D-8272-34BC6026E4B6}:2"
         },
         {
             "id": "8bad3796-87e3-0129-027e-a59b009677b7",
@@ -843,25 +880,25 @@
             "sliceAssetId": "{C1A04FED-42C2-5C05-815E-CE5499D7BFF3}:2"
         },
         {
-            "id": "ef4ed966-8d7e-9b82-e331-b9fab8379897",
+            "id": "eb4bd339-d431-75cc-f789-0f048f7e4257",
             "worldPosition": {
-                "x": 7026.90087890625,
-                "y": 250.93408203125,
-                "z": 47.3031005859375
+                "x": 7751.96142578125,
+                "y": 883.2649536132813,
+                "z": 80.26673126220703
             },
             "rotation": {
-                "x": 0.01738596148788929,
-                "y": 0.0015212235739454628,
-                "z": 7.102234889089232e-8,
-                "w": 0.9998477101325989
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.34202009439468386,
+                "w": 0.9396926760673523
             },
             "footprint": {
                 "type": "Circle",
-                "id": "304b5db3-c1e8-7f17-ef15-55488b6547dd",
+                "id": "2b14d7ee-a875-5a60-c63f-33ec018f60b6",
                 "radius": 1.0
             },
-            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_03",
-            "sliceAssetId": "{ED481DC0-1491-5833-A7EE-2964F61512B6}:2"
+            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/jav_struc_ruins_statue_soldier_m",
+            "sliceAssetId": "{55778702-4660-5B43-94F5-4DFD053C7ECF}:2"
         },
         {
             "id": "9acb0fd7-a3cc-f8c1-aa17-5911f6f31489",
@@ -886,26 +923,344 @@
             "sliceAssetId": "{484EFD44-3A26-5B5B-BF13-C139F2D9119B}:2"
         },
         {
-            "id": "24162d5e-f5bd-1eb8-b6e2-f3f8d4dd11c9",
+            "id": "b1672c07-6873-8584-d530-d47ac8de9d49",
             "worldPosition": {
-                "x": 7535.24609375,
-                "y": 599.2134399414063,
-                "z": 46.588600158691409
+                "x": 7766.09912109375,
+                "y": 893.2055053710938,
+                "z": 80.26671600341797
+            },
+            "rotation": {
+                "x": 8.200365897437223e-8,
+                "y": 2.984681302109493e-8,
+                "z": 0.3420209288597107,
+                "w": 0.9396923780441284
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ccd05a7f-c41a-9591-b325-6d210dd64bdf",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/AncientRelic/jav_struc_ruins_statue_soldier",
+            "sliceAssetId": "{E5869949-0352-51B1-961B-E8B80B14D75C}:2"
+        },
+        {
+            "id": "3de69165-7bd0-cbd6-61e5-fac6cb411dd4",
+            "worldPosition": {
+                "x": 7702.87646484375,
+                "y": 469.72979736328127,
+                "z": 63.786556243896487
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9396926164627075,
-                "w": 0.3420201539993286
+                "z": 0.9238795042037964,
+                "w": -0.38268348574638369
             },
-            "scale": 1.9999998807907105,
+            "scale": 2.0,
             "footprint": {
                 "type": "Circle",
-                "id": "5732867c-b1bf-cefb-87e2-6da2c2b56050",
+                "id": "329e2d9d-fa1d-2015-140d-795b39831fe9",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Bridge_Trigger_04",
-            "sliceAssetId": "{AD291EEE-2371-5D1D-8272-34BC6026E4B6}:2"
+            "sliceName": "slices/POIs/Lore/Lore_10_CutlassKeys_Title_05_01",
+            "sliceAssetId": "{922BE411-DA0A-5BC6-BAD9-ADB826D9911E}:2"
+        },
+        {
+            "id": "26ca5e89-a178-a34f-b084-da50433fd77f",
+            "worldPosition": {
+                "x": 7000.7646484375,
+                "y": 246.44839477539063,
+                "z": 48.20025634765625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c27967f2-7d3d-e20b-7471-d5ec9c70d5cb",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_02",
+            "sliceAssetId": "{6C61B8E6-41AE-55C7-8E49-A46CD4169A00}:2"
+        },
+        {
+            "id": "5b875be5-2770-9e07-9aaa-41fe6d391062",
+            "worldPosition": {
+                "x": 6902.70849609375,
+                "y": 337.2231140136719,
+                "z": 67.62046813964844
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.00475634541362524,
+                "w": 0.9999886751174927
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5dfd972a-5c12-7465-6434-ac9583efbb2d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_DrownedPages0104",
+            "sliceAssetId": "{E3C53723-62F7-50D4-8377-7C7419E666CA}:2"
+        },
+        {
+            "id": "745e8762-2a59-ee8b-c4f6-45ff98670cf1",
+            "worldPosition": {
+                "x": 7975.0458984375,
+                "y": 223.80337524414063,
+                "z": 41.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.258819043636322,
+                "w": 0.9659258127212524
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "631ec100-6db0-f137-116c-8cf6820709ef",
+                "radius": 4.0
+            },
+            "sliceName": "slices/WorldEvents/CutlassKeys/Interact/PirateFigurehead/IO_WorldEvent_1003_PirateFigurehead_01",
+            "sliceAssetId": "{B25730CA-16B0-5E73-8333-03535FA7344E}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "6364b7f5-2f88-3486-8a59-af019b6e8f6f",
+            "worldPosition": {
+                "x": 7028.36474609375,
+                "y": 264.13397216796877,
+                "z": 40.356834411621097
+            },
+            "rotation": {
+                "x": 0.010928107425570488,
+                "y": -0.019427217543125154,
+                "z": 0.9168322682380676,
+                "w": -0.39865002036094668
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "858c476f-5929-f85a-581a-728779ccb4a1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_13",
+            "sliceAssetId": "{2414ED0D-5C60-50AB-9282-41A605ECC818}:2"
+        },
+        {
+            "id": "90e25586-a3e4-cea6-fc46-0a307f686f3f",
+            "worldPosition": {
+                "x": 7692.7060546875,
+                "y": 847.4470825195313,
+                "z": 41.70597839355469
+            },
+            "rotation": {
+                "x": -0.018791725859045984,
+                "y": -0.08551633358001709,
+                "z": 1.494107948474266e-7,
+                "w": 0.996159553527832
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "672bc679-33c1-560e-b2a4-e056464edf47",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_05",
+            "sliceAssetId": "{8AF8781D-2773-5975-A3A8-AFE15B5272C2}:2"
+        },
+        {
+            "id": "1b9e7da1-0f19-c06c-8697-d37a045d14e1",
+            "worldPosition": {
+                "x": 6841.466796875,
+                "y": 394.5421142578125,
+                "z": 58.05872344970703
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7600884437561035,
+                "w": 0.6498196721076965
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f5e867ba-c0f2-838b-356e-46f6239313c8",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_DrownedPages0106",
+            "sliceAssetId": "{B158C4E9-234C-5D6A-A55E-42786E1D5AD4}:2"
+        },
+        {
+            "id": "2b44444f-b8b6-c9b7-a4d8-8a799139af74",
+            "worldPosition": {
+                "x": 6903.8828125,
+                "y": 335.06689453125,
+                "z": 64.08460998535156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "36e0ce5d-47bf-bdcd-2b13-20051601f075",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_DrownedPages0102",
+            "sliceAssetId": "{4EF94C40-AA0F-5528-B0CA-60498E9F969A}:2"
+        },
+        {
+            "id": "6b918fa7-f06e-723e-9ca2-c008b92e78d0",
+            "worldPosition": {
+                "x": 6539.44580078125,
+                "y": 160.0738067626953,
+                "z": 42.44105911254883
+            },
+            "rotation": {
+                "x": -3.8941436741879445e-7,
+                "y": 2.382174955073424e-7,
+                "z": -3.3881317890172014e-20,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "41045b3c-2e9e-e05d-bf4f-95e68a34f818",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_05",
+            "sliceAssetId": "{454DB4D9-19C9-5624-8A20-0B72596B2E37}:2"
+        },
+        {
+            "id": "ef4ed966-8d7e-9b82-e331-b9fab8379897",
+            "worldPosition": {
+                "x": 7026.90087890625,
+                "y": 250.93408203125,
+                "z": 47.3031005859375
+            },
+            "rotation": {
+                "x": 0.01738596148788929,
+                "y": 0.0015212235739454628,
+                "z": 7.102234889089232e-8,
+                "w": 0.9998477101325989
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "304b5db3-c1e8-7f17-ef15-55488b6547dd",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_03",
+            "sliceAssetId": "{ED481DC0-1491-5833-A7EE-2964F61512B6}:2"
+        },
+        {
+            "id": "5a41b0df-a952-4cba-0988-305f78c4d4b1",
+            "worldPosition": {
+                "x": 7080.9384765625,
+                "y": 297.7845153808594,
+                "z": 47.52545928955078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6156614422798157,
+                "w": 0.7880107760429382
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5eb75b62-9e44-5591-ba60-759e50940b9d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_07",
+            "sliceAssetId": "{5D44760B-74F6-5F04-A88A-E0B6AC676F63}:2"
+        },
+        {
+            "id": "13a2977c-16e2-6d21-8276-8ff5a2c8d3ad",
+            "worldPosition": {
+                "x": 7067.6728515625,
+                "y": 297.46978759765627,
+                "z": 50.01253128051758
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0d8dd538-f5c9-52e2-c441-5be090dd7953",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_06",
+            "sliceAssetId": "{149F4FDE-8FCD-5DB7-B190-BF97F3B3B2F2}:2"
+        },
+        {
+            "id": "43cde862-e8ec-218d-eac9-209e567c782e",
+            "worldPosition": {
+                "x": 7043.41552734375,
+                "y": 280.4659423828125,
+                "z": 47.35483932495117
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7880107164382935,
+                "w": 0.6156615018844605
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fefbf58e-3b72-e074-b1be-df019facb0df",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_04_04",
+            "sliceAssetId": "{333958B1-8559-5E2B-AF92-0392E1113B07}:2"
+        },
+        {
+            "id": "280ac333-4788-71ba-8c0b-5d1db25e2913",
+            "worldPosition": {
+                "x": 6536.1943359375,
+                "y": 182.37445068359376,
+                "z": 42.332401275634769
+            },
+            "rotation": {
+                "x": 8.649194427334806e-8,
+                "y": 2.6557714249975107e-8,
+                "z": 0.848048210144043,
+                "w": 0.5299191474914551
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2a3f56d4-dd22-5ca7-d74a-2eac10a3cabf",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/Lore_10_CutlassKeys_Title_03_03",
+            "sliceAssetId": "{0000A4F0-B3A8-5E02-9C49-45024A68AAA0}:2"
+        },
+        {
+            "id": "fb6cea4b-b1a5-16e8-f976-2af648dc178d",
+            "worldPosition": {
+                "x": 6898.23095703125,
+                "y": 359.326904296875,
+                "z": 60.063697814941409
+            },
+            "rotation": {
+                "x": 0.06732513755559921,
+                "y": 0.13472288846969605,
+                "z": -0.32562583684921267,
+                "w": 0.9334264397621155
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fecf8c91-d331-b0ad-9bb3-f4e5d01eb35e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_DrownedPages0101",
+            "sliceAssetId": "{2EB0444A-C64C-5638-9C71-1A832490B507}:2"
         }
     ]
 }

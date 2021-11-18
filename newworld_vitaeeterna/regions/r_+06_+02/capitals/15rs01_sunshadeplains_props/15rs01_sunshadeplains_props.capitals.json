@@ -18,8 +18,8 @@
                 "id": "beddb377-7332-4b97-088f-f9f8ef088824",
                 "radius": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_M",
-            "sliceAssetId": "{856CD2E4-47C8-58BA-9104-6D5D6CD629F1}:2"
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_M_289e79817a04e468d7a8e69db539f66b",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:39f66b"
         },
         {
             "id": "9b8fbb6c-0321-0154-0cee-90cee461765d",
@@ -39,8 +39,84 @@
                 "id": "5f9df211-2ec5-a8a5-7241-11514b2951ee",
                 "radius": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_M",
-            "sliceAssetId": "{856CD2E4-47C8-58BA-9104-6D5D6CD629F1}:2"
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_M_9b8fbb6c03210154cee90cee461765d",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:61765d"
+        },
+        {
+            "id": "9f9799fd-17bd-8a64-5077-7319faa4536c",
+            "worldPosition": {
+                "x": 12808.078125,
+                "y": 6067.1171875,
+                "z": 145.97434997558595
+            },
+            "rotation": {
+                "x": 0.0001675177045399323,
+                "y": 0.017663981765508653,
+                "z": 0.08771757781505585,
+                "w": 0.9959887266159058
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "6cf924f8-0a48-2735-ac64-5fed1143f2fc",
+                "width": 3.0,
+                "height": 3.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_D",
+            "sliceAssetId": "{80233DE2-C168-501A-8188-0EE0D22E05DB}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "57802faa-5489-3758-80d2-a0240355cea4",
+            "worldPosition": {
+                "x": 12617.0,
+                "y": 5793.0,
+                "z": 136.1272430419922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9659257531166077,
+                "w": -0.2588192820549011
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a7a2397b-a04d-c1e6-ca0e-158082a5b474",
+                "radius": 33.0
+            },
+            "sliceName": "CoatGen\\8bddfb53\\Den_Cave_Arena_A_57802faa5489375880d2a0240355cea4",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:55cea4",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Natural/Den_Cave_Arena_A_footprint.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "24f84062-3965-69a8-7c3e-4ab9b6d0e67f",
+            "worldPosition": {
+                "x": 12797.6103515625,
+                "y": 6065.23046875,
+                "z": 147.5049591064453
+            },
+            "rotation": {
+                "x": -0.1101616770029068,
+                "y": 0.05865529924631119,
+                "z": -0.7018985152244568,
+                "w": 0.7012577652931213
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "94d85b2a-d99e-43d5-6653-9492a42d9e7c",
+                "width": 5.0,
+                "height": 4.0
+            },
+            "sliceName": "CoatGen\\8bddfb53\\Jav_Struc_Ruins_Debris_D_24f84062396569a87c3e4ab9b6d0e67f",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:d0e67f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "114bb4f6-a602-29c4-e702-c259151b4070",
@@ -64,26 +140,242 @@
             "sliceAssetId": "{C3E4649B-51DB-5FF8-9847-68AA414A7748}:2"
         },
         {
-            "id": "24f84062-3965-69a8-7c3e-4ab9b6d0e67f",
+            "id": "f54cede8-bdb0-ad3f-7983-78186a711556",
             "worldPosition": {
-                "x": 12797.6103515625,
-                "y": 6065.23046875,
-                "z": 147.5049591064453
+                "x": 12915.0224609375,
+                "y": 5981.1591796875,
+                "z": 103.27111053466797
             },
             "rotation": {
-                "x": -0.110161691904068,
-                "y": 0.05865531042218208,
-                "z": -0.7018985152244568,
-                "w": 0.7012577652931213
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "971e2fff-5bb8-e4ff-7f3a-ecde6e426700",
+                "radius": 3.0
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_DirtCB_5m",
+            "sliceAssetId": "{8EB482A5-40AC-525E-A592-595156D744DF}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "917281f2-1db3-ff55-a35f-be3a0e4c7109",
+            "worldPosition": {
+                "x": 12902.6904296875,
+                "y": 5973.10693359375,
+                "z": 102.57237243652344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "632cb431-3942-4dc9-8402-d058bb2b0a0a",
+                "radius": 3.0
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_DirtCB_5m",
+            "sliceAssetId": "{8EB482A5-40AC-525E-A592-595156D744DF}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "35db6cb1-743a-4359-cb58-432ee6196006",
+            "worldPosition": {
+                "x": 12905.5859375,
+                "y": 5977.505859375,
+                "z": 101.81761169433594
+            },
+            "rotation": {
+                "x": 0.03119339980185032,
+                "y": 0.015595587901771069,
+                "z": 0.00002856641549442429,
+                "w": 0.9993916749954224
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "586d1dce-3e85-4a33-a9b3-57a889c62eb9",
+                "radius": 5.0
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_Coal_5m",
+            "sliceAssetId": "{1895E541-A578-5A31-B59D-4F6D98D528A6}:2"
+        },
+        {
+            "id": "3434863e-f9d7-9164-c547-87be4fe8baa3",
+            "worldPosition": {
+                "x": 12906.98828125,
+                "y": 5987.30078125,
+                "z": 103.73226165771485
+            },
+            "rotation": {
+                "x": 0.030101420357823373,
+                "y": -0.05538831651210785,
+                "z": 0.9550192356109619,
+                "w": -0.2897660434246063
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fbcca610-c68b-3ecd-3796-ffc225d90d2e",
+                "radius": 3.0
+            },
+            "sliceName": "slices/POIs/Damned/Camps/Damned_Camp_Tent_Int_Set_Dressing_Storage_A_01",
+            "sliceAssetId": "{E7B2A69F-4E6B-56F1-99FC-5332A2FBBFC9}:2",
+            "cookie": {
+                "innerRadius": 1.0,
+                "outerRadius": 2.0,
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
+            "id": "5d022397-83ff-9707-c64e-cbc085656079",
+            "worldPosition": {
+                "x": 12895.873046875,
+                "y": 5975.7939453125,
+                "z": 103.01329040527344
+            },
+            "rotation": {
+                "x": -0.010413998737931252,
+                "y": -0.042526647448539737,
+                "z": 0.9959876537322998,
+                "w": -0.07804897427558899
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "94d85b2a-d99e-43d5-6653-9492a42d9e7c",
-                "width": 5.0,
+                "id": "d67ad935-6476-8602-1597-21ae8f3cb468",
+                "width": 2.0,
+                "height": 7.0
+            },
+            "sliceName": "slices/POIs/Damned/Camps/Damned_Camp_Tent_Ext_Set_Dressing_R_A",
+            "sliceAssetId": "{D416B5C0-E156-567C-A5EB-A6A6436D785E}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c6693d41-cc6d-e178-2a50-266dfc5ad49d",
+            "worldPosition": {
+                "x": 12901.9306640625,
+                "y": 5978.1923828125,
+                "z": 103.14677429199219
+            },
+            "rotation": {
+                "x": 0.043703168630599979,
+                "y": 0.009506616741418839,
+                "z": 0.00014967947208788246,
+                "w": 0.9989993572235107
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a9e33f2b-b5e1-1e5b-96a1-eb2969442bc2",
+                "radius": 2.5
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_DirtC_5m",
+            "sliceAssetId": "{B246423A-FEEE-59E4-BB00-D7C5C66DA85D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "507747e3-be63-9fe5-4704-5670177def05",
+            "worldPosition": {
+                "x": 12912.470703125,
+                "y": 5980.10009765625,
+                "z": 103.08981323242188
+            },
+            "rotation": {
+                "x": 0.04873349890112877,
+                "y": 0.009506504982709885,
+                "z": -2.950401700729799e-8,
+                "w": 0.9987666010856628
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1755f1e1-65ae-9742-3e95-9320e46cb30e",
+                "radius": 2.5
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_DirtC_5m",
+            "sliceAssetId": "{B246423A-FEEE-59E4-BB00-D7C5C66DA85D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "bf705c39-6763-5fb8-b934-f38d4d198efa",
+            "worldPosition": {
+                "x": 12899.6865234375,
+                "y": 5972.52392578125,
+                "z": 102.60810089111328
+            },
+            "rotation": {
+                "x": 0.04873349890112877,
+                "y": 0.009506504982709885,
+                "z": -2.950401700729799e-8,
+                "w": 0.9987666010856628
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "962c65b5-aa78-4d41-9243-0d4221753ce8",
+                "radius": 2.5
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_DirtC_5m",
+            "sliceAssetId": "{B246423A-FEEE-59E4-BB00-D7C5C66DA85D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "42037d7c-c347-7d93-696d-621c8e7b9536",
+            "worldPosition": {
+                "x": 12905.8564453125,
+                "y": 5981.38525390625,
+                "z": 103.17339324951172
+            },
+            "rotation": {
+                "x": 0.04716203734278679,
+                "y": 0.029639771208167077,
+                "z": 0.0009965745266526938,
+                "w": 0.9984469413757324
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e938fd59-f393-3b82-440d-993c698db2e7",
+                "radius": 2.5
+            },
+            "sliceName": "slices/POIs/Assembly/Decals/Ground_Fill_DirtC_5m",
+            "sliceAssetId": "{B246423A-FEEE-59E4-BB00-D7C5C66DA85D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a9621204-b04c-8326-c9ca-a6fa936bcfc0",
+            "worldPosition": {
+                "x": 12826.9990234375,
+                "y": 6057.48193359375,
+                "z": 153.29710388183595
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "8a04f6af-a97c-97a8-4166-878340cec0b5",
+                "width": 19.0,
                 "height": 4.0
             },
-            "sliceName": "slices/POIs/Ancient/Kit/Jav_Struc_Ruins_Debris_D",
-            "sliceAssetId": "{F8CBD71D-49D9-5CA0-8AC0-E2486A0392E1}:2",
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_SD_a9621204b04c8326c9caa6fa936bcfc0",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:6bcfc0",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -114,27 +406,6 @@
             }
         },
         {
-            "id": "b9525080-68c4-9f53-1c3b-6c433c20c54f",
-            "worldPosition": {
-                "x": 12814.2041015625,
-                "y": 6074.1103515625,
-                "z": 144.60813903808595
-            },
-            "rotation": {
-                "x": 0.024250566959381105,
-                "y": 0.10620266944169998,
-                "z": 0.7062904834747315,
-                "w": 0.6994903087615967
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "70b7049e-ccb6-5874-a526-d90315f3bef8",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
-            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
-        },
-        {
             "id": "837b2ac5-99c8-c215-2373-e48856938dfa",
             "worldPosition": {
                 "x": 12830.658203125,
@@ -152,29 +423,8 @@
                 "id": "65f8bfec-2185-7e3f-11b1-0ac58433782d",
                 "radius": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
-            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
-        },
-        {
-            "id": "0a49e7da-afe2-4765-b716-50000855b59a",
-            "worldPosition": {
-                "x": 12791.0537109375,
-                "y": 6090.36181640625,
-                "z": 148.2833709716797
-            },
-            "rotation": {
-                "x": -0.013662545010447503,
-                "y": 0.08491987735033035,
-                "z": 0.7097343802452087,
-                "w": 0.6991989016532898
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f24f2a6c-ee59-1f3c-326e-229ed3a138e4",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
-            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_837b2ac599c8c2152373e48856938dfa",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:938dfa"
         },
         {
             "id": "1f5ddf39-b633-0d52-d685-b55997ac8358",
@@ -194,8 +444,126 @@
                 "id": "541b1a7d-5628-82fa-f4e1-b1a25831c446",
                 "radius": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
-            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_1f5ddf39b6330d52d685b55997ac8358",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:ac8358"
+        },
+        {
+            "id": "0a49e7da-afe2-4765-b716-50000855b59a",
+            "worldPosition": {
+                "x": 12791.0537109375,
+                "y": 6090.36181640625,
+                "z": 148.2833709716797
+            },
+            "rotation": {
+                "x": -0.013662545010447503,
+                "y": 0.08491987735033035,
+                "z": 0.7097343802452087,
+                "w": 0.6991989016532898
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f24f2a6c-ee59-1f3c-326e-229ed3a138e4",
+                "radius": 10.0
+            },
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_0a49e7daafe24765b71650000855b59a",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:55b59a"
+        },
+        {
+            "id": "b9525080-68c4-9f53-1c3b-6c433c20c54f",
+            "worldPosition": {
+                "x": 12814.2041015625,
+                "y": 6074.1103515625,
+                "z": 144.60813903808595
+            },
+            "rotation": {
+                "x": 0.024250566959381105,
+                "y": 0.10620266944169998,
+                "z": 0.7062904834747315,
+                "w": 0.6994903087615967
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "70b7049e-ccb6-5874-a526-d90315f3bef8",
+                "radius": 10.0
+            },
+            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_b952508068c49f531c3b6c433c20c54f",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:20c54f"
+        },
+        {
+            "id": "250ce68c-fbc4-141a-6ded-e7f9cea9547f",
+            "worldPosition": {
+                "x": 12898.86328125,
+                "y": 5976.13134765625,
+                "z": 103.08493041992188
+            },
+            "rotation": {
+                "x": 0.045036010444164279,
+                "y": 0.026643728837370874,
+                "z": 8.871359824524916e-8,
+                "w": 0.9986299872398377
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "81c2ee53-2279-5232-1c9c-06573f3c9581",
+                "width": 6.0,
+                "height": 8.0
+            },
+            "sliceName": "CoatGen\\8bddfb53\\Tent_Abnd_C_250ce68cfbc4141a6dede7f9cea9547f",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:a9547f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e0becb17-a032-8ebf-4727-98f36957a0f8",
+            "worldPosition": {
+                "x": 12909.0537109375,
+                "y": 5983.41064453125,
+                "z": 103.25777435302735
+            },
+            "rotation": {
+                "x": 0.04031169414520264,
+                "y": -0.019230375066399576,
+                "z": 0.3303183615207672,
+                "w": 0.9428122639656067
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1774ed3c-99d5-8f4f-8c9b-09e04a90a5c2",
+                "radius": 1.600000023841858
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Furniture/Beds/Cot_T1_Single_A",
+            "sliceAssetId": "{F0871C52-7B28-57D4-8FD3-C3E3747FA3A6}:2"
+        },
+        {
+            "id": "231fdeac-ac03-6794-e7e3-4023a16c542e",
+            "worldPosition": {
+                "x": 12910.388671875,
+                "y": 5983.58544921875,
+                "z": 103.28736114501953
+            },
+            "rotation": {
+                "x": 0.03909141942858696,
+                "y": -0.02992538921535015,
+                "z": 0.32517343759536745,
+                "w": 0.9443720579147339
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f048aa2b-e2b9-db03-a11b-9f014641dbb9",
+                "width": 6.0,
+                "height": 8.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Camp/Tent/Tent_Abnd_A",
+            "sliceAssetId": "{E13E8B05-443B-509A-A20C-BBA0F6AF362F}:2",
+            "cookie": {
+                "innerRadius": 1.0,
+                "outerRadius": 2.0,
+                "maxHeightBlend": 1.0
+            },
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "72530725-f1be-5f8b-3a63-178073a1f4c0",
@@ -220,82 +588,6 @@
             "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:a1f4c0"
         },
         {
-            "id": "9f9799fd-17bd-8a64-5077-7319faa4536c",
-            "worldPosition": {
-                "x": 12808.078125,
-                "y": 6067.1171875,
-                "z": 145.97434997558595
-            },
-            "rotation": {
-                "x": 0.00016751952352933586,
-                "y": 0.0176639836281538,
-                "z": 0.0877176821231842,
-                "w": 0.9959887266159058
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "6cf924f8-0a48-2735-ac64-5fed1143f2fc",
-                "width": 3.0,
-                "height": 3.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_D",
-            "sliceAssetId": "{80233DE2-C168-501A-8188-0EE0D22E05DB}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a9621204-b04c-8326-c9ca-a6fa936bcfc0",
-            "worldPosition": {
-                "x": 12826.9990234375,
-                "y": 6057.48193359375,
-                "z": 153.29710388183595
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8a04f6af-a97c-97a8-4166-878340cec0b5",
-                "width": 19.0,
-                "height": 4.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_SD",
-            "sliceAssetId": "{CEB2A015-E8D6-50C2-8369-C8F1FC8FA176}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "57802faa-5489-3758-80d2-a0240355cea4",
-            "worldPosition": {
-                "x": 12617.0,
-                "y": 5793.0,
-                "z": 136.1272430419922
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9659257531166077,
-                "w": -0.2588192820549011
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a7a2397b-a04d-c1e6-ca0e-158082a5b474",
-                "radius": 33.0
-            },
-            "sliceName": "slices/POIs/Nature/Wildlife/Den_Cave_Arena_A",
-            "sliceAssetId": "{A47A1235-BB65-5605-8C5B-837EE1C6AFAF}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Natural/Den_Cave_Arena_A_footprint.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "59424670-f222-b090-c05d-a08a4000f026",
             "worldPosition": {
                 "x": 12952.357421875,
@@ -313,8 +605,8 @@
                 "id": "3cbb1f45-5eb5-b148-2890-71d6a2de7744",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Pirate/JAV_Pirate_Camp_Small_A",
-            "sliceAssetId": "{45F05598-140A-5D1A-8340-48724438A15E}:2"
+            "sliceName": "CoatGen\\8bddfb53\\JAV_Pirate_Camp_Small_A_59424670f222b090c05da08a4000f026",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:f026"
         },
         {
             "id": "4db55d87-d457-38b2-a98c-2a077bf0ab56",
@@ -334,63 +626,98 @@
                 "id": "7c3b9a79-e976-2513-c634-ff96c229ec9b",
                 "radius": 5.0
             },
-            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_B",
-            "sliceAssetId": "{C892C099-C85D-557A-8FE7-067A8B9956D4}:2"
+            "sliceName": "CoatGen\\8bddfb53\\JAV_Struc_Pirate_Tower_B_4db55d87d45738b2a98c2a077bf0ab56",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:f0ab56"
         },
         {
-            "id": "250ce68c-fbc4-141a-6ded-e7f9cea9547f",
+            "id": "76285365-12a2-cd09-ad2c-c1bdd0c38933",
             "worldPosition": {
-                "x": 12898.86328125,
-                "y": 5976.13134765625,
-                "z": 103.11624908447266
+                "x": 12907.1328125,
+                "y": 5982.76025390625,
+                "z": 103.28195190429688
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.04746473580598831,
+                "y": 0.032205160707235339,
+                "z": -0.42504173517227175,
+                "w": 0.9033545851707459
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "a2176615-1e55-d634-2389-d41136ff44d9",
+                "width": 1.7999999523162842,
+                "height": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Crafting_Structures/Damned/dmnd_hide_2",
+            "sliceAssetId": "{E8A48983-7E45-5004-A9C6-2E441EA79677}:2"
+        },
+        {
+            "id": "99a7677b-dad5-657d-3f3c-39301997e79a",
+            "worldPosition": {
+                "x": 12907.7548828125,
+                "y": 5973.884765625,
+                "z": 102.46505737304688
+            },
+            "rotation": {
+                "x": 0.030919218435883523,
+                "y": -0.05949554219841957,
+                "z": 0.958152174949646,
+                "w": -0.2782961130142212
+            },
+            "scale": 0.9999995231628418,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "85a4dc73-ffd9-d870-e527-ff32ad530d0d",
+                "width": 4.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Damned/Camps/Damned_Camp_Bench_A",
+            "sliceAssetId": "{99637AAA-81DA-5A2F-A4AC-466F2AF93841}:2"
+        },
+        {
+            "id": "5a54c4ab-b388-2bcf-c311-0ebf6138fa09",
+            "worldPosition": {
+                "x": 12898.8056640625,
+                "y": 5979.36376953125,
+                "z": 103.39765930175781
+            },
+            "rotation": {
+                "x": 0.05804911628365517,
+                "y": -0.006953984033316374,
+                "z": 0.7060739994049072,
+                "w": 0.7057204842567444
             },
             "footprint": {
                 "type": "Circle",
-                "id": "aee08e2c-1423-dadb-299a-96cf88a0c28d",
-                "radius": 0.0
+                "id": "e6717dbb-1f82-2558-07e1-5a0853abc07d",
+                "radius": 3.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Tent_Abnd_C_250ce68cfbc4141a6dede7f9cea9547f",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:a9547f",
-            "cookie": {
-                "innerRadius": 1.0,
-                "outerRadius": 2.0,
-                "maxHeightBlend": 1.0
-            },
+            "sliceName": "slices/POIs/Damned/Camps/Damned_Camp_Tent_Ext_Set_Dressing_L_d",
+            "sliceAssetId": "{14697222-08A0-5E27-A5C4-12D7479AD9E4}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "5ab52e3c-4193-e298-e177-198a581c115c",
+            "id": "aa7647aa-cac9-07a0-635e-2e7ac7d4dbb9",
             "worldPosition": {
-                "x": 12910.2021484375,
-                "y": 5978.98583984375,
-                "z": 102.9439697265625
+                "x": 12905.8486328125,
+                "y": 5977.2548828125,
+                "z": 102.99433135986328
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.47715863585472109,
-                "w": 0.8788172006607056
+                "x": 0.03322313353419304,
+                "y": 0.019702576100826265,
+                "z": -0.0003628604463301599,
+                "w": 0.9992536306381226
             },
             "footprint": {
                 "type": "Circle",
-                "id": "4aebfd0d-7182-c426-1238-6cc9368ad00f",
-                "radius": 0.0
+                "id": "0ed9b362-7142-f4f0-52b2-8d6eea5de0b4",
+                "radius": 1.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Tent_Abnd_C_5ab52e3c4193e298e177198a581c115c",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:1c115c",
-            "cookie": {
-                "innerRadius": 1.0,
-                "outerRadius": 2.0,
-                "maxHeightBlend": 1.0
-            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Camp/Campfire/Campfire_A",
+            "sliceAssetId": "{D96C5793-FE0B-54B6-A931-551C8EA2927F}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -403,8 +730,8 @@
                 "z": 145.56187438964845
             },
             "rotation": {
-                "x": -0.18143069744110108,
-                "y": 0.1653328686952591,
+                "x": -0.18143068253993989,
+                "y": 0.1653328537940979,
                 "z": -0.7040221095085144,
                 "w": 0.6664088368415833
             },
@@ -414,11 +741,34 @@
                 "width": 11.0,
                 "height": 7.0
             },
-            "sliceName": "slices/POIs/Ancient/Kit/Jav_Struc_Ruins_Debris_C",
-            "sliceAssetId": "{559483BE-5817-5C92-BDF8-2D0140D24D0F}:2",
+            "sliceName": "CoatGen\\8bddfb53\\Jav_Struc_Ruins_Debris_C_17c7f110ebc68008e20fc24d6cec1723",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:ec1723",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "d659bebf-de66-c3f0-cb78-1ac2b4d14a49",
+            "worldPosition": {
+                "x": 12908.7958984375,
+                "y": 5980.7119140625,
+                "z": 103.09502410888672
+            },
+            "rotation": {
+                "x": 0.04236122593283653,
+                "y": 0.010983670130372048,
+                "z": -0.4324271082878113,
+                "w": 0.9006062746047974
+            },
+            "scale": 0.8199999928474426,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f63727fa-62ba-1b62-8850-8fa1bb204557",
+                "width": 3.0,
+                "height": 2.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Crafting_Structures/Damned/dmnd_hide_1",
+            "sliceAssetId": "{5C38A91C-CA80-553A-94D0-191E52302857}:2"
         }
     ]
 }
