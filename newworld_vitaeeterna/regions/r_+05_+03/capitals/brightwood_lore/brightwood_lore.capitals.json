@@ -1,6 +1,27 @@
 {
     "Capitals": [
         {
+            "id": "c8eb3555-214d-cead-439e-a22fb38cc43f",
+            "worldPosition": {
+                "x": 11679.583984375,
+                "y": 6298.69189453125,
+                "z": 176.80564880371095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3430c9bd-4da5-e744-9169-5601b902e64f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_WinterConvergence_Title_02_02",
+            "sliceAssetId": "{A3BD7AF2-DA3C-544C-AEC7-0B81935CEA93}:2"
+        },
+        {
             "id": "33d1d130-7546-6760-27f2-33fa23bd4eeb",
             "worldPosition": {
                 "x": 10293.8203125,
@@ -71,6 +92,27 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "31c34e03-c022-25ef-69d2-522f05f65302",
+            "worldPosition": {
+                "x": 11672.3251953125,
+                "y": 6264.130859375,
+                "z": 176.98074340820313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.199367955327034,
+                "w": 0.9799246788024902
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b9f28d12-9732-4b59-8f31-9c8b43dfdc4f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_WinterConvergence_Title_02_01",
+            "sliceAssetId": "{058FDCBC-D4AA-5E52-BB40-A2051B44BD74}:2"
         }
     ]
 }

@@ -1,0 +1,49 @@
+{
+    "Capitals": [
+        {
+            "id": "d65a71d8-3832-d048-83bd-d003267d9bf8",
+            "worldPosition": {
+                "x": 11257.3369140625,
+                "y": 6773.01123046875,
+                "z": 454.4906311035156
+            },
+            "rotation": {
+                "x": 0.05278788134455681,
+                "y": -0.017587101086974145,
+                "z": 0.08775927126407623,
+                "w": 0.9945865869522095
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d786ef02-36ee-9036-1fb2-820faa7f3a76",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Abandoned_T3_L",
+            "sliceAssetId": "{6AAD851A-2C43-5811-8A8C-C027FD8EAF85}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2ca9d4cc-7d8d-3aa8-4863-be289b53cb69",
+            "worldPosition": {
+                "x": 11267.0,
+                "y": 6754.0,
+                "z": 453.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7385bcbf-cbf6-7e7b-9728-cb5864d7f33c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\dff51e94\\WorldEvent_SpawnGroup_Single_Master_2ca9d4cc7d8d3aa84863be289b53cb69",
+            "sliceAssetId": "{481383B9-AF58-513A-AF19-BCFE4E2B371C}:53cb69"
+        }
+    ]
+}

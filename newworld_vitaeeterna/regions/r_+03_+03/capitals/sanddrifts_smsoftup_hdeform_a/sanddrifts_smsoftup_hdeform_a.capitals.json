@@ -1,22 +1,22 @@
 {
     "Capitals": [
         {
-            "id": "401e8921-fbb8-e64f-c073-8714205b3104",
+            "id": "cad6d522-d845-271e-0d78-9817b1e56633",
             "worldPosition": {
-                "x": 7033.85986328125,
-                "y": 8019.07275390625,
-                "z": 205.3192138671875
+                "x": 6950.79052734375,
+                "y": 7923.13916015625,
+                "z": 207.1077423095703
             },
             "rotation": {
-                "x": 0.034007515758275989,
-                "y": 0.09916511178016663,
-                "z": 0.8991485238075256,
-                "w": -0.4249020218849182
+                "x": 0.02514583244919777,
+                "y": 0.044456981122493747,
+                "z": -0.8375493288040161,
+                "w": 0.5439690351486206
             },
-            "scale": 0.7999999523162842,
+            "scale": 0.5280000567436218,
             "footprint": {
                 "type": "Circle",
-                "id": "a9d4c547-4149-060a-2908-d8e77bff87ab",
+                "id": "cc783109-f33e-6b31-4493-245cba684af5",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -26,94 +26,22 @@
             }
         },
         {
-            "id": "5454f050-ce4e-a859-6f63-fd1e2bb392f0",
+            "id": "b198c217-91f2-6f52-4c6a-03107c0b8368",
             "worldPosition": {
-                "x": 6937.90234375,
-                "y": 7899.357421875,
-                "z": 207.4859161376953
+                "x": 6955.02001953125,
+                "y": 7858.2001953125,
+                "z": 205.46749877929688
             },
             "rotation": {
-                "x": -0.0012226427206769586,
-                "y": -0.0038249543868005277,
-                "z": 0.9997459650039673,
-                "w": 0.022177519276738168
+                "x": -0.031325530260801318,
+                "y": -0.13803094625473023,
+                "z": 0.9896900057792664,
+                "w": 0.02190552093088627
             },
-            "scale": 0.5716469883918762,
+            "scale": 0.571644127368927,
             "footprint": {
                 "type": "Circle",
-                "id": "c7a197a9-bbca-5b66-6d34-1442205c8e82",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "53469282-6926-4ec6-41bd-c36e1df0c4fb",
-            "worldPosition": {
-                "x": 6976.056640625,
-                "y": 7833.0498046875,
-                "z": 193.42137145996095
-            },
-            "rotation": {
-                "x": 0.19399577379226685,
-                "y": -0.15912985801696778,
-                "z": 0.7906013131141663,
-                "w": 0.558563232421875
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "27472dab-6c9b-9272-18d2-f3330186b1af",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "d815bac3-0d0f-3f06-7b65-6340d373ff9a",
-            "worldPosition": {
-                "x": 6973.32421875,
-                "y": 8031.56298828125,
-                "z": 209.2507781982422
-            },
-            "rotation": {
-                "x": -0.05132979154586792,
-                "y": 0.09822506457567215,
-                "z": -0.829201340675354,
-                "w": 0.5478523373603821
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "23f0f31b-1c22-86e5-b75d-0fab152f5ee7",
-                "radius": 0.0
-            },
-            "sliceName": "CoatGen\\48349884\\sanddrift_sm_flat_a_footprint_d815bac30d0f3f067b656340d373ff9a",
-            "sliceAssetId": "{C98DB044-98E2-585B-9CE0-61C19D28DE57}:73ff9a",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "80831c52-6671-f83f-ff69-9730c4aaa9f8",
-            "worldPosition": {
-                "x": 6989.0,
-                "y": 7870.0,
-                "z": 208.24583435058595
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "702034b4-3c70-7bf0-fcfc-37775c633946",
+                "id": "26c41b2c-00f3-5c95-3069-d2be9a56cfa0",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -148,22 +76,119 @@
             }
         },
         {
-            "id": "6ee2f9aa-4dbc-3a0c-22f2-e31e76d6d30a",
+            "id": "f41a107e-bbfa-c562-c657-a164933b0fcb",
             "worldPosition": {
-                "x": 7169.22021484375,
-                "y": 7834.3759765625,
-                "z": 188.8195343017578
+                "x": 6946.5146484375,
+                "y": 7912.98876953125,
+                "z": 207.61190795898438
             },
             "rotation": {
-                "x": -0.006884051486849785,
-                "y": -0.07220549881458283,
-                "z": 0.9966485500335693,
-                "w": 0.03782421723008156
+                "x": -0.0012226427206769586,
+                "y": -0.0038249543868005277,
+                "z": 0.9997459650039673,
+                "w": 0.022177519276738168
             },
-            "scale": 0.6700006723403931,
+            "scale": 0.5716472268104553,
             "footprint": {
                 "type": "Circle",
-                "id": "155ff625-2e30-50b8-7194-78b74767cfd7",
+                "id": "c4979505-67d4-bb1f-0bef-c2f045040fc3",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "fb023ebc-c520-11e3-8a17-0a855946f55e",
+            "worldPosition": {
+                "x": 7369.45556640625,
+                "y": 6843.802734375,
+                "z": 185.5997314453125
+            },
+            "rotation": {
+                "x": -0.017922639846801759,
+                "y": -0.02914242073893547,
+                "z": 0.9912023544311523,
+                "w": 0.12785671651363374
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "812df281-71d1-0161-fd7c-5a005e55b0db",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "53469282-6926-4ec6-41bd-c36e1df0c4fb",
+            "worldPosition": {
+                "x": 6976.056640625,
+                "y": 7833.0498046875,
+                "z": 193.42137145996095
+            },
+            "rotation": {
+                "x": 0.19399577379226685,
+                "y": -0.15912985801696778,
+                "z": 0.7906013131141663,
+                "w": 0.558563232421875
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "27472dab-6c9b-9272-18d2-f3330186b1af",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "332761d4-fd45-6a36-0876-efa95d7cf71a",
+            "worldPosition": {
+                "x": 6962.166015625,
+                "y": 7926.98193359375,
+                "z": 207.15823364257813
+            },
+            "rotation": {
+                "x": 0.025145838037133218,
+                "y": 0.044456977397203448,
+                "z": -0.8375493288040161,
+                "w": 0.5439690351486206
+            },
+            "scale": 0.5280000567436218,
+            "footprint": {
+                "type": "Circle",
+                "id": "973e29a0-e993-f9e6-30bd-0657e344a134",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "41fe7a88-0615-e884-a4da-5e8886b92e5d",
+            "worldPosition": {
+                "x": 6930.1220703125,
+                "y": 7827.29736328125,
+                "z": 188.1643829345703
+            },
+            "rotation": {
+                "x": 0.011848033405840397,
+                "y": -0.007960391230881215,
+                "z": 0.9998002648353577,
+                "w": 0.013989892788231373
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a6b5c7e6-5b6a-23d6-3f61-24cd5831c90b",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -198,22 +223,22 @@
             }
         },
         {
-            "id": "ec010412-7556-8e42-6100-6303b9eb89b0",
+            "id": "2d70887c-5f0a-11d3-aa3d-3819ba15af21",
             "worldPosition": {
-                "x": 6485.33349609375,
-                "y": 7756.44970703125,
-                "z": 113.84351348876953
+                "x": 6443.142578125,
+                "y": 8032.041015625,
+                "z": 119.2833480834961
             },
             "rotation": {
-                "x": -0.04959200322628021,
-                "y": -0.03871815651655197,
-                "z": 0.7699533104896545,
-                "w": 0.6349908113479614
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9848077297210693,
+                "w": 0.17364822328090669
             },
-            "scale": 0.8000001907348633,
+            "scale": 0.6093527674674988,
             "footprint": {
                 "type": "Circle",
-                "id": "0ff6426b-7dfb-3407-e6c3-51ce18d82cb6",
+                "id": "070cf5c7-d82b-ac5b-f70c-bb97eb8331fc",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -223,22 +248,22 @@
             }
         },
         {
-            "id": "4626c439-0041-2d67-c4a0-73163ff54339",
+            "id": "8708cad9-acdd-ff68-338c-20fbf8a6e018",
             "worldPosition": {
-                "x": 6927.6845703125,
-                "y": 7999.36962890625,
-                "z": 209.5609588623047
+                "x": 6983.81396484375,
+                "y": 7919.0107421875,
+                "z": 208.32257080078126
             },
             "rotation": {
-                "x": 0.025145836174488069,
-                "y": 0.04445699229836464,
-                "z": -0.8375494480133057,
-                "w": 0.5439689755439758
+                "x": 0.025145838037133218,
+                "y": 0.04445696622133255,
+                "z": -0.8375493288040161,
+                "w": 0.5439690351486206
             },
-            "scale": 0.800000011920929,
+            "scale": 0.5280000567436218,
             "footprint": {
                 "type": "Circle",
-                "id": "ddcbf9b0-865d-a8b4-b1c4-3105aac2cf1a",
+                "id": "0a585e75-dbba-169f-a588-dc1226281cd0",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -248,22 +273,21 @@
             }
         },
         {
-            "id": "4d99ad64-e4e5-144b-056a-fd201d825616",
+            "id": "eb115185-89d0-8f3e-52bb-c2a99a8134bf",
             "worldPosition": {
-                "x": 6975.85498046875,
-                "y": 7770.95947265625,
-                "z": 180.24942016601563
+                "x": 6913.80859375,
+                "y": 7815.31298828125,
+                "z": 194.71978759765626
             },
             "rotation": {
-                "x": 0.24961556494235993,
-                "y": 0.04126538336277008,
-                "z": 0.9545104503631592,
-                "w": 0.15779425203800202
+                "x": 0.09506271779537201,
+                "y": -0.14937300980091096,
+                "z": 0.9095480442047119,
+                "w": -0.3759961724281311
             },
-            "scale": 0.7236002087593079,
             "footprint": {
                 "type": "Circle",
-                "id": "5d8110b8-824d-6ab6-d18b-7300ac105944",
+                "id": "93ab3c5d-a52f-ed9c-811b-c553a0ec580b",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -273,22 +297,145 @@
             }
         },
         {
-            "id": "f288d675-e122-2cae-d7ea-0c090cf96a3f",
+            "id": "d815bac3-0d0f-3f06-7b65-6340d373ff9a",
             "worldPosition": {
-                "x": 6943.609375,
-                "y": 8030.65087890625,
-                "z": 210.5172576904297
+                "x": 6973.32421875,
+                "y": 8031.56298828125,
+                "z": 209.2507781982422
             },
             "rotation": {
-                "x": 0.0061462861485779289,
-                "y": 0.07365995645523071,
-                "z": -0.8354878425598145,
-                "w": 0.5445150136947632
+                "x": -0.05132979154586792,
+                "y": 0.09822506457567215,
+                "z": -0.829201340675354,
+                "w": 0.5478523373603821
             },
-            "scale": 0.7999998927116394,
             "footprint": {
                 "type": "Circle",
-                "id": "95e73fc0-49ea-91d0-141a-c0d675828b4c",
+                "id": "23f0f31b-1c22-86e5-b75d-0fab152f5ee7",
+                "radius": 0.0
+            },
+            "sliceName": "CoatGen\\48349884\\sanddrift_sm_flat_a_footprint_d815bac30d0f3f067b656340d373ff9a",
+            "sliceAssetId": "{C98DB044-98E2-585B-9CE0-61C19D28DE57}:73ff9a",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "d21c1778-7681-b43f-195c-7ea70c23b825",
+            "worldPosition": {
+                "x": 7000.00341796875,
+                "y": 7794.345703125,
+                "z": 171.01419067382813
+            },
+            "rotation": {
+                "x": 0.007689783349633217,
+                "y": -0.06112125515937805,
+                "z": 0.9755426049232483,
+                "w": 0.21100173890590669
+            },
+            "scale": 1.3400002717971802,
+            "footprint": {
+                "type": "Circle",
+                "id": "484e2f0b-4411-99f3-7225-959d32bc6336",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "59b9d2be-9c7d-83fe-b305-8aaa65d9376c",
+            "worldPosition": {
+                "x": 7773.408203125,
+                "y": 7987.494140625,
+                "z": 230.29312133789063
+            },
+            "rotation": {
+                "x": 0.0192080307751894,
+                "y": -0.015877313911914827,
+                "z": 0.9753446578979492,
+                "w": -0.21927550435066224
+            },
+            "scale": 0.7772004008293152,
+            "footprint": {
+                "type": "Circle",
+                "id": "fbe30a8e-d3e2-bb86-25c1-0b90eb3de83a",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "1b794a61-48cb-aec8-c788-395cde306b56",
+            "worldPosition": {
+                "x": 6979.44775390625,
+                "y": 7822.64599609375,
+                "z": 189.7675323486328
+            },
+            "rotation": {
+                "x": 0.0241339560598135,
+                "y": -0.17512939870357514,
+                "z": 0.9105270504951477,
+                "w": -0.37374821305274966
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "243ee1ff-99d8-bfab-68b6-6ad44ea9f1b8",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "cca3d033-4751-1cae-2d47-161d7a758410",
+            "worldPosition": {
+                "x": 6973.64501953125,
+                "y": 7803.07177734375,
+                "z": 181.84107971191407
+            },
+            "rotation": {
+                "x": 0.21492083370685578,
+                "y": -0.141621932387352,
+                "z": 0.9448472261428833,
+                "w": 0.20252393186092378
+            },
+            "scale": 0.7236000895500183,
+            "footprint": {
+                "type": "Circle",
+                "id": "3b6bca12-e1ab-fcee-2ae4-8c97c1803b43",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "dc4798c9-6aed-b78b-b613-39e86c5e1777",
+            "worldPosition": {
+                "x": 6540.17236328125,
+                "y": 7662.837890625,
+                "z": 117.73714447021485
+            },
+            "rotation": {
+                "x": 0.06749135255813599,
+                "y": -0.0441085547208786,
+                "z": 0.9528062343597412,
+                "w": 0.2926766872406006
+            },
+            "scale": 0.9417605996131897,
+            "footprint": {
+                "type": "Circle",
+                "id": "f598fc40-bf47-d993-4827-3af1e37ac5bf",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -348,85 +495,11 @@
             }
         },
         {
-            "id": "07d7a429-f22e-bef0-3b15-64da735873d3",
+            "id": "5454f050-ce4e-a859-6f63-fd1e2bb392f0",
             "worldPosition": {
-                "x": 7830.798828125,
-                "y": 7997.58154296875,
-                "z": 232.3717498779297
-            },
-            "rotation": {
-                "x": 0.013265262357890606,
-                "y": -0.026353178545832635,
-                "z": -0.7252447009086609,
-                "w": 0.6878588199615479
-            },
-            "scale": 0.746500551700592,
-            "footprint": {
-                "type": "Circle",
-                "id": "ad628756-b74d-cfa0-ba17-f608eb7b1553",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "dc4798c9-6aed-b78b-b613-39e86c5e1777",
-            "worldPosition": {
-                "x": 6540.17236328125,
-                "y": 7662.837890625,
-                "z": 117.73714447021485
-            },
-            "rotation": {
-                "x": 0.06749135255813599,
-                "y": -0.0441085547208786,
-                "z": 0.9528062343597412,
-                "w": 0.2926766872406006
-            },
-            "scale": 0.9417605996131897,
-            "footprint": {
-                "type": "Circle",
-                "id": "f598fc40-bf47-d993-4827-3af1e37ac5bf",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "eb115185-89d0-8f3e-52bb-c2a99a8134bf",
-            "worldPosition": {
-                "x": 6913.80859375,
-                "y": 7815.31298828125,
-                "z": 194.71978759765626
-            },
-            "rotation": {
-                "x": 0.09506271779537201,
-                "y": -0.14937300980091096,
-                "z": 0.9095480442047119,
-                "w": -0.3759961724281311
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "93ab3c5d-a52f-ed9c-811b-c553a0ec580b",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "f41a107e-bbfa-c562-c657-a164933b0fcb",
-            "worldPosition": {
-                "x": 6946.5146484375,
-                "y": 7912.98876953125,
-                "z": 207.61190795898438
+                "x": 6937.90234375,
+                "y": 7899.357421875,
+                "z": 207.4859161376953
             },
             "rotation": {
                 "x": -0.0012226427206769586,
@@ -434,35 +507,10 @@
                 "z": 0.9997459650039673,
                 "w": 0.022177519276738168
             },
-            "scale": 0.571647047996521,
+            "scale": 0.5716471672058106,
             "footprint": {
                 "type": "Circle",
-                "id": "c4979505-67d4-bb1f-0bef-c2f045040fc3",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "cad6d522-d845-271e-0d78-9817b1e56633",
-            "worldPosition": {
-                "x": 6950.79052734375,
-                "y": 7923.13916015625,
-                "z": 207.1077423095703
-            },
-            "rotation": {
-                "x": 0.02514583244919777,
-                "y": 0.044456981122493747,
-                "z": -0.8375493288040161,
-                "w": 0.5439690351486206
-            },
-            "scale": 0.5280000567436218,
-            "footprint": {
-                "type": "Circle",
-                "id": "cc783109-f33e-6b31-4493-245cba684af5",
+                "id": "c7a197a9-bbca-5b66-6d34-1442205c8e82",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -497,95 +545,22 @@
             }
         },
         {
-            "id": "d8ee917a-5b1e-7edd-28c1-ce373fc67271",
+            "id": "07d7a429-f22e-bef0-3b15-64da735873d3",
             "worldPosition": {
-                "x": 6930.314453125,
-                "y": 7836.2724609375,
-                "z": 195.84951782226563
+                "x": 7830.798828125,
+                "y": 7997.58154296875,
+                "z": 232.3717498779297
             },
             "rotation": {
-                "x": 0.02347046509385109,
-                "y": -0.1610015630722046,
-                "z": 0.986552894115448,
-                "w": 0.015525739639997483
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9e4bfe38-bab0-cd93-a4ae-0137a9760956",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "1b794a61-48cb-aec8-c788-395cde306b56",
-            "worldPosition": {
-                "x": 6979.44775390625,
-                "y": 7822.64599609375,
-                "z": 189.7675323486328
-            },
-            "rotation": {
-                "x": 0.0241339560598135,
-                "y": -0.17512939870357514,
-                "z": 0.9105270504951477,
-                "w": -0.37374821305274966
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "243ee1ff-99d8-bfab-68b6-6ad44ea9f1b8",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "cca3d033-4751-1cae-2d47-161d7a758410",
-            "worldPosition": {
-                "x": 6973.64501953125,
-                "y": 7803.07177734375,
-                "z": 181.84107971191407
-            },
-            "rotation": {
-                "x": 0.21492083370685578,
-                "y": -0.141621932387352,
-                "z": 0.9448472261428833,
-                "w": 0.20252393186092378
-            },
-            "scale": 0.7236000895500183,
-            "footprint": {
-                "type": "Circle",
-                "id": "3b6bca12-e1ab-fcee-2ae4-8c97c1803b43",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "a21abd23-584e-c824-7013-81a4f44e0336",
-            "worldPosition": {
-                "x": 7803.20263671875,
-                "y": 8000.3046875,
-                "z": 230.34510803222657
-            },
-            "rotation": {
-                "x": -0.021471284329891206,
-                "y": -0.02979637309908867,
-                "z": 0.9968602061271668,
-                "w": -0.07014887779951096
+                "x": 0.013265262357890606,
+                "y": -0.026353178545832635,
+                "z": -0.7252447009086609,
+                "w": 0.6878588199615479
             },
             "scale": 0.746500551700592,
             "footprint": {
                 "type": "Circle",
-                "id": "5afe1b8f-9b5e-a095-f389-a9397449ec3f",
+                "id": "ad628756-b74d-cfa0-ba17-f608eb7b1553",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -595,22 +570,22 @@
             }
         },
         {
-            "id": "7401c343-2121-8c4e-13db-26829801f8e6",
+            "id": "4626c439-0041-2d67-c4a0-73163ff54339",
             "worldPosition": {
-                "x": 7798.2392578125,
-                "y": 7970.4375,
-                "z": 231.03610229492188
+                "x": 6927.6845703125,
+                "y": 7999.36962890625,
+                "z": 209.5609588623047
             },
             "rotation": {
-                "x": -0.016521204262971879,
-                "y": 0.0012531389947980643,
-                "z": -0.6059969663619995,
-                "w": 0.7952943444252014
+                "x": 0.025145836174488069,
+                "y": 0.04445699229836464,
+                "z": -0.8375494480133057,
+                "w": 0.5439689755439758
             },
-            "scale": 0.6606205701828003,
+            "scale": 0.800000011920929,
             "footprint": {
                 "type": "Circle",
-                "id": "3c85c85d-4ef7-a891-83b3-17fbc124eb68",
+                "id": "ddcbf9b0-865d-a8b4-b1c4-3105aac2cf1a",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -620,22 +595,22 @@
             }
         },
         {
-            "id": "b198c217-91f2-6f52-4c6a-03107c0b8368",
+            "id": "4d99ad64-e4e5-144b-056a-fd201d825616",
             "worldPosition": {
-                "x": 6955.02001953125,
-                "y": 7858.2001953125,
-                "z": 205.46749877929688
+                "x": 6975.85498046875,
+                "y": 7770.95947265625,
+                "z": 180.24942016601563
             },
             "rotation": {
-                "x": -0.031325530260801318,
-                "y": -0.13803094625473023,
-                "z": 0.9896900057792664,
-                "w": 0.02190552093088627
+                "x": 0.24961556494235993,
+                "y": 0.04126538336277008,
+                "z": 0.9545104503631592,
+                "w": 0.15779425203800202
             },
-            "scale": 0.571644127368927,
+            "scale": 0.7236002087593079,
             "footprint": {
                 "type": "Circle",
-                "id": "26c41b2c-00f3-5c95-3069-d2be9a56cfa0",
+                "id": "5d8110b8-824d-6ab6-d18b-7300ac105944",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -645,22 +620,21 @@
             }
         },
         {
-            "id": "332761d4-fd45-6a36-0876-efa95d7cf71a",
+            "id": "40b18904-35f7-378c-9a11-3917d39ca67c",
             "worldPosition": {
-                "x": 6962.166015625,
-                "y": 7926.98193359375,
-                "z": 207.15823364257813
+                "x": 7472.93017578125,
+                "y": 6864.60888671875,
+                "z": 188.35128784179688
             },
             "rotation": {
-                "x": 0.025145838037133218,
-                "y": 0.044456977397203448,
-                "z": -0.8375493288040161,
-                "w": 0.5439690351486206
+                "x": -0.06469088047742844,
+                "y": 0.06710156053304672,
+                "z": -0.003082667477428913,
+                "w": 0.9956420063972473
             },
-            "scale": 0.5280000567436218,
             "footprint": {
                 "type": "Circle",
-                "id": "973e29a0-e993-f9e6-30bd-0657e344a134",
+                "id": "8cd87736-b638-b74c-bf04-49b9623afd4c",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -670,22 +644,22 @@
             }
         },
         {
-            "id": "62083b51-b258-282b-913f-738b069cee8f",
+            "id": "6ee2f9aa-4dbc-3a0c-22f2-e31e76d6d30a",
             "worldPosition": {
-                "x": 7833.70458984375,
-                "y": 8020.984375,
-                "z": 232.2935028076172
+                "x": 7169.22021484375,
+                "y": 7834.3759765625,
+                "z": 188.8195343017578
             },
             "rotation": {
-                "x": 0.0022699737455695869,
-                "y": 0.029446274042129518,
-                "z": 0.9271396994590759,
-                "w": -0.3735501766204834
+                "x": -0.006884052883833647,
+                "y": -0.07220545411109925,
+                "z": 0.9966485500335693,
+                "w": 0.03782421723008156
             },
-            "scale": 0.7465006709098816,
+            "scale": 0.6700006723403931,
             "footprint": {
                 "type": "Circle",
-                "id": "cfc35fba-2b19-4257-cb9b-580310852294",
+                "id": "155ff625-2e30-50b8-7194-78b74767cfd7",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -695,22 +669,21 @@
             }
         },
         {
-            "id": "d21c1778-7681-b43f-195c-7ea70c23b825",
+            "id": "80831c52-6671-f83f-ff69-9730c4aaa9f8",
             "worldPosition": {
-                "x": 7000.00341796875,
-                "y": 7794.345703125,
-                "z": 171.01419067382813
+                "x": 6989.0,
+                "y": 7870.0,
+                "z": 208.24583435058595
             },
             "rotation": {
-                "x": 0.007689783349633217,
-                "y": -0.06112125515937805,
-                "z": 0.9755426049232483,
-                "w": 0.21100173890590669
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
             },
-            "scale": 1.3400002717971802,
             "footprint": {
                 "type": "Circle",
-                "id": "484e2f0b-4411-99f3-7225-959d32bc6336",
+                "id": "702034b4-3c70-7bf0-fcfc-37775c633946",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -720,22 +693,22 @@
             }
         },
         {
-            "id": "65c368ca-3299-8a83-d8ef-053bb4f19e48",
+            "id": "f288d675-e122-2cae-d7ea-0c090cf96a3f",
             "worldPosition": {
-                "x": 6933.14208984375,
-                "y": 7852.005859375,
-                "z": 202.2461700439453
+                "x": 6943.609375,
+                "y": 8030.65087890625,
+                "z": 210.5172576904297
             },
             "rotation": {
-                "x": -0.03074193373322487,
-                "y": -0.11207661032676697,
-                "z": 0.9929640889167786,
-                "w": 0.022718291729688646
+                "x": 0.0061462861485779289,
+                "y": 0.07365995645523071,
+                "z": -0.8354878425598145,
+                "w": 0.5445150136947632
             },
-            "scale": 0.571644127368927,
+            "scale": 0.7999998927116394,
             "footprint": {
                 "type": "Circle",
-                "id": "e667a266-e872-2886-67a1-7a61550e15b7",
+                "id": "95e73fc0-49ea-91d0-141a-c0d675828b4c",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -753,7 +726,7 @@
             },
             "rotation": {
                 "x": -0.02740071341395378,
-                "y": -0.011824002489447594,
+                "y": -0.011824003420770169,
                 "z": 0.7708355784416199,
                 "w": 0.6363347768783569
             },
@@ -761,31 +734,6 @@
             "footprint": {
                 "type": "Circle",
                 "id": "714f2396-d27c-f971-00ad-2ffd761ea757",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "59b9d2be-9c7d-83fe-b305-8aaa65d9376c",
-            "worldPosition": {
-                "x": 7773.408203125,
-                "y": 7987.494140625,
-                "z": 230.29312133789063
-            },
-            "rotation": {
-                "x": 0.0192080307751894,
-                "y": -0.015877313911914827,
-                "z": 0.9753446578979492,
-                "w": -0.21927550435066224
-            },
-            "scale": 0.7772004008293152,
-            "footprint": {
-                "type": "Circle",
-                "id": "fbe30a8e-d3e2-bb86-25c1-0b90eb3de83a",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -820,22 +768,22 @@
             }
         },
         {
-            "id": "2d70887c-5f0a-11d3-aa3d-3819ba15af21",
+            "id": "401e8921-fbb8-e64f-c073-8714205b3104",
             "worldPosition": {
-                "x": 6443.142578125,
-                "y": 8032.041015625,
-                "z": 119.2833480834961
+                "x": 7033.85986328125,
+                "y": 8019.07275390625,
+                "z": 205.3192138671875
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9848077297210693,
-                "w": 0.17364822328090669
+                "x": 0.034007515758275989,
+                "y": 0.09916511178016663,
+                "z": 0.8991485238075256,
+                "w": -0.4249020218849182
             },
-            "scale": 0.6093527674674988,
+            "scale": 0.7999999523162842,
             "footprint": {
                 "type": "Circle",
-                "id": "070cf5c7-d82b-ac5b-f70c-bb97eb8331fc",
+                "id": "a9d4c547-4149-060a-2908-d8e77bff87ab",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -845,47 +793,22 @@
             }
         },
         {
-            "id": "95652161-dd30-814b-cce7-1debf2a11b3a",
+            "id": "a21abd23-584e-c824-7013-81a4f44e0336",
             "worldPosition": {
-                "x": 6952.0029296875,
-                "y": 7893.6318359375,
-                "z": 207.96998596191407
+                "x": 7803.20263671875,
+                "y": 8000.3046875,
+                "z": 230.34510803222657
             },
             "rotation": {
-                "x": -0.0012226427206769586,
-                "y": -0.0038249546196311714,
-                "z": 0.9997459650039673,
-                "w": 0.022177519276738168
+                "x": -0.021471284329891206,
+                "y": -0.02979637309908867,
+                "z": 0.9968602061271668,
+                "w": -0.07014887779951096
             },
-            "scale": 0.5716469883918762,
+            "scale": 0.746500551700592,
             "footprint": {
                 "type": "Circle",
-                "id": "9f91c03f-092d-20cb-4dcb-dabb8622c9a6",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
-            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
-            }
-        },
-        {
-            "id": "41754323-2750-c5c1-363d-3f0e99de1658",
-            "worldPosition": {
-                "x": 7773.5537109375,
-                "y": 8022.75634765625,
-                "z": 231.2652587890625
-            },
-            "rotation": {
-                "x": -0.012247378006577492,
-                "y": 0.011158956214785576,
-                "z": 0.012099839746952057,
-                "w": 0.9997895359992981
-            },
-            "scale": 0.7771987915039063,
-            "footprint": {
-                "type": "Circle",
-                "id": "2a656f5e-f49c-803f-1c65-7f58de838ee2",
+                "id": "5afe1b8f-9b5e-a095-f389-a9397449ec3f",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -920,22 +843,22 @@
             }
         },
         {
-            "id": "8708cad9-acdd-ff68-338c-20fbf8a6e018",
+            "id": "7401c343-2121-8c4e-13db-26829801f8e6",
             "worldPosition": {
-                "x": 6983.81396484375,
-                "y": 7919.0107421875,
-                "z": 208.32257080078126
+                "x": 7798.2392578125,
+                "y": 7970.4375,
+                "z": 231.03610229492188
             },
             "rotation": {
-                "x": 0.025145838037133218,
-                "y": 0.04445696622133255,
-                "z": -0.8375493288040161,
-                "w": 0.5439690351486206
+                "x": -0.016521204262971879,
+                "y": 0.0012531389947980643,
+                "z": -0.6059969663619995,
+                "w": 0.7952943444252014
             },
-            "scale": 0.5280000567436218,
+            "scale": 0.6606205701828003,
             "footprint": {
                 "type": "Circle",
-                "id": "0a585e75-dbba-169f-a588-dc1226281cd0",
+                "id": "3c85c85d-4ef7-a891-83b3-17fbc124eb68",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -945,21 +868,22 @@
             }
         },
         {
-            "id": "41fe7a88-0615-e884-a4da-5e8886b92e5d",
+            "id": "62083b51-b258-282b-913f-738b069cee8f",
             "worldPosition": {
-                "x": 6930.1220703125,
-                "y": 7827.29736328125,
-                "z": 188.1643829345703
+                "x": 7833.70458984375,
+                "y": 8020.984375,
+                "z": 232.2935028076172
             },
             "rotation": {
-                "x": 0.011848033405840397,
-                "y": -0.007960391230881215,
-                "z": 0.9998002648353577,
-                "w": 0.013989892788231373
+                "x": 0.0022699737455695869,
+                "y": 0.029446274042129518,
+                "z": 0.9271396994590759,
+                "w": -0.3735501766204834
             },
+            "scale": 0.7465006709098816,
             "footprint": {
                 "type": "Circle",
-                "id": "a6b5c7e6-5b6a-23d6-3f61-24cd5831c90b",
+                "id": "cfc35fba-2b19-4257-cb9b-580310852294",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
@@ -969,121 +893,416 @@
             }
         },
         {
-            "id": "8d14d06f-f1c4-3642-f9b3-7b501432ae2a",
+            "id": "41754323-2750-c5c1-363d-3f0e99de1658",
             "worldPosition": {
-                "x": 6952.84521484375,
-                "y": 7886.92236328125,
-                "z": 207.94094848632813
+                "x": 7773.5537109375,
+                "y": 8022.75634765625,
+                "z": 231.2652587890625
+            },
+            "rotation": {
+                "x": -0.012247378006577492,
+                "y": 0.01115895714610815,
+                "z": 0.012099843472242356,
+                "w": 0.9997895359992981
+            },
+            "scale": 0.7771986126899719,
+            "footprint": {
+                "type": "Circle",
+                "id": "2a656f5e-f49c-803f-1c65-7f58de838ee2",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "ec010412-7556-8e42-6100-6303b9eb89b0",
+            "worldPosition": {
+                "x": 6485.33349609375,
+                "y": 7756.44970703125,
+                "z": 113.84351348876953
+            },
+            "rotation": {
+                "x": -0.04959200322628021,
+                "y": -0.03871815651655197,
+                "z": 0.7699533104896545,
+                "w": 0.6349908113479614
+            },
+            "scale": 0.8000001907348633,
+            "footprint": {
+                "type": "Circle",
+                "id": "0ff6426b-7dfb-3407-e6c3-51ce18d82cb6",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "95652161-dd30-814b-cce7-1debf2a11b3a",
+            "worldPosition": {
+                "x": 6952.0029296875,
+                "y": 7893.6318359375,
+                "z": 207.96998596191407
+            },
+            "rotation": {
+                "x": -0.0012226427206769586,
+                "y": -0.0038249546196311714,
+                "z": 0.9997459650039673,
+                "w": 0.022177519276738168
+            },
+            "scale": 0.5716471672058106,
+            "footprint": {
+                "type": "Circle",
+                "id": "9f91c03f-092d-20cb-4dcb-dabb8622c9a6",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "d8ee917a-5b1e-7edd-28c1-ce373fc67271",
+            "worldPosition": {
+                "x": 6930.314453125,
+                "y": 7836.2724609375,
+                "z": 195.84951782226563
+            },
+            "rotation": {
+                "x": 0.02347046509385109,
+                "y": -0.1610015630722046,
+                "z": 0.986552894115448,
+                "w": 0.015525739639997483
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9e4bfe38-bab0-cd93-a4ae-0137a9760956",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "65c368ca-3299-8a83-d8ef-053bb4f19e48",
+            "worldPosition": {
+                "x": 6933.14208984375,
+                "y": 7852.005859375,
+                "z": 202.2461700439453
+            },
+            "rotation": {
+                "x": -0.03074193373322487,
+                "y": -0.11207661032676697,
+                "z": 0.9929640889167786,
+                "w": 0.022718291729688646
+            },
+            "scale": 0.571644127368927,
+            "footprint": {
+                "type": "Circle",
+                "id": "e667a266-e872-2886-67a1-7a61550e15b7",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_flat_a_footprint",
+            "sliceAssetId": "{7EB8162F-B04D-5C1F-A0A4-160BCBBE19D1}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Flat_A_footprint.obj"
+            }
+        },
+        {
+            "id": "0b565cb3-b163-ca3e-01ae-1fead4147f7e",
+            "worldPosition": {
+                "x": 6380.388671875,
+                "y": 7402.02978515625,
+                "z": 55.4810905456543
+            },
+            "rotation": {
+                "x": 0.059920139610767367,
+                "y": -0.07294266670942307,
+                "z": 0.9767464399337769,
+                "w": -0.1924976110458374
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0bb67563-e8e5-5196-ed11-a55af9ab0c02",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
+            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
+            }
+        },
+        {
+            "id": "649603bd-1f65-6be2-b7dc-11dca2d297b1",
+            "worldPosition": {
+                "x": 6971.42431640625,
+                "y": 7792.15576171875,
+                "z": 181.297607421875
+            },
+            "rotation": {
+                "x": -3.670770638564136e-7,
+                "y": 0.2530035078525543,
+                "z": -6.15541466686409e-8,
+                "w": 0.9674654006958008
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d62fb8c9-a365-4687-92fb-bced5b145663",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
+            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
+            }
+        },
+        {
+            "id": "7dcb5f18-a6c2-6496-0ff5-ae9858bf6714",
+            "worldPosition": {
+                "x": 6982.84521484375,
+                "y": 7790.7314453125,
+                "z": 175.91848754882813
+            },
+            "rotation": {
+                "x": -3.67077092278123e-7,
+                "y": 0.25300347805023196,
+                "z": -6.155416798492297e-8,
+                "w": 0.9674654006958008
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "58adab16-b714-4908-0974-d79dc5fab956",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
+            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
+            }
+        },
+        {
+            "id": "48575188-cd90-9ba8-02cc-2c88b47e8b62",
+            "worldPosition": {
+                "x": 6980.18798828125,
+                "y": 7778.0517578125,
+                "z": 177.21156311035157
+            },
+            "rotation": {
+                "x": -3.670770638564136e-7,
+                "y": 0.2530035078525543,
+                "z": -6.15541466686409e-8,
+                "w": 0.9674654006958008
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9331c546-37bf-93a1-ff19-c3c6c1c2fd1a",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
+            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
+            }
+        },
+        {
+            "id": "3dd17c39-7e6b-39c5-39fa-8cb8565bf6f7",
+            "worldPosition": {
+                "x": 6465.37939453125,
+                "y": 8027.36962890625,
+                "z": 115.60054779052735
+            },
+            "rotation": {
+                "x": -0.018302785232663156,
+                "y": 0.011163662187755108,
+                "z": -0.5736220479011536,
+                "w": 0.8188394904136658
+            },
+            "scale": 1.9111682176589966,
+            "footprint": {
+                "type": "Circle",
+                "id": "b396f4ce-9046-28e8-77db-d531917c2561",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
+            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
+            }
+        },
+        {
+            "id": "87d23d21-0b2f-e6ee-0013-6b06d630c77b",
+            "worldPosition": {
+                "x": 6468.462890625,
+                "y": 7967.16357421875,
+                "z": 112.82122802734375
+            },
+            "rotation": {
+                "x": 0.04531121999025345,
+                "y": 0.10009878873825073,
+                "z": 0.11540219187736511,
+                "w": 0.9872230887413025
+            },
+            "scale": 1.5800001621246338,
+            "footprint": {
+                "type": "Circle",
+                "id": "fdb993ef-b3e5-5c4e-7e58-3f91954ceb86",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
+            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
+            }
+        },
+        {
+            "id": "a64ba184-7142-9a2b-1a9b-e67b271796ca",
+            "worldPosition": {
+                "x": 6699.31640625,
+                "y": 7083.43603515625,
+                "z": 144.56069946289063
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9876883029937744,
-                "w": 0.15643435716629029
+                "z": 0.08715574443340302,
+                "w": 0.9961947202682495
             },
-            "scale": 0.6809881329536438,
+            "scale": 2.586400032043457,
             "footprint": {
                 "type": "Circle",
-                "id": "562e859d-eabf-b9b5-2ab4-70108f5ac8c2",
+                "id": "185426cf-d6ad-10be-93e4-59545b724fce",
                 "radius": 0.0
             },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
-            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
+            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
             }
         },
         {
-            "id": "e4512087-3f74-ae3c-4edd-e3601eab5af5",
+            "id": "7c9e1beb-233e-4794-d0b0-d963d3dfd062",
             "worldPosition": {
-                "x": 7016.59423828125,
-                "y": 7819.9306640625,
-                "z": 174.353271484375
+                "x": 6552.21484375,
+                "y": 7674.99560546875,
+                "z": 114.97731018066406
+            },
+            "rotation": {
+                "x": -0.020504357293248178,
+                "y": -0.09471064060926438,
+                "z": 0.9241238236427307,
+                "w": -0.3696006238460541
+            },
+            "scale": 1.4642101526260377,
+            "footprint": {
+                "type": "Circle",
+                "id": "610d0bcd-56cc-d5b8-4383-32d368fc4b85",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
+            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
+            }
+        },
+        {
+            "id": "09fb1bb8-b7dc-a89b-df5e-3527321b90a5",
+            "worldPosition": {
+                "x": 6916.240234375,
+                "y": 7836.62939453125,
+                "z": 199.65257263183595
+            },
+            "rotation": {
+                "x": 0.18233655393123628,
+                "y": 0.07428177446126938,
+                "z": 0.4633254408836365,
+                "w": 0.8640400171279907
+            },
+            "scale": 1.5800001621246338,
+            "footprint": {
+                "type": "Circle",
+                "id": "f572a8ff-9cd0-2849-0a27-2b168f63208c",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
+            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
+            }
+        },
+        {
+            "id": "165fbd1e-e740-621c-99dd-775eef7707b4",
+            "worldPosition": {
+                "x": 7845.53125,
+                "y": 7323.681640625,
+                "z": 201.76034545898438
+            },
+            "rotation": {
+                "x": 0.085089772939682,
+                "y": -0.018863840028643609,
+                "z": -0.14724723994731904,
+                "w": 0.985252320766449
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "610a29c9-34ed-67dd-9dd4-1fc6d38b43c5",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDunes/sanddune_soft_lg_a_footprint",
+            "sliceAssetId": "{7AA2DD59-83C5-57D0-A38B-D3DE6204DCFE}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_Soft_LG_A_footprint.obj"
+            }
+        },
+        {
+            "id": "8cdad0e5-1313-a926-d5e5-59e8bfaf1b2c",
+            "worldPosition": {
+                "x": 7748.42138671875,
+                "y": 7368.2802734375,
+                "z": 191.6793670654297
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.848048210144043,
-                "w": 0.5299190878868103
+                "z": -0.19973492622375489,
+                "w": 0.9798499941825867
             },
+            "scale": 0.8499999642372131,
             "footprint": {
                 "type": "Circle",
-                "id": "0d4b1437-d8ce-2b49-21fd-15286ceb86d8",
+                "id": "9b7c0cf2-54e1-de4d-d611-9e84eea85747",
                 "radius": 0.0
             },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
-            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
+            "sliceName": "slices/Desert/SandDunes/sanddune_lg_b_footprint",
+            "sliceAssetId": "{5B8A1117-9897-5694-906B-89BA53C54C9F}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_LG_B_footprint.obj"
             }
         },
         {
-            "id": "2110bf1f-1d2f-4790-55cf-5893afc0dd6c",
+            "id": "5e580390-3c95-42e9-849d-6816b75257ea",
             "worldPosition": {
-                "x": 6973.56298828125,
-                "y": 7904.92138671875,
-                "z": 208.81105041503907
+                "x": 7032.26123046875,
+                "y": 7932.826171875,
+                "z": 211.9392547607422
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9876883029937744,
-                "w": 0.15643435716629029
+                "z": 0.5877854228019714,
+                "w": 0.8090168833732605
             },
-            "scale": 0.6809881329536438,
+            "scale": 0.6599999666213989,
             "footprint": {
                 "type": "Circle",
-                "id": "702a4055-9f04-3bd8-8da3-5c428177d58e",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
-            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
-            }
-        },
-        {
-            "id": "b5a51e04-c45f-e31b-49f6-629b8cb35d50",
-            "worldPosition": {
-                "x": 7052.748046875,
-                "y": 7773.85498046875,
-                "z": 173.56265258789063
-            },
-            "rotation": {
-                "x": 0.010617338120937348,
-                "y": 0.010036397725343705,
-                "z": 0.6755179762840271,
-                "w": 0.7371987700462341
-            },
-            "scale": 1.1599960327148438,
-            "footprint": {
-                "type": "Circle",
-                "id": "246a5f08-fd53-4e51-f4e9-b85b15a2918c",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
-            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
-            }
-        },
-        {
-            "id": "8da1e8a5-3575-90ec-a0cb-675bc8fda933",
-            "worldPosition": {
-                "x": 6931.73388671875,
-                "y": 7788.85546875,
-                "z": 186.10069274902345
-            },
-            "rotation": {
-                "x": 0.03302798792719841,
-                "y": 0.02929924614727497,
-                "z": 0.12175058573484421,
-                "w": 0.9915782809257507
-            },
-            "scale": 1.1744413375854493,
-            "footprint": {
-                "type": "Circle",
-                "id": "45600d81-36e6-2932-c7f7-f940a5d8397e",
+                "id": "0dd8ae85-6ad1-9f6b-2559-15abe397813d",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
@@ -1118,35 +1337,11 @@
             }
         },
         {
-            "id": "83bd5341-a0c0-9556-af94-90744c51db09",
+            "id": "2110bf1f-1d2f-4790-55cf-5893afc0dd6c",
             "worldPosition": {
-                "x": 7015.82373046875,
-                "y": 8021.70654296875,
-                "z": 204.87599182128907
-            },
-            "rotation": {
-                "x": -0.07081172615289688,
-                "y": 0.15877501666545869,
-                "z": 0.5648418664932251,
-                "w": 0.806678295135498
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d3ec4e12-df8b-7802-b11a-761fc07e2a04",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
-            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
-            }
-        },
-        {
-            "id": "b1caf5e1-1cb3-a3be-775e-4b6b3f59d9d8",
-            "worldPosition": {
-                "x": 7021.74267578125,
-                "y": 7878.30126953125,
-                "z": 209.9637908935547
+                "x": 6973.56298828125,
+                "y": 7904.92138671875,
+                "z": 208.81105041503907
             },
             "rotation": {
                 "x": 0.0,
@@ -1154,10 +1349,10 @@
                 "z": 0.9876883029937744,
                 "w": 0.15643435716629029
             },
-            "scale": 0.6759061813354492,
+            "scale": 0.6809881329536438,
             "footprint": {
                 "type": "Circle",
-                "id": "b622a303-d994-32fb-d654-1e4fc88a7f1e",
+                "id": "702a4055-9f04-3bd8-8da3-5c428177d58e",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
@@ -1192,47 +1387,22 @@
             }
         },
         {
-            "id": "623e86c5-eb43-7830-72f9-7a6a73bc1785",
+            "id": "b5a51e04-c45f-e31b-49f6-629b8cb35d50",
             "worldPosition": {
-                "x": 6972.77587890625,
-                "y": 7930.77392578125,
-                "z": 207.75770568847657
+                "x": 7052.748046875,
+                "y": 7773.85498046875,
+                "z": 173.56265258789063
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5150380730628967,
-                "w": 0.8571673035621643
+                "x": 0.010617338120937348,
+                "y": 0.010036397725343705,
+                "z": 0.6755179762840271,
+                "w": 0.7371987700462341
             },
-            "scale": 0.544790506362915,
+            "scale": 1.159995675086975,
             "footprint": {
                 "type": "Circle",
-                "id": "3fba0c3a-4dd4-40ff-3935-bb641836d834",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
-            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
-            }
-        },
-        {
-            "id": "5e580390-3c95-42e9-849d-6816b75257ea",
-            "worldPosition": {
-                "x": 7032.26123046875,
-                "y": 7932.826171875,
-                "z": 211.9392547607422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5877854228019714,
-                "w": 0.8090168833732605
-            },
-            "scale": 0.6599999666213989,
-            "footprint": {
-                "type": "Circle",
-                "id": "0dd8ae85-6ad1-9f6b-2559-15abe397813d",
+                "id": "246a5f08-fd53-4e51-f4e9-b85b15a2918c",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
@@ -1267,22 +1437,22 @@
             }
         },
         {
-            "id": "c6ca218c-80ae-5dfb-be4c-78448a6931f6",
+            "id": "b1caf5e1-1cb3-a3be-775e-4b6b3f59d9d8",
             "worldPosition": {
-                "x": 7019.77197265625,
-                "y": 7986.0185546875,
-                "z": 208.87554931640626
+                "x": 7021.74267578125,
+                "y": 7878.30126953125,
+                "z": 209.9637908935547
             },
             "rotation": {
-                "x": 0.0034414089750498535,
-                "y": -0.001005522790364921,
-                "z": 0.9893366694450378,
-                "w": 0.14560241997241975
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9876883029937744,
+                "w": 0.15643435716629029
             },
-            "scale": 0.5999996662139893,
+            "scale": 0.6759061813354492,
             "footprint": {
                 "type": "Circle",
-                "id": "c843797e-f272-9791-39cf-3df1af8b9cdc",
+                "id": "b622a303-d994-32fb-d654-1e4fc88a7f1e",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
@@ -1292,22 +1462,71 @@
             }
         },
         {
-            "id": "1348ee17-94bb-bfbb-0701-868ca9f62028",
+            "id": "83bd5341-a0c0-9556-af94-90744c51db09",
             "worldPosition": {
-                "x": 7038.88330078125,
-                "y": 7949.875,
-                "z": 211.9392547607422
+                "x": 7015.82373046875,
+                "y": 8021.70654296875,
+                "z": 204.87599182128907
+            },
+            "rotation": {
+                "x": -0.07081172615289688,
+                "y": 0.15877501666545869,
+                "z": 0.5648418664932251,
+                "w": 0.806678295135498
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d3ec4e12-df8b-7802-b11a-761fc07e2a04",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
+            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
+            }
+        },
+        {
+            "id": "623e86c5-eb43-7830-72f9-7a6a73bc1785",
+            "worldPosition": {
+                "x": 6972.77587890625,
+                "y": 7930.77392578125,
+                "z": 207.75770568847657
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.5877854228019714,
-                "w": 0.8090168833732605
+                "z": 0.5150380730628967,
+                "w": 0.8571673035621643
             },
-            "scale": 0.6600000262260437,
+            "scale": 0.544790506362915,
             "footprint": {
                 "type": "Circle",
-                "id": "74d6802c-6843-e460-ffa1-1308af5b9d34",
+                "id": "3fba0c3a-4dd4-40ff-3935-bb641836d834",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
+            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
+            }
+        },
+        {
+            "id": "8d14d06f-f1c4-3642-f9b3-7b501432ae2a",
+            "worldPosition": {
+                "x": 6952.84521484375,
+                "y": 7886.92236328125,
+                "z": 207.94094848632813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9876883029937744,
+                "w": 0.15643435716629029
+            },
+            "scale": 0.6809881329536438,
+            "footprint": {
+                "type": "Circle",
+                "id": "562e859d-eabf-b9b5-2ab4-70108f5ac8c2",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
@@ -1367,100 +1586,198 @@
             }
         },
         {
-            "id": "727ab3a5-0f64-d51b-2b98-bdc3d0b99480",
+            "id": "e4512087-3f74-ae3c-4edd-e3601eab5af5",
             "worldPosition": {
-                "x": 6447.9306640625,
-                "y": 7995.39208984375,
-                "z": 115.73026275634766
+                "x": 7016.59423828125,
+                "y": 7819.9306640625,
+                "z": 174.353271484375
             },
             "rotation": {
-                "x": -0.016923755407333375,
-                "y": -0.004462412558495998,
-                "z": 0.6937966346740723,
-                "w": 0.7199582457542419
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.848048210144043,
+                "w": 0.5299190878868103
             },
             "footprint": {
                 "type": "Circle",
-                "id": "adb55e78-78aa-f095-6079-658666e2d972",
+                "id": "0d4b1437-d8ce-2b49-21fd-15286ceb86d8",
                 "radius": 0.0
             },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
-            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
+            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
             }
         },
         {
-            "id": "9a956e2c-735a-7369-4637-267abca604a5",
+            "id": "1348ee17-94bb-bfbb-0701-868ca9f62028",
             "worldPosition": {
-                "x": 6820.9453125,
-                "y": 7043.41796875,
-                "z": 172.28237915039063
+                "x": 7038.88330078125,
+                "y": 7949.875,
+                "z": 211.9392547607422
             },
             "rotation": {
-                "x": 0.04213302582502365,
-                "y": -0.011289362795650959,
-                "z": -0.2585727870464325,
-                "w": 0.9650064706802368
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5877854228019714,
+                "w": 0.8090168833732605
             },
-            "scale": 1.2699999809265137,
+            "scale": 0.6600000262260437,
             "footprint": {
                 "type": "Circle",
-                "id": "25694a32-b81a-7e0b-e969-eab87c6a1da7",
+                "id": "74d6802c-6843-e460-ffa1-1308af5b9d34",
                 "radius": 0.0
             },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
-            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
+            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
             }
         },
         {
-            "id": "c404a689-1531-6918-9a11-4f4efae3eaed",
+            "id": "8da1e8a5-3575-90ec-a0cb-675bc8fda933",
             "worldPosition": {
-                "x": 6462.748046875,
-                "y": 7999.6328125,
-                "z": 115.9220199584961
+                "x": 6931.73388671875,
+                "y": 7788.85546875,
+                "z": 186.10069274902345
             },
             "rotation": {
-                "x": -0.017464283853769304,
-                "y": -0.001151226693764329,
-                "z": 0.8184239268302918,
-                "w": 0.5743482112884522
+                "x": 0.03302798792719841,
+                "y": 0.02929924614727497,
+                "z": 0.12175058573484421,
+                "w": 0.9915782809257507
             },
+            "scale": 1.1744413375854493,
             "footprint": {
                 "type": "Circle",
-                "id": "82a1c132-d752-7c9a-7bbe-0ce1244fb8e8",
+                "id": "45600d81-36e6-2932-c7f7-f940a5d8397e",
                 "radius": 0.0
             },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
-            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
+            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
             }
         },
         {
-            "id": "932dedf1-1687-3688-3ca7-2370207f6385",
+            "id": "c6ca218c-80ae-5dfb-be4c-78448a6931f6",
             "worldPosition": {
-                "x": 6454.8056640625,
-                "y": 7989.97705078125,
-                "z": 115.65009307861328
+                "x": 7019.77197265625,
+                "y": 7986.0185546875,
+                "z": 208.87554931640626
             },
             "rotation": {
-                "x": -0.016923753544688226,
-                "y": -0.004462415352463722,
-                "z": 0.6937964558601379,
-                "w": 0.7199584245681763
+                "x": 0.0034414089750498535,
+                "y": -0.001005522790364921,
+                "z": 0.9893366694450378,
+                "w": 0.14560241997241975
+            },
+            "scale": 0.5999996662139893,
+            "footprint": {
+                "type": "Circle",
+                "id": "c843797e-f272-9791-39cf-3df1af8b9cdc",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_a_footprint",
+            "sliceAssetId": "{2841606F-DEED-51C1-9E2C-745CCB2EA7DA}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_A_footprint.obj"
+            }
+        },
+        {
+            "id": "966d553a-8313-1cc5-233e-c3dd52c8c91d",
+            "worldPosition": {
+                "x": 7846.009765625,
+                "y": 7286.4990234375,
+                "z": 195.92788696289063
+            },
+            "rotation": {
+                "x": 0.028790127485990526,
+                "y": -0.08686632663011551,
+                "z": -0.1548813283443451,
+                "w": 0.9836854934692383
             },
             "footprint": {
                 "type": "Circle",
-                "id": "c83786b4-8b94-e7ae-e4fd-d7d7c36d2dd7",
+                "id": "7b872a7b-86b2-8147-1a0c-8df208498474",
                 "radius": 0.0
             },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
-            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "sliceName": "slices/Desert/SandDunes/sanddune_soft_md_a_footprint",
+            "sliceAssetId": "{326E9A4C-CFEF-520F-99FF-E21C4658159D}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_Soft_MD_A_footprint.obj"
+            }
+        },
+        {
+            "id": "51ce3111-5bd0-d5c3-9a03-a752c48d9ef9",
+            "worldPosition": {
+                "x": 7581.53271484375,
+                "y": 7657.57080078125,
+                "z": 191.50331115722657
+            },
+            "rotation": {
+                "x": -0.0657026469707489,
+                "y": 0.07088164985179901,
+                "z": 0.7397080063819885,
+                "w": 0.6659512519836426
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a460dc30-e4b1-27de-7a3d-c8de46e898af",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDunes/sanddune_soft_sm_a_footprint",
+            "sliceAssetId": "{BF67A372-30B5-58E0-A5BA-7896F0B9D0B8}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_Soft_SM_A_footprint.obj"
+            }
+        },
+        {
+            "id": "d7d6bdb9-19c1-9b7d-c78c-93633e1e3f86",
+            "worldPosition": {
+                "x": 7434.650390625,
+                "y": 6849.9619140625,
+                "z": 191.54571533203126
+            },
+            "rotation": {
+                "x": -0.015877563506364824,
+                "y": 0.04026997834444046,
+                "z": 0.9304084181785584,
+                "w": -0.3639594316482544
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0fdd052f-0329-2159-4be0-fd1d20a934d8",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDunes/sanddune_soft_sm_a_footprint",
+            "sliceAssetId": "{BF67A372-30B5-58E0-A5BA-7896F0B9D0B8}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_Soft_SM_A_footprint.obj"
+            }
+        },
+        {
+            "id": "6442475b-99fd-b205-8801-0131e8fca1c0",
+            "worldPosition": {
+                "x": 7549.10546875,
+                "y": 7651.41357421875,
+                "z": 187.88055419921876
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8204366564750671,
+                "w": 0.5717374086380005
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f5cadbb5-98ad-1b69-867f-b055db30338b",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDunes/sanddune_soft_sm_a_footprint",
+            "sliceAssetId": "{BF67A372-30B5-58E0-A5BA-7896F0B9D0B8}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_Soft_SM_A_footprint.obj"
             }
         },
         {
@@ -1489,21 +1806,21 @@
             }
         },
         {
-            "id": "e5467faf-05ed-417b-9c3d-1a4f41bf4f1f",
+            "id": "932dedf1-1687-3688-3ca7-2370207f6385",
             "worldPosition": {
-                "x": 6456.41455078125,
-                "y": 8012.6650390625,
-                "z": 115.9528579711914
+                "x": 6454.8056640625,
+                "y": 7989.97705078125,
+                "z": 115.65009307861328
             },
             "rotation": {
-                "x": -0.015960516408085824,
-                "y": 0.007182514760643244,
-                "z": 0.9922656416893005,
-                "w": 0.12289247661828995
+                "x": -0.016923753544688226,
+                "y": -0.004462415352463722,
+                "z": 0.6937964558601379,
+                "w": 0.7199584245681763
             },
             "footprint": {
                 "type": "Circle",
-                "id": "8f0f016c-40e0-22c7-9776-093f63172022",
+                "id": "c83786b4-8b94-e7ae-e4fd-d7d7c36d2dd7",
                 "radius": 0.0
             },
             "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
@@ -1563,31 +1880,6 @@
             }
         },
         {
-            "id": "746f74d4-a956-0ae1-0a2e-00830c42b9fb",
-            "worldPosition": {
-                "x": 6424.6259765625,
-                "y": 8023.43017578125,
-                "z": 116.9956283569336
-            },
-            "rotation": {
-                "x": -0.00902301911264658,
-                "y": -0.03216581419110298,
-                "z": 0.02528494782745838,
-                "w": 0.999121904373169
-            },
-            "scale": 1.566719889640808,
-            "footprint": {
-                "type": "Circle",
-                "id": "431c59c2-b51f-8b9b-525a-0abed0ba65e5",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
-            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
-            }
-        },
-        {
             "id": "1b5354cf-6e07-14a3-8d2f-62a21f82cc0d",
             "worldPosition": {
                 "x": 6979.47705078125,
@@ -1613,6 +1905,177 @@
             }
         },
         {
+            "id": "727ab3a5-0f64-d51b-2b98-bdc3d0b99480",
+            "worldPosition": {
+                "x": 6447.9306640625,
+                "y": 7995.39208984375,
+                "z": 115.73026275634766
+            },
+            "rotation": {
+                "x": -0.016923755407333375,
+                "y": -0.004462412558495998,
+                "z": 0.6937966346740723,
+                "w": 0.7199582457542419
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "adb55e78-78aa-f095-6079-658666e2d972",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
+            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+            }
+        },
+        {
+            "id": "746f74d4-a956-0ae1-0a2e-00830c42b9fb",
+            "worldPosition": {
+                "x": 6424.6259765625,
+                "y": 8023.43017578125,
+                "z": 116.9956283569336
+            },
+            "rotation": {
+                "x": -0.00902301911264658,
+                "y": -0.03216581419110298,
+                "z": 0.02528494782745838,
+                "w": 0.999121904373169
+            },
+            "scale": 1.566719889640808,
+            "footprint": {
+                "type": "Circle",
+                "id": "431c59c2-b51f-8b9b-525a-0abed0ba65e5",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
+            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+            }
+        },
+        {
+            "id": "c404a689-1531-6918-9a11-4f4efae3eaed",
+            "worldPosition": {
+                "x": 6462.748046875,
+                "y": 7999.6328125,
+                "z": 115.9220199584961
+            },
+            "rotation": {
+                "x": -0.017464283853769304,
+                "y": -0.001151226693764329,
+                "z": 0.8184239268302918,
+                "w": 0.5743482112884522
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "82a1c132-d752-7c9a-7bbe-0ce1244fb8e8",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
+            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+            }
+        },
+        {
+            "id": "e5467faf-05ed-417b-9c3d-1a4f41bf4f1f",
+            "worldPosition": {
+                "x": 6456.41455078125,
+                "y": 8012.6650390625,
+                "z": 115.9528579711914
+            },
+            "rotation": {
+                "x": -0.015960516408085824,
+                "y": 0.007182514760643244,
+                "z": 0.9922656416893005,
+                "w": 0.12289247661828995
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8f0f016c-40e0-22c7-9776-093f63172022",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
+            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+            }
+        },
+        {
+            "id": "9a956e2c-735a-7369-4637-267abca604a5",
+            "worldPosition": {
+                "x": 6820.9453125,
+                "y": 7043.41796875,
+                "z": 172.28237915039063
+            },
+            "rotation": {
+                "x": 0.04213302582502365,
+                "y": -0.011289362795650959,
+                "z": -0.2585727870464325,
+                "w": 0.9650064706802368
+            },
+            "scale": 1.2699999809265137,
+            "footprint": {
+                "type": "Circle",
+                "id": "25694a32-b81a-7e0b-e969-eab87c6a1da7",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_b_footprint",
+            "sliceAssetId": "{483BD984-A7FA-5A59-988E-99F810036C5A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_B_footprint.obj"
+            }
+        },
+        {
+            "id": "cd56bddf-06c5-3c11-0d9e-a39bdb192a2d",
+            "worldPosition": {
+                "x": 7817.8935546875,
+                "y": 7333.142578125,
+                "z": 194.0142822265625
+            },
+            "rotation": {
+                "x": -0.00118573650252074,
+                "y": -0.01890547387301922,
+                "z": 0.9609533548355103,
+                "w": -0.27606117725372317
+            },
+            "scale": 0.9000001549720764,
+            "footprint": {
+                "type": "Circle",
+                "id": "79e7ae63-8fbf-4d9c-2eaa-d6944361569d",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDunes/sanddune_lg_a_footprint",
+            "sliceAssetId": "{E5D8B5A2-322A-5165-84CB-4F7D95AF81CE}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDunes/SandDune_LG_A_footprint.obj"
+            }
+        },
+        {
+            "id": "43d5c4ec-d8fb-f488-f93e-f0f40bd9d4f6",
+            "worldPosition": {
+                "x": 7606.140625,
+                "y": 7591.986328125,
+                "z": 190.72586059570313
+            },
+            "rotation": {
+                "x": 0.009187507443130017,
+                "y": -0.025618765503168107,
+                "z": 0.9912817478179932,
+                "w": 0.12891769409179688
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8b6719cb-db53-a013-1e63-d5f70078e653",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_curved_a_footprint",
+            "sliceAssetId": "{C73D8398-D31E-5E47-9C33-79DFDAC60912}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Curved_A_footprint.obj"
+            }
+        },
+        {
             "id": "fc568e50-27b4-9c54-029d-25bd7fc516d7",
             "worldPosition": {
                 "x": 7023.30615234375,
@@ -1635,227 +2098,6 @@
             "sliceAssetId": "{69622C08-291B-51B0-9866-6E0796AD3F67}:2",
             "params": {
                 "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Md_FlatHill_A_footprint.obj"
-            }
-        },
-        {
-            "id": "48575188-cd90-9ba8-02cc-2c88b47e8b62",
-            "worldPosition": {
-                "x": 6980.18798828125,
-                "y": 7778.0517578125,
-                "z": 177.21156311035157
-            },
-            "rotation": {
-                "x": -3.6707703543470418e-7,
-                "y": 0.2530035078525543,
-                "z": -6.155410403607675e-8,
-                "w": 0.9674654006958008
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9331c546-37bf-93a1-ff19-c3c6c1c2fd1a",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
-            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
-            }
-        },
-        {
-            "id": "649603bd-1f65-6be2-b7dc-11dca2d297b1",
-            "worldPosition": {
-                "x": 6971.42431640625,
-                "y": 7792.15576171875,
-                "z": 181.297607421875
-            },
-            "rotation": {
-                "x": -3.6707703543470418e-7,
-                "y": 0.2530035078525543,
-                "z": -6.155410403607675e-8,
-                "w": 0.9674654006958008
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d62fb8c9-a365-4687-92fb-bced5b145663",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
-            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
-            }
-        },
-        {
-            "id": "0b565cb3-b163-ca3e-01ae-1fead4147f7e",
-            "worldPosition": {
-                "x": 6380.388671875,
-                "y": 7402.02978515625,
-                "z": 55.4810905456543
-            },
-            "rotation": {
-                "x": 0.059920139610767367,
-                "y": -0.07294266670942307,
-                "z": 0.9767464399337769,
-                "w": -0.1924976110458374
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0bb67563-e8e5-5196-ed11-a55af9ab0c02",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
-            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
-            }
-        },
-        {
-            "id": "7dcb5f18-a6c2-6496-0ff5-ae9858bf6714",
-            "worldPosition": {
-                "x": 6982.84521484375,
-                "y": 7790.7314453125,
-                "z": 175.91848754882813
-            },
-            "rotation": {
-                "x": -3.670770638564136e-7,
-                "y": 0.25300347805023196,
-                "z": -6.155412535235883e-8,
-                "w": 0.9674654006958008
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "58adab16-b714-4908-0974-d79dc5fab956",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_long_b_footprint",
-            "sliceAssetId": "{EB611CE5-18EB-5D06-A8FE-55C6AFB4ECAF}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_Long_B_footprint.obj"
-            }
-        },
-        {
-            "id": "3dd17c39-7e6b-39c5-39fa-8cb8565bf6f7",
-            "worldPosition": {
-                "x": 6465.37939453125,
-                "y": 8027.36962890625,
-                "z": 115.60054779052735
-            },
-            "rotation": {
-                "x": -0.018302785232663156,
-                "y": 0.011163662187755108,
-                "z": -0.5736220479011536,
-                "w": 0.8188394904136658
-            },
-            "scale": 1.9111682176589966,
-            "footprint": {
-                "type": "Circle",
-                "id": "b396f4ce-9046-28e8-77db-d531917c2561",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
-            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
-            }
-        },
-        {
-            "id": "09fb1bb8-b7dc-a89b-df5e-3527321b90a5",
-            "worldPosition": {
-                "x": 6916.240234375,
-                "y": 7836.62939453125,
-                "z": 199.65257263183595
-            },
-            "rotation": {
-                "x": 0.18233655393123628,
-                "y": 0.07428177446126938,
-                "z": 0.4633254408836365,
-                "w": 0.8640400171279907
-            },
-            "scale": 1.5800001621246338,
-            "footprint": {
-                "type": "Circle",
-                "id": "f572a8ff-9cd0-2849-0a27-2b168f63208c",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
-            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
-            }
-        },
-        {
-            "id": "a64ba184-7142-9a2b-1a9b-e67b271796ca",
-            "worldPosition": {
-                "x": 6699.31640625,
-                "y": 7083.43603515625,
-                "z": 144.56069946289063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.08715574443340302,
-                "w": 0.9961947202682495
-            },
-            "scale": 2.586400032043457,
-            "footprint": {
-                "type": "Circle",
-                "id": "185426cf-d6ad-10be-93e4-59545b724fce",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
-            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
-            }
-        },
-        {
-            "id": "87d23d21-0b2f-e6ee-0013-6b06d630c77b",
-            "worldPosition": {
-                "x": 6468.462890625,
-                "y": 7967.16357421875,
-                "z": 112.82122802734375
-            },
-            "rotation": {
-                "x": 0.04531121999025345,
-                "y": 0.10009878873825073,
-                "z": 0.11540219187736511,
-                "w": 0.9872230887413025
-            },
-            "scale": 1.5800001621246338,
-            "footprint": {
-                "type": "Circle",
-                "id": "fdb993ef-b3e5-5c4e-7e58-3f91954ceb86",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
-            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
-            }
-        },
-        {
-            "id": "7c9e1beb-233e-4794-d0b0-d963d3dfd062",
-            "worldPosition": {
-                "x": 6552.21484375,
-                "y": 7674.99560546875,
-                "z": 114.97731018066406
-            },
-            "rotation": {
-                "x": -0.020504357293248178,
-                "y": -0.09471064060926438,
-                "z": 0.9241238236427307,
-                "w": -0.3696006238460541
-            },
-            "scale": 1.4642101526260377,
-            "footprint": {
-                "type": "Circle",
-                "id": "610d0bcd-56cc-d5b8-4383-32d368fc4b85",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Desert/SandDrifts/sanddrift_sm_a_footprint",
-            "sliceAssetId": "{D8E8346B-1C2C-5689-8C2B-A6698EA2F390}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Desert/SandDrifts/SandDrift_Sm_A_footprint.obj"
             }
         }
     ]

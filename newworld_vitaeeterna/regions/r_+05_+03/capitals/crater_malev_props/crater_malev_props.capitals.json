@@ -1,11 +1,11 @@
 {
     "Capitals": [
         {
-            "id": "8c59aeb4-89fd-e206-e268-334439872705",
+            "id": "3ff7511a-acfb-91ec-0064-2b65ae653b80",
             "worldPosition": {
-                "x": 11371.447265625,
-                "y": 7858.0693359375,
-                "z": 189.66510009765626
+                "x": 11374.810546875,
+                "y": 7948.10888671875,
+                "z": 191.8260955810547
             },
             "rotation": {
                 "x": 0.0,
@@ -15,7 +15,7 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "632834ef-87a5-c0a6-872c-da2c3d3e0072",
+                "id": "08ea4e2d-1f4d-d626-1eb3-7bea32e351ae",
                 "radius": 10.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
@@ -53,65 +53,10 @@
             }
         },
         {
-            "id": "ec102f5e-96fb-784f-eeb6-fef2fb563104",
+            "id": "bddbd785-1553-79cc-667d-e426cf37f06e",
             "worldPosition": {
-                "x": 11290.900390625,
-                "y": 7891.79541015625,
-                "z": 188.95611572265626
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d883a945-7158-eb4f-6392-cfe0a58cdd53",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 1.0,
-                "outerRadius": 29.0,
-                "maxHeightBlend": 0.20000000298023225,
-                "edgeNoise": 0.0,
-                "edgeNoiseFeatureSize": 0.20000000298023225,
-                "groundNoiseScale": 0.3499999940395355
-            }
-        },
-        {
-            "id": "ceda8a0a-42cf-87f5-2cfa-c51227111f34",
-            "worldPosition": {
-                "x": 11368.814453125,
-                "y": 7906.6767578125,
-                "z": 189.66510009765626
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "371e5849-f9ca-c82a-8538-4e59968e606f",
-                "radius": 30.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 30.0,
-                "outerRadius": 30.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "6c20ed3f-78ac-c3fb-9827-1839521cff49",
-            "worldPosition": {
-                "x": 11355.29296875,
-                "y": 7868.50390625,
+                "x": 11387.826171875,
+                "y": 7864.6494140625,
                 "z": 189.37318420410157
             },
             "rotation": {
@@ -122,8 +67,8 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "c4291430-cedc-4356-8d4e-ccb84b14fd9f",
-                "radius": 10.0
+                "id": "afef648d-be7f-776b-00aa-f27f044085f3",
+                "radius": 30.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
             "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
@@ -131,61 +76,6 @@
                 "innerRadius": 10.0,
                 "outerRadius": 10.0,
                 "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "81fd2e06-32a8-afcb-05a8-7272757add10",
-            "worldPosition": {
-                "x": 11383.830078125,
-                "y": 7905.5888671875,
-                "z": 189.37318420410157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "36fc1d12-0a9a-e7e7-e24c-4ff51bd0defe",
-                "radius": 50.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 45.0,
-                "outerRadius": 45.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "5357d9cc-571e-df59-9ea0-ccccfec95834",
-            "worldPosition": {
-                "x": 11327.6044921875,
-                "y": 7930.50927734375,
-                "z": 194.18853759765626
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a413dba4-74dd-a350-a45b-1eab67c59c9e",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 30.0,
-                "maxHeightBlend": 0.699999988079071,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 2.0,
-                "groundNoiseScale": 0.3499999940395355
             }
         },
         {
@@ -218,30 +108,59 @@
             }
         },
         {
-            "id": "3c459f1b-dbd3-e980-d329-286b2a10ec8d",
+            "id": "5357d9cc-571e-df59-9ea0-ccccfec95834",
             "worldPosition": {
-                "x": 11342.6875,
-                "y": 7923.990234375,
-                "z": 192.8943328857422
+                "x": 11327.6044921875,
+                "y": 7930.50927734375,
+                "z": 194.18853759765626
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.10452848672866821,
-                "w": 0.9945218563079834
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "43af12c7-a697-ec30-d60c-8998c843d49c",
-                "radius": 18.0
+                "id": "a413dba4-74dd-a350-a45b-1eab67c59c9e",
+                "radius": 0.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
             "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
             "cookie": {
-                "innerRadius": 19.0,
-                "outerRadius": 18.0,
+                "innerRadius": 10.0,
+                "outerRadius": 30.0,
+                "maxHeightBlend": 0.699999988079071,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 2.0,
+                "groundNoiseScale": 0.3499999940395355
+            }
+        },
+        {
+            "id": "0bc9e379-3a78-21aa-8171-0264105c609f",
+            "worldPosition": {
+                "x": 11327.453125,
+                "y": 7875.75,
+                "z": 194.85610961914063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f540c2ef-0745-f776-8e50-4e586f9c88b3",
+                "radius": 10.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 6.0,
+                "outerRadius": 12.0,
                 "maxHeightBlend": 1.0,
-                "edgeNoise": 0.0,
+                "edgeNoise": 0.10000000149011612,
                 "edgeNoiseFeatureSize": 0.20000000298023225,
                 "groundNoiseScale": 0.3499999940395355
             }
@@ -276,11 +195,11 @@
             }
         },
         {
-            "id": "451304e5-5796-581c-04c0-f36e8b545498",
+            "id": "81fd2e06-32a8-afcb-05a8-7272757add10",
             "worldPosition": {
-                "x": 11327.6591796875,
-                "y": 7897.90478515625,
-                "z": 192.59439086914063
+                "x": 11383.830078125,
+                "y": 7905.5888671875,
+                "z": 189.37318420410157
             },
             "rotation": {
                 "x": 0.0,
@@ -290,26 +209,23 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "19acee71-a253-952f-eebb-a9a644d4c508",
-                "radius": 17.0
+                "id": "36fc1d12-0a9a-e7e7-e24c-4ff51bd0defe",
+                "radius": 50.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
             "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
             "cookie": {
-                "innerRadius": 17.0,
-                "outerRadius": 22.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.0,
-                "edgeNoiseFeatureSize": 0.20000000298023225,
-                "groundNoiseScale": 0.3499999940395355
+                "innerRadius": 45.0,
+                "outerRadius": 45.0,
+                "maxHeightBlend": 1.0
             }
         },
         {
-            "id": "8a9f9f21-c711-3fc6-ec2c-55a91599aa0b",
+            "id": "b7a67067-4a56-da8b-3e08-aa4ff40385ca",
             "worldPosition": {
-                "x": 11313.1552734375,
-                "y": 7892.462890625,
-                "z": 193.79881286621095
+                "x": 11399.373046875,
+                "y": 7946.75048828125,
+                "z": 193.38172912597657
             },
             "rotation": {
                 "x": 0.0,
@@ -319,18 +235,41 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "271096c7-c277-c2c2-2829-643b11f9b73e",
-                "radius": 14.0
+                "id": "e2f5ac20-20b1-0ed9-9991-788c2769930b",
+                "radius": 20.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
             "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
             "cookie": {
-                "innerRadius": 14.0,
+                "innerRadius": 20.0,
                 "outerRadius": 20.0,
-                "maxHeightBlend": 0.8999999761581421,
-                "edgeNoise": 0.0,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.3499999940395355
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
+            "id": "ceda8a0a-42cf-87f5-2cfa-c51227111f34",
+            "worldPosition": {
+                "x": 11368.814453125,
+                "y": 7906.6767578125,
+                "z": 189.66510009765626
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "371e5849-f9ca-c82a-8538-4e59968e606f",
+                "radius": 30.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 30.0,
+                "outerRadius": 30.0,
+                "maxHeightBlend": 1.0
             }
         },
         {
@@ -363,11 +302,11 @@
             }
         },
         {
-            "id": "bddbd785-1553-79cc-667d-e426cf37f06e",
+            "id": "451304e5-5796-581c-04c0-f36e8b545498",
             "worldPosition": {
-                "x": 11387.826171875,
-                "y": 7864.6494140625,
-                "z": 189.37318420410157
+                "x": 11327.6591796875,
+                "y": 7897.90478515625,
+                "z": 192.59439086914063
             },
             "rotation": {
                 "x": 0.0,
@@ -377,174 +316,18 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "afef648d-be7f-776b-00aa-f27f044085f3",
-                "radius": 30.0
+                "id": "19acee71-a253-952f-eebb-a9a644d4c508",
+                "radius": 17.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
             "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
             "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "b14ee4f1-5e83-667d-3813-5b3ca2510683",
-            "worldPosition": {
-                "x": 11345.0146484375,
-                "y": 7872.57763671875,
-                "z": 189.37318420410157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9a1d66e5-3206-018a-2f3d-210934187e0f",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "0bc9e379-3a78-21aa-8171-0264105c609f",
-            "worldPosition": {
-                "x": 11327.453125,
-                "y": 7875.75,
-                "z": 194.85610961914063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f540c2ef-0745-f776-8e50-4e586f9c88b3",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 6.0,
-                "outerRadius": 12.0,
+                "innerRadius": 17.0,
+                "outerRadius": 22.0,
                 "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612,
+                "edgeNoise": 0.0,
                 "edgeNoiseFeatureSize": 0.20000000298023225,
                 "groundNoiseScale": 0.3499999940395355
-            }
-        },
-        {
-            "id": "a66a0cf2-ed9f-1878-274e-cd81324b0679",
-            "worldPosition": {
-                "x": 11417.373046875,
-                "y": 7945.75048828125,
-                "z": 193.38172912597657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "43957d8d-e8eb-377d-7a87-849f9ab8e48e",
-                "radius": 20.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 20.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "b7a67067-4a56-da8b-3e08-aa4ff40385ca",
-            "worldPosition": {
-                "x": 11399.373046875,
-                "y": 7946.75048828125,
-                "z": 193.38172912597657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e2f5ac20-20b1-0ed9-9991-788c2769930b",
-                "radius": 20.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 20.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "a5b6adb4-2fb0-6586-81b6-8f39e230f9b1",
-            "worldPosition": {
-                "x": 11395.783203125,
-                "y": 7853.205078125,
-                "z": 189.66510009765626
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8c1705e5-cdb3-1bc4-b6f2-9600b011242d",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 1.0
-            }
-        },
-        {
-            "id": "3ff7511a-acfb-91ec-0064-2b65ae653b80",
-            "worldPosition": {
-                "x": 11374.810546875,
-                "y": 7948.10888671875,
-                "z": 191.8260955810547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "08ea4e2d-1f4d-d626-1eb3-7bea32e351ae",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 1.0
             }
         },
         {
@@ -600,67 +383,221 @@
             }
         },
         {
-            "id": "aacd6bd6-0222-b9c0-7f0a-9d7ee3de5077",
+            "id": "8c59aeb4-89fd-e206-e268-334439872705",
             "worldPosition": {
-                "x": 11377.71484375,
-                "y": 7886.8046875,
-                "z": 248.837158203125
-            },
-            "rotation": {
-                "x": 0.7071064114570618,
-                "y": 0.7071071267127991,
-                "z": 1.7701957233384747e-7,
-                "w": -5.338500130847024e-8
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "50287634-73a2-cdd3-fa3f-7969c0de913a",
-                "radius": 5.0
-            },
-            "sliceName": "slices/POIs/Assembly/Nature/AngryEarth/AngryEarth_BlightRoot_D",
-            "sliceAssetId": "{865298F9-2025-5E0A-9167-1F01FECBC94F}:2"
-        },
-        {
-            "id": "92fb89c3-a95b-e00d-a1a0-6d203888822e",
-            "worldPosition": {
-                "x": 11372.30078125,
-                "y": 7890.56103515625,
-                "z": 242.49635314941407
+                "x": 11371.447265625,
+                "y": 7858.0693359375,
+                "z": 189.66510009765626
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "ac5ccc2d-4abc-069b-21f2-917f177a5abb",
-                "radius": 5.0
+                "id": "632834ef-87a5-c0a6-872c-da2c3d3e0072",
+                "radius": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Nature/AngryEarth/AngryEarth_BlightRoot_D",
-            "sliceAssetId": "{865298F9-2025-5E0A-9167-1F01FECBC94F}:2"
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 1.0
+            }
         },
         {
-            "id": "229def3d-847a-1443-6eb8-c45e595e3757",
+            "id": "8a9f9f21-c711-3fc6-ec2c-55a91599aa0b",
             "worldPosition": {
-                "x": 11381.1318359375,
-                "y": 7882.2529296875,
-                "z": 242.49635314941407
+                "x": 11313.1552734375,
+                "y": 7892.462890625,
+                "z": 193.79881286621095
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "0237a4ce-65fd-d2fa-2be4-1d2ea9a4e106",
-                "radius": 5.0
+                "id": "271096c7-c277-c2c2-2829-643b11f9b73e",
+                "radius": 14.0
             },
-            "sliceName": "slices/POIs/Assembly/Nature/AngryEarth/AngryEarth_BlightRoot_D",
-            "sliceAssetId": "{865298F9-2025-5E0A-9167-1F01FECBC94F}:2"
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 14.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 0.8999999761581421,
+                "edgeNoise": 0.0,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.3499999940395355
+            }
+        },
+        {
+            "id": "6c20ed3f-78ac-c3fb-9827-1839521cff49",
+            "worldPosition": {
+                "x": 11355.29296875,
+                "y": 7868.50390625,
+                "z": 189.37318420410157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c4291430-cedc-4356-8d4e-ccb84b14fd9f",
+                "radius": 10.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
+            "id": "b14ee4f1-5e83-667d-3813-5b3ca2510683",
+            "worldPosition": {
+                "x": 11345.0146484375,
+                "y": 7872.57763671875,
+                "z": 189.37318420410157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9a1d66e5-3206-018a-2f3d-210934187e0f",
+                "radius": 10.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
+            "id": "3c459f1b-dbd3-e980-d329-286b2a10ec8d",
+            "worldPosition": {
+                "x": 11342.6875,
+                "y": 7923.990234375,
+                "z": 192.8943328857422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10452848672866821,
+                "w": 0.9945218563079834
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "43af12c7-a697-ec30-d60c-8998c843d49c",
+                "radius": 18.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 19.0,
+                "outerRadius": 18.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.0,
+                "edgeNoiseFeatureSize": 0.20000000298023225,
+                "groundNoiseScale": 0.3499999940395355
+            }
+        },
+        {
+            "id": "a5b6adb4-2fb0-6586-81b6-8f39e230f9b1",
+            "worldPosition": {
+                "x": 11395.783203125,
+                "y": 7853.205078125,
+                "z": 189.66510009765626
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8c1705e5-cdb3-1bc4-b6f2-9600b011242d",
+                "radius": 10.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
+            "id": "ec102f5e-96fb-784f-eeb6-fef2fb563104",
+            "worldPosition": {
+                "x": 11290.900390625,
+                "y": 7891.79541015625,
+                "z": 188.95611572265626
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d883a945-7158-eb4f-6392-cfe0a58cdd53",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 1.0,
+                "outerRadius": 29.0,
+                "maxHeightBlend": 0.20000000298023225,
+                "edgeNoise": 0.0,
+                "edgeNoiseFeatureSize": 0.20000000298023225,
+                "groundNoiseScale": 0.3499999940395355
+            }
+        },
+        {
+            "id": "a66a0cf2-ed9f-1878-274e-cd81324b0679",
+            "worldPosition": {
+                "x": 11417.373046875,
+                "y": 7945.75048828125,
+                "z": 193.38172912597657
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "43957d8d-e8eb-377d-7a87-849f9ab8e48e",
+                "radius": 20.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 20.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0
+            }
         },
         {
             "id": "6869251e-6d0f-4111-4338-ad331b6f981d",
@@ -680,33 +617,12 @@
                 "id": "8efcba40-07c6-70c0-c41e-b65f68a1a12c",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Crater/Water_Temple_Malevolance",
-            "sliceAssetId": "{25B5CED5-9FCB-5393-AD48-C3143178FE17}:2",
+            "sliceName": "CoatGen\\2c79bd39\\Water_Temple_Malevolance_6869251e6d0f41114338ad331b6f981d",
+            "sliceAssetId": "{16BD3F38-4B2A-57AF-BB7A-C44701161BE6}:6f981d",
             "params": {
                 "HAS_VEG_COMPONENTS": "1",
                 "HAS_WATER_COMPONENTS": "2"
             }
-        },
-        {
-            "id": "523982c3-3683-a6f2-b1b0-fbfd5bbbfa21",
-            "worldPosition": {
-                "x": 11376.7646484375,
-                "y": 7886.0126953125,
-                "z": 242.4971466064453
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.11320322751998902,
-                "w": 0.9935718178749085
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d3e57ca9-a3a1-3b29-a92f-17b213778d62",
-                "radius": 6.0
-            },
-            "sliceName": "CoatGen\\2c79bd39\\AngryEarth_BlightArea_A_523982c33683a6f2b1b0fbfd5bbbfa21",
-            "sliceAssetId": "{16BD3F38-4B2A-57AF-BB7A-C44701161BE6}:bbfa21"
         }
     ]
 }

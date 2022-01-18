@@ -1,6 +1,27 @@
 {
     "Capitals": [
         {
+            "id": "a5f818eb-a5c5-063f-c134-0ead6445b5b6",
+            "worldPosition": {
+                "x": 12869.796875,
+                "y": 8259.0498046875,
+                "z": 238.10888671875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9238795638084412,
+                "w": 0.38268333673477175
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f932a2a5-72d8-1103-e321-1605771be5ec",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\7a651b70\\PointSpawner_0wp_Basic_Wander_a5f818eba5c5063fc1340ead6445b5b6",
+            "sliceAssetId": "{B027F7DB-D682-5A9E-AAE7-447DEE90148E}:45b5b6"
+        },
+        {
             "id": "64949c19-65be-9802-c68a-a9afe29b0e8f",
             "worldPosition": {
                 "x": 13062.5,
@@ -83,27 +104,6 @@
             },
             "sliceName": "CoatGen\\7a651b70\\PointSpawner_0wp_Basic_Wander_c4c6fe3fa8d82c12c227ab0b8c9e854a",
             "sliceAssetId": "{B027F7DB-D682-5A9E-AAE7-447DEE90148E}:9e854a"
-        },
-        {
-            "id": "a5f818eb-a5c5-063f-c134-0ead6445b5b6",
-            "worldPosition": {
-                "x": 12869.796875,
-                "y": 8259.0498046875,
-                "z": 238.10888671875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9238795638084412,
-                "w": 0.38268333673477175
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f932a2a5-72d8-1103-e321-1605771be5ec",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\7a651b70\\PointSpawner_0wp_Basic_Wander_a5f818eba5c5063fc1340ead6445b5b6",
-            "sliceAssetId": "{B027F7DB-D682-5A9E-AAE7-447DEE90148E}:45b5b6"
         }
     ]
 }
