@@ -915,8 +915,8 @@
                 "width": 30.0,
                 "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_E",
-            "sliceAssetId": "{E03EE6DB-9A2E-5442-A126-C3437237506B}:2"
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_E_1442cbc3fdfdc3811799e36343a7af36",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:a7af36"
         },
         {
             "id": "c80e3a37-8086-7868-d625-1362d6918493",
@@ -937,8 +937,8 @@
                 "width": 30.0,
                 "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_E",
-            "sliceAssetId": "{E03EE6DB-9A2E-5442-A126-C3437237506B}:2"
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_E_c80e3a3780867868d6251362d6918493",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:918493"
         },
         {
             "id": "9512b6e4-ae55-6173-3e36-fb6d9a93fb11",
@@ -960,8 +960,8 @@
                 "width": 30.0,
                 "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_E",
-            "sliceAssetId": "{E03EE6DB-9A2E-5442-A126-C3437237506B}:2"
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_E_9512b6e4ae5561733e36fb6d9a93fb11",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:93fb11"
         },
         {
             "id": "d14bba9e-c247-5a71-bb6c-0ec587b794a7",
@@ -982,8 +982,8 @@
                 "width": 30.0,
                 "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_E",
-            "sliceAssetId": "{E03EE6DB-9A2E-5442-A126-C3437237506B}:2",
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_E_d14bba9ec2475a71bb6c0ec587b794a7",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:b794a7",
             "cookie": {
                 "innerRadius": 3.0,
                 "outerRadius": 30.0,
@@ -1012,8 +1012,8 @@
                 "width": 30.0,
                 "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_E",
-            "sliceAssetId": "{E03EE6DB-9A2E-5442-A126-C3437237506B}:2",
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_E_127fd8fec715c92e6b33f2c2b464c42d",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:64c42d",
             "cookie": {
                 "innerRadius": 5.0,
                 "outerRadius": 25.0,
@@ -1042,8 +1042,8 @@
                 "width": 30.0,
                 "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_E",
-            "sliceAssetId": "{E03EE6DB-9A2E-5442-A126-C3437237506B}:2"
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_E_ecfdf912dd614ffb688f424d9c362b32",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:362b32"
         },
         {
             "id": "db33cae0-a840-2034-ce16-9be7a9593abd",
@@ -2000,8 +2000,8 @@
                 "width": 9.0,
                 "height": 9.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_SE",
-            "sliceAssetId": "{83CF49A6-EFD4-52B4-A7C8-D21AAF29E8A5}:2"
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_SE_71420df2090006275d4473313f611f",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:3f611f"
         },
         {
             "id": "842fb6df-75e8-0205-8cc3-86a09e62a261",
@@ -2022,8 +2022,8 @@
                 "width": 9.0,
                 "height": 9.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_SE",
-            "sliceAssetId": "{83CF49A6-EFD4-52B4-A7C8-D21AAF29E8A5}:2"
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_SE_842fb6df75e802058cc386a09e62a261",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:62a261"
         },
         {
             "id": "daa697bf-aa21-56dd-576b-2b594812b12d",
@@ -2203,12 +2203,13 @@
                 "w": 0.9025852680206299
             },
             "footprint": {
-                "type": "Circle",
+                "type": "Rectangle",
                 "id": "35a3a3d1-4d55-d90e-a7f1-b0870e3f2e2e",
-                "radius": 1.0
+                "width": 15.0,
+                "height": 4.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_P",
-            "sliceAssetId": "{751FA905-8883-5BAC-B882-1BDC3A564B95}:2",
+            "sliceName": "CoatGen\\a12c593a\\Ancient_Ruins_P_9a12e0f9bce2b75aec35b55b9b3088db",
+            "sliceAssetId": "{329C385F-70C4-5F91-8D91-898116B9CB37}:3088db",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

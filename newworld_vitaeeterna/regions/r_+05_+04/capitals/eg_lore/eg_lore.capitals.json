@@ -1,6 +1,27 @@
 {
     "Capitals": [
         {
+            "id": "0291672e-8c3b-e868-bad0-ccfa24f6d8fb",
+            "worldPosition": {
+                "x": 11400.7451171875,
+                "y": 8306.95703125,
+                "z": 202.36978149414063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4617484211921692,
+                "w": 0.887010931968689
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1368cc3b-2353-6461-b6c7-21365671d519",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Trigger_Volume_Sphere_Test_0291672e8c3be868bad0ccfa24f6d8fb",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:f6d8fb"
+        },
+        {
             "id": "de315ce2-bbfd-6b3f-1692-3a10c29f931b",
             "worldPosition": {
                 "x": 11730.59765625,
@@ -22,11 +43,32 @@
             "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:9f931b"
         },
         {
-            "id": "94ab4100-873e-90f1-de25-db71b0791eb9",
+            "id": "4622418d-eba4-6c26-b062-5b9b0536e00c",
             "worldPosition": {
-                "x": 11269.0771484375,
-                "y": 8529.2578125,
-                "z": 367.4261474609375
+                "x": 11725.9677734375,
+                "y": 8323.9150390625,
+                "z": 272.1463623046875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.5591932535171509,
+                "w": 0.8290373682975769
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d40636d0-e5e1-13fd-9884-20ad75c37ba2",
+                "radius": 0.4000000059604645
+            },
+            "sliceName": "CoatGen\\db85169d\\Object_1434_EncStart_Pyre_Visual_BaseMesh_4622418deba46c26b0625b9b0536e00c",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:36e00c"
+        },
+        {
+            "id": "329d3212-1191-e091-408f-a5e3c804c741",
+            "worldPosition": {
+                "x": 11339.3896484375,
+                "y": 8489.263671875,
+                "z": 306.60614013671877
             },
             "rotation": {
                 "x": 0.0,
@@ -36,14 +78,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "f02ba3fe-8144-841d-8d8b-fca6b95526f0",
-                "radius": 1.0
+                "id": "354ec107-849b-fc2f-2ecf-d26bf417610e",
+                "radius": 0.4000000059604645
             },
-            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_94ab4100873e90f1de25db71b0791eb9",
-            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:791eb9",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\db85169d\\Object_1434_EncStart_BlightedRanger_Visual_BaseMesh_329d32121191e091408fa5e3c804c741",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:4c741"
         },
         {
             "id": "3b1f3f5e-fad7-0403-e6c1-c8fd0fff91d2",
@@ -86,6 +125,30 @@
             },
             "sliceName": "CoatGen\\db85169d\\WorldEvent_SpawnGroup_Single_Master_286fedca0fdda7ac894750eafe4eec43",
             "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:4eec43"
+        },
+        {
+            "id": "94ab4100-873e-90f1-de25-db71b0791eb9",
+            "worldPosition": {
+                "x": 11269.234375,
+                "y": 8528.7958984375,
+                "z": 367.4261474609375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f02ba3fe-8144-841d-8d8b-fca6b95526f0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_94ab4100873e90f1de25db71b0791eb9",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:791eb9",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         }
     ]
 }

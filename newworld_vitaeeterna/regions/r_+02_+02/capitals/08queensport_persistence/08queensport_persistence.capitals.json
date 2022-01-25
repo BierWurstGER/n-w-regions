@@ -22,6 +22,27 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
+            "id": "21f94d5a-1c7e-8d62-6882-cce171368e21",
+            "worldPosition": {
+                "x": 5979.673828125,
+                "y": 5448.63037109375,
+                "z": 57.22005081176758
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1993674635887146,
+                "w": 0.9799247980117798
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "116c350b-2e8f-6c08-d696-83df55d4fb81",
+                "radius": 25.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
             "id": "a1b3f4d5-0b63-2b40-231f-bca372309dd1",
             "worldPosition": {
                 "x": 5832.423828125,
@@ -43,48 +64,6 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "d4ae5180-29f5-5882-52b5-34ca7253b66e",
-            "worldPosition": {
-                "x": 6011.16162109375,
-                "y": 5453.6396484375,
-                "z": 57.24030303955078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1993674635887146,
-                "w": 0.9799247980117798
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d86ceaab-a66f-2d46-f6cc-ff2aecf55d76",
-                "radius": 18.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "9b2201f3-3dcc-39d1-1dce-17d524b0607a",
-            "worldPosition": {
-                "x": 5971.4169921875,
-                "y": 5363.32861328125,
-                "z": 57.24030303955078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1993674635887146,
-                "w": 0.9799247980117798
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "695635bf-d4d6-982b-34ff-b9c6d96ac140",
-                "radius": 18.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
             "id": "44b909c0-3608-7188-ac5b-962d886e3ba9",
             "worldPosition": {
                 "x": 5817.91943359375,
@@ -101,48 +80,6 @@
                 "type": "Circle",
                 "id": "4e9edeab-1252-87cb-417c-5f1cce1418dc",
                 "radius": 12.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "2c48652a-0652-4f2d-3dd9-ebb6019715f1",
-            "worldPosition": {
-                "x": 5817.45556640625,
-                "y": 5490.90234375,
-                "z": 58.47500228881836
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1993674635887146,
-                "w": 0.9799247980117798
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dd06bbe3-67f4-710a-1788-8181ace9392a",
-                "radius": 12.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "54a1bcf0-e932-9977-a43f-62a1280c98fd",
-            "worldPosition": {
-                "x": 5927.8759765625,
-                "y": 5403.77978515625,
-                "z": 56.333648681640628
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1993674635887146,
-                "w": 0.9799247980117798
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c3168eeb-0927-5b51-8f24-065cd238a948",
-                "radius": 60.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
@@ -190,6 +127,90 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
+            "id": "d4ae5180-29f5-5882-52b5-34ca7253b66e",
+            "worldPosition": {
+                "x": 6011.16162109375,
+                "y": 5453.6396484375,
+                "z": 57.24030303955078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1993674635887146,
+                "w": 0.9799247980117798
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d86ceaab-a66f-2d46-f6cc-ff2aecf55d76",
+                "radius": 18.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "2c48652a-0652-4f2d-3dd9-ebb6019715f1",
+            "worldPosition": {
+                "x": 5817.45556640625,
+                "y": 5490.90234375,
+                "z": 58.47500228881836
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1993674635887146,
+                "w": 0.9799247980117798
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "dd06bbe3-67f4-710a-1788-8181ace9392a",
+                "radius": 12.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "9b2201f3-3dcc-39d1-1dce-17d524b0607a",
+            "worldPosition": {
+                "x": 5971.4169921875,
+                "y": 5363.32861328125,
+                "z": 57.24030303955078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1993674635887146,
+                "w": 0.9799247980117798
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "695635bf-d4d6-982b-34ff-b9c6d96ac140",
+                "radius": 18.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "54a1bcf0-e932-9977-a43f-62a1280c98fd",
+            "worldPosition": {
+                "x": 5927.8759765625,
+                "y": 5403.77978515625,
+                "z": 56.333648681640628
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1993674635887146,
+                "w": 0.9799247980117798
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c3168eeb-0927-5b51-8f24-065cd238a948",
+                "radius": 60.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
             "id": "21cc2395-ce50-a171-ec3e-5f195c0a9874",
             "worldPosition": {
                 "x": 5884.44775390625,
@@ -211,25 +232,25 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "21f94d5a-1c7e-8d62-6882-cce171368e21",
+            "id": "2a98a6e6-58e7-aed5-663e-a03c7def3b31",
             "worldPosition": {
-                "x": 5979.673828125,
-                "y": 5448.63037109375,
-                "z": 57.22005081176758
+                "x": 5275.0,
+                "y": 4237.0,
+                "z": 40.750125885009769
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.1993674635887146,
-                "w": 0.9799247980117798
+                "z": 0.7071065306663513,
+                "w": 0.7071070075035095
             },
             "footprint": {
                 "type": "Circle",
-                "id": "116c350b-2e8f-6c08-d696-83df55d4fb81",
-                "radius": 25.0
+                "id": "54374fef-5581-6ba3-9272-659b18e91b34",
+                "radius": 1.0
             },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+            "sliceName": "CoatGen\\62579c0e\\NPC_0899_Liberator_2a98a6e658e7aed5663ea03c7def3b31",
+            "sliceAssetId": "{DC76CAF5-D3A3-5031-8F2F-7A3782C9C47F}:ef3b31"
         },
         {
             "id": "cf11fcec-de12-6948-c872-2b049cf7831d",
@@ -278,60 +299,6 @@
             "sliceAssetId": "{E8109DC8-800D-5E6B-B001-AC7E426DCEFB}:2"
         },
         {
-            "id": "c2d1963d-eb75-3ebb-e4d0-046af3d444b5",
-            "worldPosition": {
-                "x": 6027.6845703125,
-                "y": 5289.5888671875,
-                "z": 56.61026382446289
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4067361354827881,
-                "w": 0.9135457277297974
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "fc1f28e9-a33c-626f-6b58-2fa62f89ea1c",
-                "radius": 45.0
-            },
-            "sliceName": "CoatGen\\62579c0e\\Siege_WarCamp_V3_c2d1963deb753ebbe4d0046af3d444b5",
-            "sliceAssetId": "{DC76CAF5-D3A3-5031-8F2F-7A3782C9C47F}:d444b5",
-            "cookie": {
-                "innerRadius": 40.0,
-                "outerRadius": 50.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.0,
-                "edgeNoiseFeatureSize": 0.10000000149011612,
-                "groundNoiseScale": 0.10000000149011612
-            },
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_40m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "2a98a6e6-58e7-aed5-663e-a03c7def3b31",
-            "worldPosition": {
-                "x": 5275.0,
-                "y": 4237.0,
-                "z": 40.750125885009769
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071065306663513,
-                "w": 0.7071070075035095
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "54374fef-5581-6ba3-9272-659b18e91b34",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\62579c0e\\NPC_0899_Liberator_2a98a6e658e7aed5663ea03c7def3b31",
-            "sliceAssetId": "{DC76CAF5-D3A3-5031-8F2F-7A3782C9C47F}:ef3b31"
-        },
-        {
             "id": "ff6617f2-fd6c-2f65-fe3b-c2c2b5f332b8",
             "worldPosition": {
                 "x": 5902.4794921875,
@@ -361,17 +328,50 @@
             }
         },
         {
-            "id": "35736fd1-313b-2eca-bcd0-26844c288a10",
+            "id": "c2d1963d-eb75-3ebb-e4d0-046af3d444b5",
             "worldPosition": {
-                "x": 5550.44482421875,
-                "y": 4240.53564453125,
-                "z": 41.32480239868164
+                "x": 6027.6845703125,
+                "y": 5289.5888671875,
+                "z": 56.61026382446289
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.1218692809343338,
-                "w": 0.9925461411476135
+                "z": -0.4067361354827881,
+                "w": 0.9135457277297974
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fc1f28e9-a33c-626f-6b58-2fa62f89ea1c",
+                "radius": 45.0
+            },
+            "sliceName": "slices/Structures/Siege/Siege_WarCamp_V3",
+            "sliceAssetId": "{D87E9A1D-EE31-5A61-AD61-076A0CE722CB}:2",
+            "cookie": {
+                "innerRadius": 40.0,
+                "outerRadius": 50.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.0,
+                "edgeNoiseFeatureSize": 0.10000000149011612,
+                "groundNoiseScale": 0.10000000149011612
+            },
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_40m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "35736fd1-313b-2eca-bcd0-26844c288a10",
+            "worldPosition": {
+                "x": 5556.84619140625,
+                "y": 4310.044921875,
+                "z": 42.411033630371097
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9925461411476135,
+                "w": 0.12186933308839798
             },
             "footprint": {
                 "type": "Rectangle",

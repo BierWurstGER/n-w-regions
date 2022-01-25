@@ -1,75 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "071b8414-f541-8a29-1c16-d0c37b80487d",
-            "worldPosition": {
-                "x": 9747.9033203125,
-                "y": 9631.453125,
-                "z": 595.6762084960938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "07ebad80-760a-bafe-c8a8-bed996bd0b4b",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\5d3b20c\\POI_BannerAreaTrigger_Master_071b8414f5418a291c16d0c37b80487d",
-            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:80487d"
-        },
-        {
-            "id": "49beb899-ccb9-3516-d6c9-6c2c55b12fcd",
-            "worldPosition": {
-                "x": 9635.982421875,
-                "y": 9608.517578125,
-                "z": 644.8466186523438
-            },
-            "rotation": {
-                "x": -0.013450915925204754,
-                "y": -0.009410682134330273,
-                "z": 0.9923914074897766,
-                "w": -0.12202342599630356
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "740ba35c-75f1-4092-348f-90c71611cd95",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Ancient_T3_M",
-            "sliceAssetId": "{8C56FEF5-5510-5B6D-B9BA-84E0A2AA1F36}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "3b422f79-a506-ca46-80c2-55e2a89a319c",
-            "worldPosition": {
-                "x": 9648.705078125,
-                "y": 9641.3740234375,
-                "z": 644.8223266601563
-            },
-            "rotation": {
-                "x": -1.0279403106494556e-8,
-                "y": -8.681720942149696e-8,
-                "z": 0.9925252199172974,
-                "w": -0.1220397874712944
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e6d4c353-d5f8-9ddc-3326-1d61bcc5328e",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Ancient_T3_M",
-            "sliceAssetId": "{8C56FEF5-5510-5B6D-B9BA-84E0A2AA1F36}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "813e6cee-c6d8-682a-6710-c17817759663",
             "worldPosition": {
                 "x": 9699.9208984375,
@@ -94,35 +25,59 @@
             }
         },
         {
-            "id": "f3bfcbca-05ef-5c45-3601-163cc870b571",
+            "id": "3b422f79-a506-ca46-80c2-55e2a89a319c",
             "worldPosition": {
-                "x": 9702.9638671875,
-                "y": 9651.134765625,
-                "z": 656.6207275390625
+                "x": 9657.744140625,
+                "y": 9640.1884765625,
+                "z": 644.8353271484375
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.00919851940125227,
+                "y": 0.010966557078063488,
+                "z": 0.870181679725647,
+                "w": -0.49252310395240786
             },
             "footprint": {
                 "type": "Circle",
-                "id": "7624060c-814d-595a-3915-b9162f5cd0c0",
+                "id": "e6d4c353-d5f8-9ddc-3326-1d61bcc5328e",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5d3b20c\\LootContainer_Alchemy_T3_M_f3bfcbca05ef5c453601163cc870b571",
-            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:70b571",
+            "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Ancient_T3_M",
+            "sliceAssetId": "{8C56FEF5-5510-5B6D-B9BA-84E0A2AA1F36}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "fb076171-b58b-7c9c-b421-fa3b9f331a14",
+            "id": "49beb899-ccb9-3516-d6c9-6c2c55b12fcd",
             "worldPosition": {
-                "x": 9707.306640625,
-                "y": 9628.1953125,
-                "z": 655.3411865234375
+                "x": 9636.064453125,
+                "y": 9608.51953125,
+                "z": 644.8377685546875
+            },
+            "rotation": {
+                "x": -0.008447484113276005,
+                "y": -0.00736386701464653,
+                "z": 0.9924604892730713,
+                "w": -0.12205155193805695
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "740ba35c-75f1-4092-348f-90c71611cd95",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/LootContainers/LootContainer_Ancient_T3_M",
+            "sliceAssetId": "{8C56FEF5-5510-5B6D-B9BA-84E0A2AA1F36}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "071b8414-f541-8a29-1c16-d0c37b80487d",
+            "worldPosition": {
+                "x": 9747.9033203125,
+                "y": 9631.453125,
+                "z": 595.6762084960938
             },
             "rotation": {
                 "x": 0.0,
@@ -132,11 +87,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "06db44c2-487e-fef7-7f2b-0a6c237f32d2",
+                "id": "07ebad80-760a-bafe-c8a8-bed996bd0b4b",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\5d3b20c\\Collision_NoClimb_fb076171b58b7c9cb421fa3b9f331a14",
-            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:331a14"
+            "sliceName": "CoatGen\\5d3b20c\\POI_BannerAreaTrigger_Master_071b8414f5418a291c16d0c37b80487d",
+            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:80487d"
         },
         {
             "id": "6437b759-cae4-d93e-80a9-39bc8e515da6",
@@ -182,6 +137,51 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "f3bfcbca-05ef-5c45-3601-163cc870b571",
+            "worldPosition": {
+                "x": 9702.9638671875,
+                "y": 9651.134765625,
+                "z": 656.6207275390625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7624060c-814d-595a-3915-b9162f5cd0c0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5d3b20c\\LootContainer_Alchemy_T3_M_f3bfcbca05ef5c453601163cc870b571",
+            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:70b571",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "be65a972-b92e-59d7-d6a3-c4fd84972502",
+            "worldPosition": {
+                "x": 9707.306640625,
+                "y": 9628.1953125,
+                "z": 655.3411865234375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "94471ffb-90d0-9411-1120-7bcee6a2df21",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\5d3b20c\\Collision_NoClimb_be65a972b92e59d7d6a3c4fd84972502",
+            "sliceAssetId": "{5C82DAC6-4DA2-5631-862C-6B6B04F31AF0}:972502"
         }
     ]
 }
