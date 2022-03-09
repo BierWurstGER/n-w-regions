@@ -1,69 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "72e75fc3-6948-21f8-ecbe-e37ff2b9662b",
-            "worldPosition": {
-                "x": 5550.44482421875,
-                "y": 4240.53564453125,
-                "z": 41.32480239868164
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1218690574169159,
-                "w": 0.9925462007522583
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3c96cdb0-d9d2-31ff-4a92-a88d8f499865",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/POI_CapitalPlot",
-            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
-        },
-        {
-            "id": "4b3f6d1a-50d7-c9b5-4bd2-0e467fc5c146",
-            "worldPosition": {
-                "x": 5838.88525390625,
-                "y": 5078.0908203125,
-                "z": 118.64364624023438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "84412087-a2c7-6986-6d2f-8360ea5f0955",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/POI_CapitalPlot",
-            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
-        },
-        {
-            "id": "b6455649-f396-1486-3487-c83f844bc838",
-            "worldPosition": {
-                "x": 5971.13037109375,
-                "y": 4282.0361328125,
-                "z": 40.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b3fc3a74-19a6-e62e-985a-3a09ab1e8abc",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/POI_CapitalPlot",
-            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
-        },
-        {
             "id": "f6442658-0636-ceab-53b1-a829ae00b2e3",
             "worldPosition": {
                 "x": 5960.2265625,
@@ -79,6 +16,27 @@
             "footprint": {
                 "type": "Circle",
                 "id": "9e40ad6e-3586-d3f0-6f51-93ce42ee0e91",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/POI_CapitalPlot",
+            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
+        },
+        {
+            "id": "72e75fc3-6948-21f8-ecbe-e37ff2b9662b",
+            "worldPosition": {
+                "x": 5466.9873046875,
+                "y": 4291.8515625,
+                "z": 15.348499298095704
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3c96cdb0-d9d2-31ff-4a92-a88d8f499865",
                 "radius": 0.0
             },
             "sliceName": "slices/POIs/POI_CapitalPlot",
@@ -106,11 +64,53 @@
             "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
         },
         {
+            "id": "b6455649-f396-1486-3487-c83f844bc838",
+            "worldPosition": {
+                "x": 5971.13037109375,
+                "y": 4282.0361328125,
+                "z": 40.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b3fc3a74-19a6-e62e-985a-3a09ab1e8abc",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/POI_CapitalPlot",
+            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
+        },
+        {
+            "id": "4b3f6d1a-50d7-c9b5-4bd2-0e467fc5c146",
+            "worldPosition": {
+                "x": 5838.88525390625,
+                "y": 5078.0908203125,
+                "z": 118.64364624023438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "84412087-a2c7-6986-6d2f-8360ea5f0955",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/POI_CapitalPlot",
+            "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
+        },
+        {
             "id": "6d3795d0-8f97-f9c2-4f3e-51f8617df714",
             "worldPosition": {
-                "x": 5369.369140625,
-                "y": 4278.50830078125,
-                "z": 38.11305236816406
+                "x": 5280.37548828125,
+                "y": 4224.1171875,
+                "z": 31.74724006652832
             },
             "rotation": {
                 "x": 0.0,

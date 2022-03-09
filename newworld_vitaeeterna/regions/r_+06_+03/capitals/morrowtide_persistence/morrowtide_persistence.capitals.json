@@ -1,6 +1,49 @@
 {
     "Capitals": [
         {
+            "id": "3bdb4069-a163-fc38-dae8-703e7ce9f224",
+            "worldPosition": {
+                "x": 13171.0908203125,
+                "y": 6902.56298828125,
+                "z": 149.73599243164063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 6.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "870ebe41-33fc-0fdb-4e50-cd114dece378",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1126_Bar",
+            "sliceAssetId": "{99795A82-9BEF-5DC2-A958-9B732B7C467E}:2"
+        },
+        {
+            "id": "9264037f-9a13-c672-cce1-6e2dd452380d",
+            "worldPosition": {
+                "x": 14030.0556640625,
+                "y": 7659.1298828125,
+                "z": 82.90699768066406
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9999619126319885,
+                "w": -0.008726529777050019
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "739db800-5774-e2a7-6e84-7e7130bac79c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\97090337\\MasterNpc_SwapHidden_Spawner_9264037f9a13c672cce16e2dd452380d",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:52380d"
+        },
+        {
             "id": "92aeb883-4516-4341-8c3b-229dbb534721",
             "worldPosition": {
                 "x": 13223.6259765625,
@@ -43,46 +86,28 @@
             "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:3efcc3"
         },
         {
-            "id": "9264037f-9a13-c672-cce1-6e2dd452380d",
+            "id": "0727309c-8eab-5e5d-97c6-3055ab00df97",
             "worldPosition": {
-                "x": 14030.0556640625,
-                "y": 7659.1298828125,
-                "z": 82.90699768066406
+                "x": 13090.3955078125,
+                "y": 7866.30419921875,
+                "z": 227.48219299316407
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9999619126319885,
-                "w": -0.008726529777050019
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "739db800-5774-e2a7-6e84-7e7130bac79c",
+                "id": "5e0704f9-2cfe-de19-4d4b-4a15d2e50835",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\97090337\\MasterNpc_SwapHidden_Spawner_9264037f9a13c672cce16e2dd452380d",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:52380d"
-        },
-        {
-            "id": "5d7868a7-f59d-12dd-05f7-f39968fc0d49",
-            "worldPosition": {
-                "x": 12839.06640625,
-                "y": 7822.2470703125,
-                "z": 236.28599548339845
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5299193263053894,
-                "w": 0.8480480313301086
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a04ceeb9-c9ec-60fe-0277-a5d88015c5bc",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\97090337\\MasterNpc_SwapShown_Spawner_5d7868a7f59d12dd5f7f39968fc0d49",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:fc0d49"
+            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1126_AncientDevice_A",
+            "sliceAssetId": "{485A86BD-E89B-5E58-B1F7-5ADF42A0DBD8}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "6be6a447-2b98-6143-207c-823038e352d6",
@@ -106,116 +131,25 @@
             "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:e352d6"
         },
         {
-            "id": "e7a9da3d-9980-4f4d-6b3d-5c16317c0d94",
+            "id": "5d7868a7-f59d-12dd-05f7-f39968fc0d49",
             "worldPosition": {
-                "x": 13174.2607421875,
-                "y": 6899.12109375,
-                "z": 149.6909942626953
+                "x": 12839.06640625,
+                "y": 7822.2470703125,
+                "z": 236.28599548339845
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.20791159570217133,
-                "w": 0.9781476259231567
+                "z": -0.5299193263053894,
+                "w": 0.8480480313301086
             },
             "footprint": {
                 "type": "Circle",
-                "id": "61a2155e-1bc3-ff43-39c8-624aa6476ed1",
+                "id": "a04ceeb9-c9ec-60fe-0277-a5d88015c5bc",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_StonefirthCoy",
-            "sliceAssetId": "{7E77021D-9FCC-5B13-B4B2-A0F3C345874B}:2"
-        },
-        {
-            "id": "06a9e474-e8c2-9464-285e-8fae55f524b3",
-            "worldPosition": {
-                "x": 12746.6064453125,
-                "y": 7241.30810546875,
-                "z": 219.6204833984375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4ffbd71d-17e4-0240-8bec-6824502e6125",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint4",
-            "sliceAssetId": "{B824D9E6-0268-5247-B77B-53FD7C5DCFF7}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "78bc6342-5872-1a1c-68ec-7880118808b8",
-            "worldPosition": {
-                "x": 13179.1142578125,
-                "y": 6906.2001953125,
-                "z": 149.70199584960938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8987939357757568,
-                "w": 0.4383713901042938
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "09c2cb86-3cfa-3921-ee53-b93be82d8c05",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/NPC_SwapHidden_Meg2",
-            "sliceAssetId": "{6B67C917-FB33-5DA1-8F9F-67BA45BEA0DC}:2"
-        },
-        {
-            "id": "05b87485-5a7e-05ba-e590-48205f847416",
-            "worldPosition": {
-                "x": 13829.142578125,
-                "y": 6640.201171875,
-                "z": 153.6959991455078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f59ccba7-cf1e-4485-8263-dcfe673f90a5",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint2",
-            "sliceAssetId": "{6411F09D-A612-567D-B202-21DF8C05CD06}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "984d8bdb-9640-0b2b-5d84-d46fc1de9a15",
-            "worldPosition": {
-                "x": 13165.8671875,
-                "y": 6910.0234375,
-                "z": 142.8540496826172
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4617483913898468,
-                "w": 0.887010931968689
-            },
-            "scale": 24.99999237060547,
-            "footprint": {
-                "type": "Circle",
-                "id": "98e4afbc-fa6b-3029-8ff3-2eda7cba0167",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\97090337\\TriggerVol_1124_PierreGoHome_984d8bdb96400b2b5d84d46fc1de9a15",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:de9a15"
+            "sliceName": "CoatGen\\97090337\\MasterNpc_SwapShown_Spawner_5d7868a7f59d12dd5f7f39968fc0d49",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:fc0d49"
         },
         {
             "id": "07a62671-3576-d26b-bb81-28d9557a61f0",
@@ -243,25 +177,50 @@
             }
         },
         {
-            "id": "9f6183c9-9a9b-78e8-7fb0-5bfa2e0da3e6",
+            "id": "984d8bdb-9640-0b2b-5d84-d46fc1de9a15",
             "worldPosition": {
-                "x": 14161.2685546875,
-                "y": 7096.08984375,
-                "z": 42.446998596191409
+                "x": 13165.8671875,
+                "y": 6910.0234375,
+                "z": 142.8540496826172
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9537169933319092,
-                "w": -0.30070579051971438
+                "z": -0.4617483913898468,
+                "w": 0.887010931968689
+            },
+            "scale": 24.99999237060547,
+            "footprint": {
+                "type": "Circle",
+                "id": "98e4afbc-fa6b-3029-8ff3-2eda7cba0167",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\97090337\\TriggerVol_1124_PierreGoHome_984d8bdb96400b2b5d84d46fc1de9a15",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:de9a15"
+        },
+        {
+            "id": "06a9e474-e8c2-9464-285e-8fae55f524b3",
+            "worldPosition": {
+                "x": 12746.6064453125,
+                "y": 7241.30810546875,
+                "z": 219.6204833984375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "aff7b7d9-0a89-e7fa-bd23-623c87f37f50",
+                "id": "4ffbd71d-17e4-0240-8bec-6824502e6125",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\97090337\\NPC_1125_McKeys_9f6183c99a9b78e87fb05bfa2e0da3e6",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:da3e6"
+            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint4",
+            "sliceAssetId": "{B824D9E6-0268-5247-B77B-53FD7C5DCFF7}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "f38f192a-e423-65a2-e79e-64c4e7142d03",
@@ -286,35 +245,32 @@
             "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:142d03"
         },
         {
-            "id": "e115b777-9346-9e5d-ee9e-6b89e78b3003",
+            "id": "f16234c4-d4d0-2495-60b8-d5821def4fd0",
             "worldPosition": {
-                "x": 12978.501953125,
-                "y": 7752.83154296875,
-                "z": 244.56028747558595
+                "x": 13167.583984375,
+                "y": 6919.53564453125,
+                "z": 153.74012756347657
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.7071066498756409,
-                "w": 0.70710688829422
+                "z": 0.9981347918510437,
+                "w": 0.061048515141010287
             },
             "footprint": {
                 "type": "Circle",
-                "id": "c0ad8397-00b2-1ba1-5d0a-16538fe15828",
+                "id": "00183961-eed5-64a1-eb36-d8c9ef91566d",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\97090337\\IO_WorldEvent_1126_AncientDevice_B_e115b77793469e5dee9e6b89e78b3003",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:8b3003",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\97090337\\NPC_1126_Leilani_f16234c4d4d0249560b8d5821def4fd0",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:ef4fd0"
         },
         {
-            "id": "0727309c-8eab-5e5d-97c6-3055ab00df97",
+            "id": "83a3a431-7be2-4ec5-d581-58c194162ba1",
             "worldPosition": {
-                "x": 13090.3955078125,
-                "y": 7866.30419921875,
-                "z": 227.48219299316407
+                "x": 13278.9208984375,
+                "y": 7391.85009765625,
+                "z": 189.02999877929688
             },
             "rotation": {
                 "x": 0.0,
@@ -324,59 +280,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5e0704f9-2cfe-de19-4d4b-4a15d2e50835",
+                "id": "f5a1d790-6fa0-b1aa-d4a8-c45e249c16e4",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1126_AncientDevice_A",
-            "sliceAssetId": "{485A86BD-E89B-5E58-B1F7-5ADF42A0DBD8}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "3671fd30-5c54-9ddc-8ecb-a0325220526b",
-            "worldPosition": {
-                "x": 12714.5078125,
-                "y": 7389.37158203125,
-                "z": 231.3667755126953
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "317b199f-32f1-2a63-0c22-c50ad6b0194b",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\97090337\\IO_WorldEvent_1126_AncientDevice_C_3671fd305c549ddc8ecba0325220526b",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:20526b",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "bcd22e8e-5717-a9a3-b82f-f8de318f6357",
-            "worldPosition": {
-                "x": 13226.357421875,
-                "y": 6458.1728515625,
-                "z": 130.32020568847657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ef1409ba-906a-f055-f4b4-9d884c358e81",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint1",
-            "sliceAssetId": "{FDC241F4-8D8E-57FB-9280-F3CC56144B89}:2",
+            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint3",
+            "sliceAssetId": "{75159E4B-303A-59A7-9168-065BB375B965}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -403,6 +311,51 @@
             "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:33e00b"
         },
         {
+            "id": "e115b777-9346-9e5d-ee9e-6b89e78b3003",
+            "worldPosition": {
+                "x": 12978.501953125,
+                "y": 7752.83154296875,
+                "z": 244.56028747558595
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c0ad8397-00b2-1ba1-5d0a-16538fe15828",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\97090337\\IO_WorldEvent_1126_AncientDevice_B_e115b77793469e5dee9e6b89e78b3003",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:8b3003",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "9f6183c9-9a9b-78e8-7fb0-5bfa2e0da3e6",
+            "worldPosition": {
+                "x": 14161.2685546875,
+                "y": 7096.08984375,
+                "z": 42.446998596191409
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9537169933319092,
+                "w": -0.30070579051971438
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aff7b7d9-0a89-e7fa-bd23-623c87f37f50",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\97090337\\NPC_1125_McKeys_9f6183c99a9b78e87fb05bfa2e0da3e6",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:da3e6"
+        },
+        {
             "id": "1cbc30e7-46a3-1471-87b5-796550b11823",
             "worldPosition": {
                 "x": 12545.17578125,
@@ -424,54 +377,11 @@
             "sliceAssetId": "{D02BCCAA-51C5-5B42-82A1-531FF3079F16}:2"
         },
         {
-            "id": "f16234c4-d4d0-2495-60b8-d5821def4fd0",
+            "id": "bcd22e8e-5717-a9a3-b82f-f8de318f6357",
             "worldPosition": {
-                "x": 13167.583984375,
-                "y": 6919.53564453125,
-                "z": 153.74012756347657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9981347918510437,
-                "w": 0.061048515141010287
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "00183961-eed5-64a1-eb36-d8c9ef91566d",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\97090337\\NPC_1126_Leilani_f16234c4d4d0249560b8d5821def4fd0",
-            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:ef4fd0"
-        },
-        {
-            "id": "3bdb4069-a163-fc38-dae8-703e7ce9f224",
-            "worldPosition": {
-                "x": 13171.0908203125,
-                "y": 6902.56298828125,
-                "z": 149.73599243164063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 6.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "870ebe41-33fc-0fdb-4e50-cd114dece378",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1126_Bar",
-            "sliceAssetId": "{99795A82-9BEF-5DC2-A958-9B732B7C467E}:2"
-        },
-        {
-            "id": "83a3a431-7be2-4ec5-d581-58c194162ba1",
-            "worldPosition": {
-                "x": 13278.9208984375,
-                "y": 7391.85009765625,
-                "z": 189.02999877929688
+                "x": 13226.357421875,
+                "y": 6458.1728515625,
+                "z": 130.32020568847657
             },
             "rotation": {
                 "x": 0.0,
@@ -481,14 +391,104 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "f5a1d790-6fa0-b1aa-d4a8-c45e249c16e4",
+                "id": "ef1409ba-906a-f055-f4b4-9d884c358e81",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint3",
-            "sliceAssetId": "{75159E4B-303A-59A7-9168-065BB375B965}:2",
+            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint1",
+            "sliceAssetId": "{FDC241F4-8D8E-57FB-9280-F3CC56144B89}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "05b87485-5a7e-05ba-e590-48205f847416",
+            "worldPosition": {
+                "x": 13829.142578125,
+                "y": 6640.201171875,
+                "z": 153.6959991455078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f59ccba7-cf1e-4485-8263-dcfe673f90a5",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/Interact/MalignNode/IO_WorldEvent_1124_VistaPoint2",
+            "sliceAssetId": "{6411F09D-A612-567D-B202-21DF8C05CD06}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e7a9da3d-9980-4f4d-6b3d-5c16317c0d94",
+            "worldPosition": {
+                "x": 13174.2607421875,
+                "y": 6899.12109375,
+                "z": 149.6909942626953
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.20791159570217133,
+                "w": 0.9781476259231567
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "61a2155e-1bc3-ff43-39c8-624aa6476ed1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_StonefirthCoy",
+            "sliceAssetId": "{7E77021D-9FCC-5B13-B4B2-A0F3C345874B}:2"
+        },
+        {
+            "id": "3671fd30-5c54-9ddc-8ecb-a0325220526b",
+            "worldPosition": {
+                "x": 12714.5078125,
+                "y": 7389.37158203125,
+                "z": 231.3667755126953
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "317b199f-32f1-2a63-0c22-c50ad6b0194b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\97090337\\IO_WorldEvent_1126_AncientDevice_C_3671fd305c549ddc8ecba0325220526b",
+            "sliceAssetId": "{B56647CE-1061-52E8-B61B-C24837856D73}:20526b",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "78bc6342-5872-1a1c-68ec-7880118808b8",
+            "worldPosition": {
+                "x": 13179.1142578125,
+                "y": 6906.2001953125,
+                "z": 149.70199584960938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8987939357757568,
+                "w": 0.4383713901042938
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "09c2cb86-3cfa-3921-ee53-b93be82d8c05",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/NPC_SwapHidden_Meg2",
+            "sliceAssetId": "{6B67C917-FB33-5DA1-8F9F-67BA45BEA0DC}:2"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "Capitals": [
         {
-            "id": "2ec1b182-1ff4-8a84-2156-584272a6dd63",
+            "id": "e51ed118-be15-e646-fd35-ed92a1140207",
             "worldPosition": {
-                "x": 12817.640625,
-                "y": 8446.7109375,
+                "x": 12820.9033203125,
+                "y": 8445.720703125,
                 "z": 270.97900390625
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9998477101325989,
-                "w": -0.01745235174894333
+                "z": 0.8038569688796997,
+                "w": 0.5948227047920227
             },
             "footprint": {
                 "type": "Circle",
-                "id": "d5966fd6-bb20-58f5-3800-08b027a801d4",
+                "id": "0456129d-e320-cf1b-6503-d50ddedc140f",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_1132_Sidney",
-            "sliceAssetId": "{BEF32951-B358-5B63-9C46-580079C540BA}:2"
+            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_1131_Megnolia",
+            "sliceAssetId": "{3006493C-6556-589C-91F4-417A9C8BCFD0}:2"
         },
         {
-            "id": "15908b36-bccd-cdee-3011-f9491d9f1534",
+            "id": "f4efc820-4248-83ce-dd83-2a1e6be52b51",
             "worldPosition": {
-                "x": 13102.9697265625,
-                "y": 8486.052734375,
-                "z": 265.6929931640625
+                "x": 12820.9033203125,
+                "y": 8445.720703125,
+                "z": 270.97900390625
             },
             "rotation": {
                 "x": 0.0,
@@ -37,11 +37,32 @@
             "scale": 25.0,
             "footprint": {
                 "type": "Circle",
-                "id": "57c4ab00-114e-34a0-4903-f35d2afe7226",
+                "id": "f615f74f-cad8-c774-e388-faf49b4a011b",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1132_Blunderbuss2",
-            "sliceAssetId": "{C5062687-D07E-5C9C-8E52-8A1F74BF8B8C}:2"
+            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1132_Blunderbuss1",
+            "sliceAssetId": "{98DFE99B-0D57-58E2-8CFF-7425021B0245}:2"
+        },
+        {
+            "id": "f3d49e49-ba5b-febe-fe68-6ad09892a84a",
+            "worldPosition": {
+                "x": 13378.447265625,
+                "y": 8649.162109375,
+                "z": 198.03822326660157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1321f85c-9349-f7f6-4b6b-010c43ab7749",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\18b765fb\\WorldEvent_SpawnGroup_Single_Master_f3d49e49ba5bfebefe686ad09892a84a",
+            "sliceAssetId": "{101CFF30-701F-5992-B947-13083E773A2D}:92a84a"
         },
         {
             "id": "21f82151-2ccf-c010-12cc-7fc94abb4497",
@@ -59,30 +80,6 @@
             "footprint": {
                 "type": "Circle",
                 "id": "995dab0e-22cc-5a08-1144-54625fa686ad",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "1597f335-0aa7-f1ed-b782-3be9f431ae01",
-            "worldPosition": {
-                "x": 13682.7587890625,
-                "y": 8597.8037109375,
-                "z": 179.97149658203126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9366722106933594,
-                "w": 0.3502073287963867
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4376509a-6003-9f95-d7b6-3c9b856cf2fb",
                 "radius": 1.0
             },
             "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
@@ -116,6 +113,30 @@
             }
         },
         {
+            "id": "1597f335-0aa7-f1ed-b782-3be9f431ae01",
+            "worldPosition": {
+                "x": 13682.7587890625,
+                "y": 8597.8037109375,
+                "z": 179.97149658203126
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9366722106933594,
+                "w": 0.3502073287963867
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4376509a-6003-9f95-d7b6-3c9b856cf2fb",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
             "id": "af560e9b-4f54-6093-d59f-bed7d1b6a1c4",
             "worldPosition": {
                 "x": 13720.2529296875,
@@ -140,50 +161,49 @@
             }
         },
         {
-            "id": "8a6babd7-af71-58a2-9cf0-98fef1e2104f",
+            "id": "d4e45472-a3c4-e95b-da73-da95bb316b48",
             "worldPosition": {
-                "x": 12779.3564453125,
-                "y": 8327.046875,
-                "z": 270.93511962890627
+                "x": 13718.955078125,
+                "y": 8694.228515625,
+                "z": 178.22146606445313
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.8660253286361694,
-                "w": 0.5000000596046448
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b2df35f0-cf74-50ab-9afd-677d485fb13b",
-                "width": 15.0,
-                "height": 10.0
-            },
-            "sliceName": "slices/FastTravel/FastTravel_Teleporter",
-            "sliceAssetId": "{28BB2A57-D25F-5F02-9132-C8F71A9EF7E7}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e51ed118-be15-e646-fd35-ed92a1140207",
-            "worldPosition": {
-                "x": 12820.9033203125,
-                "y": 8445.720703125,
-                "z": 270.97900390625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8038569688796997,
-                "w": 0.5948227047920227
+                "z": 0.03489934280514717,
+                "w": 0.9993908405303955
             },
             "footprint": {
                 "type": "Circle",
-                "id": "0456129d-e320-cf1b-6503-d50ddedc140f",
+                "id": "dae6c553-2b03-4182-d973-a5e124bdb6ae",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_1131_Megnolia",
-            "sliceAssetId": "{3006493C-6556-589C-91F4-417A9C8BCFD0}:2"
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Major_Slope",
+            "sliceAssetId": "{6E4EB2E2-18BF-5737-89B9-3326EA3B225B}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_major/major_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "ccf2fb1e-bde1-7734-08a1-93ffae33e937",
+            "worldPosition": {
+                "x": 12922.490234375,
+                "y": 8260.0,
+                "z": 235.40432739257813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.537299633026123,
+                "w": 0.8433914184570313
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0943d8ac-cf40-0cec-759c-09d66d9f3b32",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Characters/Mission/SliceSwaps/Npc_Swap_1224_MD",
+            "sliceAssetId": "{4D979490-D730-58FD-B478-569E3595F586}:2"
         },
         {
             "id": "41db19ca-c09d-9489-d08e-20ccef9da07b",
@@ -207,28 +227,25 @@
             "sliceAssetId": "{101CFF30-701F-5992-B947-13083E773A2D}:9da07b"
         },
         {
-            "id": "1cc72fd8-9494-66b2-e1cf-a68e0b932498",
+            "id": "21643da5-c435-b7be-44bf-b7ee0e84f050",
             "worldPosition": {
-                "x": 13488.7939453125,
-                "y": 8622.6982421875,
-                "z": 184.2528076171875
+                "x": 13718.955078125,
+                "y": 8694.228515625,
+                "z": 177.23770141601563
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.03489934280514717,
+                "w": 0.9993908405303955
             },
             "footprint": {
                 "type": "Circle",
-                "id": "48f70d10-07bc-246c-c56e-212a53bb3ecd",
+                "id": "6341d701-c238-a9f3-0ecb-275764646573",
                 "radius": 1.0
             },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
-            "sliceAssetId": "{DDB0EEED-324F-5C01-9428-3AD7B1B63B9A}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint.obj"
-            }
+            "sliceName": "CoatGen\\18b765fb\\Darkness_SpawnGroup_Major_Master_21643da5c435b7be44bfb7ee0e84f050",
+            "sliceAssetId": "{101CFF30-701F-5992-B947-13083E773A2D}:84f050"
         },
         {
             "id": "611ffe0a-cfdd-0fb9-433d-1a817b0b1fd9",
@@ -246,6 +263,30 @@
             "footprint": {
                 "type": "Circle",
                 "id": "020f33dd-d139-7233-2f13-b1713f256dcb",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
+            "sliceAssetId": "{DDB0EEED-324F-5C01-9428-3AD7B1B63B9A}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint.obj"
+            }
+        },
+        {
+            "id": "1cc72fd8-9494-66b2-e1cf-a68e0b932498",
+            "worldPosition": {
+                "x": 13488.7939453125,
+                "y": 8622.6982421875,
+                "z": 184.2528076171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "48f70d10-07bc-246c-c56e-212a53bb3ecd",
                 "radius": 1.0
             },
             "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
@@ -279,25 +320,73 @@
             }
         },
         {
-            "id": "21643da5-c435-b7be-44bf-b7ee0e84f050",
+            "id": "8a6babd7-af71-58a2-9cf0-98fef1e2104f",
             "worldPosition": {
-                "x": 13718.955078125,
-                "y": 8694.228515625,
-                "z": 177.23770141601563
+                "x": 12779.3564453125,
+                "y": 8327.046875,
+                "z": 270.93511962890627
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.03489934280514717,
-                "w": 0.9993908405303955
+                "z": -0.8660253286361694,
+                "w": 0.5000000596046448
             },
             "footprint": {
+                "type": "Rectangle",
+                "id": "b2df35f0-cf74-50ab-9afd-677d485fb13b",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "slices/FastTravel/FastTravel_Teleporter",
+            "sliceAssetId": "{28BB2A57-D25F-5F02-9132-C8F71A9EF7E7}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d903c802-6a84-692e-5e30-eecfca5edf57",
+            "worldPosition": {
+                "x": 13374.6806640625,
+                "y": 8652.3251953125,
+                "z": 196.01600646972657
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 25.0,
+            "footprint": {
                 "type": "Circle",
-                "id": "6341d701-c238-a9f3-0ecb-275764646573",
+                "id": "f575fa39-bf93-2cb0-928f-bdbf704c2da1",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\18b765fb\\Darkness_SpawnGroup_Major_Master_21643da5c435b7be44bfb7ee0e84f050",
-            "sliceAssetId": "{101CFF30-701F-5992-B947-13083E773A2D}:84f050"
+            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1132_Blunderbuss3",
+            "sliceAssetId": "{3CF450A1-7188-55AE-9FA2-465620D99947}:2"
+        },
+        {
+            "id": "15908b36-bccd-cdee-3011-f9491d9f1534",
+            "worldPosition": {
+                "x": 13102.9697265625,
+                "y": 8486.052734375,
+                "z": 265.6929931640625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 25.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "57c4ab00-114e-34a0-4903-f35d2afe7226",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1132_Blunderbuss2",
+            "sliceAssetId": "{C5062687-D07E-5C9C-8E52-8A1F74BF8B8C}:2"
         },
         {
             "id": "62b6c783-a80d-0401-bb30-abf27b0ed477",
@@ -321,119 +410,6 @@
             "sliceAssetId": "{F34452A1-1EF6-512A-AC02-29DF4C7A6517}:2"
         },
         {
-            "id": "90a51cd7-dd5e-bc7c-492a-88cea557152e",
-            "worldPosition": {
-                "x": 12622.103515625,
-                "y": 8565.1669921875,
-                "z": 344.3919982910156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ad09b388-4cb4-a20e-ef89-d4f347b52124",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapHidden_1124_Pierre2",
-            "sliceAssetId": "{23963DF9-D569-5E2E-9455-F30CEF2D4D18}:2"
-        },
-        {
-            "id": "180f24f6-632d-4685-cbfe-cb930eb4f31e",
-            "worldPosition": {
-                "x": 13374.7041015625,
-                "y": 8651.998046875,
-                "z": 197.42831420898438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a7c64d5c-19ff-12ce-b5fa-181767780470",
-                "radius": 12.5
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/Enc_WorldEvent_1132_Digby_Event",
-            "sliceAssetId": "{59A93CD2-CBAE-5018-A33B-9B8AB954D467}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f4efc820-4248-83ce-dd83-2a1e6be52b51",
-            "worldPosition": {
-                "x": 12820.9033203125,
-                "y": 8445.720703125,
-                "z": 270.97900390625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 25.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "754180b0-c1d3-cc72-f0e5-26432ed0bcb3",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1132_Blunderbuss1",
-            "sliceAssetId": "{98DFE99B-0D57-58E2-8CFF-7425021B0245}:2"
-        },
-        {
-            "id": "d903c802-6a84-692e-5e30-eecfca5edf57",
-            "worldPosition": {
-                "x": 13374.6806640625,
-                "y": 8652.3251953125,
-                "z": 196.01600646972657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 25.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "679c1cbb-b6d6-5c9f-3862-3a1c89bf9859",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1132_Blunderbuss3",
-            "sliceAssetId": "{3CF450A1-7188-55AE-9FA2-465620D99947}:2"
-        },
-        {
-            "id": "d4e45472-a3c4-e95b-da73-da95bb316b48",
-            "worldPosition": {
-                "x": 13718.955078125,
-                "y": 8694.228515625,
-                "z": 178.22146606445313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.03489934280514717,
-                "w": 0.9993908405303955
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dae6c553-2b03-4182-d973-a5e124bdb6ae",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Major_Slope",
-            "sliceAssetId": "{6E4EB2E2-18BF-5737-89B9-3326EA3B225B}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_major/major_darkness_footprint_slope.obj"
-            }
-        },
-        {
             "id": "efa06e97-d401-bdf7-04c8-16bb385e05ab",
             "worldPosition": {
                 "x": 12829.7890625,
@@ -453,6 +429,48 @@
             },
             "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_Harunobu1",
             "sliceAssetId": "{CBEFEE46-B6B9-5C44-99DA-97AB50590B56}:2"
+        },
+        {
+            "id": "2ec1b182-1ff4-8a84-2156-584272a6dd63",
+            "worldPosition": {
+                "x": 12817.640625,
+                "y": 8446.7109375,
+                "z": 270.97900390625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9998477101325989,
+                "w": -0.01745235174894333
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d5966fd6-bb20-58f5-3800-08b027a801d4",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapShown_1132_Sidney",
+            "sliceAssetId": "{BEF32951-B358-5B63-9C46-580079C540BA}:2"
+        },
+        {
+            "id": "90a51cd7-dd5e-bc7c-492a-88cea557152e",
+            "worldPosition": {
+                "x": 12622.103515625,
+                "y": 8565.1669921875,
+                "z": 344.3919982910156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ad09b388-4cb4-a20e-ef89-d4f347b52124",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Mourningdale/Npc_SwapHidden_1124_Pierre2",
+            "sliceAssetId": "{23963DF9-D569-5E2E-9455-F30CEF2D4D18}:2"
         }
     ]
 }
