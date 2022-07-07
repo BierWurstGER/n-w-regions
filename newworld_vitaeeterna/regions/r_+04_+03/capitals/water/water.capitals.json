@@ -1,11 +1,11 @@
 {
     "Capitals": [
         {
-            "id": "7badbcc6-fa95-4de5-f07d-9a2f5f84ea22",
+            "id": "4b9b33c4-6a1e-4246-894f-5e363eeb3a41",
             "worldPosition": {
-                "x": 10234.935546875,
-                "y": 6528.48583984375,
-                "z": 292.299560546875
+                "x": 10062.7958984375,
+                "y": 6192.83837890625,
+                "z": 230.64999389648438
             },
             "rotation": {
                 "x": 0.0,
@@ -15,11 +15,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "a5243d84-e985-08ab-d961-46344575d3f9",
-                "radius": 0.0
+                "id": "886bbf9f-92a8-8639-37e4-c59bb5ef7d48",
+                "radius": 0.009999999776482582
             },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_R",
-            "sliceAssetId": "{1337A93B-5D59-5C6E-A080-AD026723A55D}:2",
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_QA",
+            "sliceAssetId": "{A0E66A67-F8E9-5847-9031-2CD2CD3534C0}:2",
             "cookie": {
                 "innerRadius": 0.00009999999747378752,
                 "outerRadius": 0.00019999999494757503,
@@ -54,11 +54,11 @@
             }
         },
         {
-            "id": "4b9b33c4-6a1e-4246-894f-5e363eeb3a41",
+            "id": "c1c04765-1972-5503-2b11-974a80dab2ed",
             "worldPosition": {
-                "x": 10062.7958984375,
-                "y": 6192.83837890625,
-                "z": 230.64999389648438
+                "x": 8670.3095703125,
+                "y": 6252.83056640625,
+                "z": 211.10000610351563
             },
             "rotation": {
                 "x": 0.0,
@@ -68,11 +68,64 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "886bbf9f-92a8-8639-37e4-c59bb5ef7d48",
+                "id": "c166be3a-23b8-0393-1cd8-85ab77c93a90",
                 "radius": 0.009999999776482582
             },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_QA",
-            "sliceAssetId": "{A0E66A67-F8E9-5847-9031-2CD2CD3534C0}:2",
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_U",
+            "sliceAssetId": "{0BA27F23-9E6B-56C1-B07B-4B5131197A4B}:2",
+            "cookie": {
+                "innerRadius": 0.00009999999747378752,
+                "outerRadius": 0.00019999999494757503,
+                "maxHeightBlend": 1.0
+            },
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "6892a094-fbf0-90b8-ad9b-18d0a273928c",
+            "worldPosition": {
+                "x": 9033.744140625,
+                "y": 7209.31787109375,
+                "z": 388.45001220703127
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "671175b6-ec52-34a7-429e-6a0750535d6e",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/DamnedPass_Lake_Highland_C",
+            "sliceAssetId": "{258B324B-E282-5DB2-96C2-8B838FDBB9D8}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "19f07133-6da9-74c1-30e5-38020be6066f",
+            "worldPosition": {
+                "x": 10006.7607421875,
+                "y": 6482.1416015625,
+                "z": 254.3000030517578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5a750c37-f724-9d1e-0b8e-c73002129d46",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_P",
+            "sliceAssetId": "{2C97C1C8-C77F-5728-8BC0-E607B2DA6BE1}:2",
             "cookie": {
                 "innerRadius": 0.00009999999747378752,
                 "outerRadius": 0.00019999999494757503,
@@ -107,11 +160,11 @@
             }
         },
         {
-            "id": "d12b38f4-c61d-af1f-914d-7d5577d8a4df",
+            "id": "29768fc6-f78b-1b7c-2321-80716beb671a",
             "worldPosition": {
-                "x": 10234.916015625,
-                "y": 6416.74609375,
-                "z": 269.88720703125
+                "x": 8526.4091796875,
+                "y": 6197.1279296875,
+                "z": 178.02000427246095
             },
             "rotation": {
                 "x": 0.0,
@@ -121,36 +174,31 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "b7a71267-5a75-709b-5de8-619c0509f1a1",
+                "id": "e2aec07b-7547-6e67-7650-b5e591c8aed9",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_SB",
-            "sliceAssetId": "{CA8381CB-7E03-55ED-BE8E-14E7F4F6192C}:2",
-            "cookie": {
-                "innerRadius": 0.00009999999747378752,
-                "outerRadius": 0.00019999999494757503,
-                "maxHeightBlend": 1.0
-            },
+            "sliceName": "slices/Terrain_Water/Brightwoods_Lake_Forest_B",
+            "sliceAssetId": "{771FDB7A-F548-56DE-A908-7246F3F04CC0}:2",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
-            "id": "7cde7a90-f6ba-319e-bb6e-0759342495fd",
+            "id": "3c80276d-a87b-c226-2473-01408963b310",
             "worldPosition": {
-                "x": 10139.4267578125,
-                "y": 8006.298828125,
-                "z": 482.9071044921875
+                "x": 10204.8759765625,
+                "y": 8093.98974609375,
+                "z": 595.7750854492188
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.6156615614891052,
+                "w": 0.7880107164382935
             },
             "footprint": {
                 "type": "Circle",
-                "id": "aa950f3a-de35-37a2-1388-f12b73c275b3",
+                "id": "fc873fad-3fcc-3a9d-36c8-f4094993e905",
                 "radius": 0.0
             },
             "sliceName": "slices/Terrain_Water/DamnedPass_River_Highland_C",
@@ -184,21 +232,21 @@
             }
         },
         {
-            "id": "3c80276d-a87b-c226-2473-01408963b310",
+            "id": "7cde7a90-f6ba-319e-bb6e-0759342495fd",
             "worldPosition": {
-                "x": 10204.8759765625,
-                "y": 8093.98974609375,
-                "z": 595.7750854492188
+                "x": 10139.4267578125,
+                "y": 8006.298828125,
+                "z": 482.9071044921875
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.6156615614891052,
-                "w": 0.7880107164382935
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "fc873fad-3fcc-3a9d-36c8-f4094993e905",
+                "id": "aa950f3a-de35-37a2-1388-f12b73c275b3",
                 "radius": 0.0
             },
             "sliceName": "slices/Terrain_Water/DamnedPass_River_Highland_C",
@@ -227,117 +275,6 @@
             },
             "sliceName": "slices/Terrain_Water/DamnedPass_River_Highland_C",
             "sliceAssetId": "{D69971AC-2B78-5525-8614-B9388B6844C7}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "195d748b-9a39-37ca-9a33-43a773a5db19",
-            "worldPosition": {
-                "x": 9000.990234375,
-                "y": 7950.60302734375,
-                "z": 536.9603881835938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2d2131bc-84db-9080-78fe-d6488c909456",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Terrain_Water/DamnedPass_Lake_Highland_D",
-            "sliceAssetId": "{E6AC6607-BF48-5E4E-85F0-2DD9B84FDE00}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "d46be6f9-0e6d-c8f8-3d2e-b378496a921d",
-            "worldPosition": {
-                "x": 10188.568359375,
-                "y": 6281.1533203125,
-                "z": 268.3699951171875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a8fc4bef-9965-07ec-7264-38097fa454ac",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_SA",
-            "sliceAssetId": "{F5306E4A-8079-5AE0-B549-FCEB60633A62}:2",
-            "cookie": {
-                "innerRadius": 0.00009999999747378752,
-                "outerRadius": 0.00019999999494757503,
-                "maxHeightBlend": 1.0
-            },
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "2606274b-d849-ae69-55ac-149b56a98641",
-            "worldPosition": {
-                "x": 10213.2216796875,
-                "y": 6485.54150390625,
-                "z": 292.299560546875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b5a3b19f-d6dd-3ddf-4421-70be90909844",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_RA",
-            "sliceAssetId": "{EF2A5347-DD22-5A88-8FA1-93CF3995A900}:2",
-            "cookie": {
-                "innerRadius": 0.00009999999747378752,
-                "outerRadius": 0.00019999999494757503,
-                "maxHeightBlend": 1.0
-            },
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "8a60cdfb-35e6-4a58-8365-a36f9aba068a",
-            "worldPosition": {
-                "x": 10224.3935546875,
-                "y": 6315.9091796875,
-                "z": 268.3699951171875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "365c16f7-8ba8-bff5-2d1c-f104ae6fafbd",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_S",
-            "sliceAssetId": "{3636CCF1-1770-587C-A240-E5032E7919B9}:2",
-            "cookie": {
-                "innerRadius": 0.00009999999747378752,
-                "outerRadius": 0.00019999999494757503,
-                "maxHeightBlend": 1.0
-            },
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }
@@ -406,59 +343,6 @@
             "sliceAssetId": "{E1A4CC34-95A1-5BC2-94DE-0BB682C5222F}:dd52bd"
         },
         {
-            "id": "6892a094-fbf0-90b8-ad9b-18d0a273928c",
-            "worldPosition": {
-                "x": 9033.744140625,
-                "y": 7209.31787109375,
-                "z": 388.45001220703127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "671175b6-ec52-34a7-429e-6a0750535d6e",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Terrain_Water/DamnedPass_Lake_Highland_C",
-            "sliceAssetId": "{258B324B-E282-5DB2-96C2-8B838FDBB9D8}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "19f07133-6da9-74c1-30e5-38020be6066f",
-            "worldPosition": {
-                "x": 10006.7607421875,
-                "y": 6482.1416015625,
-                "z": 254.3000030517578
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5a750c37-f724-9d1e-0b8e-c73002129d46",
-                "radius": 0.009999999776482582
-            },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_P",
-            "sliceAssetId": "{2C97C1C8-C77F-5728-8BC0-E607B2DA6BE1}:2",
-            "cookie": {
-                "innerRadius": 0.00009999999747378752,
-                "outerRadius": 0.00019999999494757503,
-                "maxHeightBlend": 1.0
-            },
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
             "id": "9c0ae7ab-f74f-96e5-52f9-97ce8ef5865f",
             "worldPosition": {
                 "x": 9896.7607421875,
@@ -488,11 +372,11 @@
             }
         },
         {
-            "id": "c1c04765-1972-5503-2b11-974a80dab2ed",
+            "id": "e66fc8a5-9fd1-fd4b-2541-f26f9c6eeb61",
             "worldPosition": {
-                "x": 8670.3095703125,
-                "y": 6252.83056640625,
-                "z": 211.10000610351563
+                "x": 10037.6103515625,
+                "y": 7205.47607421875,
+                "z": 403.25
             },
             "rotation": {
                 "x": 0.0,
@@ -502,11 +386,117 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "c166be3a-23b8-0393-1cd8-85ab77c93a90",
+                "id": "d6f9bbbb-fc0e-02ec-ea6c-c62586f9135f",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/DamnedPass_River_Highland_A",
+            "sliceAssetId": "{58900A70-C21B-5CCE-A184-780237372DA2}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "2606274b-d849-ae69-55ac-149b56a98641",
+            "worldPosition": {
+                "x": 10213.2216796875,
+                "y": 6485.54150390625,
+                "z": 292.299560546875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b5a3b19f-d6dd-3ddf-4421-70be90909844",
                 "radius": 0.009999999776482582
             },
-            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_U",
-            "sliceAssetId": "{0BA27F23-9E6B-56C1-B07B-4B5131197A4B}:2",
+            "sliceName": "CoatGen\\f946cf38\\BrightWoods_River_Forest_RA_2606274bd849ae6955ac149b56a98641",
+            "sliceAssetId": "{E1A4CC34-95A1-5BC2-94DE-0BB682C5222F}:a98641",
+            "cookie": {
+                "innerRadius": 0.00009999999747378752,
+                "outerRadius": 0.00019999999494757503,
+                "maxHeightBlend": 1.0
+            },
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "8a60cdfb-35e6-4a58-8365-a36f9aba068a",
+            "worldPosition": {
+                "x": 10224.3935546875,
+                "y": 6315.9091796875,
+                "z": 268.3699951171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "365c16f7-8ba8-bff5-2d1c-f104ae6fafbd",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_S",
+            "sliceAssetId": "{3636CCF1-1770-587C-A240-E5032E7919B9}:2",
+            "cookie": {
+                "innerRadius": 0.00009999999747378752,
+                "outerRadius": 0.00019999999494757503,
+                "maxHeightBlend": 1.0
+            },
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "195d748b-9a39-37ca-9a33-43a773a5db19",
+            "worldPosition": {
+                "x": 9000.990234375,
+                "y": 7950.60302734375,
+                "z": 536.9603881835938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2d2131bc-84db-9080-78fe-d6488c909456",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/DamnedPass_Lake_Highland_D",
+            "sliceAssetId": "{E6AC6607-BF48-5E4E-85F0-2DD9B84FDE00}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "d46be6f9-0e6d-c8f8-3d2e-b378496a921d",
+            "worldPosition": {
+                "x": 10188.568359375,
+                "y": 6281.1533203125,
+                "z": 268.3699951171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a8fc4bef-9965-07ec-7264-38097fa454ac",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_SA",
+            "sliceAssetId": "{F5306E4A-8079-5AE0-B549-FCEB60633A62}:2",
             "cookie": {
                 "innerRadius": 0.00009999999747378752,
                 "outerRadius": 0.00019999999494757503,
@@ -541,11 +531,11 @@
             }
         },
         {
-            "id": "29768fc6-f78b-1b7c-2321-80716beb671a",
+            "id": "7badbcc6-fa95-4de5-f07d-9a2f5f84ea22",
             "worldPosition": {
-                "x": 8526.4091796875,
-                "y": 6197.1279296875,
-                "z": 178.02000427246095
+                "x": 10234.935546875,
+                "y": 6528.48583984375,
+                "z": 292.299560546875
             },
             "rotation": {
                 "x": 0.0,
@@ -555,21 +545,26 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e2aec07b-7547-6e67-7650-b5e591c8aed9",
+                "id": "a5243d84-e985-08ab-d961-46344575d3f9",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/Brightwoods_Lake_Forest_B",
-            "sliceAssetId": "{771FDB7A-F548-56DE-A908-7246F3F04CC0}:2",
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_R",
+            "sliceAssetId": "{1337A93B-5D59-5C6E-A080-AD026723A55D}:2",
+            "cookie": {
+                "innerRadius": 0.00009999999747378752,
+                "outerRadius": 0.00019999999494757503,
+                "maxHeightBlend": 1.0
+            },
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
-            "id": "e66fc8a5-9fd1-fd4b-2541-f26f9c6eeb61",
+            "id": "d12b38f4-c61d-af1f-914d-7d5577d8a4df",
             "worldPosition": {
-                "x": 10037.6103515625,
-                "y": 7205.47607421875,
-                "z": 403.25
+                "x": 10234.916015625,
+                "y": 6416.74609375,
+                "z": 269.88720703125
             },
             "rotation": {
                 "x": 0.0,
@@ -579,11 +574,16 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "d6f9bbbb-fc0e-02ec-ea6c-c62586f9135f",
+                "id": "b7a71267-5a75-709b-5de8-619c0509f1a1",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/DamnedPass_River_Highland_A",
-            "sliceAssetId": "{58900A70-C21B-5CCE-A184-780237372DA2}:2",
+            "sliceName": "slices/Terrain_Water/BrightWoods_River_Forest_SB",
+            "sliceAssetId": "{CA8381CB-7E03-55ED-BE8E-14E7F4F6192C}:2",
+            "cookie": {
+                "innerRadius": 0.00009999999747378752,
+                "outerRadius": 0.00019999999494757503,
+                "maxHeightBlend": 1.0
+            },
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }

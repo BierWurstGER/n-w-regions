@@ -1,0 +1,94 @@
+{
+    "Capitals": [
+        {
+            "id": "6ef44420-7665-42f5-cf82-cc672aab17dc",
+            "worldPosition": {
+                "x": 9966.1357421875,
+                "y": 6797.42578125,
+                "z": 436.5545349121094
+            },
+            "rotation": {
+                "x": 0.04685625806450844,
+                "y": -0.04849854111671448,
+                "z": -0.130422443151474,
+                "w": 0.9891624450683594
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d43e233d-8b27-2158-8213-83bf259ad621",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_EastCleave01",
+            "sliceAssetId": "{F78BE6DF-05FE-5E37-AF8A-0B43D05C2335}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a3169388-b221-b960-b46d-c2554f085c86",
+            "worldPosition": {
+                "x": 9679.724609375,
+                "y": 7604.908203125,
+                "z": 331.5391845703125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4aeb016c-76e8-214c-6b16-c058b6864333",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/YetiGC/WorldEvent_GreatCleave_Yeti_Spawner",
+            "sliceAssetId": "{42C8F81A-70C4-5EB2-A5DA-EE1B507F578C}:2"
+        },
+        {
+            "id": "82484ddf-debc-7457-f633-ebd4695ca0e0",
+            "worldPosition": {
+                "x": 9368.931640625,
+                "y": 7343.6142578125,
+                "z": 339.86328125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "27704d9a-7667-53d5-6a0e-777292ac0aa7",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_03GC",
+            "sliceAssetId": "{2AE67298-2FFB-572D-AE06-F6562E2EB7EE}:2"
+        },
+        {
+            "id": "d01af1dc-d0fe-fd86-bcf2-40d3994f9c13",
+            "worldPosition": {
+                "x": 10069.0,
+                "y": 6423.0,
+                "z": 299.16473388671877
+            },
+            "rotation": {
+                "x": -0.026443008333444597,
+                "y": -0.04026288539171219,
+                "z": 0.4534634053707123,
+                "w": 0.8899722695350647
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1ffd4ee3-a46e-02c8-745b-33d71ea7728e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_NorthBrightwood01",
+            "sliceAssetId": "{D0F66148-71A1-5936-9297-D196F0CEC174}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
+}

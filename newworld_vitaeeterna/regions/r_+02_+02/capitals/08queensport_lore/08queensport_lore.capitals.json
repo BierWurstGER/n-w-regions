@@ -1,6 +1,31 @@
 {
     "Capitals": [
         {
+            "id": "72082bb7-6d62-cb32-9d67-dc20efbbe1ec",
+            "worldPosition": {
+                "x": 6025.55615234375,
+                "y": 5271.93896484375,
+                "z": 56.61283874511719
+            },
+            "rotation": {
+                "x": 0.0026251631788909437,
+                "y": -0.009599757380783558,
+                "z": -0.38266393542289736,
+                "w": 0.9238340258598328
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ab1e1a04-3fef-3cf5-0577-8774d67ee923",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "0e4e5d1a-27f5-0ed2-a151-322cc3a5b58e",
             "worldPosition": {
                 "x": 6030.3134765625,
@@ -51,31 +76,6 @@
             }
         },
         {
-            "id": "590b57ad-0651-89e4-0bc3-441c76d9c171",
-            "worldPosition": {
-                "x": 6029.66552734375,
-                "y": 5307.09326171875,
-                "z": 56.62586212158203
-            },
-            "rotation": {
-                "x": -0.0011398987844586373,
-                "y": -0.0024446232710033657,
-                "z": 0.9396894574165344,
-                "w": 0.34201815724372866
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c8e8af80-b643-8e2c-a0c6-141c0f9b6839",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
-            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "ee5b36dc-366a-d7ad-8ab1-ce4818ad4170",
             "worldPosition": {
                 "x": 6027.5869140625,
@@ -101,74 +101,26 @@
             }
         },
         {
-            "id": "72082bb7-6d62-cb32-9d67-dc20efbbe1ec",
+            "id": "590b57ad-0651-89e4-0bc3-441c76d9c171",
             "worldPosition": {
-                "x": 6025.55615234375,
-                "y": 5271.93896484375,
-                "z": 56.61283874511719
+                "x": 6029.66552734375,
+                "y": 5307.09326171875,
+                "z": 56.62586212158203
             },
             "rotation": {
-                "x": 0.0026251631788909437,
-                "y": -0.009599757380783558,
-                "z": -0.38266393542289736,
-                "w": 0.9238340258598328
+                "x": -0.0011398987844586373,
+                "y": -0.0024446232710033657,
+                "z": 0.9396894574165344,
+                "w": 0.34201815724372866
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "ab1e1a04-3fef-3cf5-0577-8774d67ee923",
+                "id": "c8e8af80-b643-8e2c-a0c6-141c0f9b6839",
                 "width": 3.5,
                 "height": 2.0
             },
             "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
             "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c0cfc241-aa05-b830-9a70-753c5d8b7813",
-            "worldPosition": {
-                "x": 5456.34130859375,
-                "y": 4276.54638671875,
-                "z": 55.33975601196289
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9366719722747803,
-                "w": 0.35020801424980166
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1e7bd4ea-8a2c-3c8c-8afb-1904d20f6f37",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\2f52f849\\IO_MSQ_0052_BombCargo1_c0cfc241aa05b8309a70753c5d8b7813",
-            "sliceAssetId": "{4B09E23E-6C84-559E-A6E9-B73FA72A2BBB}:8b7813",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "096f5d0b-7d94-e83d-2c11-225e01e724f9",
-            "worldPosition": {
-                "x": 5505.46875,
-                "y": 4202.22705078125,
-                "z": 40.301536560058597
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9990481734275818,
-                "w": 0.04361969232559204
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4c94ed32-a240-99c6-1baf-0945d9d4d273",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\2f52f849\\IO_MSQ_0052_BombCargo1_096f5d0b7d94e83d2c11225e01e724f9",
-            "sliceAssetId": "{4B09E23E-6C84-559E-A6E9-B73FA72A2BBB}:e724f9",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -222,6 +174,30 @@
             }
         },
         {
+            "id": "096f5d0b-7d94-e83d-2c11-225e01e724f9",
+            "worldPosition": {
+                "x": 5505.46875,
+                "y": 4202.22705078125,
+                "z": 40.301536560058597
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9990481734275818,
+                "w": 0.04361969232559204
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4c94ed32-a240-99c6-1baf-0945d9d4d273",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\2f52f849\\IO_MSQ_0052_BombCargo1_096f5d0b7d94e83d2c11225e01e724f9",
+            "sliceAssetId": "{4B09E23E-6C84-559E-A6E9-B73FA72A2BBB}:e724f9",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "ffe8941c-be85-283a-3331-c8d288d8723f",
             "worldPosition": {
                 "x": 5443.8720703125,
@@ -241,6 +217,30 @@
             },
             "sliceName": "CoatGen\\2f52f849\\IO_MSQ_0052_BombCargo1_ffe8941cbe85283a3331c8d288d8723f",
             "sliceAssetId": "{4B09E23E-6C84-559E-A6E9-B73FA72A2BBB}:d8723f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c0cfc241-aa05-b830-9a70-753c5d8b7813",
+            "worldPosition": {
+                "x": 5456.34130859375,
+                "y": 4276.54638671875,
+                "z": 55.33975601196289
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9366719722747803,
+                "w": 0.35020801424980166
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1e7bd4ea-8a2c-3c8c-8afb-1904d20f6f37",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\2f52f849\\IO_MSQ_0052_BombCargo1_c0cfc241aa05b8309a70753c5d8b7813",
+            "sliceAssetId": "{4B09E23E-6C84-559E-A6E9-B73FA72A2BBB}:8b7813",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

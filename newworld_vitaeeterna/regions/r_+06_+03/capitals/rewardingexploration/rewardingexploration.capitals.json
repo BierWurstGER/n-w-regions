@@ -1,0 +1,49 @@
+{
+    "Capitals": [
+        {
+            "id": "31e634d5-b826-ea3c-fad3-10ab5d463912",
+            "worldPosition": {
+                "x": 13314.8193359375,
+                "y": 7170.94677734375,
+                "z": 167.88320922851563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7cd3231f-9486-c24b-511a-b5e21698c629",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_11MW",
+            "sliceAssetId": "{61EB81E7-46E8-5526-B1DB-28A0E686E789}:2"
+        },
+        {
+            "id": "af87a6c8-77e8-6700-5fe2-f8fb8d06a223",
+            "worldPosition": {
+                "x": 12657.0,
+                "y": 7391.0,
+                "z": 266.9769287109375
+            },
+            "rotation": {
+                "x": 0.02079087495803833,
+                "y": 0.10349193960428238,
+                "z": -0.819521963596344,
+                "w": 0.5632416009902954
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "141f213a-831a-b34f-042b-80ff4779bbca",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_WestMourningdale01",
+            "sliceAssetId": "{C93278BB-0923-5CAA-98C9-8FDECCDA44E9}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
+}

@@ -1,428 +1,224 @@
 {
     "Capitals": [
         {
-            "id": "3f55929f-a811-5741-d566-674118ba51ae",
+            "id": "8ff0fa64-0ac0-dec2-d5e6-7a6d9a1b50c2",
             "worldPosition": {
-                "x": 7729.82666015625,
-                "y": 2162.357666015625,
-                "z": 50.52552032470703
+                "x": 7801.3564453125,
+                "y": 2192.9677734375,
+                "z": 50.42307662963867
             },
             "rotation": {
-                "x": -0.12407878041267395,
-                "y": -0.036658093333244327,
-                "z": -0.00867628026753664,
-                "w": 0.9915570616722107
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "76eb2257-b571-41c1-b2b4-c2afd52d409c",
-                "width": 5.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
-            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
-        },
-        {
-            "id": "c961827e-db5a-4020-b627-ec465d24539f",
-            "worldPosition": {
-                "x": 7821.1044921875,
-                "y": 2203.86328125,
-                "z": 51.57503890991211
-            },
-            "rotation": {
-                "x": -0.05074584484100342,
-                "y": 0.03503430262207985,
-                "z": 0.9463497400283814,
-                "w": 0.31720608472824099
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1f99fe27-f8ac-0cca-4aa6-b33503ce3802",
-                "width": 5.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
-            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
-        },
-        {
-            "id": "fbf44af4-269f-6040-6d2c-3e5b9f7f8d14",
-            "worldPosition": {
-                "x": 7732.025390625,
-                "y": 2164.2197265625,
-                "z": 50.41642379760742
-            },
-            "rotation": {
-                "x": 0.004471919033676386,
-                "y": 0.05823938176035881,
-                "z": 0.46551916003227236,
-                "w": 0.8831081986427307
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8d62acc1-2c26-5124-7db3-3685471362d4",
-                "width": 5.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
-            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
-        },
-        {
-            "id": "df96d359-78f5-2dc2-94f6-5904e39f3e7d",
-            "worldPosition": {
-                "x": 7796.29248046875,
-                "y": 2191.33251953125,
-                "z": 50.4405517578125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.06975650042295456,
-                "z": 0.0,
-                "w": 0.9975640177726746
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "98dbffbd-e26c-8334-6a81-93fba7e51ee9",
-                "width": 5.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
-            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
-        },
-        {
-            "id": "c108167d-d733-cf7d-c8dc-e6ec4d8bdb2f",
-            "worldPosition": {
-                "x": 7829.03759765625,
-                "y": 2227.104736328125,
-                "z": 50.88861083984375
-            },
-            "rotation": {
-                "x": -0.05383097007870674,
-                "y": -0.008981919847428799,
-                "z": 0.6915057301521301,
-                "w": 0.7203065156936646
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "800d8b71-f4a2-02a4-aa54-6f852bf150be",
-                "width": 5.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
-            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
-        },
-        {
-            "id": "82f82cfe-adb8-0f75-8e0c-cad94fd0d0a8",
-            "worldPosition": {
-                "x": 7802.74853515625,
-                "y": 2197.98095703125,
-                "z": 50.28451919555664
-            },
-            "rotation": {
-                "x": -0.04355975612998009,
-                "y": -0.05228600278496742,
-                "z": 0.0022829247172921898,
-                "w": 0.9976790547370911
+                "x": -0.05868355557322502,
+                "y": -0.03597789257764816,
+                "z": -0.2732791006565094,
+                "w": 0.9594687819480896
             },
             "footprint": {
                 "type": "Circle",
-                "id": "06390a98-e6b6-c888-c937-22f4c950d252",
+                "id": "90ee18e4-bc30-228b-a877-1bb3e0b7ae04",
+                "radius": 2.0
+            },
+            "sliceName": "CoatGen\\20407eac\\RD_platform_long_f_8ff0fa640ac0dec2d5e67a6d9a1b50c2",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:1b50c2"
+        },
+        {
+            "id": "8f0f719d-5982-3009-37c2-c1997cff909e",
+            "worldPosition": {
+                "x": 6433.2763671875,
+                "y": 2929.891357421875,
+                "z": 41.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7933533191680908,
+                "w": 0.6087614893913269
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "56bbe044-7146-6b76-e43e-4ef96c8793d1",
+                "radius": 3.5
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/CoastSandRoad_patch_decal_md_ab",
+            "sliceAssetId": "{6134A676-47D9-5A55-B277-8E23FAB6F9B1}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a19eb7ea-51ec-aec1-c679-b42ae26d65b8",
+            "worldPosition": {
+                "x": 7826.68115234375,
+                "y": 2222.32763671875,
+                "z": 50.99253845214844
+            },
+            "rotation": {
+                "x": -0.04454771429300308,
+                "y": -0.014895680360496045,
+                "z": 0.49235787987709048,
+                "w": 0.8691244721412659
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "d8ad5bf3-1386-1abc-9f5c-d34ed3845413",
+                "width": 10.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
+            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+        },
+        {
+            "id": "3f74983b-7f2c-61f6-d779-fb6f8dd7db1b",
+            "worldPosition": {
+                "x": 7716.8056640625,
+                "y": 2157.687744140625,
+                "z": 50.587249755859378
+            },
+            "rotation": {
+                "x": -0.09140323102474213,
+                "y": -0.08863971382379532,
+                "z": 0.3728702962398529,
+                "w": 0.9191062450408936
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9abab113-4f9e-3881-ebad-2739f317b999",
+                "width": 10.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
+            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+        },
+        {
+            "id": "b763cb0e-68cb-abd0-7079-b7238fe393e8",
+            "worldPosition": {
+                "x": 7823.083984375,
+                "y": 2212.009033203125,
+                "z": 51.22914505004883
+            },
+            "rotation": {
+                "x": 0.0104380426928401,
+                "y": -0.0240058321505785,
+                "z": 0.3986121714115143,
+                "w": 0.9167459607124329
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "52714406-8478-993c-5ba4-35315d21f5a8",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
+            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+        },
+        {
+            "id": "7ad73016-b23d-62cf-d7d1-e8d60d6153d6",
+            "worldPosition": {
+                "x": 7815.83740234375,
+                "y": 2204.9765625,
+                "z": 51.20236587524414
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.06104857474565506,
+                "w": 0.9981347918510437
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "bf1accfa-bcca-3663-cc97-f73b83d99ede",
+                "width": 10.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
+            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+        },
+        {
+            "id": "8710eb94-01e2-c644-ea54-06bdcfa98db8",
+            "worldPosition": {
+                "x": 7809.83740234375,
+                "y": 2202.457275390625,
+                "z": 50.544132232666019
+            },
+            "rotation": {
+                "x": 0.010017448104918003,
+                "y": -0.02418442815542221,
+                "z": 0.38255226612091067,
+                "w": 0.9235630035400391
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "c742def7-dca5-6100-fc0a-8327a32394f2",
+                "width": 10.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
+            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+        },
+        {
+            "id": "300ed68b-efe9-bc7b-6f52-15ca9448f324",
+            "worldPosition": {
+                "x": 7804.08740234375,
+                "y": 2193.92626953125,
+                "z": 50.19548416137695
+            },
+            "rotation": {
+                "x": -0.08282782137393952,
+                "y": -0.024184443056583406,
+                "z": 0.9235628843307495,
+                "w": 0.37361249327659609
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c8e9c673-776b-eac3-05d0-cba296b8fdb1",
                 "radius": 3.0
             },
-            "sliceName": "CoatGen\\20407eac\\RD_platform_long_c_82f82cfeadb80f758e0ccad94fd0d0a8",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:d0d0a8"
+            "sliceName": "CoatGen\\20407eac\\RD_platform_long_d_300ed68befe9bc7b6f5215ca9448f324",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:48f324"
         },
         {
-            "id": "17552ef6-7e68-d000-8a43-0472d44695e4",
+            "id": "b403aede-91e2-18e9-ee83-0d9995a0b700",
             "worldPosition": {
-                "x": 7724.73583984375,
-                "y": 2160.74560546875,
-                "z": 52.76042556762695
+                "x": 7718.41796875,
+                "y": 2159.83056640625,
+                "z": 50.556175231933597
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9682990908622742,
-                "w": 0.2497936487197876
+                "x": -0.08007586002349854,
+                "y": -0.10841945558786392,
+                "z": 3.712601781558078e-8,
+                "w": 0.9908749461174011
             },
+            "scale": 1.0000001192092896,
             "footprint": {
                 "type": "Circle",
-                "id": "3c50a9bc-0b76-1364-56dc-2eaaac0c9060",
-                "radius": 0.20000000298023225
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Lights/Lantern_Post/Struc_Ltrn_OR_Mstr",
-            "sliceAssetId": "{03B8468C-7C1E-5F28-B451-4A30243EAAB1}:2"
-        },
-        {
-            "id": "a160302b-96b8-611e-351a-6cf96db0e707",
-            "worldPosition": {
-                "x": 7821.10546875,
-                "y": 2208.590576171875,
-                "z": 51.19440460205078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": -0.07845903933048248,
-                "z": 0.0,
-                "w": 0.9969173073768616
-            },
-            "scale": 0.9999998211860657,
-            "footprint": {
-                "type": "Circle",
-                "id": "b60f78ec-bf51-4d7a-6761-5243a4782aac",
+                "id": "3e0e4266-268d-1e95-cb84-227585e860b5",
                 "radius": 1.5
             },
-            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_D_a160302b96b8611e351a6cf96db0e707",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:b0e707"
+            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_A_b403aede91e218e9ee830d9995a0b700",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:a0b700"
         },
         {
-            "id": "70eb8180-039a-5740-9f87-266ac176c3fd",
+            "id": "44e9c956-fa98-c81c-1e88-80ce18749be5",
             "worldPosition": {
-                "x": 7999.7001953125,
-                "y": 2924.0927734375,
-                "z": 80.45883178710938
+                "x": 7798.8427734375,
+                "y": 2193.251220703125,
+                "z": 50.69801330566406
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9996573328971863,
-                "w": 0.026176635175943376
+                "z": 0.0,
+                "w": 1.0
             },
+            "scale": 1.0000001192092896,
             "footprint": {
-                "type": "Rectangle",
-                "id": "107a7292-aaa7-ae1a-1665-f681e2170747",
-                "width": 6.0,
-                "height": 6.0
+                "type": "Circle",
+                "id": "e387d1ca-9970-17a6-6ea0-645adce7d042",
+                "radius": 3.0
             },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
-            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e6b8c581-c5b1-fed0-d867-72c54e781f6a",
-            "worldPosition": {
-                "x": 7476.986328125,
-                "y": 2248.445068359375,
-                "z": 91.9336929321289
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6883548498153687,
-                "w": 0.725374162197113
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1ab8d9dd-a776-79d6-f489-a6c57a49e0bd",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
-            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "03cfcb8e-f2c3-247f-957c-e83a41fdb778",
-            "worldPosition": {
-                "x": 7606.42138671875,
-                "y": 3896.974609375,
-                "z": 101.88971710205078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.809016764163971,
-                "w": 0.5877856016159058
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "0fce9ca5-bdc2-025b-60fd-0f4cbda60e7e",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
-            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "4b487986-4d59-c680-3e91-ec0f30709bc7",
-            "worldPosition": {
-                "x": 7988.94580078125,
-                "y": 2912.51416015625,
-                "z": 80.68317413330078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9996573328971863,
-                "w": 0.026176635175943376
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ec3016d0-a846-e987-4b7f-93799304f2ba",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
-            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c2f31465-9b16-0599-eb81-8eafdfee61d7",
-            "worldPosition": {
-                "x": 7652.171875,
-                "y": 3585.468505859375,
-                "z": 114.32528686523438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.17364782094955445,
-                "w": 0.9848077893257141
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "f0d41a83-9219-e04f-4524-2cca039611ce",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
-            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "5a720fa6-c845-e91a-9397-60bd10b745a8",
-            "worldPosition": {
-                "x": 7649.20703125,
-                "y": 3584.9658203125,
-                "z": 114.32528686523438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.17364782094955445,
-                "w": 0.9848077893257141
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "839351cb-f93b-503e-e826-fa8e5293403f",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
-            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "953559ea-2e8f-cfc0-27d8-b7ae4fe07ef8",
-            "worldPosition": {
-                "x": 8118.216796875,
-                "y": 2746.4501953125,
-                "z": 68.05584716796875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.8191519975662231,
-                "w": 0.5735765099525452
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d564cef6-db83-edf9-a3a7-0f82125371f2",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
-            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "433b50bb-5054-ccb6-6a32-396d63d97fd0",
-            "worldPosition": {
-                "x": 7537.28076171875,
-                "y": 3808.184814453125,
-                "z": 103.68846893310547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "fb31cc35-2863-ca7d-45cc-5de2d41229aa",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
-            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c5115414-8b94-7f70-13cb-981b66cf45f5",
-            "worldPosition": {
-                "x": 7633.580078125,
-                "y": 3555.611328125,
-                "z": 114.23771667480469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5,
-                "w": 0.8660253882408142
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d7aec10b-b06b-7389-fe42-cc6ae197a939",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
-            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "d3bcfe42-48ea-a304-aefd-00bc66d022d0",
-            "worldPosition": {
-                "x": 7648.70166015625,
-                "y": 3590.72412109375,
-                "z": 114.23771667480469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.17364782094955445,
-                "w": 0.9848077893257141
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "7c571c12-1731-9acf-6da4-dee1a38364b8",
-                "width": 6.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
-            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_A_44e9c956fa98c81c1e8880ce18749be5",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:749be5"
         },
         {
             "id": "bfc95861-2346-17e0-852f-ac23f0b6be6d",
@@ -488,113 +284,581 @@
             "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:bff19c"
         },
         {
-            "id": "3f74983b-7f2c-61f6-d779-fb6f8dd7db1b",
+            "id": "3f55929f-a811-5741-d566-674118ba51ae",
             "worldPosition": {
-                "x": 7716.8056640625,
-                "y": 2157.687744140625,
-                "z": 50.587249755859378
+                "x": 7729.82666015625,
+                "y": 2162.357666015625,
+                "z": 50.52552032470703
             },
             "rotation": {
-                "x": -0.09140323102474213,
-                "y": -0.08863971382379532,
-                "z": 0.3728702962398529,
-                "w": 0.9191062450408936
+                "x": -0.12407878041267395,
+                "y": -0.036658093333244327,
+                "z": -0.00867628026753664,
+                "w": 0.9915570616722107
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "9abab113-4f9e-3881-ebad-2739f317b999",
-                "width": 10.0,
+                "id": "76eb2257-b571-41c1-b2b4-c2afd52d409c",
+                "width": 5.0,
                 "height": 1.5
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
-            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
+            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
         },
         {
-            "id": "7ad73016-b23d-62cf-d7d1-e8d60d6153d6",
+            "id": "c961827e-db5a-4020-b627-ec465d24539f",
             "worldPosition": {
-                "x": 7815.83740234375,
-                "y": 2204.9765625,
-                "z": 51.20236587524414
+                "x": 7821.1044921875,
+                "y": 2203.86328125,
+                "z": 51.57503890991211
+            },
+            "rotation": {
+                "x": -0.05074584484100342,
+                "y": 0.03503430262207985,
+                "z": 0.9463497400283814,
+                "w": 0.31720608472824099
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "1f99fe27-f8ac-0cca-4aa6-b33503ce3802",
+                "width": 5.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
+            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
+        },
+        {
+            "id": "c108167d-d733-cf7d-c8dc-e6ec4d8bdb2f",
+            "worldPosition": {
+                "x": 7829.03759765625,
+                "y": 2227.104736328125,
+                "z": 50.88861083984375
+            },
+            "rotation": {
+                "x": -0.05383097007870674,
+                "y": -0.008981919847428799,
+                "z": 0.6915057301521301,
+                "w": 0.7203065156936646
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "800d8b71-f4a2-02a4-aa54-6f852bf150be",
+                "width": 5.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
+            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
+        },
+        {
+            "id": "fbf44af4-269f-6040-6d2c-3e5b9f7f8d14",
+            "worldPosition": {
+                "x": 7732.025390625,
+                "y": 2164.2197265625,
+                "z": 50.41642379760742
+            },
+            "rotation": {
+                "x": 0.004471919033676386,
+                "y": 0.05823938176035881,
+                "z": 0.46551916003227236,
+                "w": 0.8831081986427307
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "8d62acc1-2c26-5124-7db3-3685471362d4",
+                "width": 5.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
+            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
+        },
+        {
+            "id": "df96d359-78f5-2dc2-94f6-5904e39f3e7d",
+            "worldPosition": {
+                "x": 7796.29248046875,
+                "y": 2191.33251953125,
+                "z": 50.4405517578125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.06975650042295456,
+                "z": 0.0,
+                "w": 0.9975640177726746
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "98dbffbd-e26c-8334-6a81-93fba7e51ee9",
+                "width": 5.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_a",
+            "sliceAssetId": "{9FE85E08-9C76-59D8-96CE-F7D25118FE11}:2"
+        },
+        {
+            "id": "c5115414-8b94-7f70-13cb-981b66cf45f5",
+            "worldPosition": {
+                "x": 7633.580078125,
+                "y": 3555.611328125,
+                "z": 114.23771667480469
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.06104857474565506,
-                "w": 0.9981347918510437
+                "z": 0.5,
+                "w": 0.8660253882408142
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "bf1accfa-bcca-3663-cc97-f73b83d99ede",
-                "width": 10.0,
-                "height": 1.5
+                "id": "d7aec10b-b06b-7389-fe42-cc6ae197a939",
+                "width": 6.0,
+                "height": 6.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
-            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
+            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "b763cb0e-68cb-abd0-7079-b7238fe393e8",
+            "id": "5a720fa6-c845-e91a-9397-60bd10b745a8",
             "worldPosition": {
-                "x": 7823.083984375,
-                "y": 2212.009033203125,
-                "z": 51.22914505004883
+                "x": 7649.20703125,
+                "y": 3584.9658203125,
+                "z": 114.32528686523438
             },
             "rotation": {
-                "x": 0.0104380426928401,
-                "y": -0.0240058321505785,
-                "z": 0.3986121714115143,
-                "w": 0.9167459607124329
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.17364782094955445,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "839351cb-f93b-503e-e826-fa8e5293403f",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
+            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d3bcfe42-48ea-a304-aefd-00bc66d022d0",
+            "worldPosition": {
+                "x": 7648.70166015625,
+                "y": 3590.72412109375,
+                "z": 114.23771667480469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.17364782094955445,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "7c571c12-1731-9acf-6da4-dee1a38364b8",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
+            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "953559ea-2e8f-cfc0-27d8-b7ae4fe07ef8",
+            "worldPosition": {
+                "x": 8118.216796875,
+                "y": 2746.4501953125,
+                "z": 68.05584716796875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8191519975662231,
+                "w": 0.5735765099525452
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "d564cef6-db83-edf9-a3a7-0f82125371f2",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
+            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "433b50bb-5054-ccb6-6a32-396d63d97fd0",
+            "worldPosition": {
+                "x": 7537.28076171875,
+                "y": 3808.184814453125,
+                "z": 103.68846893310547
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "fb31cc35-2863-ca7d-45cc-5de2d41229aa",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
+            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c2f31465-9b16-0599-eb81-8eafdfee61d7",
+            "worldPosition": {
+                "x": 7652.171875,
+                "y": 3585.468505859375,
+                "z": 114.32528686523438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.17364782094955445,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f0d41a83-9219-e04f-4524-2cca039611ce",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_ab",
+            "sliceAssetId": "{A3546489-F74F-5325-A331-38C120E90839}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c98fea41-d03a-177f-054a-36cc624a5d6e",
+            "worldPosition": {
+                "x": 7975.548828125,
+                "y": 3537.599609375,
+                "z": 114.38140869140625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "52714406-8478-993c-5ba4-35315d21f5a8",
-                "radius": 2.0
+                "id": "3fb333b3-6b6f-77d9-2cdc-b72261d809f5",
+                "radius": 0.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
-            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+            "sliceName": "slices/POI/TimeOfDay/POI_TOD_Bluffs_Cave_A",
+            "sliceAssetId": "{9070D3F1-DDB4-54C2-8670-EE2990919FB3}:2"
         },
         {
-            "id": "8710eb94-01e2-c644-ea54-06bdcfa98db8",
+            "id": "0b0e2e34-8be4-11b8-f01a-8171964fe964",
             "worldPosition": {
-                "x": 7809.83740234375,
-                "y": 2202.457275390625,
-                "z": 50.544132232666019
+                "x": 7816.00537109375,
+                "y": 2207.563720703125,
+                "z": 50.88035583496094
             },
             "rotation": {
-                "x": 0.010017448104918003,
-                "y": -0.02418442815542221,
-                "z": 0.38255226612091067,
-                "w": 0.9235630035400391
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.37460657954216006,
+                "w": 0.9271838665008545
+            },
+            "scale": 0.9999995827674866,
+            "footprint": {
+                "type": "Circle",
+                "id": "ef529348-afb2-f563-deb3-1e5325b9acab",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_C_0b0e2e348be411b8f01a8171964fe964",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:4fe964"
+        },
+        {
+            "id": "6c6eab7b-dce1-57a4-4338-a5184cc7df72",
+            "worldPosition": {
+                "x": 7734.72998046875,
+                "y": 2162.177734375,
+                "z": 51.031585693359378
+            },
+            "rotation": {
+                "x": 0.011425547301769257,
+                "y": 0.13948999345302583,
+                "z": 0.9841630458831787,
+                "w": -0.10878946632146836
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bdf06090-9b6b-2484-f6a4-e6d9847e419c",
+                "radius": 0.10000000149011612
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Storage/Supply_Boxes/Supply_Boxes_WashedUp_Group_B",
+            "sliceAssetId": "{085EA0BD-06C5-57E5-9BB6-6F0719C703EE}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2d6762ae-596d-d664-2bd2-8687d29b0c95",
+            "worldPosition": {
+                "x": 7805.1708984375,
+                "y": 2194.669921875,
+                "z": 51.0614013671875
+            },
+            "rotation": {
+                "x": -0.04355999454855919,
+                "y": -0.05228595808148384,
+                "z": -0.0022831696551293136,
+                "w": 0.9976790547370911
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0779ce90-6cea-3372-ecea-266d39abe9fc",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
+            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2"
+        },
+        {
+            "id": "41f2881c-4c4f-e38c-08c1-c72f7b33c5b6",
+            "worldPosition": {
+                "x": 7801.34228515625,
+                "y": 2189.110595703125,
+                "z": 51.2823600769043
+            },
+            "rotation": {
+                "x": -0.03700700402259827,
+                "y": 0.03700701519846916,
+                "z": 0.7061378359794617,
+                "w": 0.7061376571655273
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fca0c44b-77b3-ee6e-9be1-2dc34c6055ae",
+                "radius": 3.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
+            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2"
+        },
+        {
+            "id": "03cfcb8e-f2c3-247f-957c-e83a41fdb778",
+            "worldPosition": {
+                "x": 7606.42138671875,
+                "y": 3896.974609375,
+                "z": 101.88971710205078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.809016764163971,
+                "w": 0.5877856016159058
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "c742def7-dca5-6100-fc0a-8327a32394f2",
-                "width": 10.0,
-                "height": 1.5
+                "id": "0fce9ca5-bdc2-025b-60fd-0f4cbda60e7e",
+                "width": 6.0,
+                "height": 6.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
-            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
+            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "a19eb7ea-51ec-aec1-c679-b42ae26d65b8",
+            "id": "e6b8c581-c5b1-fed0-d867-72c54e781f6a",
             "worldPosition": {
-                "x": 7826.68115234375,
-                "y": 2222.32763671875,
-                "z": 50.99253845214844
+                "x": 7476.986328125,
+                "y": 2248.445068359375,
+                "z": 91.9336929321289
             },
             "rotation": {
-                "x": -0.04454771429300308,
-                "y": -0.014895680360496045,
-                "z": 0.49235787987709048,
-                "w": 0.8691244721412659
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6883548498153687,
+                "w": 0.725374162197113
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "d8ad5bf3-1386-1abc-9f5c-d34ed3845413",
-                "width": 10.0,
-                "height": 1.5
+                "id": "1ab8d9dd-a776-79d6-f489-a6c57a49e0bd",
+                "width": 6.0,
+                "height": 6.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/Rd_Fence_T0_b",
-            "sliceAssetId": "{61D7471B-207E-5F72-8A9F-AAF3961B9ACD}:2"
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
+            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "70eb8180-039a-5740-9f87-266ac176c3fd",
+            "worldPosition": {
+                "x": 7999.7001953125,
+                "y": 2924.0927734375,
+                "z": 80.45883178710938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9996573328971863,
+                "w": 0.026176635175943376
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "107a7292-aaa7-ae1a-1665-f681e2170747",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
+            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "4b487986-4d59-c680-3e91-ec0f30709bc7",
+            "worldPosition": {
+                "x": 7988.94580078125,
+                "y": 2912.51416015625,
+                "z": 80.68317413330078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9996573328971863,
+                "w": 0.026176635175943376
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ec3016d0-a846-e987-4b7f-93799304f2ba",
+                "width": 6.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/MarshMudRoad_patch_decal_md_a",
+            "sliceAssetId": "{A68CA3CF-9C57-5BA9-85B6-444471533333}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d48ceaca-9d2d-4800-8a10-b8da89ae14b4",
+            "worldPosition": {
+                "x": 7746.2822265625,
+                "y": 2165.775390625,
+                "z": 50.552982330322269
+            },
+            "rotation": {
+                "x": -0.09236811101436615,
+                "y": 0.05897822231054306,
+                "z": 0.7044991850852966,
+                "w": 0.7011922597885132
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "97b5b608-9c07-8805-6cd8-22eff7cf774d",
+                "width": 4.0,
+                "height": 10.0
+            },
+            "sliceName": "slices/POIs/Vehicle/WreckedWagon_Logging_Abnd_A_GEO",
+            "sliceAssetId": "{CE48CF8A-F0F5-559C-B023-18BB02D2FEED}:2"
+        },
+        {
+            "id": "e0d13251-b025-c4ac-03e3-84574f79fd91",
+            "worldPosition": {
+                "x": 7815.09619140625,
+                "y": 2207.329833984375,
+                "z": 50.36909103393555
+            },
+            "rotation": {
+                "x": -0.15643492341041566,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9876882433891296
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aa486e41-24be-2e16-d8cc-aec3826269a1",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\20407eac\\Supply_Boxes_Sunken_Group_B_e0d13251b025c4ac3e384574f79fd91",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:79fd91"
+        },
+        {
+            "id": "e9abbaa5-b171-cba6-0864-50ad756aad23",
+            "worldPosition": {
+                "x": 7738.8056640625,
+                "y": 2164.62109375,
+                "z": 50.585960388183597
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b6e35870-3df9-4f65-2a00-3013bdefb2a7",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\20407eac\\Supply_Boxes_Sunken_Group_B_e9abbaa5b171cba686450ad756aad23",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:6aad23"
+        },
+        {
+            "id": "4eea9924-85f1-80d8-572a-2033aa69a14d",
+            "worldPosition": {
+                "x": 7805.74609375,
+                "y": 2201.275634765625,
+                "z": 50.50098419189453
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.04361932352185249,
+                "w": 0.9990482330322266
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bb776150-3f01-eadf-8ad8-7acb09d46f96",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\20407eac\\Supply_Boxes_Sunken_Group_B_4eea992485f180d8572a2033aa69a14d",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:69a14d"
+        },
+        {
+            "id": "c49f5249-bfae-d65f-4822-6793ce0e314a",
+            "worldPosition": {
+                "x": 7823.95849609375,
+                "y": 2205.4775390625,
+                "z": 51.82173538208008
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6156615018844605,
+                "w": 0.7880107164382935
+            },
+            "scale": 1.0000224113464356,
+            "footprint": {
+                "type": "Circle",
+                "id": "6f4d611f-0c0c-e47f-4121-a62e2936ef66",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Lights/Torch_Post/Struc_Torch_T1_OR_Mstr",
+            "sliceAssetId": "{9DB912AC-FC8E-52E6-BA5D-12994A1F7841}:2"
         },
         {
             "id": "31c01a2e-622d-3e89-c774-eecf1bbbe141",
@@ -618,6 +882,52 @@
             },
             "sliceName": "CoatGen\\20407eac\\struc_shed_platform_G_31c01a2e622d3e89c774eecf1bbbe141",
             "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:bbe141",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "fa2e3347-4d68-8f13-2cfb-08b4b07c84d4",
+            "worldPosition": {
+                "x": 7813.42431640625,
+                "y": 2213.7080078125,
+                "z": 51.7942008972168
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.3826834559440613,
+                "w": 0.9238795042037964
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "44683562-3993-2ad2-4e94-0e63a5abc0d7",
+                "radius": 0.0
+            },
+            "sliceName": "CoatGen\\20407eac\\Struc_Nav_MarshBridge_B_fa2e33474d688f132cfb08b4b07c84d4",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:7c84d4"
+        },
+        {
+            "id": "6b8c43c1-627b-c634-7939-4d44e6cc0d2c",
+            "worldPosition": {
+                "x": 7820.6435546875,
+                "y": 2215.614990234375,
+                "z": 51.79931640625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.3665011525154114,
+                "w": 0.9304175972938538
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "2a1f00b4-dcd4-7891-a1e4-94d7aa272883",
+                "width": 9.0,
+                "height": 12.0
+            },
+            "sliceName": "CoatGen\\20407eac\\struc_shed_abnd_e_6b8c43c1627bc63479394d44e6cc0d2c",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:cc0d2c",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -665,25 +975,50 @@
             "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:8210eb"
         },
         {
-            "id": "fa2e3347-4d68-8f13-2cfb-08b4b07c84d4",
+            "id": "bb28b9c2-51cd-6c0e-ade1-dd50074d674d",
             "worldPosition": {
-                "x": 7813.42431640625,
-                "y": 2213.7080078125,
-                "z": 51.7942008972168
+                "x": 7795.5283203125,
+                "y": 2189.518798828125,
+                "z": 50.82890701293945
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.3826834559440613,
-                "w": 0.9238795042037964
+                "x": 0.10385654121637345,
+                "y": -0.11258284747600556,
+                "z": 0.011833005584776402,
+                "w": 0.9881289601325989
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "f0b20bd6-9b02-9114-bebd-ec9fb5effffc",
+                "radius": 3.0
+            },
+            "sliceName": "CoatGen\\20407eac\\Prp_OldRowBoat_B_bb28b9c251cd6c0eade1dd50074d674d",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:4d674d",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "82f82cfe-adb8-0f75-8e0c-cad94fd0d0a8",
+            "worldPosition": {
+                "x": 7802.74853515625,
+                "y": 2197.98095703125,
+                "z": 50.28451919555664
+            },
+            "rotation": {
+                "x": -0.04355975612998009,
+                "y": -0.05228600278496742,
+                "z": 0.0022829247172921898,
+                "w": 0.9976790547370911
             },
             "footprint": {
                 "type": "Circle",
-                "id": "44683562-3993-2ad2-4e94-0e63a5abc0d7",
-                "radius": 0.0
+                "id": "06390a98-e6b6-c888-c937-22f4c950d252",
+                "radius": 3.0
             },
-            "sliceName": "CoatGen\\20407eac\\Struc_Nav_MarshBridge_B_fa2e33474d688f132cfb08b4b07c84d4",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:7c84d4"
+            "sliceName": "CoatGen\\20407eac\\RD_platform_long_c_82f82cfeadb80f758e0ccad94fd0d0a8",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:d0d0a8"
         },
         {
             "id": "26d2698e-1855-b43f-5a76-c3a765bbab89",
@@ -710,361 +1045,47 @@
             }
         },
         {
-            "id": "300ed68b-efe9-bc7b-6f52-15ca9448f324",
+            "id": "17552ef6-7e68-d000-8a43-0472d44695e4",
             "worldPosition": {
-                "x": 7804.08740234375,
-                "y": 2193.92626953125,
-                "z": 50.19548416137695
-            },
-            "rotation": {
-                "x": -0.08282782137393952,
-                "y": -0.024184443056583406,
-                "z": 0.9235628843307495,
-                "w": 0.37361249327659609
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c8e9c673-776b-eac3-05d0-cba296b8fdb1",
-                "radius": 3.0
-            },
-            "sliceName": "CoatGen\\20407eac\\RD_platform_long_d_300ed68befe9bc7b6f5215ca9448f324",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:48f324"
-        },
-        {
-            "id": "4eea9924-85f1-80d8-572a-2033aa69a14d",
-            "worldPosition": {
-                "x": 7805.74609375,
-                "y": 2201.275634765625,
-                "z": 50.50098419189453
+                "x": 7724.73583984375,
+                "y": 2160.74560546875,
+                "z": 52.76042556762695
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.04361932352185249,
-                "w": 0.9990482330322266
+                "z": 0.9682990908622742,
+                "w": 0.2497936487197876
             },
             "footprint": {
                 "type": "Circle",
-                "id": "bb776150-3f01-eadf-8ad8-7acb09d46f96",
-                "radius": 1.0
+                "id": "3c50a9bc-0b76-1364-56dc-2eaaac0c9060",
+                "radius": 0.20000000298023225
             },
-            "sliceName": "CoatGen\\20407eac\\Supply_Boxes_Sunken_Group_B_4eea992485f180d8572a2033aa69a14d",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:69a14d"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Lights/Lantern_Post/Struc_Ltrn_OR_Mstr",
+            "sliceAssetId": "{03B8468C-7C1E-5F28-B451-4A30243EAAB1}:2"
         },
         {
-            "id": "e0d13251-b025-c4ac-03e3-84574f79fd91",
+            "id": "a160302b-96b8-611e-351a-6cf96db0e707",
             "worldPosition": {
-                "x": 7815.09619140625,
-                "y": 2207.329833984375,
-                "z": 50.36909103393555
+                "x": 7821.10546875,
+                "y": 2208.590576171875,
+                "z": 51.19440460205078
             },
             "rotation": {
-                "x": -0.15643492341041566,
-                "y": 0.0,
+                "x": 0.0,
+                "y": -0.07845903933048248,
                 "z": 0.0,
-                "w": 0.9876882433891296
+                "w": 0.9969173073768616
             },
+            "scale": 0.9999998211860657,
             "footprint": {
                 "type": "Circle",
-                "id": "aa486e41-24be-2e16-d8cc-aec3826269a1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\20407eac\\Supply_Boxes_Sunken_Group_B_e0d13251b025c4ac3e384574f79fd91",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:79fd91"
-        },
-        {
-            "id": "e9abbaa5-b171-cba6-0864-50ad756aad23",
-            "worldPosition": {
-                "x": 7738.8056640625,
-                "y": 2164.62109375,
-                "z": 50.585960388183597
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b6e35870-3df9-4f65-2a00-3013bdefb2a7",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\20407eac\\Supply_Boxes_Sunken_Group_B_e9abbaa5b171cba686450ad756aad23",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:6aad23"
-        },
-        {
-            "id": "c49f5249-bfae-d65f-4822-6793ce0e314a",
-            "worldPosition": {
-                "x": 7823.95849609375,
-                "y": 2205.4775390625,
-                "z": 51.82173538208008
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6156615018844605,
-                "w": 0.7880107164382935
-            },
-            "scale": 1.0000224113464356,
-            "footprint": {
-                "type": "Circle",
-                "id": "6f4d611f-0c0c-e47f-4121-a62e2936ef66",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Lights/Torch_Post/Struc_Torch_T1_OR_Mstr",
-            "sliceAssetId": "{9DB912AC-FC8E-52E6-BA5D-12994A1F7841}:2"
-        },
-        {
-            "id": "bb28b9c2-51cd-6c0e-ade1-dd50074d674d",
-            "worldPosition": {
-                "x": 7795.5283203125,
-                "y": 2189.518798828125,
-                "z": 50.82890701293945
-            },
-            "rotation": {
-                "x": 0.10385654121637345,
-                "y": -0.11258284747600556,
-                "z": 0.011833005584776402,
-                "w": 0.9881289601325989
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "f0b20bd6-9b02-9114-bebd-ec9fb5effffc",
-                "radius": 3.0
-            },
-            "sliceName": "CoatGen\\20407eac\\Prp_OldRowBoat_B_bb28b9c251cd6c0eade1dd50074d674d",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:4d674d",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "2d6762ae-596d-d664-2bd2-8687d29b0c95",
-            "worldPosition": {
-                "x": 7805.1708984375,
-                "y": 2194.669921875,
-                "z": 51.0614013671875
-            },
-            "rotation": {
-                "x": -0.04355999454855919,
-                "y": -0.05228595808148384,
-                "z": -0.0022831696551293136,
-                "w": 0.9976790547370911
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0779ce90-6cea-3372-ecea-266d39abe9fc",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\20407eac\\PRP_Destr_WoodPile_A_2d6762ae596dd6642bd28687d29b0c95",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:9b0c95"
-        },
-        {
-            "id": "41f2881c-4c4f-e38c-08c1-c72f7b33c5b6",
-            "worldPosition": {
-                "x": 7801.34228515625,
-                "y": 2189.110595703125,
-                "z": 51.2823600769043
-            },
-            "rotation": {
-                "x": -0.03700700402259827,
-                "y": 0.03700701519846916,
-                "z": 0.7061378359794617,
-                "w": 0.7061376571655273
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "fca0c44b-77b3-ee6e-9be1-2dc34c6055ae",
-                "radius": 3.0
-            },
-            "sliceName": "CoatGen\\20407eac\\PRP_Destr_WoodPile_A_41f2881c4c4fe38c8c1c72f7b33c5b6",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:33c5b6"
-        },
-        {
-            "id": "6c6eab7b-dce1-57a4-4338-a5184cc7df72",
-            "worldPosition": {
-                "x": 7734.72998046875,
-                "y": 2162.177734375,
-                "z": 51.031585693359378
-            },
-            "rotation": {
-                "x": 0.011425547301769257,
-                "y": 0.13948999345302583,
-                "z": 0.9841630458831787,
-                "w": -0.10878946632146836
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bdf06090-9b6b-2484-f6a4-e6d9847e419c",
-                "radius": 0.10000000149011612
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Storage/Supply_Boxes/Supply_Boxes_WashedUp_Group_B",
-            "sliceAssetId": "{085EA0BD-06C5-57E5-9BB6-6F0719C703EE}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "8f0f719d-5982-3009-37c2-c1997cff909e",
-            "worldPosition": {
-                "x": 6433.2763671875,
-                "y": 2929.891357421875,
-                "z": 41.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7933533191680908,
-                "w": 0.6087614893913269
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "56bbe044-7146-6b76-e43e-4ef96c8793d1",
-                "radius": 3.5
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Decal_Patches/CoastSandRoad_patch_decal_md_ab",
-            "sliceAssetId": "{6134A676-47D9-5A55-B277-8E23FAB6F9B1}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "6b8c43c1-627b-c634-7939-4d44e6cc0d2c",
-            "worldPosition": {
-                "x": 7820.6435546875,
-                "y": 2215.614990234375,
-                "z": 51.79931640625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.3665011525154114,
-                "w": 0.9304175972938538
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "2a1f00b4-dcd4-7891-a1e4-94d7aa272883",
-                "width": 9.0,
-                "height": 12.0
-            },
-            "sliceName": "CoatGen\\20407eac\\struc_shed_abnd_e_6b8c43c1627bc63479394d44e6cc0d2c",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:cc0d2c",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "0b0e2e34-8be4-11b8-f01a-8171964fe964",
-            "worldPosition": {
-                "x": 7816.00537109375,
-                "y": 2207.563720703125,
-                "z": 50.88035583496094
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.37460657954216006,
-                "w": 0.9271838665008545
-            },
-            "scale": 0.9999995827674866,
-            "footprint": {
-                "type": "Circle",
-                "id": "ef529348-afb2-f563-deb3-1e5325b9acab",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_C_0b0e2e348be411b8f01a8171964fe964",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:4fe964"
-        },
-        {
-            "id": "44e9c956-fa98-c81c-1e88-80ce18749be5",
-            "worldPosition": {
-                "x": 7798.8427734375,
-                "y": 2193.251220703125,
-                "z": 50.69801330566406
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 1.0000001192092896,
-            "footprint": {
-                "type": "Circle",
-                "id": "e387d1ca-9970-17a6-6ea0-645adce7d042",
-                "radius": 3.0
-            },
-            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_A_44e9c956fa98c81c1e8880ce18749be5",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:749be5"
-        },
-        {
-            "id": "b403aede-91e2-18e9-ee83-0d9995a0b700",
-            "worldPosition": {
-                "x": 7718.41796875,
-                "y": 2159.83056640625,
-                "z": 50.556175231933597
-            },
-            "rotation": {
-                "x": -0.08007586002349854,
-                "y": -0.10841945558786392,
-                "z": 3.712601781558078e-8,
-                "w": 0.9908749461174011
-            },
-            "scale": 1.0000001192092896,
-            "footprint": {
-                "type": "Circle",
-                "id": "3e0e4266-268d-1e95-cb84-227585e860b5",
+                "id": "b60f78ec-bf51-4d7a-6761-5243a4782aac",
                 "radius": 1.5
             },
-            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_A_b403aede91e218e9ee830d9995a0b700",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:a0b700"
-        },
-        {
-            "id": "8ff0fa64-0ac0-dec2-d5e6-7a6d9a1b50c2",
-            "worldPosition": {
-                "x": 7801.3564453125,
-                "y": 2192.9677734375,
-                "z": 50.42307662963867
-            },
-            "rotation": {
-                "x": -0.05868355557322502,
-                "y": -0.03597789257764816,
-                "z": -0.2732791006565094,
-                "w": 0.9594687819480896
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "90ee18e4-bc30-228b-a877-1bb3e0b7ae04",
-                "radius": 2.0
-            },
-            "sliceName": "CoatGen\\20407eac\\RD_platform_long_f_8ff0fa640ac0dec2d5e67a6d9a1b50c2",
-            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:1b50c2"
-        },
-        {
-            "id": "d48ceaca-9d2d-4800-8a10-b8da89ae14b4",
-            "worldPosition": {
-                "x": 7746.2822265625,
-                "y": 2165.775390625,
-                "z": 50.552982330322269
-            },
-            "rotation": {
-                "x": -0.09236811101436615,
-                "y": 0.05897822231054306,
-                "z": 0.7044991850852966,
-                "w": 0.7011922597885132
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "97b5b608-9c07-8805-6cd8-22eff7cf774d",
-                "width": 4.0,
-                "height": 10.0
-            },
-            "sliceName": "slices/POIs/Vehicle/WreckedWagon_Logging_Abnd_A_GEO",
-            "sliceAssetId": "{CE48CF8A-F0F5-559C-B023-18BB02D2FEED}:2"
+            "sliceName": "CoatGen\\20407eac\\Shopbarrel_Sunken_Group_D_a160302b96b8611e351a6cf96db0e707",
+            "sliceAssetId": "{DCE93D5D-C4D4-5627-A16A-DFC474FEE883}:b0e707"
         }
     ]
 }

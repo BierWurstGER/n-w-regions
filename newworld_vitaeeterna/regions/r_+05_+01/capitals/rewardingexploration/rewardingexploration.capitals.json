@@ -1,0 +1,73 @@
+{
+    "Capitals": [
+        {
+            "id": "67bd95c8-29b8-dcd7-6d4b-36b13b9d3b49",
+            "worldPosition": {
+                "x": 11211.806640625,
+                "y": 3179.97265625,
+                "z": 50.27043914794922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9c479ba9-ddf0-3124-aea7-7de447417a4a",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_05WC",
+            "sliceAssetId": "{34DE3DD3-A368-50F5-89AD-9DB722F2815A}:2"
+        },
+        {
+            "id": "c3fa5452-d454-24a3-5fd4-7bba31dfdb22",
+            "worldPosition": {
+                "x": 11076.4482421875,
+                "y": 3790.91162109375,
+                "z": 189.64364624023438
+            },
+            "rotation": {
+                "x": -0.06250949949026108,
+                "y": 0.0035002457443624737,
+                "z": -0.6995340585708618,
+                "w": 0.7118514180183411
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "81527316-e97c-470b-77c7-6dc1821d1126",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_NorthReekwater01",
+            "sliceAssetId": "{F4990427-6C38-5595-9417-63B785183BC6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b020f9ff-e195-3804-5fc6-517c4f33d611",
+            "worldPosition": {
+                "x": 10861.8173828125,
+                "y": 2805.975830078125,
+                "z": 105.30998229980469
+            },
+            "rotation": {
+                "x": 0.00025361194275319576,
+                "y": 0.033555831760168079,
+                "z": -0.8187029957771301,
+                "w": 0.5732358694076538
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "69249363-876a-b5ea-00a4-7f3f757ad377",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthReekwater01",
+            "sliceAssetId": "{6F9E2243-56C2-5AE7-AED2-437DBBCCB84C}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
+}

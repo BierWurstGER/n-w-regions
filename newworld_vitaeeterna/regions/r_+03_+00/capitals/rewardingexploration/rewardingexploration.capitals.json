@@ -1,0 +1,73 @@
+{
+    "Capitals": [
+        {
+            "id": "15d9d0b8-7813-5d9c-0db6-6ebac3925184",
+            "worldPosition": {
+                "x": 7296.42236328125,
+                "y": 1096.102294921875,
+                "z": 59.109703063964847
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c154419f-c5fc-e18b-e52f-3f4026dc5b74",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_10WS",
+            "sliceAssetId": "{67673FE9-58A7-59A4-BD1B-96D765755AF1}:2"
+        },
+        {
+            "id": "f416c403-5696-b676-b866-23d4966da5f3",
+            "worldPosition": {
+                "x": 7751.0009765625,
+                "y": 1302.00244140625,
+                "z": 119.59770202636719
+            },
+            "rotation": {
+                "x": -0.04171387106180191,
+                "y": -0.01275293342769146,
+                "z": 0.9553945660591126,
+                "w": -0.2920933663845062
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "79019f6b-de53-584a-c9e8-5744f87f3b5b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_EastCutlass01",
+            "sliceAssetId": "{84ED4833-5E08-5373-A4CB-609FF4981B8B}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "7898cbe7-0fb6-6f05-220e-5a01a1995a15",
+            "worldPosition": {
+                "x": 7425.99951171875,
+                "y": 1855.000732421875,
+                "z": 60.483734130859378
+            },
+            "rotation": {
+                "x": 0.029900003224611284,
+                "y": -0.025248052552342416,
+                "z": 0.9328652024269104,
+                "w": 0.3580937385559082
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1c09b85a-827b-1772-e63d-036f5168e9bd",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_WestCutlass01",
+            "sliceAssetId": "{E151898E-3CA9-57E2-AAE7-84262576981F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
+}
