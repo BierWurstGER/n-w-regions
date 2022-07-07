@@ -1,48 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "6bd0c410-b167-b41f-d93c-613413cd5ed9",
-            "worldPosition": {
-                "x": 9294.65625,
-                "y": 1738.9647216796875,
-                "z": 41.386837005615237
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f83d60cf-ece6-ef9b-4ff6-38d7d870cd36",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_B",
-            "sliceAssetId": "{C7E31964-58CB-5969-970F-177471E4A75F}:2"
-        },
-        {
-            "id": "c4ccfd0b-971c-4292-ec43-62b799229d8e",
-            "worldPosition": {
-                "x": 9293.3056640625,
-                "y": 1761.5382080078125,
-                "z": 41.386837005615237
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dbaf6367-1928-638b-b9b6-680bc311d235",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_B",
-            "sliceAssetId": "{C7E31964-58CB-5969-970F-177471E4A75F}:2"
-        },
-        {
             "id": "3e3c0c42-a32e-8937-9b02-e3d861abdb61",
             "worldPosition": {
                 "x": 9293.3056640625,
@@ -85,6 +43,48 @@
             "sliceAssetId": "{C7E31964-58CB-5969-970F-177471E4A75F}:2"
         },
         {
+            "id": "c4ccfd0b-971c-4292-ec43-62b799229d8e",
+            "worldPosition": {
+                "x": 9293.3056640625,
+                "y": 1761.5382080078125,
+                "z": 41.386837005615237
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "dbaf6367-1928-638b-b9b6-680bc311d235",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_B",
+            "sliceAssetId": "{C7E31964-58CB-5969-970F-177471E4A75F}:2"
+        },
+        {
+            "id": "6bd0c410-b167-b41f-d93c-613413cd5ed9",
+            "worldPosition": {
+                "x": 9294.65625,
+                "y": 1738.9647216796875,
+                "z": 41.386837005615237
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f83d60cf-ece6-ef9b-4ff6-38d7d870cd36",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_B",
+            "sliceAssetId": "{C7E31964-58CB-5969-970F-177471E4A75F}:2"
+        },
+        {
             "id": "995b4d20-68cb-4a0f-3ced-9dbbc002faa0",
             "worldPosition": {
                 "x": 9293.3056640625,
@@ -104,6 +104,153 @@
             },
             "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_B",
             "sliceAssetId": "{C7E31964-58CB-5969-970F-177471E4A75F}:2"
+        },
+        {
+            "id": "8787d5d5-48e7-1877-0b1b-6ae81d46aa2a",
+            "worldPosition": {
+                "x": 9294.6357421875,
+                "y": 1777.6029052734375,
+                "z": 41.361698150634769
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6e4f1aee-49c4-7af5-99ac-8079f139deea",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_E",
+            "sliceAssetId": "{47C133BA-CE5A-5B53-902F-EF48060DE5FB}:2"
+        },
+        {
+            "id": "9930bd72-ec08-812a-3ed2-6aff33e2ade1",
+            "worldPosition": {
+                "x": 8619.9111328125,
+                "y": 1928.7772216796875,
+                "z": 124.06053924560547
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4b976b65-5d3e-d462-8732-62e78e0c4ed3",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_9930bd72ec08812a3ed26aff33e2ade1",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:e2ade1"
+        },
+        {
+            "id": "818c5f6e-d0f0-9799-e252-9327e2137bb2",
+            "worldPosition": {
+                "x": 9297.4697265625,
+                "y": 1726.3004150390625,
+                "z": 40.0229377746582
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "85e9fba9-cdf1-3e05-ffad-032d14d752b2",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_818c5f6ed0f09799e2529327e2137bb2",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:137bb2"
+        },
+        {
+            "id": "6ecdad18-7d79-98dd-de5c-66063a751ba1",
+            "worldPosition": {
+                "x": 8375.115234375,
+                "y": 1718.8170166015625,
+                "z": 132.31967163085938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9850f428-726d-95e7-9d12-277bb1c900a5",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_6ecdad187d7998ddde5c66063a751ba1",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:751ba1"
+        },
+        {
+            "id": "940e01ee-b0a7-4764-cd65-c8a348e79b87",
+            "worldPosition": {
+                "x": 8599.513671875,
+                "y": 921.624267578125,
+                "z": 68.38501739501953
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d919f780-4330-6653-1891-b2ad6870eb84",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_940e01eeb0a74764cd65c8a348e79b87",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:e79b87"
+        },
+        {
+            "id": "3078db2a-3811-02c9-cd06-1a591c9c11c8",
+            "worldPosition": {
+                "x": 9509.30859375,
+                "y": 968.8685302734375,
+                "z": 50.831050872802737
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "54772a0f-9d8b-27ab-61f0-ff1a1ce2e99f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_3078db2a381102c9cd061a591c9c11c8",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:9c11c8"
+        },
+        {
+            "id": "b44ea818-0f5f-bbea-47c1-9799e5fedf50",
+            "worldPosition": {
+                "x": 9236.2431640625,
+                "y": 232.86886596679688,
+                "z": 40.0229377746582
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "85dfd9a4-b075-286f-c02e-5225efe6b34f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_b44ea8180f5fbbea47c19799e5fedf50",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:fedf50"
         },
         {
             "id": "8bbb0f4a-ed1a-544e-b995-547f0ea43467",
@@ -130,6 +277,27 @@
             }
         },
         {
+            "id": "2dfe8004-e1d0-debd-51b7-7e49763bc235",
+            "worldPosition": {
+                "x": 9288.4267578125,
+                "y": 1783.9189453125,
+                "z": 41.527950286865237
+            },
+            "rotation": {
+                "x": 0.04006524384021759,
+                "y": -0.15646350383758546,
+                "z": 0.2613181173801422,
+                "w": 0.951644241809845
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9d06c951-9b90-6518-24b2-aa6d81a3b80e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4043e4d4\\Prp_Lobster_Traps_group_A_2dfe8004e1d0debd51b77e49763bc235",
+            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:3bc235"
+        },
+        {
             "id": "f803c5b7-9833-51b1-2360-c7dfda502111",
             "worldPosition": {
                 "x": 9293.48046875,
@@ -150,132 +318,6 @@
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Shopwares/Ropes/PRP_ropebundle_A",
             "sliceAssetId": "{639B8424-4029-5C58-8FB7-C4BB75F40CCD}:2"
-        },
-        {
-            "id": "6ecdad18-7d79-98dd-de5c-66063a751ba1",
-            "worldPosition": {
-                "x": 8367.0302734375,
-                "y": 1713.236572265625,
-                "z": 132.31967163085938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9850f428-726d-95e7-9d12-277bb1c900a5",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_6ecdad187d7998ddde5c66063a751ba1",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:751ba1"
-        },
-        {
-            "id": "3078db2a-3811-02c9-cd06-1a591c9c11c8",
-            "worldPosition": {
-                "x": 9509.30859375,
-                "y": 968.8685302734375,
-                "z": 50.831050872802737
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "54772a0f-9d8b-27ab-61f0-ff1a1ce2e99f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_3078db2a381102c9cd061a591c9c11c8",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:9c11c8"
-        },
-        {
-            "id": "b44ea818-0f5f-bbea-47c1-9799e5fedf50",
-            "worldPosition": {
-                "x": 9241.1904296875,
-                "y": 241.68177795410157,
-                "z": 40.0229377746582
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "85dfd9a4-b075-286f-c02e-5225efe6b34f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_b44ea8180f5fbbea47c19799e5fedf50",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:fedf50"
-        },
-        {
-            "id": "940e01ee-b0a7-4764-cd65-c8a348e79b87",
-            "worldPosition": {
-                "x": 8615.0244140625,
-                "y": 929.1673583984375,
-                "z": 68.38501739501953
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d919f780-4330-6653-1891-b2ad6870eb84",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_940e01eeb0a74764cd65c8a348e79b87",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:e79b87"
-        },
-        {
-            "id": "9930bd72-ec08-812a-3ed2-6aff33e2ade1",
-            "worldPosition": {
-                "x": 8619.9111328125,
-                "y": 1928.7772216796875,
-                "z": 124.06053924560547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4b976b65-5d3e-d462-8732-62e78e0c4ed3",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_9930bd72ec08812a3ed26aff33e2ade1",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:e2ade1"
-        },
-        {
-            "id": "818c5f6e-d0f0-9799-e252-9327e2137bb2",
-            "worldPosition": {
-                "x": 9299.732421875,
-                "y": 1735.0367431640625,
-                "z": 40.0229377746582
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "85e9fba9-cdf1-3e05-ffad-032d14d752b2",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Fishing_Hotspot_Broad_818c5f6ed0f09799e2529327e2137bb2",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:137bb2"
         },
         {
             "id": "ec2902d6-54d4-4269-ddd1-cd86714cb9eb",
@@ -301,48 +343,6 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "2dfe8004-e1d0-debd-51b7-7e49763bc235",
-            "worldPosition": {
-                "x": 9288.4267578125,
-                "y": 1783.9189453125,
-                "z": 41.527950286865237
-            },
-            "rotation": {
-                "x": 0.04006524384021759,
-                "y": -0.15646350383758546,
-                "z": 0.2613181173801422,
-                "w": 0.951644241809845
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9d06c951-9b90-6518-24b2-aa6d81a3b80e",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\4043e4d4\\Prp_Lobster_Traps_group_A_2dfe8004e1d0debd51b77e49763bc235",
-            "sliceAssetId": "{A39EF586-4787-5071-BFD5-84D018FF8CFC}:3bc235"
-        },
-        {
-            "id": "8787d5d5-48e7-1877-0b1b-6ae81d46aa2a",
-            "worldPosition": {
-                "x": 9294.6357421875,
-                "y": 1777.6029052734375,
-                "z": 41.361698150634769
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6e4f1aee-49c4-7af5-99ac-8079f139deea",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POI/Assembly/Crafting/Props/Fixtures/Fishing_Docks/JAV_Struc_FishingDock_E",
-            "sliceAssetId": "{47C133BA-CE5A-5B53-902F-EF48060DE5FB}:2"
         }
     ]
 }
