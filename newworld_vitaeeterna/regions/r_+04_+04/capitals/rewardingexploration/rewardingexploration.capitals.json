@@ -1,54 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "732289eb-c8ae-9ce8-f557-b2ddbc8c3023",
-            "worldPosition": {
-                "x": 9621.5576171875,
-                "y": 8680.5029296875,
-                "z": 527.1672973632813
-            },
-            "rotation": {
-                "x": -0.11822111159563065,
-                "y": 0.05049191787838936,
-                "z": 0.601597249507904,
-                "w": 0.788387656211853
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "01a57a77-5647-1aed-c4bc-4267ebaccb27",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthShattered01",
-            "sliceAssetId": "{2AF70E9B-3B2B-5AB3-9A0A-12857524D379}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "34a7ee33-8f02-5424-8943-2c9658c9d8c2",
-            "worldPosition": {
-                "x": 8851.0,
-                "y": 8463.00390625,
-                "z": 655.4869995117188
-            },
-            "rotation": {
-                "x": 0.011392942629754544,
-                "y": -0.07758370786905289,
-                "z": 0.9959719181060791,
-                "w": 0.04348510876297951
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9ae85d4c-1f6d-19cd-23c0-efd0a2d3fa9e",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_WestCleave01",
-            "sliceAssetId": "{3235FDB4-A381-5ED2-9F57-CB429B4D3EAD}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "4a2f683a-16f4-8c57-e48a-28ae5a8479b6",
             "worldPosition": {
                 "x": 9639.9794921875,
@@ -70,6 +22,54 @@
             "sliceAssetId": "{46507788-B10E-56CB-B639-7E9A5EBF9AC2}:2"
         },
         {
+            "id": "34a7ee33-8f02-5424-8943-2c9658c9d8c2",
+            "worldPosition": {
+                "x": 8851.0,
+                "y": 8463.00390625,
+                "z": 655.4869995117188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9990208148956299,
+                "w": 0.04424279183149338
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9ae85d4c-1f6d-19cd-23c0-efd0a2d3fa9e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_WestCleave01",
+            "sliceAssetId": "{3235FDB4-A381-5ED2-9F57-CB429B4D3EAD}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "732289eb-c8ae-9ce8-f557-b2ddbc8c3023",
+            "worldPosition": {
+                "x": 9622.4609375,
+                "y": 8680.20703125,
+                "z": 527.3287353515625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6034916043281555,
+                "w": 0.7973693609237671
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "01a57a77-5647-1aed-c4bc-4267ebaccb27",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthShattered01",
+            "sliceAssetId": "{2AF70E9B-3B2B-5AB3-9A0A-12857524D379}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "a5cc255b-6c90-4ad6-7fc7-3c06725cea96",
             "worldPosition": {
                 "x": 10175.810546875,
@@ -77,10 +77,10 @@
                 "z": 676.283203125
             },
             "rotation": {
-                "x": -0.014660852029919625,
-                "y": 0.03869301825761795,
-                "z": 0.46135297417640688,
-                "w": 0.8862512707710266
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.4625038504600525,
+                "w": 0.8866172432899475
             },
             "footprint": {
                 "type": "Circle",

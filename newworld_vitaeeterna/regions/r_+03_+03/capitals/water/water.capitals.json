@@ -1,6 +1,35 @@
 {
     "Capitals": [
         {
+            "id": "218b369b-749c-0d2e-d186-df2f85b0da66",
+            "worldPosition": {
+                "x": 6671.25927734375,
+                "y": 7573.072265625,
+                "z": 43.291507720947269
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "37b70102-e468-d0cd-fb66-1fb753c70649",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 2.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 0.6000000238418579,
+                "edgeNoise": 0.009999999776482582,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.009999999776482582
+            }
+        },
+        {
             "id": "fb143ab8-9f51-b686-c041-373b11db34a6",
             "worldPosition": {
                 "x": 6686.82666015625,
@@ -16,35 +45,6 @@
             "footprint": {
                 "type": "Circle",
                 "id": "7316cf23-2bb2-c4f1-8117-0ada22045291",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 2.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 0.6000000238418579,
-                "edgeNoise": 0.009999999776482582,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.009999999776482582
-            }
-        },
-        {
-            "id": "761962a5-f072-2d91-ed1d-9a1836f6dc0c",
-            "worldPosition": {
-                "x": 6689.01806640625,
-                "y": 7619.6123046875,
-                "z": 43.291507720947269
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dbf8992b-8e39-b154-7447-c3c21eb0845e",
                 "radius": 0.0
             },
             "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
@@ -88,64 +88,6 @@
             }
         },
         {
-            "id": "f55efa2f-1222-c5fd-a35e-949037e6790f",
-            "worldPosition": {
-                "x": 6685.810546875,
-                "y": 7592.2998046875,
-                "z": 43.291507720947269
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bad82e46-4d79-ef4e-0b35-8ca4310aabd1",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 2.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 0.6000000238418579,
-                "edgeNoise": 0.009999999776482582,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.009999999776482582
-            }
-        },
-        {
-            "id": "218b369b-749c-0d2e-d186-df2f85b0da66",
-            "worldPosition": {
-                "x": 6671.25927734375,
-                "y": 7573.072265625,
-                "z": 43.291507720947269
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "37b70102-e468-d0cd-fb66-1fb753c70649",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
-            "cookie": {
-                "innerRadius": 2.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 0.6000000238418579,
-                "edgeNoise": 0.009999999776482582,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.009999999776482582
-            }
-        },
-        {
             "id": "6223139c-8812-650c-9cf8-4fa1e77839d2",
             "worldPosition": {
                 "x": 6687.28564453125,
@@ -175,11 +117,11 @@
             }
         },
         {
-            "id": "b428c76b-5192-20d2-f44e-7aa848679478",
+            "id": "761962a5-f072-2d91-ed1d-9a1836f6dc0c",
             "worldPosition": {
-                "x": 7813.11669921875,
-                "y": 6253.8271484375,
-                "z": 107.76271057128906
+                "x": 6689.01806640625,
+                "y": 7619.6123046875,
+                "z": 43.291507720947269
             },
             "rotation": {
                 "x": 0.0,
@@ -189,26 +131,26 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5b0cd988-418c-09e3-0dfa-057bf1f33e39",
-                "radius": 0.009999999776482582
+                "id": "dbf8992b-8e39-b154-7447-c3c21eb0845e",
+                "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/Desert_River_Marsh_C",
-            "sliceAssetId": "{39642124-8A32-550F-9D43-C115B39875BB}:2",
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
             "cookie": {
-                "innerRadius": 0.00009999999747378752,
-                "outerRadius": 0.00019999999494757503,
-                "maxHeightBlend": 1.0
-            },
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
+                "innerRadius": 2.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 0.6000000238418579,
+                "edgeNoise": 0.009999999776482582,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.009999999776482582
             }
         },
         {
-            "id": "f7bdc83e-19f5-6904-2288-257e1f621df6",
+            "id": "f55efa2f-1222-c5fd-a35e-949037e6790f",
             "worldPosition": {
-                "x": 8137.8515625,
-                "y": 6686.357421875,
-                "z": 170.4468231201172
+                "x": 6685.810546875,
+                "y": 7592.2998046875,
+                "z": 43.291507720947269
             },
             "rotation": {
                 "x": 0.0,
@@ -218,13 +160,18 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5a6eade7-bb63-c3fe-7860-729a0d41f486",
+                "id": "bad82e46-4d79-ef4e-0b35-8ca4310aabd1",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/Desert_Lake_Forest_A",
-            "sliceAssetId": "{D7A7BA8C-31BE-5236-93A4-42591AF60397}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2",
+            "cookie": {
+                "innerRadius": 2.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 0.6000000238418579,
+                "edgeNoise": 0.009999999776482582,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.009999999776482582
             }
         },
         {
@@ -276,6 +223,83 @@
             },
             "sliceName": "slices/Terrain_Water/Desert_River_Marsh_A",
             "sliceAssetId": "{834B64C9-6E12-5361-80E6-E6A6BD23BCF9}:2",
+            "cookie": {
+                "innerRadius": 0.00009999999747378752,
+                "outerRadius": 0.00019999999494757503,
+                "maxHeightBlend": 1.0
+            },
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "9e2610f3-ee52-fbb9-4f0e-02c4b9fce5a2",
+            "worldPosition": {
+                "x": 6796.13525390625,
+                "y": 7972.94970703125,
+                "z": 155.84617614746095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7bd48cd8-e7ec-3cfa-e919-622ab0751342",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_F",
+            "sliceAssetId": "{A8CFFD68-21D5-5BFD-9273-15407A3656D4}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "f7bdc83e-19f5-6904-2288-257e1f621df6",
+            "worldPosition": {
+                "x": 8137.8515625,
+                "y": 6686.357421875,
+                "z": 170.4468231201172
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5a6eade7-bb63-c3fe-7860-729a0d41f486",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_Lake_Forest_A",
+            "sliceAssetId": "{D7A7BA8C-31BE-5236-93A4-42591AF60397}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "b428c76b-5192-20d2-f44e-7aa848679478",
+            "worldPosition": {
+                "x": 7813.11669921875,
+                "y": 6253.8271484375,
+                "z": 107.76271057128906
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5b0cd988-418c-09e3-0dfa-057bf1f33e39",
+                "radius": 0.009999999776482582
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Marsh_C",
+            "sliceAssetId": "{39642124-8A32-550F-9D43-C115B39875BB}:2",
             "cookie": {
                 "innerRadius": 0.00009999999747378752,
                 "outerRadius": 0.00019999999494757503,

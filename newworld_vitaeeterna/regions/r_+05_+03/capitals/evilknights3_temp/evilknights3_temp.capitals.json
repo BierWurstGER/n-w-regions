@@ -1,6 +1,71 @@
 {
     "Capitals": [
         {
+            "id": "689c1b60-b4fa-43ea-a07d-0917106eed0e",
+            "worldPosition": {
+                "x": 10729.732421875,
+                "y": 8007.34716796875,
+                "z": 237.67820739746095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9271839261054993,
+                "w": -0.3746064603328705
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4c46029c-460c-283f-7de8-7c8beb76ea7d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\23e759bf\\PointSpawner_FeralArcher_Stand_689c1b60b4fa43eaa07d0917106eed0e",
+            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:6eed0e"
+        },
+        {
+            "id": "6fefa138-299c-5eac-5463-24d432e341fd",
+            "worldPosition": {
+                "x": 10738.6103515625,
+                "y": 8035.86669921875,
+                "z": 238.16000366210938
+            },
+            "rotation": {
+                "x": 1.7520106609936193e-7,
+                "y": 0.9969173073768616,
+                "z": 1.7520106609936193e-7,
+                "w": 0.07845906913280487
+            },
+            "scale": 0.025999996811151506,
+            "footprint": {
+                "type": "Circle",
+                "id": "1067bb9a-cdfb-6f1f-f58d-a799762615be",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Terrain_Elements/Terrain_Cliffs/Crater_Cliffs/JAV_Ctr_Cliff_150m_A",
+            "sliceAssetId": "{522E2FE3-EEA1-55FD-BFF6-2631356E2D7D}:2"
+        },
+        {
+            "id": "868dcaf4-090a-a302-3c74-ce1ab34793f5",
+            "worldPosition": {
+                "x": 10744.34375,
+                "y": 8038.12646484375,
+                "z": 235.44992065429688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.019999999552965165,
+            "footprint": {
+                "type": "Circle",
+                "id": "4c93a488-e09d-8986-5428-b82171fc5a87",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Terrain_Elements/Terrain_Cliffs/Crater_Cliffs/JAV_Ctr_Cliff_150m_A",
+            "sliceAssetId": "{522E2FE3-EEA1-55FD-BFF6-2631356E2D7D}:2"
+        },
+        {
             "id": "cb72d1a3-bf43-5a67-8fbf-711e1984d19b",
             "worldPosition": {
                 "x": 10741.5126953125,
@@ -45,11 +110,11 @@
             "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:14a96f"
         },
         {
-            "id": "868dcaf4-090a-a302-3c74-ce1ab34793f5",
+            "id": "2f33a3f0-6358-4f25-b134-5f5cda2a9b01",
             "worldPosition": {
-                "x": 10744.34375,
-                "y": 8038.12646484375,
-                "z": 235.44992065429688
+                "x": 10856.7529296875,
+                "y": 6772.0869140625,
+                "z": 332.80810546875
             },
             "rotation": {
                 "x": 0.0,
@@ -57,58 +122,13 @@
                 "z": 0.0,
                 "w": 1.0
             },
-            "scale": 0.019999999552965165,
             "footprint": {
                 "type": "Circle",
-                "id": "4c93a488-e09d-8986-5428-b82171fc5a87",
+                "id": "1c2dbf9b-9655-818f-14c4-9d483df1c21a",
                 "radius": 1.0
             },
-            "sliceName": "slices/Terrain_Elements/Terrain_Cliffs/Crater_Cliffs/JAV_Ctr_Cliff_150m_A",
-            "sliceAssetId": "{522E2FE3-EEA1-55FD-BFF6-2631356E2D7D}:2"
-        },
-        {
-            "id": "6fefa138-299c-5eac-5463-24d432e341fd",
-            "worldPosition": {
-                "x": 10738.6103515625,
-                "y": 8035.86669921875,
-                "z": 238.16000366210938
-            },
-            "rotation": {
-                "x": 1.7520106609936193e-7,
-                "y": 0.9969173073768616,
-                "z": 1.7520106609936193e-7,
-                "w": 0.07845906913280487
-            },
-            "scale": 0.025999996811151506,
-            "footprint": {
-                "type": "Circle",
-                "id": "1067bb9a-cdfb-6f1f-f58d-a799762615be",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Terrain_Elements/Terrain_Cliffs/Crater_Cliffs/JAV_Ctr_Cliff_150m_A",
-            "sliceAssetId": "{522E2FE3-EEA1-55FD-BFF6-2631356E2D7D}:2"
-        },
-        {
-            "id": "10323317-b195-8a9b-8e1e-a8ca40ffb71f",
-            "worldPosition": {
-                "x": 10745.251953125,
-                "y": 8036.01171875,
-                "z": 234.904541015625
-            },
-            "rotation": {
-                "x": 0.038368403911590579,
-                "y": -0.15833647549152375,
-                "z": -3.87012946134746e-8,
-                "w": 0.9866394996643066
-            },
-            "scale": 0.05000000074505806,
-            "footprint": {
-                "type": "Circle",
-                "id": "2d815df6-a29a-3a90-710f-d29fa5922d6b",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\23e759bf\\JAV_Ctr_Cliff_20m_B_10323317b1958a9b8e1ea8ca40ffb71f",
-            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:ffb71f"
+            "sliceName": "CoatGen\\23e759bf\\PointSpawner_Lynx_Patrol_Square_10m_2f33a3f063584f25b1345f5cda2a9b01",
+            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:2a9b01"
         },
         {
             "id": "41f7cb72-317a-7552-54f0-967b6d5c3831",
@@ -130,27 +150,6 @@
             },
             "sliceName": "CoatGen\\23e759bf\\PointSpawner_Lynx_Patrol_Square_10m_41f7cb72317a755254f0967b6d5c3831",
             "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:5c3831"
-        },
-        {
-            "id": "2f33a3f0-6358-4f25-b134-5f5cda2a9b01",
-            "worldPosition": {
-                "x": 10856.7529296875,
-                "y": 6772.0869140625,
-                "z": 332.80810546875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1c2dbf9b-9655-818f-14c4-9d483df1c21a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\23e759bf\\PointSpawner_Lynx_Patrol_Square_10m_2f33a3f063584f25b1345f5cda2a9b01",
-            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:2a9b01"
         },
         {
             "id": "34d0d2da-f2e8-d73c-de5c-cc00a07df3df",
@@ -216,6 +215,28 @@
             "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:159d9a"
         },
         {
+            "id": "6a34553f-3ff7-e427-48ce-00c9c124193e",
+            "worldPosition": {
+                "x": 10741.6396484375,
+                "y": 8035.78955078125,
+                "z": 238.8612060546875
+            },
+            "rotation": {
+                "x": -0.6059587001800537,
+                "y": 0.789700984954834,
+                "z": -0.05834704637527466,
+                "w": 0.0760396346449852
+            },
+            "scale": 0.009999999776482582,
+            "footprint": {
+                "type": "Circle",
+                "id": "456c8ff1-7872-8b69-2ab7-ac5bbb8fcc7f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Terrain_Elements/Terrain_Cliffs/Crater_Cliffs/JAV_Ctr_Cliff_300m_A",
+            "sliceAssetId": "{E1AFD4B7-EA2F-5EDB-B07A-0808BE18FDF5}:2"
+        },
+        {
             "id": "f37d716a-1c68-a472-dc83-8799aba3d35c",
             "worldPosition": {
                 "x": 10747.04296875,
@@ -260,26 +281,68 @@
             "sliceAssetId": "{E1AFD4B7-EA2F-5EDB-B07A-0808BE18FDF5}:2"
         },
         {
-            "id": "6a34553f-3ff7-e427-48ce-00c9c124193e",
+            "id": "947e7581-69cc-1bb2-5055-f0e3125a3f06",
             "worldPosition": {
-                "x": 10741.6396484375,
-                "y": 8035.78955078125,
-                "z": 238.8612060546875
+                "x": 10729.890625,
+                "y": 8013.31298828125,
+                "z": 237.6807861328125
             },
             "rotation": {
-                "x": -0.6059587001800537,
-                "y": 0.789700984954834,
-                "z": -0.05834704637527466,
-                "w": 0.0760396346449852
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.5519367456436157,
+                "w": 0.8338859677314758
             },
-            "scale": 0.009999999776482582,
             "footprint": {
                 "type": "Circle",
-                "id": "456c8ff1-7872-8b69-2ab7-ac5bbb8fcc7f",
+                "id": "98f748a3-edf9-f54a-7331-fe2607ded3d5",
                 "radius": 1.0
             },
-            "sliceName": "slices/Terrain_Elements/Terrain_Cliffs/Crater_Cliffs/JAV_Ctr_Cliff_300m_A",
-            "sliceAssetId": "{E1AFD4B7-EA2F-5EDB-B07A-0808BE18FDF5}:2"
+            "sliceName": "CoatGen\\23e759bf\\PointSpawner_FeralArcher_Sit_947e758169cc1bb25055f0e3125a3f06",
+            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:5a3f06"
+        },
+        {
+            "id": "10323317-b195-8a9b-8e1e-a8ca40ffb71f",
+            "worldPosition": {
+                "x": 10745.251953125,
+                "y": 8036.01171875,
+                "z": 234.904541015625
+            },
+            "rotation": {
+                "x": 0.038368403911590579,
+                "y": -0.15833647549152375,
+                "z": -3.917326196756221e-8,
+                "w": 0.9866394996643066
+            },
+            "scale": 0.05000000074505806,
+            "footprint": {
+                "type": "Circle",
+                "id": "2d815df6-a29a-3a90-710f-d29fa5922d6b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\23e759bf\\JAV_Ctr_Cliff_20m_B_10323317b1958a9b8e1ea8ca40ffb71f",
+            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:ffb71f"
+        },
+        {
+            "id": "29d21205-7797-dcef-31d8-5437999f1180",
+            "worldPosition": {
+                "x": 10723.3662109375,
+                "y": 8011.68798828125,
+                "z": 239.895263671875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070585012435915,
+                "w": 0.9537169337272644
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2934f782-1a6d-8273-2923-c9ddc9f47cc5",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\23e759bf\\PointSpawner_FeralProwler_29d212057797dcef31d85437999f1180",
+            "sliceAssetId": "{11B8DF63-37E9-5C0B-88C0-475EC5AAE1DE}:9f1180"
         }
     ]
 }

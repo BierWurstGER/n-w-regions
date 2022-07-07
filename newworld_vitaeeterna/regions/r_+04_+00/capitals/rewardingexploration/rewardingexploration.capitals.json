@@ -1,6 +1,30 @@
 {
     "Capitals": [
         {
+            "id": "1d9a5290-80aa-2a38-7ab9-72c9fb1636cd",
+            "worldPosition": {
+                "x": 9727.7099609375,
+                "y": 886.7214965820313,
+                "z": 89.75833129882813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9701357483863831,
+                "w": -0.24256248772144319
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "691fed49-bafa-a318-50d6-a8be5b1d7ffc",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthFirstLight01",
+            "sliceAssetId": "{EDFE5115-087F-5E66-850E-A52494F3A039}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "b8864df5-a1d5-7395-2488-a70a87b0c675",
             "worldPosition": {
                 "x": 9312.9990234375,
@@ -24,15 +48,15 @@
         {
             "id": "0e5ed965-42fc-b3d1-28a1-2636833cfe4a",
             "worldPosition": {
-                "x": 9125.404296875,
-                "y": 1859.70654296875,
-                "z": 127.93956756591797
+                "x": 9125.5771484375,
+                "y": 1859.545654296875,
+                "z": 127.9197769165039
             },
             "rotation": {
-                "x": 0.005226610694080591,
-                "y": -0.01077164988964796,
-                "z": 0.9303683042526245,
-                "w": 0.36643072962760928
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9304309487342835,
+                "w": 0.36646726727485659
             },
             "footprint": {
                 "type": "Circle",
@@ -41,30 +65,6 @@
             },
             "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_NorthFirstLight01",
             "sliceAssetId": "{65BA60C1-454E-570E-8ACE-79C2B679803B}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "1d9a5290-80aa-2a38-7ab9-72c9fb1636cd",
-            "worldPosition": {
-                "x": 9727.7099609375,
-                "y": 886.7214965820313,
-                "z": 89.75833129882813
-            },
-            "rotation": {
-                "x": -0.027634477242827417,
-                "y": -0.02639715000987053,
-                "z": 0.9695869088172913,
-                "w": -0.24174512922763825
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "691fed49-bafa-a318-50d6-a8be5b1d7ffc",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthFirstLight01",
-            "sliceAssetId": "{EDFE5115-087F-5E66-850E-A52494F3A039}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

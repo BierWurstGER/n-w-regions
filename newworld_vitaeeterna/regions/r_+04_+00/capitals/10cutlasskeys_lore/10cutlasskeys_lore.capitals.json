@@ -1,3 +1,50 @@
 {
-    "Capitals": []
+    "Capitals": [
+        {
+            "id": "11c2e5d8-bf3d-7848-338c-e2a3cf9e95dd",
+            "worldPosition": {
+                "x": 8272.0244140625,
+                "y": 817.618896484375,
+                "z": 70.4346923828125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9659258127212524,
+                "w": -0.258819043636322
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ba85a184-439c-b0f4-7374-474e04b275f0",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\4e450531\\IO_WorldEvent_9932_RomacNotebook_11c2e5d8bf3d7848338ce2a3cf9e95dd",
+            "sliceAssetId": "{CF37A7B0-3D46-537E-BB19-665B3483FC36}:9e95dd",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "61d01ba8-e6fa-dba6-3532-ff41d37bdf5e",
+            "worldPosition": {
+                "x": 8259.07421875,
+                "y": 781.9486083984375,
+                "z": 70.2540512084961
+            },
+            "rotation": {
+                "x": 0.0831938236951828,
+                "y": -0.035404641181230548,
+                "z": -0.4598572254180908,
+                "w": 0.8833779692649841
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f6609fa3-b1be-dfcc-992a-fdfa96b7c0da",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\4e450531\\Lore_Master_61d01ba8e6fadba63532ff41d37bdf5e",
+            "sliceAssetId": "{CF37A7B0-3D46-537E-BB19-665B3483FC36}:7bdf5e"
+        }
+    ]
 }

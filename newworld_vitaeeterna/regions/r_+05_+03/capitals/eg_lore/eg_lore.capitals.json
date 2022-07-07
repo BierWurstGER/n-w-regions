@@ -1,26 +1,324 @@
 {
     "Capitals": [
         {
-            "id": "010b0e9c-f635-29de-7c9f-7c7c2e23c12b",
+            "id": "ff8d04a9-b44d-e6d8-efbe-48c11c9d7679",
             "worldPosition": {
-                "x": 11345.328125,
-                "y": 7934.42333984375,
-                "z": 268.3067932128906
+                "x": 11746.35546875,
+                "y": 7641.38720703125,
+                "z": 194.8582305908203
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.7604060173034668,
-                "w": 0.649448037147522
+                "z": 0.9969173073768616,
+                "w": -0.07845904678106308
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "86f9e272-a85e-c447-ea56-07455f684f51",
+                "radius": 2.0
+            },
+            "sliceName": "slices/GroundCover/Blockers/veg_blocker_Circle_10m",
+            "sliceAssetId": "{76BEEB4B-7804-5336-B202-81128D7718D9}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a9b0ebb6-d352-fa09-ac5c-b28c5aa32ec9",
+            "worldPosition": {
+                "x": 11096.56640625,
+                "y": 7331.6806640625,
+                "z": 166.9940948486328
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "58525625-2be5-e582-76ee-e55d93e37f50",
+                "radius": 2.0
+            },
+            "sliceName": "slices/GroundCover/Blockers/veg_blocker_Circle_10m",
+            "sliceAssetId": "{76BEEB4B-7804-5336-B202-81128D7718D9}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2c7445f3-c1a6-7a38-2a2f-e1e5b968ac56",
+            "worldPosition": {
+                "x": 11256.5966796875,
+                "y": 7810.916015625,
+                "z": 131.5876007080078
+            },
+            "rotation": {
+                "x": 0.013746337033808232,
+                "y": 0.025267668068408967,
+                "z": 1.6610608000178219e-8,
+                "w": 0.9995862245559692
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "98fafdcf-48f5-67db-80f1-5d7148fdca99",
+                "id": "8a210f1d-a117-47ef-9e94-f8eebf2d212a",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_2c7445f3c1a67a382a2fe1e5b968ac56",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:68ac56",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2673b428-21a2-9bf0-3b92-52d4b4b325c5",
+            "worldPosition": {
+                "x": 11354.5263671875,
+                "y": 7638.4208984375,
+                "z": 131.4720001220703
+            },
+            "rotation": {
+                "x": -0.004648794420063496,
+                "y": -0.03168405219912529,
+                "z": -0.6557225584983826,
+                "w": 0.7543225288391113
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "657daf03-51a0-50c7-a930-cfb24fbe669a",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_2673b42821a29bf03b9252d4b4b325c5",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:b325c5",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "53d42450-2841-442c-d13b-db645d3eade4",
+            "worldPosition": {
+                "x": 11239.8369140625,
+                "y": 7635.77783203125,
+                "z": 130.59048461914063
+            },
+            "rotation": {
+                "x": -0.10783261060714722,
+                "y": 0.025337787345051767,
+                "z": 0.25722619891166689,
+                "w": 0.9599816799163818
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b0a1a7fa-d56f-8981-6dc6-213950bca140",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_53d424502841442cd13bdb645d3eade4",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:3eade4",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a9dd8e73-8038-47ec-ff93-999b14ac933b",
+            "worldPosition": {
+                "x": 11396.4814453125,
+                "y": 7677.39794921875,
+                "z": 130.96998596191407
+            },
+            "rotation": {
+                "x": -0.045635949820280078,
+                "y": 0.0015150660183280707,
+                "z": 0.6011872887611389,
+                "w": 0.7978025674819946
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "6ecb70c6-ff4c-4d05-1aa3-b18b953fa564",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_a9dd8e73803847ecff93999b14ac933b",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:ac933b",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "34a3f96b-de4a-731c-39c5-91969bb1f229",
+            "worldPosition": {
+                "x": 11300.4013671875,
+                "y": 7821.4501953125,
+                "z": 130.83387756347657
+            },
+            "rotation": {
+                "x": 0.05415836349129677,
+                "y": 0.01938675343990326,
+                "z": -0.24152134358882905,
+                "w": 0.9686890840530396
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "91f6b73b-a9fb-29f2-df21-72fc4b3c2373",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_34a3f96bde4a731c39c591969bb1f229",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:b1f229",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b0891b19-af85-fec2-74eb-b43cac62585b",
+            "worldPosition": {
+                "x": 11380.396484375,
+                "y": 7792.52490234375,
+                "z": 132.9919891357422
+            },
+            "rotation": {
+                "x": -0.13460247218608857,
+                "y": -0.16961246728897096,
+                "z": 0.9738973379135132,
+                "w": -0.06810149550437927
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9f5f3099-9001-dc47-2970-698e84402f0e",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_b0891b19af85fec274ebb43cac62585b",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:62585b",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "80f1de99-6d77-effa-6ad3-ac90e51e9546",
+            "worldPosition": {
+                "x": 11386.9990234375,
+                "y": 7740.73193359375,
+                "z": 130.9789276123047
+            },
+            "rotation": {
+                "x": -0.009017699398100376,
+                "y": -0.087824746966362,
+                "z": 4.771287009930347e-8,
+                "w": 0.9960951209068298
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "79bc3f3a-5f55-8c3f-c2f7-f7a74be82c54",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_80f1de996d77effa6ad3ac90e51e9546",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:1e9546",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "8d30c66e-9d4d-9714-829a-57bb08e39729",
+            "worldPosition": {
+                "x": 11308.5107421875,
+                "y": 7615.6591796875,
+                "z": 133.0835418701172
+            },
+            "rotation": {
+                "x": -0.20455095171928407,
+                "y": -0.08427419513463974,
+                "z": -0.4121464192867279,
+                "w": 0.8838507533073425
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "5c7b390b-d336-1098-1a9b-65ac18744d64",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_8d30c66e9d4d9714829a57bb08e39729",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:e39729",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "6482ed46-8440-d13a-186a-7fd8c17d7c20",
+            "worldPosition": {
+                "x": 11214.224609375,
+                "y": 7775.16796875,
+                "z": 130.8360595703125
+            },
+            "rotation": {
+                "x": -0.04474571719765663,
+                "y": 0.07816897332668305,
+                "z": -0.5277652144432068,
+                "w": 0.8446012735366821
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "c1e97d8d-4fb2-72e7-72e6-fda645625628",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_6482ed468440d13a186a7fd8c17d7c20",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:7d7c20",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "cd409469-0605-d3ea-3c7d-4472e643066b",
+            "worldPosition": {
+                "x": 11189.0,
+                "y": 7738.45166015625,
+                "z": 130.53321838378907
+            },
+            "rotation": {
+                "x": 0.0740397721529007,
+                "y": 0.0847604051232338,
+                "z": 0.7267071604728699,
+                "w": 0.6776654720306397
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f751199e-bc5e-3506-af8f-be1c04282cdf",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_cd4094690605d3ea3c7d4472e643066b",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:43066b",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "754e3398-7b80-897a-4eaf-36d48dec6808",
+            "worldPosition": {
+                "x": 11196.580078125,
+                "y": 7689.86767578125,
+                "z": 130.6885528564453
+            },
+            "rotation": {
+                "x": -0.060906991362571719,
+                "y": 0.003265822771936655,
+                "z": -0.5725083947181702,
+                "w": 0.817626953125
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ef4c0220-9a52-c27c-5a64-0cebf5d7dfb5",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_754e33987b80897a4eaf36d48dec6808",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:ec6808",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -51,246 +349,21 @@
             }
         },
         {
-            "id": "136a6fca-c4cf-1345-eebb-615dee70af46",
+            "id": "aa4f2353-f0c0-4cb7-847c-db3cb90d0d0e",
             "worldPosition": {
-                "x": 11388.3779296875,
-                "y": 7971.158203125,
-                "z": 239.06907653808595
+                "x": 11373.259765625,
+                "y": 7870.28173828125,
+                "z": 218.0234832763672
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.08715575188398361,
-                "w": 0.9961947202682495
+                "x": 0.004561384674161673,
+                "y": -0.05213678255677223,
+                "z": 0.9948294758796692,
+                "w": -0.08703619986772537
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "5c4ccffa-77ce-91ae-dc13-ef2cb26283b9",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "807cc75f-0248-1b28-6c61-5110efaa7864",
-            "worldPosition": {
-                "x": 11353.8984375,
-                "y": 7935.19482421875,
-                "z": 209.7705078125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7604060173034668,
-                "w": 0.649448037147522
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "37fcec00-bc95-93c6-b657-de474e7ccffe",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "1e655c4f-98d4-185d-17b7-56153cfd0dd2",
-            "worldPosition": {
-                "x": 11348.943359375,
-                "y": 7913.62744140625,
-                "z": 268.46142578125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7604060173034668,
-                "w": 0.649448037147522
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "98e25ab9-7d79-2bd1-07f0-0374f8d03044",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "1313a122-8a73-1e41-3f45-7bd10ea498a4",
-            "worldPosition": {
-                "x": 11411.9443359375,
-                "y": 7961.87841796875,
-                "z": 204.73129272460938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.08715575188398361,
-                "w": 0.9961947202682495
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "3a185d50-3804-f17d-ee4b-66d9ec9b9342",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "90fe41f2-0a81-223b-07c9-9252f5a01141",
-            "worldPosition": {
-                "x": 11429.5361328125,
-                "y": 7875.37109375,
-                "z": 204.8937225341797
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": -0.08715613186359406
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ba308b54-8d1a-4348-e13f-c57fc26d2401",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9a56c533-425e-bb05-3449-f0e271b0a62c",
-            "worldPosition": {
-                "x": 11354.115234375,
-                "y": 7933.77392578125,
-                "z": 218.1410369873047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7716246843338013,
-                "w": 0.6360781192779541
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b69f2991-f8cb-8041-a631-eef165ecd7e0",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "885d8195-7d8b-eef9-7d55-3846de76d623",
-            "worldPosition": {
-                "x": 11356.2783203125,
-                "y": 7899.96923828125,
-                "z": 254.60159301757813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": -0.08715613186359406
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b54633ac-fca7-5876-f71d-ee4cba863eec",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9bc92d8b-c000-8719-57ad-59c586fdd204",
-            "worldPosition": {
-                "x": 11414.23046875,
-                "y": 7884.83447265625,
-                "z": 233.44305419921876
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": -0.08715613186359406
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d5ddcf07-54b1-fc76-117f-2b9e61dd1246",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "47ba8ad3-8559-df67-9123-ed00cd0199cd",
-            "worldPosition": {
-                "x": 11366.3466796875,
-                "y": 7885.650390625,
-                "z": 234.8759002685547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7604060173034668,
-                "w": 0.649448037147522
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "cd13d2ff-d7e0-d6a8-e110-9eb986355813",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "99532f54-34ad-f948-880d-0efd2cc3a0b3",
-            "worldPosition": {
-                "x": 11358.482421875,
-                "y": 7945.6591796875,
-                "z": 209.8188018798828
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.08715575188398361,
-                "w": 0.9961947202682495
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c1a7184a-6f81-a3a1-5a0d-8388bde2ae8c",
+                "id": "109fa6b3-ecd5-7aca-971f-9c617072db60",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -326,21 +399,21 @@
             }
         },
         {
-            "id": "3fd6e722-7f09-1bfd-df42-465f754439a1",
+            "id": "9afb09e9-1d46-fc9a-b438-9548c6c4ac60",
             "worldPosition": {
-                "x": 11361.275390625,
-                "y": 7966.37939453125,
-                "z": 239.0500946044922
+                "x": 11428.1484375,
+                "y": 7913.71240234375,
+                "z": 219.17567443847657
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.08715575188398361,
-                "w": 0.9961947202682495
+                "z": 0.9961947202682495,
+                "w": -0.08715613186359406
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "cd1c47e8-b2c1-9810-c83d-d38201b9c0c3",
+                "id": "c6ae9047-3b7a-17c9-972f-30b13fce3c4e",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -351,21 +424,21 @@
             }
         },
         {
-            "id": "dc2a57b2-b2ef-1b82-746a-4ad63c0b237d",
+            "id": "136a6fca-c4cf-1345-eebb-615dee70af46",
             "worldPosition": {
-                "x": 11326.919921875,
-                "y": 7924.66796875,
-                "z": 198.25555419921876
+                "x": 11388.3779296875,
+                "y": 7971.158203125,
+                "z": 239.06907653808595
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.7660444378852844,
-                "w": 0.6427875757217407
+                "z": 0.08715575188398361,
+                "w": 0.9961947202682495
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "1795794b-edf3-bdf1-3a95-0aad0ff3d03a",
+                "id": "5c4ccffa-77ce-91ae-dc13-ef2cb26283b9",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -391,6 +464,256 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "e0f9433f-8aaf-0715-3c69-5b1d01e8fa9e",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d6ee5afb-378e-303b-2e30-07f191f8b5d4",
+            "worldPosition": {
+                "x": 11367.72265625,
+                "y": 7943.43505859375,
+                "z": 251.3973388671875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9953961968421936,
+                "w": -0.09584584832191467
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "25da3efd-d5d5-55f4-47fb-c88191c4cf43",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a51de289-8125-ea94-684c-7845fbc862b7",
+            "worldPosition": {
+                "x": 11406.2294921875,
+                "y": 7957.35888671875,
+                "z": 218.4929962158203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.08715575188398361,
+                "w": 0.9961947202682495
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "5834ce42-ff63-e0d0-1181-1f8bac7d0cec",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "1e655c4f-98d4-185d-17b7-56153cfd0dd2",
+            "worldPosition": {
+                "x": 11348.943359375,
+                "y": 7913.62744140625,
+                "z": 268.46142578125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7604060173034668,
+                "w": 0.649448037147522
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "98e25ab9-7d79-2bd1-07f0-0374f8d03044",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "885d8195-7d8b-eef9-7d55-3846de76d623",
+            "worldPosition": {
+                "x": 11356.2783203125,
+                "y": 7899.96923828125,
+                "z": 254.60159301757813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9961947202682495,
+                "w": -0.08715613186359406
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b54633ac-fca7-5876-f71d-ee4cba863eec",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "807cc75f-0248-1b28-6c61-5110efaa7864",
+            "worldPosition": {
+                "x": 11353.8984375,
+                "y": 7935.19482421875,
+                "z": 209.7705078125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7604060173034668,
+                "w": 0.649448037147522
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "37fcec00-bc95-93c6-b657-de474e7ccffe",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "90fe41f2-0a81-223b-07c9-9252f5a01141",
+            "worldPosition": {
+                "x": 11429.5361328125,
+                "y": 7875.37109375,
+                "z": 204.8937225341797
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9961947202682495,
+                "w": -0.08715613186359406
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ba308b54-8d1a-4348-e13f-c57fc26d2401",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "625afd09-83a4-6564-d3bd-7762d39db5f0",
+            "worldPosition": {
+                "x": 11365.029296875,
+                "y": 7865.4609375,
+                "z": 210.8626251220703
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7716248035430908,
+                "w": 0.6360780000686646
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "46489831-4905-7ed4-4e26-aafd3cd15416",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "1313a122-8a73-1e41-3f45-7bd10ea498a4",
+            "worldPosition": {
+                "x": 11411.9443359375,
+                "y": 7961.87841796875,
+                "z": 204.73129272460938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.08715575188398361,
+                "w": 0.9961947202682495
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "3a185d50-3804-f17d-ee4b-66d9ec9b9342",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "9bc92d8b-c000-8719-57ad-59c586fdd204",
+            "worldPosition": {
+                "x": 11414.23046875,
+                "y": 7884.83447265625,
+                "z": 233.44305419921876
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9961947202682495,
+                "w": -0.08715613186359406
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "d5ddcf07-54b1-fc76-117f-2b9e61dd1246",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "99532f54-34ad-f948-880d-0efd2cc3a0b3",
+            "worldPosition": {
+                "x": 11358.482421875,
+                "y": 7945.6591796875,
+                "z": 209.8188018798828
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.08715575188398361,
+                "w": 0.9961947202682495
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "c1a7184a-6f81-a3a1-5a0d-8388bde2ae8c",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -451,6 +774,56 @@
             }
         },
         {
+            "id": "010b0e9c-f635-29de-7c9f-7c7c2e23c12b",
+            "worldPosition": {
+                "x": 11345.328125,
+                "y": 7934.42333984375,
+                "z": 268.3067932128906
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7604060173034668,
+                "w": 0.649448037147522
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "98fafdcf-48f5-67db-80f1-5d7148fdca99",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "47ba8ad3-8559-df67-9123-ed00cd0199cd",
+            "worldPosition": {
+                "x": 11366.3466796875,
+                "y": 7885.650390625,
+                "z": 234.8759002685547
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7604060173034668,
+                "w": 0.649448037147522
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "cd13d2ff-d7e0-d6a8-e110-9eb986355813",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "018802b6-4a83-a134-d1a4-0cd15864714f",
             "worldPosition": {
                 "x": 11386.99609375,
@@ -466,106 +839,6 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "48f32f71-6815-ee33-e7bd-7d2d929e3e71",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9afb09e9-1d46-fc9a-b438-9548c6c4ac60",
-            "worldPosition": {
-                "x": 11428.1484375,
-                "y": 7913.71240234375,
-                "z": 219.17567443847657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": -0.08715613186359406
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c6ae9047-3b7a-17c9-972f-30b13fce3c4e",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "625afd09-83a4-6564-d3bd-7762d39db5f0",
-            "worldPosition": {
-                "x": 11365.029296875,
-                "y": 7865.4609375,
-                "z": 210.8626251220703
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7716248035430908,
-                "w": 0.6360780000686646
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "46489831-4905-7ed4-4e26-aafd3cd15416",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "d6ee5afb-378e-303b-2e30-07f191f8b5d4",
-            "worldPosition": {
-                "x": 11367.72265625,
-                "y": 7943.43505859375,
-                "z": 251.3973388671875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9953961968421936,
-                "w": -0.09584584832191467
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "25da3efd-d5d5-55f4-47fb-c88191c4cf43",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
-            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "aa4f2353-f0c0-4cb7-847c-db3cb90d0d0e",
-            "worldPosition": {
-                "x": 11373.259765625,
-                "y": 7870.28173828125,
-                "z": 218.0234832763672
-            },
-            "rotation": {
-                "x": 0.004561384674161673,
-                "y": -0.05213678255677223,
-                "z": 0.9948294758796692,
-                "w": -0.08703619986772537
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "109fa6b3-ecd5-7aca-971f-9c617072db60",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -601,21 +874,21 @@
             }
         },
         {
-            "id": "a51de289-8125-ea94-684c-7845fbc862b7",
+            "id": "9a56c533-425e-bb05-3449-f0e271b0a62c",
             "worldPosition": {
-                "x": 11406.2294921875,
-                "y": 7957.35888671875,
-                "z": 218.4929962158203
+                "x": 11354.115234375,
+                "y": 7933.77392578125,
+                "z": 218.1410369873047
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.08715575188398361,
-                "w": 0.9961947202682495
+                "z": 0.7716246843338013,
+                "w": 0.6360781192779541
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "5834ce42-ff63-e0d0-1181-1f8bac7d0cec",
+                "id": "b69f2991-f8cb-8041-a631-eef165ecd7e0",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -626,48 +899,51 @@
             }
         },
         {
-            "id": "4c3c2ea9-887b-3213-2e6d-c9211642fe42",
+            "id": "3fd6e722-7f09-1bfd-df42-465f754439a1",
             "worldPosition": {
-                "x": 11025.283203125,
-                "y": 7085.244140625,
-                "z": 341.353515625
+                "x": 11361.275390625,
+                "y": 7966.37939453125,
+                "z": 239.0500946044922
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9762960076332092,
-                "w": 0.21643975377082826
-            },
-            "scale": 7.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "3f0f8183-f5c4-e37b-9609-2518a7e866e9",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\TriggerVol_MSQ_IntoDepths1_4c3c2ea9887b32132e6dc9211642fe42",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:42fe42"
-        },
-        {
-            "id": "a3d68c72-14a8-edb7-68d6-0cefa5ebfea9",
-            "worldPosition": {
-                "x": 11999.8837890625,
-                "y": 7940.89892578125,
-                "z": 243.24728393554688
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.08715575188398361,
+                "w": 0.9961947202682495
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "af950843-4612-337f-97b2-ecebc20df6f5",
+                "id": "cd1c47e8-b2c1-9810-c83d-d38201b9c0c3",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/WyrdwoodSeedPod/IO_WorldEvent_0521_WyrdwoodSeedPod_00",
-            "sliceAssetId": "{CF8E6749-FEC9-5DC8-9C42-E765FB2E691F}:2",
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "dc2a57b2-b2ef-1b82-746a-4ad63c0b237d",
+            "worldPosition": {
+                "x": 11326.919921875,
+                "y": 7924.66796875,
+                "z": 198.25555419921876
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7660444378852844,
+                "w": 0.6427875757217407
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "1795794b-edf3-bdf1-3a95-0aad0ff3d03a",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/GreatCleave/Interact/EpicWeapons/IO_WorldEvent_0300_EpicWeapons_Malevolence",
+            "sliceAssetId": "{A20C285B-5397-5C83-B703-36E944C08616}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -698,11 +974,11 @@
             }
         },
         {
-            "id": "8d6562e2-3058-635d-517c-a73785940dec",
+            "id": "0c3e1679-cef9-7da6-6e7a-d38d1b892a19",
             "worldPosition": {
-                "x": 10743.791015625,
-                "y": 7786.580078125,
-                "z": 281.364013671875
+                "x": 10789.603515625,
+                "y": 7840.20703125,
+                "z": 280.8680114746094
             },
             "rotation": {
                 "x": 0.0,
@@ -712,7 +988,32 @@
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "42c74e1e-da4d-53b6-e839-c0ee8d0955b3",
+                "id": "9ed4fb6f-9592-16aa-6fa7-09c6f7f797a0",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/WyrdwoodSeedPod/IO_WorldEvent_0521_WyrdwoodSeedPod_00",
+            "sliceAssetId": "{CF8E6749-FEC9-5DC8-9C42-E765FB2E691F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a3d68c72-14a8-edb7-68d6-0cefa5ebfea9",
+            "worldPosition": {
+                "x": 11999.8837890625,
+                "y": 7940.89892578125,
+                "z": 243.24728393554688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "af950843-4612-337f-97b2-ecebc20df6f5",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -773,11 +1074,11 @@
             }
         },
         {
-            "id": "0c3e1679-cef9-7da6-6e7a-d38d1b892a19",
+            "id": "8d6562e2-3058-635d-517c-a73785940dec",
             "worldPosition": {
-                "x": 10789.603515625,
-                "y": 7840.20703125,
-                "z": 280.8680114746094
+                "x": 10743.791015625,
+                "y": 7786.580078125,
+                "z": 281.364013671875
             },
             "rotation": {
                 "x": 0.0,
@@ -787,7 +1088,7 @@
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "9ed4fb6f-9592-16aa-6fa7-09c6f7f797a0",
+                "id": "42c74e1e-da4d-53b6-e839-c0ee8d0955b3",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -798,11 +1099,11 @@
             }
         },
         {
-            "id": "a9b0ebb6-d352-fa09-ac5c-b28c5aa32ec9",
+            "id": "74f505b5-8204-b0d4-3786-8960498a2f57",
             "worldPosition": {
-                "x": 11096.56640625,
-                "y": 7331.6806640625,
-                "z": 166.9940948486328
+                "x": 11110.7568359375,
+                "y": 7324.5205078125,
+                "z": 167.6917724609375
             },
             "rotation": {
                 "x": 0.0,
@@ -812,503 +1113,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "58525625-2be5-e582-76ee-e55d93e37f50",
-                "radius": 2.0
-            },
-            "sliceName": "slices/GroundCover/Blockers/veg_blocker_Circle_10m",
-            "sliceAssetId": "{76BEEB4B-7804-5336-B202-81128D7718D9}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "ff8d04a9-b44d-e6d8-efbe-48c11c9d7679",
-            "worldPosition": {
-                "x": 11746.35546875,
-                "y": 7641.38720703125,
-                "z": 194.8582305908203
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9969173073768616,
-                "w": -0.07845904678106308
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "86f9e272-a85e-c447-ea56-07455f684f51",
-                "radius": 2.0
-            },
-            "sliceName": "slices/GroundCover/Blockers/veg_blocker_Circle_10m",
-            "sliceAssetId": "{76BEEB4B-7804-5336-B202-81128D7718D9}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "ca19472d-d30f-f24e-8eb3-9353626921bd",
-            "worldPosition": {
-                "x": 11127.5283203125,
-                "y": 7288.80712890625,
-                "z": 167.616455078125
-            },
-            "rotation": {
-                "x": -0.002551398705691099,
-                "y": 0.008345223031938076,
-                "z": -0.29236140847206118,
-                "w": 0.9562680721282959
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ef6b8053-118d-375d-7c2a-50dc788044b9",
+                "id": "0a2dea2b-a76f-239a-8a78-1eaae18c03f6",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0106",
-            "sliceAssetId": "{5BDDA09B-227E-5D43-8D7B-204C90DF762E}:2"
-        },
-        {
-            "id": "c9ca4d1a-f3d9-1246-63e7-2d3eecb97b0b",
-            "worldPosition": {
-                "x": 11263.4072265625,
-                "y": 7392.06689453125,
-                "z": 165.52435302734376
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "961b066b-42fa-fb5f-c03b-eb00efa15cd5",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0114",
-            "sliceAssetId": "{291C793D-731B-539B-9E4A-7BF863086AAE}:2"
-        },
-        {
-            "id": "b0891b19-af85-fec2-74eb-b43cac62585b",
-            "worldPosition": {
-                "x": 11380.396484375,
-                "y": 7792.52490234375,
-                "z": 132.9919891357422
-            },
-            "rotation": {
-                "x": -0.13460247218608857,
-                "y": -0.16961246728897096,
-                "z": 0.9738973379135132,
-                "w": -0.06810149550437927
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "9f5f3099-9001-dc47-2970-698e84402f0e",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_b0891b19af85fec274ebb43cac62585b",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:62585b",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "53d42450-2841-442c-d13b-db645d3eade4",
-            "worldPosition": {
-                "x": 11239.8369140625,
-                "y": 7635.77783203125,
-                "z": 130.59048461914063
-            },
-            "rotation": {
-                "x": -0.10783261060714722,
-                "y": 0.025337787345051767,
-                "z": 0.25722619891166689,
-                "w": 0.9599816799163818
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b0a1a7fa-d56f-8981-6dc6-213950bca140",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_53d424502841442cd13bdb645d3eade4",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:3eade4",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "8d30c66e-9d4d-9714-829a-57bb08e39729",
-            "worldPosition": {
-                "x": 11308.5107421875,
-                "y": 7615.6591796875,
-                "z": 133.0835418701172
-            },
-            "rotation": {
-                "x": -0.20455095171928407,
-                "y": -0.08427417278289795,
-                "z": -0.4121464192867279,
-                "w": 0.8838507533073425
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "5c7b390b-d336-1098-1a9b-65ac18744d64",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_8d30c66e9d4d9714829a57bb08e39729",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:e39729",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "754e3398-7b80-897a-4eaf-36d48dec6808",
-            "worldPosition": {
-                "x": 11196.580078125,
-                "y": 7689.86767578125,
-                "z": 130.6885528564453
-            },
-            "rotation": {
-                "x": -0.060906991362571719,
-                "y": 0.003265822771936655,
-                "z": -0.5725083947181702,
-                "w": 0.817626953125
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ef4c0220-9a52-c27c-5a64-0cebf5d7dfb5",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_754e33987b80897a4eaf36d48dec6808",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:ec6808",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "2673b428-21a2-9bf0-3b92-52d4b4b325c5",
-            "worldPosition": {
-                "x": 11354.5263671875,
-                "y": 7638.4208984375,
-                "z": 131.4720001220703
-            },
-            "rotation": {
-                "x": -0.004648794420063496,
-                "y": -0.03168405219912529,
-                "z": -0.6557225584983826,
-                "w": 0.7543225288391113
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "657daf03-51a0-50c7-a930-cfb24fbe669a",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_2673b42821a29bf03b9252d4b4b325c5",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:b325c5",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "2c7445f3-c1a6-7a38-2a2f-e1e5b968ac56",
-            "worldPosition": {
-                "x": 11256.5966796875,
-                "y": 7810.916015625,
-                "z": 131.5876007080078
-            },
-            "rotation": {
-                "x": 0.01374633889645338,
-                "y": 0.025267668068408967,
-                "z": 1.6697955018685208e-8,
-                "w": 0.9995862245559692
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8a210f1d-a117-47ef-9e94-f8eebf2d212a",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_2c7445f3c1a67a382a2fe1e5b968ac56",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:68ac56",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "cd409469-0605-d3ea-3c7d-4472e643066b",
-            "worldPosition": {
-                "x": 11189.0,
-                "y": 7738.45166015625,
-                "z": 130.53321838378907
-            },
-            "rotation": {
-                "x": 0.0740397721529007,
-                "y": 0.0847604051232338,
-                "z": 0.7267071604728699,
-                "w": 0.6776654720306397
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "f751199e-bc5e-3506-af8f-be1c04282cdf",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_cd4094690605d3ea3c7d4472e643066b",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:43066b",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a9dd8e73-8038-47ec-ff93-999b14ac933b",
-            "worldPosition": {
-                "x": 11396.4814453125,
-                "y": 7677.39794921875,
-                "z": 130.96998596191407
-            },
-            "rotation": {
-                "x": -0.045635949820280078,
-                "y": 0.0015150660183280707,
-                "z": 0.6011872887611389,
-                "w": 0.7978025674819946
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "6ecb70c6-ff4c-4d05-1aa3-b18b953fa564",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_a9dd8e73803847ecff93999b14ac933b",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:ac933b",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "6482ed46-8440-d13a-186a-7fd8c17d7c20",
-            "worldPosition": {
-                "x": 11214.224609375,
-                "y": 7775.16796875,
-                "z": 130.8360595703125
-            },
-            "rotation": {
-                "x": -0.04474574327468872,
-                "y": 0.07816901057958603,
-                "z": -0.5277652144432068,
-                "w": 0.8446012735366821
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c1e97d8d-4fb2-72e7-72e6-fda645625628",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_6482ed468440d13a186a7fd8c17d7c20",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:7d7c20",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "34a3f96b-de4a-731c-39c5-91969bb1f229",
-            "worldPosition": {
-                "x": 11300.4013671875,
-                "y": 7821.4501953125,
-                "z": 130.83387756347657
-            },
-            "rotation": {
-                "x": 0.05415836349129677,
-                "y": 0.01938675343990326,
-                "z": -0.24152134358882905,
-                "w": 0.9686890840530396
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "91f6b73b-a9fb-29f2-df21-72fc4b3c2373",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_34a3f96bde4a731c39c591969bb1f229",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:b1f229",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "80f1de99-6d77-effa-6ad3-ac90e51e9546",
-            "worldPosition": {
-                "x": 11386.9990234375,
-                "y": 7740.73193359375,
-                "z": 130.9789276123047
-            },
-            "rotation": {
-                "x": -0.009017699398100376,
-                "y": -0.087824746966362,
-                "z": 4.771287009930347e-8,
-                "w": 0.9960951209068298
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "79bc3f3a-5f55-8c3f-c2f7-f7a74be82c54",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\IO_WorldEvent_0831_DryadsEyePlant_00_80f1de996d77effa6ad3ac90e51e9546",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:1e9546",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "79ecbe21-53fd-2725-bf7f-96ad121f745c",
-            "worldPosition": {
-                "x": 11568.3212890625,
-                "y": 7513.11572265625,
-                "z": 142.6453399658203
-            },
-            "rotation": {
-                "x": -0.09023904800415039,
-                "y": 0.075737364590168,
-                "z": 9.847463289247571e-9,
-                "w": 0.993036150932312
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3a5611c3-110c-7159-1ce2-e6495c2bdae9",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_14_Edengrove_Title_03_02",
-            "sliceAssetId": "{72DEC2B2-A9BB-5A3E-986F-C6BC61AEFA42}:2"
-        },
-        {
-            "id": "79ed36d2-10c8-33db-67d1-56fa47f0c9e4",
-            "worldPosition": {
-                "x": 11037.826171875,
-                "y": 7323.33349609375,
-                "z": 180.82339477539063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f43d3349-330f-318d-bcea-b437e4c89a6c",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0104",
-            "sliceAssetId": "{5D1C897A-A27D-5E03-B274-E59EC59D186F}:2"
-        },
-        {
-            "id": "9726ae8f-9612-a2fd-e3f0-1d742aa3c5dd",
-            "worldPosition": {
-                "x": 11236.890625,
-                "y": 7393.9990234375,
-                "z": 164.71815490722657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "69726be6-4673-e72a-6f8f-848f009c5fb3",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0109",
-            "sliceAssetId": "{FEF22F14-8E83-5728-825E-C051AF721A18}:2"
-        },
-        {
-            "id": "955b7c40-15f8-9a72-14c1-1b17c05de127",
-            "worldPosition": {
-                "x": 11084.40625,
-                "y": 7323.87353515625,
-                "z": 168.76718139648438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0ae3e958-8641-9b95-abb9-fe086d23c7c6",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0101",
-            "sliceAssetId": "{45938740-C2C4-5E0F-88A6-84A7557BB4B9}:2"
-        },
-        {
-            "id": "0ed9b28e-12c1-0582-d4bc-1ebe9ccf866b",
-            "worldPosition": {
-                "x": 11242.4052734375,
-                "y": 7400.912109375,
-                "z": 165.20106506347657
-            },
-            "rotation": {
-                "x": -0.022641057148575784,
-                "y": -0.008797327987849713,
-                "z": -4.957990995535511e-7,
-                "w": 0.9997049570083618
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "947cdcf5-bef8-108d-23aa-46f3a3ec2ac7",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0110",
-            "sliceAssetId": "{FD25B731-1D46-5C12-A7CB-B39E6BDE83CD}:2"
-        },
-        {
-            "id": "eedf9c7e-5332-a5a5-b81c-c23b0cc9290e",
-            "worldPosition": {
-                "x": 11517.625,
-                "y": 7575.20068359375,
-                "z": 142.52821350097657
-            },
-            "rotation": {
-                "x": 0.009510716423392296,
-                "y": 0.009011446498334408,
-                "z": -2.4027274392324217e-8,
-                "w": 0.9999141693115234
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e42fb080-5da0-b7a7-1efb-eb1639a8d0f5",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_14_Edengrove_Title_03_01",
-            "sliceAssetId": "{E5455BA3-3FB6-5622-A75D-0AF85C06CD27}:2"
-        },
-        {
-            "id": "fb563a4b-3192-a398-5a8c-bff11125adb7",
-            "worldPosition": {
-                "x": 11330.9677734375,
-                "y": 6899.2333984375,
-                "z": 331.2373046875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7253744006156921,
-                "w": 0.6883545517921448
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d730109b-4aae-406b-e77b-60731033900e",
-                "width": 3.799999952316284,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d8cc7b26\\Angry_Earth_Altar_A_fb563a4b3192a3985a8cbff11125adb7",
-            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:25adb7"
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0103",
+            "sliceAssetId": "{5E938826-53BF-5FDC-8BA1-839AD6355F51}:2"
         },
         {
             "id": "61402105-9d1f-c837-b174-5b27c45c301a",
@@ -1361,11 +1170,32 @@
             }
         },
         {
-            "id": "f55ef6c5-39b2-98bc-b8b9-7c6857b23a2c",
+            "id": "4b9a2080-4d67-4f33-16e4-24bb83ce2166",
             "worldPosition": {
-                "x": 11331.1083984375,
-                "y": 6899.22607421875,
-                "z": 332.5059509277344
+                "x": 11297.720703125,
+                "y": 7395.87255859375,
+                "z": 163.9764404296875
+            },
+            "rotation": {
+                "x": -0.009344242513179779,
+                "y": -0.004589723888784647,
+                "z": 0.00024775450583547354,
+                "w": 0.9999457597732544
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2da34fcb-f0ee-38a8-fe1e-459bc8b66271",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0113",
+            "sliceAssetId": "{EF7CFBCF-0868-50C5-A285-7665CA21FDD6}:2"
+        },
+        {
+            "id": "9726ae8f-9612-a2fd-e3f0-1d742aa3c5dd",
+            "worldPosition": {
+                "x": 11236.890625,
+                "y": 7393.9990234375,
+                "z": 164.71815490722657
             },
             "rotation": {
                 "x": 0.0,
@@ -1375,137 +1205,32 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "6467e2cb-6cbd-515a-b240-a7d12200342d",
+                "id": "69726be6-4673-e72a-6f8f-848f009c5fb3",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_30_01",
-            "sliceAssetId": "{C94FDF03-E82E-5287-A972-A028C295D48B}:2"
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0109",
+            "sliceAssetId": "{FEF22F14-8E83-5728-825E-C051AF721A18}:2"
         },
         {
-            "id": "e8a9639d-ae1d-0f5c-272b-beea8d2a1455",
+            "id": "79ecbe21-53fd-2725-bf7f-96ad121f745c",
             "worldPosition": {
-                "x": 11090.7919921875,
-                "y": 7321.423828125,
-                "z": 168.38351440429688
+                "x": 11568.3212890625,
+                "y": 7513.11572265625,
+                "z": 142.6453399658203
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": -0.09023904800415039,
+                "y": 0.075737364590168,
+                "z": 2.3446342090061025e-10,
+                "w": 0.993036150932312
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e90ad505-2704-fbf7-ad2a-9053c39d51a3",
+                "id": "3a5611c3-110c-7159-1ce2-e6495c2bdae9",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0102",
-            "sliceAssetId": "{07ECA183-2AB0-5E25-B5CE-334E5D789E22}:2"
-        },
-        {
-            "id": "26589898-7058-6428-5768-1ed5ccc17a30",
-            "worldPosition": {
-                "x": 12268.8388671875,
-                "y": 6448.6728515625,
-                "z": 221.80624389648438
-            },
-            "rotation": {
-                "x": -0.03047340176999569,
-                "y": -0.03259851410984993,
-                "z": -4.6437762080131509e-8,
-                "w": 0.9990038871765137
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7720d170-7cf6-6f58-fcd0-ee4197d2fe16",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_11_Mourningdale_Title_02_05",
-            "sliceAssetId": "{00A46946-6034-545B-B555-953DBAA82DEC}:2"
-        },
-        {
-            "id": "2735ec24-afc4-bc6b-9385-ebac3e2a9ee1",
-            "worldPosition": {
-                "x": 11264.05078125,
-                "y": 7394.58349609375,
-                "z": 166.48764038085938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "eb5881e5-dff2-629a-ca05-73b5031f0462",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0111",
-            "sliceAssetId": "{B7F8AA4B-EDAB-5A29-9639-0F260BECFABA}:2"
-        },
-        {
-            "id": "c247e049-f87d-800d-d9e7-5a806ba4dccf",
-            "worldPosition": {
-                "x": 11029.93359375,
-                "y": 7320.0966796875,
-                "z": 179.89231872558595
-            },
-            "rotation": {
-                "x": 6.058920121176925e-7,
-                "y": -3.8941436741879445e-7,
-                "z": -6.480531172456394e-14,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4e50f64e-ead5-ac95-7745-50e92cb3ae70",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0105",
-            "sliceAssetId": "{1A91DC20-0AFD-57B9-8241-0EDADA033097}:2"
-        },
-        {
-            "id": "eac87918-676f-d697-3c90-3a484b7d6972",
-            "worldPosition": {
-                "x": 11187.7197265625,
-                "y": 7323.50927734375,
-                "z": 166.0281982421875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "24c2b52e-b921-98fa-9bc5-4d4fd59c1ebd",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0107",
-            "sliceAssetId": "{3205CB08-5431-5462-9C7C-8F8F1A6ADDE1}:2"
-        },
-        {
-            "id": "74f505b5-8204-b0d4-3786-8960498a2f57",
-            "worldPosition": {
-                "x": 11110.7568359375,
-                "y": 7324.5205078125,
-                "z": 167.6917724609375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0a2dea2b-a76f-239a-8a78-1eaae18c03f6",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0103",
-            "sliceAssetId": "{5E938826-53BF-5FDC-8BA1-839AD6355F51}:2"
+            "sliceName": "slices/POIs/Lore/Lore_14_Edengrove_Title_03_02",
+            "sliceAssetId": "{72DEC2B2-A9BB-5A3E-986F-C6BC61AEFA42}:2"
         },
         {
             "id": "2c6cc3c6-c61f-0915-806d-93c667278270",
@@ -1529,6 +1254,200 @@
             "sliceAssetId": "{C411FE2E-BA79-5351-8574-C4AB2F4E9E5E}:2"
         },
         {
+            "id": "79ed36d2-10c8-33db-67d1-56fa47f0c9e4",
+            "worldPosition": {
+                "x": 11037.826171875,
+                "y": 7323.33349609375,
+                "z": 180.82339477539063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f43d3349-330f-318d-bcea-b437e4c89a6c",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0104",
+            "sliceAssetId": "{5D1C897A-A27D-5E03-B274-E59EC59D186F}:2"
+        },
+        {
+            "id": "c247e049-f87d-800d-d9e7-5a806ba4dccf",
+            "worldPosition": {
+                "x": 11029.93359375,
+                "y": 7320.0966796875,
+                "z": 179.89231872558595
+            },
+            "rotation": {
+                "x": 6.058920121176925e-7,
+                "y": -3.8941436741879445e-7,
+                "z": -6.480531172456394e-14,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4e50f64e-ead5-ac95-7745-50e92cb3ae70",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0105",
+            "sliceAssetId": "{1A91DC20-0AFD-57B9-8241-0EDADA033097}:2"
+        },
+        {
+            "id": "fb563a4b-3192-a398-5a8c-bff11125adb7",
+            "worldPosition": {
+                "x": 11330.9677734375,
+                "y": 6899.2333984375,
+                "z": 331.2373046875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7253744006156921,
+                "w": 0.6883545517921448
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "d730109b-4aae-406b-e77b-60731033900e",
+                "width": 3.799999952316284,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\Angry_Earth_Altar_A_fb563a4b3192a3985a8cbff11125adb7",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:25adb7"
+        },
+        {
+            "id": "e8a9639d-ae1d-0f5c-272b-beea8d2a1455",
+            "worldPosition": {
+                "x": 11090.7919921875,
+                "y": 7321.423828125,
+                "z": 168.38351440429688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e90ad505-2704-fbf7-ad2a-9053c39d51a3",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0102",
+            "sliceAssetId": "{07ECA183-2AB0-5E25-B5CE-334E5D789E22}:2"
+        },
+        {
+            "id": "1ce043ea-50b9-5e2f-542b-e25a45faa411",
+            "worldPosition": {
+                "x": 11114.53515625,
+                "y": 6769.61181640625,
+                "z": 335.82183837890627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b73a77ef-df1c-4b03-ea0f-48e19c1c936d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Edengrove/Mine_Quest_Interacts/SwapSlice_1426_CollapseRubble_On",
+            "sliceAssetId": "{C3D0B349-52BE-5DE0-9566-56A9CBA11FA5}:2"
+        },
+        {
+            "id": "daf44c8e-4545-13f6-8955-b1539e0fcbfe",
+            "worldPosition": {
+                "x": 11114.53515625,
+                "y": 6769.61181640625,
+                "z": 335.82183837890627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e14dcc5d-b82d-5498-579a-d4a3ef6f022d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Edengrove/Mine_Quest_Interacts/SwapSlice_1426_CollapseRubble",
+            "sliceAssetId": "{67CF811C-7BE7-53B3-90DF-15C5F0236249}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "955b7c40-15f8-9a72-14c1-1b17c05de127",
+            "worldPosition": {
+                "x": 11084.40625,
+                "y": 7323.87353515625,
+                "z": 168.76718139648438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0ae3e958-8641-9b95-abb9-fe086d23c7c6",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0101",
+            "sliceAssetId": "{45938740-C2C4-5E0F-88A6-84A7557BB4B9}:2"
+        },
+        {
+            "id": "4c3c2ea9-887b-3213-2e6d-c9211642fe42",
+            "worldPosition": {
+                "x": 11025.283203125,
+                "y": 7085.244140625,
+                "z": 341.353515625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9762960076332092,
+                "w": 0.21643975377082826
+            },
+            "scale": 7.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "3f0f8183-f5c4-e37b-9609-2518a7e866e9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d8cc7b26\\TriggerVol_MSQ_IntoDepths1_4c3c2ea9887b32132e6dc9211642fe42",
+            "sliceAssetId": "{A3F13AA6-0334-54E9-A70E-BA12D91CF41A}:42fe42"
+        },
+        {
+            "id": "eedf9c7e-5332-a5a5-b81c-c23b0cc9290e",
+            "worldPosition": {
+                "x": 11517.625,
+                "y": 7575.20068359375,
+                "z": 142.52821350097657
+            },
+            "rotation": {
+                "x": 0.009510716423392296,
+                "y": 0.009011432528495789,
+                "z": -2.4165530021491578e-8,
+                "w": 0.9999141693115234
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e42fb080-5da0-b7a7-1efb-eb1639a8d0f5",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_14_Edengrove_Title_03_01",
+            "sliceAssetId": "{E5455BA3-3FB6-5622-A75D-0AF85C06CD27}:2"
+        },
+        {
             "id": "b327c660-c0c5-0a95-1f18-fa82c28727e0",
             "worldPosition": {
                 "x": 11272.35546875,
@@ -1550,25 +1469,151 @@
             "sliceAssetId": "{1AEE5880-2384-5A3A-9D22-16E64EA19D75}:2"
         },
         {
-            "id": "4b9a2080-4d67-4f33-16e4-24bb83ce2166",
+            "id": "eac87918-676f-d697-3c90-3a484b7d6972",
             "worldPosition": {
-                "x": 11297.720703125,
-                "y": 7395.87255859375,
-                "z": 163.9764404296875
+                "x": 11187.7197265625,
+                "y": 7323.50927734375,
+                "z": 166.0281982421875
             },
             "rotation": {
-                "x": -0.009344242513179779,
-                "y": -0.004589723888784647,
-                "z": 0.00024775450583547354,
-                "w": 0.9999457597732544
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "2da34fcb-f0ee-38a8-fe1e-459bc8b66271",
+                "id": "24c2b52e-b921-98fa-9bc5-4d4fd59c1ebd",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0113",
-            "sliceAssetId": "{EF7CFBCF-0868-50C5-A285-7665CA21FDD6}:2"
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0107",
+            "sliceAssetId": "{3205CB08-5431-5462-9C7C-8F8F1A6ADDE1}:2"
+        },
+        {
+            "id": "f55ef6c5-39b2-98bc-b8b9-7c6857b23a2c",
+            "worldPosition": {
+                "x": 11331.1083984375,
+                "y": 6899.22607421875,
+                "z": 332.5059509277344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6467e2cb-6cbd-515a-b240-a7d12200342d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_30_01",
+            "sliceAssetId": "{C94FDF03-E82E-5287-A972-A028C295D48B}:2"
+        },
+        {
+            "id": "2735ec24-afc4-bc6b-9385-ebac3e2a9ee1",
+            "worldPosition": {
+                "x": 11264.05078125,
+                "y": 7394.58349609375,
+                "z": 166.48764038085938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "eb5881e5-dff2-629a-ca05-73b5031f0462",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0111",
+            "sliceAssetId": "{B7F8AA4B-EDAB-5A29-9639-0F260BECFABA}:2"
+        },
+        {
+            "id": "ca19472d-d30f-f24e-8eb3-9353626921bd",
+            "worldPosition": {
+                "x": 11127.5283203125,
+                "y": 7288.80712890625,
+                "z": 167.616455078125
+            },
+            "rotation": {
+                "x": -0.002551398705691099,
+                "y": 0.008345223031938076,
+                "z": -0.29236140847206118,
+                "w": 0.9562680721282959
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ef6b8053-118d-375d-7c2a-50dc788044b9",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0106",
+            "sliceAssetId": "{5BDDA09B-227E-5D43-8D7B-204C90DF762E}:2"
+        },
+        {
+            "id": "0ed9b28e-12c1-0582-d4bc-1ebe9ccf866b",
+            "worldPosition": {
+                "x": 11242.4052734375,
+                "y": 7400.912109375,
+                "z": 165.20106506347657
+            },
+            "rotation": {
+                "x": -0.022641057148575784,
+                "y": -0.008797327987849713,
+                "z": -4.957990995535511e-7,
+                "w": 0.9997049570083618
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "947cdcf5-bef8-108d-23aa-46f3a3ec2ac7",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0110",
+            "sliceAssetId": "{FD25B731-1D46-5C12-A7CB-B39E6BDE83CD}:2"
+        },
+        {
+            "id": "26589898-7058-6428-5768-1ed5ccc17a30",
+            "worldPosition": {
+                "x": 12268.8388671875,
+                "y": 6448.6728515625,
+                "z": 221.80624389648438
+            },
+            "rotation": {
+                "x": -0.03047340176999569,
+                "y": -0.03259851410984993,
+                "z": -4.6437762080131509e-8,
+                "w": 0.9990038871765137
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7720d170-7cf6-6f58-fcd0-ee4197d2fe16",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_11_Mourningdale_Title_02_05",
+            "sliceAssetId": "{00A46946-6034-545B-B555-953DBAA82DEC}:2"
+        },
+        {
+            "id": "c9ca4d1a-f3d9-1246-63e7-2d3eecb97b0b",
+            "worldPosition": {
+                "x": 11263.4072265625,
+                "y": 7392.06689453125,
+                "z": 165.52435302734376
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "961b066b-42fa-fb5f-c03b-eb00efa15cd5",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_FiveFarms0114",
+            "sliceAssetId": "{291C793D-731B-539B-9E4A-7BF863086AAE}:2"
         },
         {
             "id": "48d804a2-8a55-8261-c6c2-2ade637a2574",

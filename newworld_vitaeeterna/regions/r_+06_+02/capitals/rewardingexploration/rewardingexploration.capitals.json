@@ -25,17 +25,38 @@
             }
         },
         {
+            "id": "d8a2660f-dd49-7717-ec87-0326039b66ff",
+            "worldPosition": {
+                "x": 13319.0771484375,
+                "y": 5221.140625,
+                "z": 117.551513671875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1aab7e88-3692-5ea7-898b-c669abbc35c1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_15EC",
+            "sliceAssetId": "{B16CE078-2455-5737-801D-8C41FC46786B}:2"
+        },
+        {
             "id": "f6909d9a-6e12-7076-3f7c-6b1ad1954759",
             "worldPosition": {
                 "x": 12416.0,
                 "y": 4496.0,
-                "z": 42.84440231323242
+                "z": 42.7818489074707
             },
             "rotation": {
-                "x": 0.03655624762177467,
-                "y": 0.023796813562512399,
-                "z": -0.5450355410575867,
-                "w": 0.8372775316238403
+                "x": -4.769390216097236e-8,
+                "y": 7.326685391717547e-8,
+                "z": -0.5455546975135803,
+                "w": 0.8380752205848694
             },
             "footprint": {
                 "type": "Circle",
@@ -92,27 +113,6 @@
             },
             "sliceName": "CoatGen\\ca2ac125\\WorldEvent_RandomEncounter_Spawner_15EC_All_4294b60f528e7cc1688f743663daae16",
             "sliceAssetId": "{21719BCB-C9C6-5D1B-8E24-511FF00D70F4}:daae16"
-        },
-        {
-            "id": "d8a2660f-dd49-7717-ec87-0326039b66ff",
-            "worldPosition": {
-                "x": 13319.0771484375,
-                "y": 5221.140625,
-                "z": 117.551513671875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "277be15b-2e21-20d2-730a-3bfb6eb91dbe",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_15EC",
-            "sliceAssetId": "{B16CE078-2455-5737-801D-8C41FC46786B}:2"
         }
     ]
 }
