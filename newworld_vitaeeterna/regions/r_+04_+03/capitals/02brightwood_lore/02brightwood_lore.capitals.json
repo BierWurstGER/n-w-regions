@@ -1,30 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "2d8b92f1-2317-9f18-1f9a-4c11208de256",
-            "worldPosition": {
-                "x": 10146.810546875,
-                "y": 6207.30517578125,
-                "z": 233.56396484375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c2856e43-885b-064c-49a1-8f9368427071",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselH",
-            "sliceAssetId": "{05820FB7-7E17-55C4-A359-ED97932207D9}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "597e3763-7a86-964d-87bf-8e27dc524838",
             "worldPosition": {
                 "x": 10005.60546875,
@@ -49,48 +25,6 @@
             }
         },
         {
-            "id": "221ab7f2-b109-a019-cf2d-f45e14e6e484",
-            "worldPosition": {
-                "x": 8572.9208984375,
-                "y": 6269.60693359375,
-                "z": 228.12486267089845
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "00ee5cb6-7ca2-48d1-6dca-c588394be6b8",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_WinterConvergence_Title_01_06",
-            "sliceAssetId": "{DCCDE99E-962F-50D4-A7FF-0C6A65DD76C1}:2"
-        },
-        {
-            "id": "aa37eabd-897b-8b41-a656-31bbc6d4d1d3",
-            "worldPosition": {
-                "x": 8609.494140625,
-                "y": 6288.1787109375,
-                "z": 227.8740692138672
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "42ffe09c-e9c8-afa9-8c4f-2e878462544d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_WinterConvergence_Title_01_04",
-            "sliceAssetId": "{6AB5035B-FAF3-55A8-A721-E55B191E4F7C}:2"
-        },
-        {
             "id": "cac0d121-2b72-a005-88e4-ff4038976234",
             "worldPosition": {
                 "x": 9982.0,
@@ -110,6 +44,30 @@
             },
             "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselA",
             "sliceAssetId": "{A2CD4647-C121-5601-A600-F0AE86B05079}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2d8b92f1-2317-9f18-1f9a-4c11208de256",
+            "worldPosition": {
+                "x": 10146.810546875,
+                "y": 6207.30517578125,
+                "z": 233.56396484375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c2856e43-885b-064c-49a1-8f9368427071",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselH",
+            "sliceAssetId": "{05820FB7-7E17-55C4-A359-ED97932207D9}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

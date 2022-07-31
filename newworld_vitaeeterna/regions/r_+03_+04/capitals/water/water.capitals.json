@@ -1,11 +1,11 @@
 {
     "Capitals": [
         {
-            "id": "2ed28636-8238-d9c8-5f4e-ca12b846b33c",
+            "id": "f59c8cc7-c391-23a8-83a6-f09b3932deb9",
             "worldPosition": {
-                "x": 7417.59423828125,
-                "y": 8689.4326171875,
-                "z": 169.30001831054688
+                "x": 6366.9677734375,
+                "y": 8838.6181640625,
+                "z": 159.51806640625
             },
             "rotation": {
                 "x": 0.0,
@@ -15,11 +15,108 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "77e26bc3-5f4e-3548-035c-72ca1e84a706",
+                "id": "d8d507e5-cdc1-bc02-0259-854e1c80687d",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/Desert_River_Sulfur_A",
-            "sliceAssetId": "{84516CD0-A2A2-5781-9351-F773FB4FCC97}:2",
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_C",
+            "sliceAssetId": "{ED1B9E46-483D-5508-83AB-C4A7FAEBFD84}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "2da1cf6f-8ffd-a043-3086-4dfae01a3d20",
+            "worldPosition": {
+                "x": 6874.61865234375,
+                "y": 8900.82421875,
+                "z": 218.2859649658203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "199bc7c7-b33b-133a-5d9c-28d6d473035a",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/BrimstoneSands_OasisLake_A",
+            "sliceAssetId": "{0A203E28-661A-540C-860E-3E09635BABA0}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "9dccbba9-fe3f-7432-228c-262dca323d01",
+            "worldPosition": {
+                "x": 6428.59912109375,
+                "y": 9477.126953125,
+                "z": 325.71051025390627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7e1a785a-65c9-3e18-44e7-f64b149bc6b6",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_E",
+            "sliceAssetId": "{F2FC8988-049C-5EAE-874C-319C9168FB23}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "01188f9d-8aaf-6e08-8a3c-4b288c803170",
+            "worldPosition": {
+                "x": 6396.7587890625,
+                "y": 8205.376953125,
+                "z": 111.49734497070313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cdc4dbe8-0501-b2cd-e767-d42fd3485dde",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_B",
+            "sliceAssetId": "{56F3CF93-01BF-51DE-AEDC-8EFC852B4639}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "9ff3be86-13a9-d773-9052-99e0f0391e84",
+            "worldPosition": {
+                "x": 6431.0791015625,
+                "y": 9382.2587890625,
+                "z": 325.71051025390627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1ec0417f-4c8a-8779-896c-dba3f8be8a72",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_D",
+            "sliceAssetId": "{4B88C112-2A24-5A69-B462-47A579F2033C}:2",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }

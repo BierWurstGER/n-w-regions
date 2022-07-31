@@ -25,51 +25,6 @@
             }
         },
         {
-            "id": "1b1af80f-ba09-5802-20d5-23b48747ee87",
-            "worldPosition": {
-                "x": 10456.8798828125,
-                "y": 6389.31591796875,
-                "z": 295.4574890136719
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.8191519975662231,
-                "w": 0.5735765099525452
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "78cff19c-57c1-df6f-b982-fb4f632fd6d2",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselF",
-            "sliceAssetId": "{D9D9176A-AAA9-5061-8F4E-F4859085F408}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "31c34e03-c022-25ef-69d2-522f05f65302",
-            "worldPosition": {
-                "x": 11672.3251953125,
-                "y": 6264.130859375,
-                "z": 176.98074340820313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.199367955327034,
-                "w": 0.9799246788024902
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b9f28d12-9732-4b59-8f31-9c8b43dfdc4f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_WinterConvergence_Title_02_01",
-            "sliceAssetId": "{058FDCBC-D4AA-5E52-BB40-A2051B44BD74}:2"
-        },
-        {
             "id": "87bcf664-af27-afdd-c01f-87997d604782",
             "worldPosition": {
                 "x": 10258.0,
@@ -89,6 +44,30 @@
             },
             "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselE",
             "sliceAssetId": "{3F62CB33-C282-5F43-BC86-A6742BD6CEFB}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "1b1af80f-ba09-5802-20d5-23b48747ee87",
+            "worldPosition": {
+                "x": 10456.8798828125,
+                "y": 6389.31591796875,
+                "z": 295.4574890136719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8191519975662231,
+                "w": 0.5735765099525452
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "78cff19c-57c1-df6f-b982-fb4f632fd6d2",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselF",
+            "sliceAssetId": "{D9D9176A-AAA9-5061-8F4E-F4859085F408}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
