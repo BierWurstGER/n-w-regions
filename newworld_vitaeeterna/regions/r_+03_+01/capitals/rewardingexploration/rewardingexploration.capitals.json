@@ -1,6 +1,75 @@
 {
     "Capitals": [
         {
+            "id": "920854ee-4163-9f34-eeb9-f954fa474967",
+            "worldPosition": {
+                "x": 7409.6513671875,
+                "y": 3557.9208984375,
+                "z": 82.04536437988281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.34202009439468386,
+                "w": 0.9396926760673523
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "69672469-d885-5723-0f54-8d0b084b4d9e",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_10m",
+            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj"
+            }
+        },
+        {
+            "id": "c2626e23-289c-02ac-dcdb-f38fb3c25fea",
+            "worldPosition": {
+                "x": 7231.13623046875,
+                "y": 2800.0302734375,
+                "z": 163.90252685546876
+            },
+            "rotation": {
+                "x": -0.007645828649401665,
+                "y": -0.11922626197338104,
+                "z": 0.951952338218689,
+                "w": 0.2819811999797821
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aeb3512f-f23b-7b8c-8e9b-be3d19a311ba",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthMonarchs01",
+            "sliceAssetId": "{0F71A1F5-E3CE-55D6-A74B-9E9D2485506C}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "ba7b1e83-d403-ca29-d762-51f9eaa70f2d",
+            "worldPosition": {
+                "x": 7463.2763671875,
+                "y": 3444.358642578125,
+                "z": 66.66207122802735
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c0ebf4e2-1587-1dd3-bf92-3486788df682",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\a2ad05d9\\WorldEvent_LootGoblin_Spawner_12MB_ba7b1e83d403ca29d76251f9eaa70f2d",
+            "sliceAssetId": "{8177B757-B616-5931-B5D1-C397F81FD494}:a70f2d"
+        },
+        {
             "id": "ca795a48-2cee-3215-bfac-354b7e2f6bd7",
             "worldPosition": {
                 "x": 7409.6513671875,
@@ -33,41 +102,17 @@
             }
         },
         {
-            "id": "c2626e23-289c-02ac-dcdb-f38fb3c25fea",
-            "worldPosition": {
-                "x": 7231.13623046875,
-                "y": 2800.0302734375,
-                "z": 163.90252685546876
-            },
-            "rotation": {
-                "x": -0.007645824924111366,
-                "y": -0.11922627687454224,
-                "z": 0.951952338218689,
-                "w": 0.2819811999797821
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "aeb3512f-f23b-7b8c-8e9b-be3d19a311ba",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthMonarchs01",
-            "sliceAssetId": "{0F71A1F5-E3CE-55D6-A74B-9E9D2485506C}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "01a02a0a-a202-8943-8291-97b3488b2fc3",
             "worldPosition": {
-                "x": 7978.9541015625,
-                "y": 3241.7158203125,
-                "z": 86.83856964111328
+                "x": 7978.30078125,
+                "y": 3241.3232421875,
+                "z": 86.90333557128906
             },
             "rotation": {
-                "x": -0.01752299629151821,
-                "y": 0.06729777902364731,
-                "z": 0.26659145951271059,
-                "w": 0.9612975120544434
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.26927438378334048,
+                "w": 0.9630634784698486
             },
             "footprint": {
                 "type": "Circle",
@@ -79,51 +124,6 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "920854ee-4163-9f34-eeb9-f954fa474967",
-            "worldPosition": {
-                "x": 7409.6513671875,
-                "y": 3557.9208984375,
-                "z": 82.04536437988281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.34202009439468386,
-                "w": 0.9396926760673523
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "69672469-d885-5723-0f54-8d0b084b4d9e",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_10m",
-            "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj"
-            }
-        },
-        {
-            "id": "ba7b1e83-d403-ca29-d762-51f9eaa70f2d",
-            "worldPosition": {
-                "x": 7463.2763671875,
-                "y": 3444.358642578125,
-                "z": 66.66207122802735
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c0ebf4e2-1587-1dd3-bf92-3486788df682",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_12MB",
-            "sliceAssetId": "{9FA3679E-0A02-5A52-AE9D-990D24F3F503}:2"
         }
     ]
 }

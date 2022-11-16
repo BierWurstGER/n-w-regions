@@ -1,6 +1,78 @@
 {
     "Capitals": [
         {
+            "id": "1c6e03df-4361-9a71-3099-bb7338cde13d",
+            "worldPosition": {
+                "x": 7318.2177734375,
+                "y": 8553.2880859375,
+                "z": 169.3000030517578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6b72050f-4e5e-1e28-c37f-df65545a692d",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_G",
+            "sliceAssetId": "{D6F7C53D-FD06-5C36-812C-8D82B6F701FF}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "9ff3be86-13a9-d773-9052-99e0f0391e84",
+            "worldPosition": {
+                "x": 6431.0791015625,
+                "y": 9382.2587890625,
+                "z": 325.71051025390627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1ec0417f-4c8a-8779-896c-dba3f8be8a72",
+                "radius": 0.0
+            },
+            "sliceName": "CoatGen\\d2b838b4\\Desert_River_Oasis_D_9ff3be8613a9d773905299e0f0391e84",
+            "sliceAssetId": "{BB0EEB97-63FA-515F-AA1F-29612B39A48F}:391e84",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "a7fcb48f-405e-43b1-9563-5476afda66ce",
+            "worldPosition": {
+                "x": 7144.1083984375,
+                "y": 8332.5478515625,
+                "z": 169.3000030517578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e154f949-d426-0455-0a5a-b7cd359cf7e6",
+                "radius": 0.0
+            },
+            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_A",
+            "sliceAssetId": "{72FA9794-FCAF-55B4-9FCF-CAE723F80740}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
             "id": "f59c8cc7-c391-23a8-83a6-f09b3932deb9",
             "worldPosition": {
                 "x": 6366.9677734375,
@@ -98,35 +170,33 @@
             }
         },
         {
-            "id": "9ff3be86-13a9-d773-9052-99e0f0391e84",
+            "id": "30df3ee0-f378-fa5e-456b-85a4ccc4c2c9",
             "worldPosition": {
-                "x": 6431.0791015625,
-                "y": 9382.2587890625,
-                "z": 325.71051025390627
+                "x": 6459.36669921875,
+                "y": 9179.6123046875,
+                "z": 159.24703979492188
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.7193403840065002,
+                "w": 0.6946577429771423
             },
+            "scale": 1.6141505241394044,
             "footprint": {
                 "type": "Circle",
-                "id": "1ec0417f-4c8a-8779-896c-dba3f8be8a72",
+                "id": "93eec301-2908-0bfe-2a7c-764f93810c8a",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_D",
-            "sliceAssetId": "{4B88C112-2A24-5A69-B462-47A579F2033C}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
+            "sliceName": "CoatGen\\d2b838b4\\jav_wld_waterfall_a_floor_fullvfx_30df3ee0f378fa5e456b85a4ccc4c2c9",
+            "sliceAssetId": "{BB0EEB97-63FA-515F-AA1F-29612B39A48F}:c4c2c9"
         },
         {
-            "id": "a7fcb48f-405e-43b1-9563-5476afda66ce",
+            "id": "2ed28636-8238-d9c8-5f4e-ca12b846b33c",
             "worldPosition": {
-                "x": 7144.1083984375,
-                "y": 8332.5478515625,
-                "z": 169.3000030517578
+                "x": 7417.59423828125,
+                "y": 8689.4326171875,
+                "z": 169.30001831054688
             },
             "rotation": {
                 "x": 0.0,
@@ -136,35 +206,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e154f949-d426-0455-0a5a-b7cd359cf7e6",
+                "id": "77e26bc3-5f4e-3548-035c-72ca1e84a706",
                 "radius": 0.0
             },
-            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_A",
-            "sliceAssetId": "{72FA9794-FCAF-55B4-9FCF-CAE723F80740}:2",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "1c6e03df-4361-9a71-3099-bb7338cde13d",
-            "worldPosition": {
-                "x": 7318.2177734375,
-                "y": 8553.2880859375,
-                "z": 169.3000030517578
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6b72050f-4e5e-1e28-c37f-df65545a692d",
-                "radius": 0.0
-            },
-            "sliceName": "slices/Terrain_Water/Desert_River_Oasis_G",
-            "sliceAssetId": "{D6F7C53D-FD06-5C36-812C-8D82B6F701FF}:2",
+            "sliceName": "CoatGen\\d2b838b4\\Desert_River_Sulfur_A_2ed286368238d9c85f4eca12b846b33c",
+            "sliceAssetId": "{BB0EEB97-63FA-515F-AA1F-29612B39A48F}:46b33c",
             "params": {
                 "HAS_WATER_COMPONENTS": "2"
             }

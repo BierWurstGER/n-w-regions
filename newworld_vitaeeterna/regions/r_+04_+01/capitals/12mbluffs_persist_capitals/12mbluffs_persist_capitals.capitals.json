@@ -1,48 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "43261f7d-4b37-e2aa-f116-962cd1cf82e8",
-            "worldPosition": {
-                "x": 8320.5146484375,
-                "y": 3330.14306640625,
-                "z": 85.87261199951172
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.3665011525154114,
-                "w": 0.9304175972938538
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "11b2239f-fc63-695c-a632-b04e7183593c",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1c868c0c\\NPC_1225_GiacomoChason_43261f7d4b37e2aaf116962cd1cf82e8",
-            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:cf82e8"
-        },
-        {
-            "id": "fe8a8044-104c-fae4-d499-08cce2b2567e",
-            "worldPosition": {
-                "x": 8323.966796875,
-                "y": 2615.7568359375,
-                "z": 52.05397415161133
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5735762715339661,
-                "w": 0.8191521763801575
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5103056c-4590-04d1-f550-c3fe2b4210c6",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/NPC_9928_MSQ_YonasMemorial",
-            "sliceAssetId": "{5BCDB8CB-22B1-56EA-9ECB-26B9251E1193}:2"
-        },
-        {
             "id": "0e98222b-4ef7-02c5-7302-926dfdf85fe5",
             "worldPosition": {
                 "x": 8381.7392578125,
@@ -64,211 +22,25 @@
             "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:f85fe5"
         },
         {
-            "id": "c754ec50-fcab-f09c-3cd4-e593ea42cfe3",
+            "id": "43261f7d-4b37-e2aa-f116-962cd1cf82e8",
             "worldPosition": {
-                "x": 8334.3642578125,
-                "y": 2634.700439453125,
-                "z": 51.55577087402344
+                "x": 8320.5146484375,
+                "y": 3330.14306640625,
+                "z": 85.87261199951172
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.6087616682052612,
-                "w": 0.7933531999588013
+                "z": -0.3665011525154114,
+                "w": 0.9304175972938538
             },
             "footprint": {
                 "type": "Circle",
-                "id": "2d8e3bf1-948e-448d-2821-c4b59388c2c2",
+                "id": "11b2239f-fc63-695c-a632-b04e7183593c",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1c868c0c\\NPC_9901_MSQ_Yonas_c754ec50fcabf09c3cd4e593ea42cfe3",
-            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:42cfe3"
-        },
-        {
-            "id": "6356f423-5e45-b19c-faff-0ff8f60e03a2",
-            "worldPosition": {
-                "x": 8225.9990234375,
-                "y": 3351.0,
-                "z": 88.99668884277344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "399d6faa-fc1e-d7ef-4b7a-0f9b338af109",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1c868c0c\\Darkness_SpawnGroup_Minor_Master_6356f4235e45b19cfaff0ff8f60e03a2",
-            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:e03a2"
-        },
-        {
-            "id": "656e4162-4f00-9a60-7a72-49eecab39d68",
-            "worldPosition": {
-                "x": 8225.9990234375,
-                "y": 3351.0,
-                "z": 88.73265838623047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.24192185699939729,
-                "w": 0.9702957272529602
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "23257924-0f7a-6099-9d74-83b10d94b08f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1c868c0c\\Darkness_SpawnGroup_Major_Master_656e41624f009a607a7249eecab39d68",
-            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:b39d68"
-        },
-        {
-            "id": "604ea928-ed69-9120-2c97-2ca3ab9e782b",
-            "worldPosition": {
-                "x": 8289.9990234375,
-                "y": 3435.0,
-                "z": 94.03268432617188
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c9ded04b-e29a-c662-6f04-a57bbd07a46d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
-            "sliceAssetId": "{DDB0EEED-324F-5C01-9428-3AD7B1B63B9A}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint.obj"
-            }
-        },
-        {
-            "id": "44324382-c443-41ed-7c37-3148b179dcde",
-            "worldPosition": {
-                "x": 8399.814453125,
-                "y": 3493.635009765625,
-                "z": 112.85476684570313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.02617730386555195,
-                "w": 0.9996573328971863
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f6400077-033a-0e03-cea5-81a90f62dfbd",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "8d2939c0-c762-461b-6080-ff2a13ac7822",
-            "worldPosition": {
-                "x": 8378.7607421875,
-                "y": 3341.16943359375,
-                "z": 71.18858337402344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.39073118567466738,
-                "w": 0.9205048084259033
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "210b05bb-10c6-e864-b83b-674aa0d9af28",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "c3872786-b4d2-917c-8f04-a680a339f94e",
-            "worldPosition": {
-                "x": 8229.484375,
-                "y": 3568.4814453125,
-                "z": 108.59540557861328
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.061048585921525958,
-                "w": 0.9981347918510437
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4831ed3c-d903-e86a-d8c3-dab4595f1c13",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "ad15d8e5-820b-46f2-40a3-b0b44f07e43d",
-            "worldPosition": {
-                "x": 8225.9990234375,
-                "y": 3351.0,
-                "z": 89.7201156616211
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.24192185699939729,
-                "w": 0.9702957272529602
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "31af4d8a-aebe-712b-52fe-995427d82aec",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Major_Slope",
-            "sliceAssetId": "{6E4EB2E2-18BF-5737-89B9-3326EA3B225B}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_major/major_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "67c53e3d-a695-a693-e800-5c43ba9cfaca",
-            "worldPosition": {
-                "x": 8261.126953125,
-                "y": 3191.1728515625,
-                "z": 79.71996307373047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "53bf4269-6752-f651-7896-2742256ae278",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Dome",
-            "sliceAssetId": "{CC0BCCD2-2BCF-5B6B-A501-A8437E81009E}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_dome.obj"
-            }
+            "sliceName": "CoatGen\\1c868c0c\\NPC_1225_GiacomoChason_43261f7d4b37e2aaf116962cd1cf82e8",
+            "sliceAssetId": "{015742DE-42CD-5344-B987-1B3E80EBD52F}:cf82e8"
         }
     ]
 }

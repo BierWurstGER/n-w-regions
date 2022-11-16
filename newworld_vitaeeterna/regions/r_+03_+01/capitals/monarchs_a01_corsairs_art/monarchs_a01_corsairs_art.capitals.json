@@ -22,10 +22,10 @@
             "sliceAssetId": "{FFA77EF2-7247-517C-9360-9A8E9327F443}:2"
         },
         {
-            "id": "6731bbc5-770f-672c-8c26-bddf53898bfb",
+            "id": "22ed1260-4bf0-abfb-d2ff-ba730d196f16",
             "worldPosition": {
-                "x": 7607.25830078125,
-                "y": 3895.845703125,
+                "x": 7609.515625,
+                "y": 3898.8408203125,
                 "z": 102.66886901855469
             },
             "rotation": {
@@ -36,7 +36,7 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "db19a02c-9bf4-4245-fd28-d7e7a347f4db",
+                "id": "652932c9-98ce-69b5-1b34-c5d4bac72c15",
                 "radius": 1.0
             },
             "sliceName": "slices/POI/Assembly/Crafting/Props/Scaffolding/JAV_Prp_Scaffolding_PltFrm_Support",
@@ -64,10 +64,10 @@
             "sliceAssetId": "{FFA77EF2-7247-517C-9360-9A8E9327F443}:2"
         },
         {
-            "id": "22ed1260-4bf0-abfb-d2ff-ba730d196f16",
+            "id": "6731bbc5-770f-672c-8c26-bddf53898bfb",
             "worldPosition": {
-                "x": 7609.515625,
-                "y": 3898.8408203125,
+                "x": 7607.25830078125,
+                "y": 3895.845703125,
                 "z": 102.66886901855469
             },
             "rotation": {
@@ -78,28 +78,7 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "652932c9-98ce-69b5-1b34-c5d4bac72c15",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POI/Assembly/Crafting/Props/Scaffolding/JAV_Prp_Scaffolding_PltFrm_Support",
-            "sliceAssetId": "{FFA77EF2-7247-517C-9360-9A8E9327F443}:2"
-        },
-        {
-            "id": "63890998-e1bc-a10a-b88f-2a239fae41d5",
-            "worldPosition": {
-                "x": 7605.3369140625,
-                "y": 3897.128173828125,
-                "z": 102.75214385986328
-            },
-            "rotation": {
-                "x": 0.18896602094173432,
-                "y": 0.6813895106315613,
-                "z": 0.6813897490501404,
-                "w": 0.18896619975566865
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "848fe37d-2a5e-dc92-99c6-30b3f6130fc4",
+                "id": "db19a02c-9bf4-4245-fd28-d7e7a347f4db",
                 "radius": 1.0
             },
             "sliceName": "slices/POI/Assembly/Crafting/Props/Scaffolding/JAV_Prp_Scaffolding_PltFrm_Support",
@@ -127,6 +106,114 @@
             "sliceAssetId": "{FFA77EF2-7247-517C-9360-9A8E9327F443}:2"
         },
         {
+            "id": "63890998-e1bc-a10a-b88f-2a239fae41d5",
+            "worldPosition": {
+                "x": 7605.3369140625,
+                "y": 3897.128173828125,
+                "z": 102.75214385986328
+            },
+            "rotation": {
+                "x": 0.18896602094173432,
+                "y": 0.6813895106315613,
+                "z": 0.6813897490501404,
+                "w": 0.18896619975566865
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "848fe37d-2a5e-dc92-99c6-30b3f6130fc4",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POI/Assembly/Crafting/Props/Scaffolding/JAV_Prp_Scaffolding_PltFrm_Support",
+            "sliceAssetId": "{FFA77EF2-7247-517C-9360-9A8E9327F443}:2"
+        },
+        {
+            "id": "c5cf4c23-ea5d-315f-fccc-3d607d2a4fe0",
+            "worldPosition": {
+                "x": 7601.90380859375,
+                "y": 3896.028076171875,
+                "z": 102.24855041503906
+            },
+            "rotation": {
+                "x": 0.014092706143856049,
+                "y": 0.047406502068042758,
+                "z": -0.6340382099151611,
+                "w": 0.7717185616493225
+            },
+            "scale": 1.0000224113464356,
+            "footprint": {
+                "type": "Circle",
+                "id": "f685dab4-cb68-3924-4b90-adefd1acb4a1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Torchpost_T1_On_A",
+            "sliceAssetId": "{0873C003-8A67-590B-A7D7-127483F54944}:2"
+        },
+        {
+            "id": "b3cc81e7-4887-10e6-2545-5b3ff0091745",
+            "worldPosition": {
+                "x": 7616.4013671875,
+                "y": 3959.92822265625,
+                "z": 95.65546417236328
+            },
+            "rotation": {
+                "x": 0.032482974231243137,
+                "y": 0.03729400411248207,
+                "z": -0.25692397356033327,
+                "w": 0.9651653170585632
+            },
+            "scale": 1.0000224113464356,
+            "footprint": {
+                "type": "Circle",
+                "id": "93198812-f680-94a9-e9cd-a923e649040f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Torchpost_T1_On_A",
+            "sliceAssetId": "{0873C003-8A67-590B-A7D7-127483F54944}:2"
+        },
+        {
+            "id": "98fa9da2-e61c-c001-177d-cf820540b5f7",
+            "worldPosition": {
+                "x": 7599.54150390625,
+                "y": 3930.34375,
+                "z": 99.1102294921875
+            },
+            "rotation": {
+                "x": 0.04942842200398445,
+                "y": 0.0016778857680037618,
+                "z": 0.5306552052497864,
+                "w": 0.8461436629295349
+            },
+            "scale": 1.0000224113464356,
+            "footprint": {
+                "type": "Circle",
+                "id": "07ff910c-505d-0f9b-fc30-2f9a31f8ebb0",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Torchpost_T1_On_A",
+            "sliceAssetId": "{0873C003-8A67-590B-A7D7-127483F54944}:2"
+        },
+        {
+            "id": "3a613005-9eb7-8347-8a7e-e84138edd759",
+            "worldPosition": {
+                "x": 7577.85546875,
+                "y": 4013.213134765625,
+                "z": 99.13650512695313
+            },
+            "rotation": {
+                "x": 0.006844100542366505,
+                "y": -0.012198584154248238,
+                "z": -8.077103430537136e-10,
+                "w": 0.9999021887779236
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e089c68b-b14d-fadf-4f6b-f5e2c826ae2e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Pirate/JAV_Flag_Banner_A_PreFab",
+            "sliceAssetId": "{BF1A9432-37F9-5F1E-9C4E-0F1BD6DE9BCD}:2"
+        },
+        {
             "id": "65746291-a4c0-3a63-ed94-5eebd896a7b3",
             "worldPosition": {
                 "x": 7593.2880859375,
@@ -136,7 +223,7 @@
             "rotation": {
                 "x": 0.006844100542366505,
                 "y": -0.012198584154248238,
-                "z": -8.586470423566084e-10,
+                "z": -5.02090202747496e-10,
                 "w": 0.9999021887779236
             },
             "footprint": {
@@ -169,46 +256,286 @@
             "sliceAssetId": "{BF1A9432-37F9-5F1E-9C4E-0F1BD6DE9BCD}:2"
         },
         {
-            "id": "3a613005-9eb7-8347-8a7e-e84138edd759",
+            "id": "f9b6c80a-ac98-e9de-e2da-b91ac603b4da",
             "worldPosition": {
-                "x": 7577.85546875,
-                "y": 4013.213134765625,
-                "z": 99.13650512695313
-            },
-            "rotation": {
-                "x": 0.006844100542366505,
-                "y": -0.012198584154248238,
-                "z": -1.1860971094179718e-9,
-                "w": 0.9999021887779236
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e089c68b-b14d-fadf-4f6b-f5e2c826ae2e",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Pirate/JAV_Flag_Banner_A_PreFab",
-            "sliceAssetId": "{BF1A9432-37F9-5F1E-9C4E-0F1BD6DE9BCD}:2"
-        },
-        {
-            "id": "bc59542f-8528-c20d-adbb-c6432bd52175",
-            "worldPosition": {
-                "x": 7588.88330078125,
-                "y": 4019.4072265625,
-                "z": 97.79324340820313
+                "x": 7612.33203125,
+                "y": 3905.82958984375,
+                "z": 97.25181579589844
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.8660253286361694,
+                "w": 0.5000000596046448
+            },
+            "scale": 0.75,
+            "footprint": {
+                "type": "Circle",
+                "id": "8e828380-77c8-5c80-8c6a-e60fa17dd21b",
+                "radius": 5.0
+            },
+            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_B",
+            "sliceAssetId": "{C892C099-C85D-557A-8FE7-067A8B9956D4}:2"
+        },
+        {
+            "id": "4d809952-ab86-8e96-084b-4e7b21a8360b",
+            "worldPosition": {
+                "x": 7619.4296875,
+                "y": 3983.64697265625,
+                "z": 90.65293884277344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.11320332437753678,
+                "w": 0.9935718178749085
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ecd2c260-84f6-412f-2cc2-4e4e335e15c4",
+                "width": 10.0,
+                "height": 10.0
+            },
+            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_B",
+            "sliceAssetId": "{C892C099-C85D-557A-8FE7-067A8B9956D4}:2"
+        },
+        {
+            "id": "57a27f30-440c-bea5-72ed-098a0c4bca9c",
+            "worldPosition": {
+                "x": 7615.375,
+                "y": 3989.861328125,
+                "z": 94.01336669921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.1391732096672058,
+                "w": 0.9902680516242981
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "4b83b943-4507-d9fd-1b2a-1a4af2fd3540",
+                "width": 10.0,
+                "height": 10.0
+            },
+            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_B",
+            "sliceAssetId": "{C892C099-C85D-557A-8FE7-067A8B9956D4}:2"
+        },
+        {
+            "id": "90f6b1c8-8705-490a-98df-c5a05e4617da",
+            "worldPosition": {
+                "x": 7593.23876953125,
+                "y": 4016.091064453125,
+                "z": 99.21867370605469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.41469353437423708,
+                "w": 0.9099611639976502
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f064dc08-2d2f-9162-0863-280e2776af99",
+                "width": 35.0,
+                "height": 6.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "6e529946-3eba-6c6b-00b4-4d9d57e10e4a",
+            "worldPosition": {
+                "x": 7600.08349609375,
+                "y": 4013.64990234375,
+                "z": 100.84709930419922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.41469353437423708,
+                "w": 0.9099611639976502
             },
             "footprint": {
                 "type": "Circle",
-                "id": "708e15a7-c7ce-47f6-b268-045099183093",
+                "id": "518cecb1-6ca9-19de-fbf0-b362254e66d4",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "5f02bb2f-a640-ec21-64d1-baaec38a2a06",
+            "worldPosition": {
+                "x": 7561.67724609375,
+                "y": 3988.5361328125,
+                "z": 105.22588348388672
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8660253286361694,
+                "w": 0.5000000596046448
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "2dd5603c-934a-4ffe-516f-39138b807a2f",
+                "width": 25.0,
+                "height": 14.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "9aff8024-5586-ac90-1167-576042a53ceb",
+            "worldPosition": {
+                "x": 7581.41796875,
+                "y": 4010.0205078125,
+                "z": 98.84642028808594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.358367919921875,
+                "w": 0.9335804581642151
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "1c498221-f9d5-2f41-6736-70c651c7bd02",
+                "width": 10.0,
+                "height": 3.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "d0f2f73b-9cac-9203-fe7a-836b6553ce2f",
+            "worldPosition": {
+                "x": 7543.41162109375,
+                "y": 3982.885009765625,
+                "z": 112.53081512451172
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9659258127212524,
+                "w": 0.2588190734386444
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "97bfee80-6875-6a45-a8cb-1f06a24a4234",
+                "width": 25.0,
+                "height": 9.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "67ad015d-30eb-a46b-6f7d-f951d3b1a8da",
+            "worldPosition": {
+                "x": 7567.58935546875,
+                "y": 3994.884521484375,
+                "z": 98.84642028808594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.25037992000579836,
+                "w": 0.9681476354598999
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f0c86894-d0f0-d73c-3bf4-0501e604cff3",
+                "width": 23.18000030517578,
+                "height": 13.25
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "63b70ec0-852a-f8e9-dc48-5b292bdaeb50",
+            "worldPosition": {
+                "x": 7596.076171875,
+                "y": 4020.04345703125,
+                "z": 100.84709930419922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.41469353437423708,
+                "w": 0.9099611639976502
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6d1ad10f-3500-4a11-371a-c06d95080576",
                 "radius": 4.0
             },
-            "sliceName": "CoatGen\\8cd4e636\\jav_wld_Boulder_Chaos_flat_b_half_bc59542f8528c20dadbbc6432bd52175",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:d52175"
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "9fbaab1e-f9c0-768a-7b12-b1564978f1de",
+            "worldPosition": {
+                "x": 7607.3837890625,
+                "y": 3902.05859375,
+                "z": 113.33087158203125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.3746069073677063,
+                "w": 0.9271837472915649
+            },
+            "scale": 0.9999998211860657,
+            "footprint": {
+                "type": "Circle",
+                "id": "6bb0fa9a-6aa6-22b2-7cc1-a45a963a6b47",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Storage/Supply_Boxes/Supply_Boxes_Group_G",
+            "sliceAssetId": "{A4B6FB43-AFF4-564C-B44D-038BE56ED56E}:2"
+        },
+        {
+            "id": "3f0fb975-94a8-9720-3e4d-7685af394054",
+            "worldPosition": {
+                "x": 7605.9091796875,
+                "y": 3904.155029296875,
+                "z": 102.30714416503906
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.44486933946609499,
+                "w": 0.8955954909324646
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "882357a3-1ee9-4ecf-95e3-98fde7a2b8b9",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_Stairs_A",
+            "sliceAssetId": "{5226FB89-799A-564B-A5ED-2C0CCDF092F6}:2"
+        },
+        {
+            "id": "c0118af5-def8-05bb-7479-1eb8a7664838",
+            "worldPosition": {
+                "x": 7597.5380859375,
+                "y": 4015.37646484375,
+                "z": 98.9679946899414
+            },
+            "rotation": {
+                "x": 0.05744349583983421,
+                "y": -0.1295555680990219,
+                "z": 0.6959848999977112,
+                "w": 0.7039322853088379
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c6d015f4-5837-2d9d-e6ce-496a42d421cf",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Shipwreck/ShipWreck_H",
+            "sliceAssetId": "{1C2B7539-273E-593B-9FDD-064218823F9E}:2"
         },
         {
             "id": "af02a3ce-af3b-29d9-ad3c-a55e1b67bb85",
@@ -253,6 +580,30 @@
             "sliceAssetId": "{0EED81EC-E37F-54F5-B2BB-67FC7365E631}:2"
         },
         {
+            "id": "d3abad56-6c96-55c1-887c-3ed4770ec557",
+            "worldPosition": {
+                "x": 7532.2421875,
+                "y": 3981.29638671875,
+                "z": 117.77645874023438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e97f5844-fdf2-092a-a8c6-3b778710591b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/MonarchsBluffs/Monarchsbluff_msq_traiters_hold_teleporter",
+            "sliceAssetId": "{402717BD-1B9B-5EE5-AB58-DD606001749B}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "117b8cfd-078c-2c06-ede4-19bf752716e1",
             "worldPosition": {
                 "x": 7606.1318359375,
@@ -275,70 +626,29 @@
             "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:2716e1"
         },
         {
-            "id": "b3cc81e7-4887-10e6-2545-5b3ff0091745",
+            "id": "5ff4b956-0dbc-0319-5e63-99a12d7c6c76",
             "worldPosition": {
-                "x": 7616.4013671875,
-                "y": 3959.92822265625,
-                "z": 95.65546417236328
+                "x": 7534.736328125,
+                "y": 3986.9296875,
+                "z": 118.14799499511719
             },
             "rotation": {
-                "x": 0.032482974231243137,
-                "y": 0.037294015288352969,
-                "z": -0.25692397356033327,
-                "w": 0.9651653170585632
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9659258127212524,
+                "w": 0.2588190734386444
             },
-            "scale": 1.0000224113464356,
             "footprint": {
-                "type": "Circle",
-                "id": "93198812-f680-94a9-e9cd-a923e649040f",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "14a28d5b-8e01-f1f4-113d-283e881f1b7f",
+                "width": 15.0,
+                "height": 10.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Torchpost_T1_On_A",
-            "sliceAssetId": "{0873C003-8A67-590B-A7D7-127483F54944}:2"
-        },
-        {
-            "id": "c5cf4c23-ea5d-315f-fccc-3d607d2a4fe0",
-            "worldPosition": {
-                "x": 7601.90380859375,
-                "y": 3896.028076171875,
-                "z": 102.24855041503906
-            },
-            "rotation": {
-                "x": 0.014092676341533661,
-                "y": 0.047406524419784549,
-                "z": -0.6340383887290955,
-                "w": 0.771718442440033
-            },
-            "scale": 1.0000224113464356,
-            "footprint": {
-                "type": "Circle",
-                "id": "f685dab4-cb68-3924-4b90-adefd1acb4a1",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Torchpost_T1_On_A",
-            "sliceAssetId": "{0873C003-8A67-590B-A7D7-127483F54944}:2"
-        },
-        {
-            "id": "98fa9da2-e61c-c001-177d-cf820540b5f7",
-            "worldPosition": {
-                "x": 7599.54150390625,
-                "y": 3930.34375,
-                "z": 99.1102294921875
-            },
-            "rotation": {
-                "x": 0.04942843317985535,
-                "y": 0.001677904394455254,
-                "z": 0.5306552052497864,
-                "w": 0.8461436629295349
-            },
-            "scale": 1.0000224113464356,
-            "footprint": {
-                "type": "Circle",
-                "id": "07ff910c-505d-0f9b-fc30-2f9a31f8ebb0",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Torchpost_T1_On_A",
-            "sliceAssetId": "{0873C003-8A67-590B-A7D7-127483F54944}:2"
+            "sliceName": "CoatGen\\8cd4e636\\FastTravel_Teleporter_5ff4b9560dbc03195e6399a12d7c6c76",
+            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:7c6c76",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "ab8da70f-73f2-e604-631f-118a49b05a63",
@@ -359,8 +669,8 @@
                 "width": 15.0,
                 "height": 15.0
             },
-            "sliceName": "CoatGen\\8cd4e636\\JAV_Struc_Pirate_Tower_A_ab8da70f73f2e604631f118a49b05a63",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:b05a63"
+            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_A",
+            "sliceAssetId": "{8C734F31-CA79-5031-A587-979710AF9712}:2"
         },
         {
             "id": "234aaec5-86b1-41ee-2875-1ef398f86404",
@@ -384,92 +694,25 @@
             "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:f86404"
         },
         {
-            "id": "57a27f30-440c-bea5-72ed-098a0c4bca9c",
+            "id": "bc59542f-8528-c20d-adbb-c6432bd52175",
             "worldPosition": {
-                "x": 7615.375,
-                "y": 3989.861328125,
-                "z": 94.01336669921875
+                "x": 7588.88330078125,
+                "y": 4019.4072265625,
+                "z": 97.79324340820313
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.1391732096672058,
-                "w": 0.9902680516242981
+                "z": 0.0,
+                "w": 1.0
             },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "4b83b943-4507-d9fd-1b2a-1a4af2fd3540",
-                "width": 10.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\8cd4e636\\JAV_Struc_Pirate_Tower_B_57a27f30440cbea572ed098a0c4bca9c",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:4bca9c"
-        },
-        {
-            "id": "f9b6c80a-ac98-e9de-e2da-b91ac603b4da",
-            "worldPosition": {
-                "x": 7612.33203125,
-                "y": 3905.82958984375,
-                "z": 97.25181579589844
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.8660253286361694,
-                "w": 0.5000000596046448
-            },
-            "scale": 0.75,
             "footprint": {
                 "type": "Circle",
-                "id": "8e828380-77c8-5c80-8c6a-e60fa17dd21b",
-                "radius": 5.0
+                "id": "708e15a7-c7ce-47f6-b268-045099183093",
+                "radius": 4.0
             },
-            "sliceName": "CoatGen\\8cd4e636\\JAV_Struc_Pirate_Tower_B_f9b6c80aac98e9dee2dab91ac603b4da",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:3b4da"
-        },
-        {
-            "id": "4d809952-ab86-8e96-084b-4e7b21a8360b",
-            "worldPosition": {
-                "x": 7619.4296875,
-                "y": 3983.64697265625,
-                "z": 90.65293884277344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.11320332437753678,
-                "w": 0.9935718178749085
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ecd2c260-84f6-412f-2cc2-4e4e335e15c4",
-                "width": 10.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\8cd4e636\\JAV_Struc_Pirate_Tower_B_4d809952ab868e9684b4e7b21a8360b",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:a8360b"
-        },
-        {
-            "id": "9fbaab1e-f9c0-768a-7b12-b1564978f1de",
-            "worldPosition": {
-                "x": 7607.3837890625,
-                "y": 3902.05859375,
-                "z": 113.33087158203125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.3746069073677063,
-                "w": 0.9271837472915649
-            },
-            "scale": 0.9999998211860657,
-            "footprint": {
-                "type": "Circle",
-                "id": "6bb0fa9a-6aa6-22b2-7cc1-a45a963a6b47",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Storage/Supply_Boxes/Supply_Boxes_Group_G",
-            "sliceAssetId": "{A4B6FB43-AFF4-564C-B44D-038BE56ED56E}:2"
+            "sliceName": "slices/Terrain_Elements/Boulders/jav_wld_Boulder_Chaos_flat_b_half",
+            "sliceAssetId": "{7DCD2880-1A7E-5322-94AD-C79C6D135C0E}:2"
         },
         {
             "id": "bbc052ca-4ce7-b1cd-0e5e-aa56ee6125b5",
@@ -494,134 +737,6 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "3f0fb975-94a8-9720-3e4d-7685af394054",
-            "worldPosition": {
-                "x": 7605.9091796875,
-                "y": 3904.155029296875,
-                "z": 102.30714416503906
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.44486933946609499,
-                "w": 0.8955954909324646
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "882357a3-1ee9-4ecf-95e3-98fde7a2b8b9",
-                "radius": 2.0
-            },
-            "sliceName": "CoatGen\\8cd4e636\\JAV_Struc_Pirate_Tower_Stairs_A_3f0fb97594a897203e4d7685af394054",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:394054"
-        },
-        {
-            "id": "9aff8024-5586-ac90-1167-576042a53ceb",
-            "worldPosition": {
-                "x": 7581.41796875,
-                "y": 4010.0205078125,
-                "z": 98.84642028808594
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.358367919921875,
-                "w": 0.9335804581642151
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1c498221-f9d5-2f41-6736-70c651c7bd02",
-                "width": 10.0,
-                "height": 3.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "90f6b1c8-8705-490a-98df-c5a05e4617da",
-            "worldPosition": {
-                "x": 7593.23876953125,
-                "y": 4016.091064453125,
-                "z": 99.21867370605469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.41469353437423708,
-                "w": 0.9099611639976502
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "f064dc08-2d2f-9162-0863-280e2776af99",
-                "width": 35.0,
-                "height": 6.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "63b70ec0-852a-f8e9-dc48-5b292bdaeb50",
-            "worldPosition": {
-                "x": 7596.076171875,
-                "y": 4020.04345703125,
-                "z": 100.84709930419922
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.41469353437423708,
-                "w": 0.9099611639976502
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6d1ad10f-3500-4a11-371a-c06d95080576",
-                "radius": 4.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "6e529946-3eba-6c6b-00b4-4d9d57e10e4a",
-            "worldPosition": {
-                "x": 7600.08349609375,
-                "y": 4013.64990234375,
-                "z": 100.84709930419922
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.41469353437423708,
-                "w": 0.9099611639976502
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "518cecb1-6ca9-19de-fbf0-b362254e66d4",
-                "radius": 2.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "c0118af5-def8-05bb-7479-1eb8a7664838",
-            "worldPosition": {
-                "x": 7597.5380859375,
-                "y": 4015.37646484375,
-                "z": 98.9679946899414
-            },
-            "rotation": {
-                "x": 0.05744349583983421,
-                "y": -0.1295555680990219,
-                "z": 0.6959848999977112,
-                "w": 0.7039322853088379
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c6d015f4-5837-2d9d-e6ce-496a42d421cf",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\8cd4e636\\ShipWreck_H_c0118af5def805bb74791eb8a7664838",
-            "sliceAssetId": "{DAAAC90E-3DFE-5894-9C5B-CA484545A4FE}:664838"
         }
     ]
 }

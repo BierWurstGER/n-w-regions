@@ -1,205 +1,220 @@
 {
     "Capitals": [
         {
-            "id": "13368acf-66f5-ae18-094b-8cf8e65f86e4",
+            "id": "6ee89d3b-3746-663f-ea80-0b53781ee41f",
             "worldPosition": {
-                "x": 9972.4462890625,
-                "y": 3265.598388671875,
-                "z": 157.22952270507813
+                "x": 9743.134765625,
+                "y": 3315.981201171875,
+                "z": 122.3167724609375
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.35862427949905398,
+                "w": 0.9334819912910461
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "78ae389e-9450-cb98-b92b-6ea3cb049e71",
-                "width": 14.0,
-                "height": 22.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "e5e9c974-aea1-91cc-dd94-c090092a0d4a",
-            "worldPosition": {
-                "x": 9965.080078125,
-                "y": 3208.947509765625,
-                "z": 168.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1478092074394226,
-                "w": 0.9890158772468567
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "3cb8334f-fdd7-33c6-ac76-bc4e729daf6d",
-                "width": 20.0,
-                "height": 17.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "f6bf0ffe-426d-e91c-3153-fa2ef6fb0cd7",
-            "worldPosition": {
-                "x": 10003.3291015625,
-                "y": 3293.7080078125,
-                "z": 154.14505004882813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "814af27b-b7ec-a9e7-5c06-b0e5cbd134c6",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2",
-            "cookie": {
-                "innerRadius": 4.0,
-                "outerRadius": 13.0,
-                "maxHeightBlend": 0.5,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0
-            }
-        },
-        {
-            "id": "7c9d57fa-904e-1d7d-3e67-0e9ceb38a2cc",
-            "worldPosition": {
-                "x": 9998.0517578125,
-                "y": 3313.174560546875,
-                "z": 152.50428771972657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "32b95b59-1695-b4d1-af4d-91dca43863b3",
-                "width": 8.0,
+                "id": "90ed3c31-2f3d-e497-89d3-a3e623a55241",
+                "width": 10.0,
                 "height": 8.0
             },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
         },
         {
-            "id": "edc67856-67f3-8f49-4876-9f500030e478",
+            "id": "6ab68bcd-32c0-eaae-d542-20923a3977f4",
             "worldPosition": {
-                "x": 9987.7705078125,
-                "y": 3235.264892578125,
+                "x": 9875.3583984375,
+                "y": 3455.929931640625,
+                "z": 131.0537567138672
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5735765099525452,
+                "w": 0.8191519975662231
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "5b300a8b-6c31-2d99-692b-0607dadcb1de",
+                "width": 25.0,
+                "height": 25.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "1871096d-86fc-59d1-7e72-a7c4507218fe",
+            "worldPosition": {
+                "x": 9859.09765625,
+                "y": 3427.420166015625,
+                "z": 131.0537567138672
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.44619786739349368,
+                "w": 0.894934356212616
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ca87ed7b-6177-0363-716d-58fadd6507f7",
+                "width": 25.0,
+                "height": 25.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "a6d3eb06-5170-8d09-8843-fe9186ea6a3b",
+            "worldPosition": {
+                "x": 9721.306640625,
+                "y": 3296.003662109375,
+                "z": 121.764404296875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.35862427949905398,
+                "w": 0.9334819912910461
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "f9dfab8c-0ba3-a608-6b75-6e3bf1956c3a",
+                "width": 0.0,
+                "height": 0.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "20ea97bd-e939-3e85-0aad-5a390b0e6178",
+            "worldPosition": {
+                "x": 9685.82421875,
+                "y": 3267.431884765625,
+                "z": 120.13626098632813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.32582783699035647,
+                "w": 0.9454291462898254
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "50aa3efa-2d44-6948-acbf-0d039d98b7e1",
+                "width": 0.0,
+                "height": 0.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "d197d0ef-fb06-182f-01fe-b48006c93dab",
+            "worldPosition": {
+                "x": 9837.6806640625,
+                "y": 3401.908935546875,
+                "z": 127.15504455566406
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.4226182997226715,
+                "w": 0.9063077569007874
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "963b6dbe-1fee-eff9-0b90-44f8aae31440",
+                "width": 25.0,
+                "height": 25.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "ec8a775b-438b-700a-83d2-900dacb66ba7",
+            "worldPosition": {
+                "x": 9891.341796875,
+                "y": 3511.275146484375,
+                "z": 133.06246948242188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5735765099525452,
+                "w": 0.8191519975662231
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "d8365dc2-be23-1bf0-2e06-2079dd38136b",
+                "width": 25.0,
+                "height": 25.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "02ba076e-91d1-ffbd-26a3-b6d86e7b2593",
+            "worldPosition": {
+                "x": 9978.3017578125,
+                "y": 3231.53466796875,
                 "z": 161.8227081298828
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
+                "z": 0.6087614893913269,
+                "w": 0.793353259563446
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6582a2b8-1135-8db3-96ff-97eaa992eae8",
+                "radius": 10.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "dd678dde-5636-7a9b-e5b7-6cf7defd3265",
+            "worldPosition": {
+                "x": 9961.0390625,
+                "y": 3275.02734375,
+                "z": 156.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.08715634793043137,
+                "w": 0.9961946606636047
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "42766a28-cc5a-ccaf-d709-c2f4cc549028",
-                "width": 8.0,
+                "id": "1bbd409c-22b0-567e-3a97-2468670abcb0",
+                "width": 5.0,
                 "height": 10.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "597d572d-1672-f78a-735e-4a03ff6b041d",
+            "id": "d51d04eb-c0a7-9aac-5b2b-5e0100d99eba",
             "worldPosition": {
-                "x": 10011.0673828125,
-                "y": 3250.797119140625,
-                "z": 157.22952270507813
+                "x": 9971.0009765625,
+                "y": 3242.686767578125,
+                "z": 161.8227081298828
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9990481734275818,
-                "w": 0.04361969232559204
+                "z": 0.6087614893913269,
+                "w": 0.793353259563446
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "70bcc9d4-5d27-afd5-8278-0ffa50e15f4e",
-                "width": 5.0,
-                "height": 12.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "2b0fcd72-4899-207c-3ae5-56234d6e33af",
-            "worldPosition": {
-                "x": 10006.7099609375,
-                "y": 3271.727294921875,
-                "z": 157.22952270507813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "68dd3314-91b0-c13d-6bc2-e160dec6a16a",
-                "width": 8.0,
-                "height": 8.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "2b4bd7d6-8c1d-3c4c-7cbf-249a79c86e0c",
-            "worldPosition": {
-                "x": 10001.7744140625,
-                "y": 3260.88623046875,
-                "z": 157.22952270507813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ab044fa5-7412-c45e-f5be-58a4e914fdad",
-                "width": 5.0,
-                "height": 30.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "ddec808e-13b0-9d5f-bcca-139e1d59501c",
-            "worldPosition": {
-                "x": 10016.0068359375,
-                "y": 3274.15380859375,
-                "z": 157.22952270507813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": 0.08715557307004929
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "85293dae-c2d3-6be2-7917-883257312313",
-                "width": 3.0,
-                "height": 20.0
+                "id": "e6dea0ce-37d4-9974-d652-83cd6f3f641f",
+                "width": 13.0,
+                "height": 10.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
@@ -255,11 +270,33 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "a3bce45e-23c6-9bb7-eb9b-bbd0e400aa87",
+            "id": "061c1f09-f183-0916-5228-61066d539207",
             "worldPosition": {
-                "x": 10004.01171875,
-                "y": 3279.507080078125,
-                "z": 157.22952270507813
+                "x": 9979.142578125,
+                "y": 3379.242919921875,
+                "z": 134.56982421875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "61e2731d-ba1c-5d4b-cfe0-93b26d4bd98b",
+                "width": 15.0,
+                "height": 22.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "7c9d57fa-904e-1d7d-3e67-0e9ceb38a2cc",
+            "worldPosition": {
+                "x": 9998.0517578125,
+                "y": 3313.174560546875,
+                "z": 152.50428771972657
             },
             "rotation": {
                 "x": 0.0,
@@ -269,7 +306,7 @@
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "7aff6a19-79f5-23a1-2349-d526ee7392f5",
+                "id": "32b95b59-1695-b4d1-af4d-91dca43863b3",
                 "width": 8.0,
                 "height": 8.0
             },
@@ -277,182 +314,23 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "18b7334d-701b-bc67-5c4e-825fa747cf01",
+            "id": "e5e9c974-aea1-91cc-dd94-c090092a0d4a",
             "worldPosition": {
-                "x": 9991.525390625,
-                "y": 3283.123779296875,
-                "z": 157.22952270507813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": 0.08715557307004929
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "fd6b2cf9-e100-c4bd-ad1b-bada4d61293c",
-                "width": 10.0,
-                "height": 15.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "4e383885-14f9-01ca-ad51-83686ccf293e",
-            "worldPosition": {
-                "x": 9969.7060546875,
-                "y": 3267.920654296875,
-                "z": 159.89569091796876
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a92638d2-98f6-4e8c-d39c-ad915575572a",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2",
-            "cookie": {
-                "innerRadius": 8.0,
-                "outerRadius": 30.0,
-                "maxHeightBlend": 0.5,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0
-            }
-        },
-        {
-            "id": "26ec3562-2d87-2804-7c27-b7bb0cb4abe1",
-            "worldPosition": {
-                "x": 9981.939453125,
-                "y": 3203.7939453125,
+                "x": 9959.3994140625,
+                "y": 3211.133544921875,
                 "z": 168.0
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.1478094458580017,
-                "w": 0.9890158772468567
+                "z": -0.27563712000846865,
+                "w": 0.9612618088722229
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "86c98576-7fc4-10af-d0da-8f2c3c4db319",
+                "id": "3cb8334f-fdd7-33c6-ac76-bc4e729daf6d",
                 "width": 20.0,
                 "height": 17.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "2a96dc86-1902-7896-7667-2288713188d0",
-            "worldPosition": {
-                "x": 10002.076171875,
-                "y": 3242.27734375,
-                "z": 161.8227081298828
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "fdf1fa50-1cbc-c9fc-39a9-6d2795e11ebb",
-                "width": 8.0,
-                "height": 10.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "a1e33fcd-5b73-7b6f-df6e-60a0f56daeed",
-            "worldPosition": {
-                "x": 10007.4609375,
-                "y": 3265.15283203125,
-                "z": 157.22952270507813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "2c76c7fb-cbcf-129c-56f1-4c9af855b0c8",
-                "width": 5.0,
-                "height": 17.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "02ba076e-91d1-ffbd-26a3-b6d86e7b2593",
-            "worldPosition": {
-                "x": 9978.3017578125,
-                "y": 3231.53466796875,
-                "z": 161.8227081298828
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6087614893913269,
-                "w": 0.793353259563446
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6582a2b8-1135-8db3-96ff-97eaa992eae8",
-                "radius": 10.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "e761e60f-78f9-e3aa-9719-b6f7c838c4b9",
-            "worldPosition": {
-                "x": 10006.654296875,
-                "y": 3286.276611328125,
-                "z": 157.22952270507813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": 0.08715557307004929
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "38e65b56-518e-7d71-a1bf-6b03531251e5",
-                "width": 20.0,
-                "height": 3.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "c335101f-c13e-9bbe-4b5e-294b902fd93c",
-            "worldPosition": {
-                "x": 9952.2724609375,
-                "y": 3207.425537109375,
-                "z": 168.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1478092074394226,
-                "w": 0.9890158772468567
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "9297cdbc-2c07-9ebd-35df-474b62bb6ade",
-                "width": 7.0,
-                "height": 7.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
@@ -480,73 +358,45 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "69719601-b359-539e-13ab-630bd7c3e9d3",
+            "id": "26ec3562-2d87-2804-7c27-b7bb0cb4abe1",
             "worldPosition": {
-                "x": 9995.25,
-                "y": 3270.681396484375,
-                "z": 157.22952270507813
+                "x": 9974.3505859375,
+                "y": 3201.7919921875,
+                "z": 168.0
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9961947202682495,
-                "w": 0.08715557307004929
+                "z": -0.27563735842704775,
+                "w": 0.9612616896629334
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "04d48746-1167-478e-8001-2fd8a5490341",
-                "width": 5.0,
-                "height": 12.0
+                "id": "86c98576-7fc4-10af-d0da-8f2c3c4db319",
+                "width": 20.0,
+                "height": 17.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "d69b9e90-1e42-ba24-202d-84456c566223",
+            "id": "287c70a2-2123-6c5f-7985-c47b6a4bc6b7",
             "worldPosition": {
-                "x": 10010.0673828125,
-                "y": 3240.619140625,
-                "z": 160.89356994628907
+                "x": 10002.7607421875,
+                "y": 3264.041748046875,
+                "z": 158.01345825195313
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "26599974-d18e-b784-ce65-979d2f9269b3",
-                "radius": 5.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2",
-            "cookie": {
-                "innerRadius": 5.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 0.30000001192092898,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0
-            }
-        },
-        {
-            "id": "061c1f09-f183-0916-5228-61066d539207",
-            "worldPosition": {
-                "x": 9979.142578125,
-                "y": 3379.242919921875,
-                "z": 134.56982421875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
+                "z": -0.08715634793043137,
+                "w": 0.9961946606636047
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "61e2731d-ba1c-5d4b-cfe0-93b26d4bd98b",
-                "width": 15.0,
-                "height": 22.0
+                "id": "639e32dc-9ccc-92e5-79a3-db24cb0eb699",
+                "width": 28.0,
+                "height": 48.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
@@ -576,15 +426,15 @@
         {
             "id": "663861fa-28af-7ca6-9005-f7178d0c9057",
             "worldPosition": {
-                "x": 9955.630859375,
-                "y": 3206.131591796875,
+                "x": 9949.54296875,
+                "y": 3210.85888671875,
                 "z": 165.92959594726563
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.017452457919716836,
-                "w": 0.9998477101325989
+                "z": -0.1478094458580017,
+                "w": 0.9890158772468567
             },
             "footprint": {
                 "type": "Circle",
@@ -602,67 +452,23 @@
             }
         },
         {
-            "id": "0946e911-5584-f623-1c37-57f6c7536eb9",
+            "id": "587b1427-c5fa-7112-5375-28d1c6c850c6",
             "worldPosition": {
-                "x": 9991.1005859375,
-                "y": 3251.67333984375,
-                "z": 157.22952270507813
+                "x": 9988.8671875,
+                "y": 3283.2568359375,
+                "z": 156.9779815673828
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9914448857307434,
-                "w": 0.13052622973918916
+                "z": -0.08715634793043137,
+                "w": 0.9961946606636047
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "12d7bb13-020e-3c43-9725-3218c82d8917",
-                "width": 5.0,
+                "id": "157f28f6-8c60-f302-cc6a-58b329d25266",
+                "width": 7.0,
                 "height": 12.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "98009183-9ac6-9a7f-77fc-95187f63c882",
-            "worldPosition": {
-                "x": 9960.2939453125,
-                "y": 3274.148681640625,
-                "z": 157.67640686035157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "41aceb0a-7ac1-49e9-bdaa-f8ec0959ba2e",
-                "width": 5.0,
-                "height": 12.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "d51d04eb-c0a7-9aac-5b2b-5e0100d99eba",
-            "worldPosition": {
-                "x": 9971.0009765625,
-                "y": 3242.686767578125,
-                "z": 161.8227081298828
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6087614893913269,
-                "w": 0.793353259563446
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "e6dea0ce-37d4-9974-d652-83cd6f3f641f",
-                "width": 13.0,
-                "height": 10.0
             },
             "sliceName": "slices/POIs/Test/BlankSpace_A",
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
@@ -690,21 +496,43 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "2a54cfcb-e00f-e5ff-6da6-83ed30d33e59",
+            "id": "c335101f-c13e-9bbe-4b5e-294b902fd93c",
             "worldPosition": {
-                "x": 9997.3291015625,
-                "y": 3256.846923828125,
+                "x": 9946.6337890625,
+                "y": 3212.978271484375,
+                "z": 168.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.27563712000846865,
+                "w": 0.9612618088722229
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9297cdbc-2c07-9ebd-35df-474b62bb6ade",
+                "width": 7.0,
+                "height": 7.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "597d572d-1672-f78a-735e-4a03ff6b041d",
+            "worldPosition": {
+                "x": 10011.0673828125,
+                "y": 3250.797119140625,
                 "z": 157.22952270507813
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
+                "z": 0.9990481734275818,
+                "w": 0.04361969232559204
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "5091f50d-7e97-8c48-01ba-360ed7702247",
+                "id": "70bcc9d4-5d27-afd5-8278-0ffa50e15f4e",
                 "width": 5.0,
                 "height": 12.0
             },
@@ -712,105 +540,11 @@
             "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "73221a07-46e7-e2b6-1c81-7536a6d1bc14",
+            "id": "13368acf-66f5-ae18-094b-8cf8e65f86e4",
             "worldPosition": {
-                "x": 9993.8623046875,
-                "y": 3225.3876953125,
-                "z": 161.8227081298828
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6087614893913269,
-                "w": 0.793353259563446
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "fbc339aa-0824-81cc-860a-2d361b799e2b",
-                "width": 12.0,
-                "height": 10.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_A",
-            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
-        },
-        {
-            "id": "b5d9aa2f-a90c-85fe-efe4-707160b52b9b",
-            "worldPosition": {
-                "x": 9990.6181640625,
-                "y": 3297.114501953125,
-                "z": 155.9168243408203
-            },
-            "rotation": {
-                "x": 0.004236204549670219,
-                "y": 0.059034962207078937,
-                "z": 0.9260911345481873,
-                "w": -0.37262874841690066
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8e326b1d-99d4-e45b-48b7-0044fcde8003",
-                "radius": 4.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_F",
-            "sliceAssetId": "{B5FA1B8A-9CAE-5A00-B3B2-9E80542F8995}:2",
-            "cookie": {
-                "innerRadius": 3.0,
-                "outerRadius": 10.0,
-                "maxHeightBlend": 0.25,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0
-            }
-        },
-        {
-            "id": "237fdf61-1c9a-2f54-5565-2c8242868e49",
-            "worldPosition": {
-                "x": 10010.5859375,
-                "y": 3246.27587890625,
-                "z": 159.9105987548828
-            },
-            "rotation": {
-                "x": 0.06025494262576103,
-                "y": 0.008705216459929943,
-                "z": 0.6338463425636292,
-                "w": 0.7710592746734619
-            },
-            "scale": 1.2000006437301636,
-            "footprint": {
-                "type": "Circle",
-                "id": "c8a28104-97f5-26a0-a1dc-249a51577a72",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestones_Group_B",
-            "sliceAssetId": "{D091217D-1792-5BED-9592-754A844455B7}:2"
-        },
-        {
-            "id": "cfc1562f-943c-7a69-21ec-46164899ca11",
-            "worldPosition": {
-                "x": 10013.4765625,
-                "y": 3283.611083984375,
-                "z": 158.13510131835938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1478091925382614,
-                "w": 0.9890159368515015
-            },
-            "scale": 1.1000005006790162,
-            "footprint": {
-                "type": "Circle",
-                "id": "071e63ee-19df-4948-a6a3-4ab7fbee2bdb",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestones_Group_B",
-            "sliceAssetId": "{D091217D-1792-5BED-9592-754A844455B7}:2"
-        },
-        {
-            "id": "df172754-2b6c-8786-b8d8-6861ab7294bf",
-            "worldPosition": {
-                "x": 9988.173828125,
-                "y": 3450.76171875,
-                "z": 131.83389282226563
+                "x": 9972.4462890625,
+                "y": 3265.598388671875,
+                "z": 157.22952270507813
             },
             "rotation": {
                 "x": 0.0,
@@ -819,97 +553,55 @@
                 "w": 1.0
             },
             "footprint": {
-                "type": "Circle",
-                "id": "cdc1cf62-935c-c16f-e62e-c63a1bdaddf4",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_j",
-            "sliceAssetId": "{8047B65C-5869-55A0-9796-5872CDF68324}:2"
-        },
-        {
-            "id": "19e284a5-fe49-1d0b-e048-00f9a20aa744",
-            "worldPosition": {
-                "x": 9974.515625,
-                "y": 3450.416748046875,
-                "z": 131.5242919921875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9996573328971863,
-                "w": 0.026176873594522477
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "40788e79-bc42-3738-7857-0bf899347aac",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_j",
-            "sliceAssetId": "{8047B65C-5869-55A0-9796-5872CDF68324}:2"
-        },
-        {
-            "id": "703a25a2-5e19-61ad-5fed-ec02e3fbe955",
-            "worldPosition": {
-                "x": 9891.4267578125,
-                "y": 3510.94970703125,
-                "z": 132.83438110351563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5880073308944702,
-                "w": 0.8088555932044983
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ab540136-e274-9875-ce52-90572530bf2f",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_Brk_AA",
-            "sliceAssetId": "{4519843C-081C-5DF9-9E4F-2C99DE0AD833}:2"
-        },
-        {
-            "id": "3e8edd72-8e9c-12a0-7499-f99371d1798f",
-            "worldPosition": {
-                "x": 9709.740234375,
-                "y": 3286.13818359375,
-                "z": 120.13626098632813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.32582783699035647,
-                "w": 0.9454291462898254
-            },
-            "footprint": {
                 "type": "Rectangle",
-                "id": "055d32c0-e0e1-a5f0-a112-0cbbb33d2a3a",
-                "width": 20.0,
-                "height": 20.0
+                "id": "78ae389e-9450-cb98-b92b-6ea3cb049e71",
+                "width": 14.0,
+                "height": 22.0
             },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Combined_Slope_A",
-            "sliceAssetId": "{204209F3-2510-5F74-B91A-9448A3310937}:2"
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
         },
         {
-            "id": "678d5ff8-1477-f664-ff98-b1b74c237649",
+            "id": "bbdc29b5-9b91-c3a9-d3b0-b24b0538e0dc",
             "worldPosition": {
-                "x": 9874.0869140625,
-                "y": 3454.789794921875,
-                "z": 132.83438110351563
+                "x": 9992.0517578125,
+                "y": 3230.307861328125,
+                "z": 162.6809539794922
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.8088555932044983,
-                "w": 0.588007390499115
+                "z": 0.6087613701820374,
+                "w": 0.7933533787727356
             },
             "footprint": {
                 "type": "Circle",
-                "id": "6f6096f4-a5fa-85b8-33a9-f7b2b74acce7",
-                "radius": 0.0
+                "id": "42198ff4-86e7-9244-4807-14c7123bc302",
+                "radius": 10.0
             },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Arch_Brk_A",
-            "sliceAssetId": "{906CFEAE-8FBE-520A-BAEC-D3A7D5977B9F}:2"
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "3d40960a-38a0-acb4-9c89-430406169c8f",
+            "worldPosition": {
+                "x": 9960.2724609375,
+                "y": 3374.1171875,
+                "z": 134.99008178710938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7313537001609802,
+                "w": 0.6819983720779419
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9de7dc21-619b-131d-136e-746294f81ef8",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Lights/Lantern_Post/Struc_Ltrn_Post_T2_YL",
+            "sliceAssetId": "{86DB44A9-16AB-5A3D-9732-06DD60C213D6}:2"
         },
         {
             "id": "e791d03c-b81e-5403-dd5c-bd4128575be3",
@@ -954,142 +646,146 @@
             "sliceAssetId": "{86DB44A9-16AB-5A3D-9732-06DD60C213D6}:2"
         },
         {
-            "id": "3d40960a-38a0-acb4-9c89-430406169c8f",
+            "id": "237fdf61-1c9a-2f54-5565-2c8242868e49",
             "worldPosition": {
-                "x": 9960.2724609375,
-                "y": 3374.1171875,
-                "z": 134.99008178710938
+                "x": 10010.5771484375,
+                "y": 3246.280517578125,
+                "z": 159.82025146484376
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7313537001609802,
-                "w": 0.6819983720779419
+                "x": 0.049076419323682788,
+                "y": 0.02767011523246765,
+                "z": 0.6371347904205322,
+                "w": 0.7686905264854431
             },
+            "scale": 1.2000006437301636,
             "footprint": {
                 "type": "Circle",
-                "id": "9de7dc21-619b-131d-136e-746294f81ef8",
-                "radius": 2.0
+                "id": "c8a28104-97f5-26a0-a1dc-249a51577a72",
+                "radius": 1.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Lighting/Lights/Lantern_Post/Struc_Ltrn_Post_T2_YL",
-            "sliceAssetId": "{86DB44A9-16AB-5A3D-9732-06DD60C213D6}:2"
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestones_Group_B",
+            "sliceAssetId": "{D091217D-1792-5BED-9592-754A844455B7}:2"
         },
         {
-            "id": "a9b96aae-f6f1-d9c3-923b-52112065fb80",
+            "id": "cfc1562f-943c-7a69-21ec-46164899ca11",
             "worldPosition": {
-                "x": 9986.5068359375,
-                "y": 3403.3671875,
-                "z": 134.56683349609376
+                "x": 10013.484375,
+                "y": 3283.60888671875,
+                "z": 157.9110870361328
+            },
+            "rotation": {
+                "x": -0.005500318016856909,
+                "y": -0.036804571747779849,
+                "z": -0.1477068066596985,
+                "w": 0.9883308410644531
+            },
+            "scale": 1.1000001430511475,
+            "footprint": {
+                "type": "Circle",
+                "id": "071e63ee-19df-4948-a6a3-4ab7fbee2bdb",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestones_Group_B",
+            "sliceAssetId": "{D091217D-1792-5BED-9592-754A844455B7}:2"
+        },
+        {
+            "id": "d17c58cf-394f-7883-83a8-83bfffbe394a",
+            "worldPosition": {
+                "x": 9948.21484375,
+                "y": 3399.239013671875,
+                "z": 134.5264434814453
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.6755900382995606,
-                "w": 0.7372775077819824
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9b4a52b2-8a62-75f9-3ad3-3b93afc76cd9",
+                "width": 6.0,
+                "height": 7.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Storage_Structures/Storage_Shed_Group_B",
+            "sliceAssetId": "{8F19FC33-1596-523B-9D6B-88E6E497D6F2}:2",
+            "cookie": {
+                "innerRadius": 1.0,
+                "outerRadius": 2.0,
+                "maxHeightBlend": 1.0
+            }
+        },
+        {
+            "id": "19e284a5-fe49-1d0b-e048-00f9a20aa744",
+            "worldPosition": {
+                "x": 9974.515625,
+                "y": 3450.416748046875,
+                "z": 131.5242919921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9996573328971863,
+                "w": 0.026176873594522477
             },
             "footprint": {
                 "type": "Circle",
-                "id": "d3e6ccd7-cafa-7589-5223-f01b3f189cce",
-                "radius": 3.0
+                "id": "40788e79-bc42-3738-7857-0bf899347aac",
+                "radius": 1.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/WaterProduction/Well/Well_Abnd_Single_A",
-            "sliceAssetId": "{207B69D4-E3B9-5608-9390-CEEAB068AC67}:2",
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_j",
+            "sliceAssetId": "{8047B65C-5869-55A0-9796-5872CDF68324}:2"
+        },
+        {
+            "id": "df172754-2b6c-8786-b8d8-6861ab7294bf",
+            "worldPosition": {
+                "x": 9988.173828125,
+                "y": 3450.76171875,
+                "z": 131.83389282226563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cdc1cf62-935c-c16f-e62e-c63a1bdaddf4",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_j",
+            "sliceAssetId": "{8047B65C-5869-55A0-9796-5872CDF68324}:2"
+        },
+        {
+            "id": "8c666991-9abb-8b34-e1bc-b2459d143bd1",
+            "worldPosition": {
+                "x": 9990.7646484375,
+                "y": 3367.699462890625,
+                "z": 134.6324005126953
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a3a733ad-dc82-0150-13d3-1414a8efad7c",
+                "radius": 5.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/Farming/Struc_outhouse_abnd_b",
+            "sliceAssetId": "{E02BBABD-52E4-554B-97F8-D8D70A8C0CAF}:2",
             "cookie": {
-                "innerRadius": 2.0,
+                "innerRadius": 3.0,
                 "outerRadius": 5.0,
-                "maxHeightBlend": 1.0
+                "maxHeightBlend": 0.75
             },
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "e4e3ba75-30bc-47c5-1440-924f427bf8d2",
-            "worldPosition": {
-                "x": 9872.9501953125,
-                "y": 3454.9619140625,
-                "z": 132.83438110351563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5521659255027771,
-                "w": 0.8337342739105225
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "0884018c-554e-7173-0694-9b51e4d81a48",
-                "width": 20.0,
-                "height": 20.0
-            },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
-            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
-        },
-        {
-            "id": "2da12263-4ad5-c886-5ba1-e28a2d12a84b",
-            "worldPosition": {
-                "x": 9732.59765625,
-                "y": 3306.482666015625,
-                "z": 122.10417175292969
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.35862427949905398,
-                "w": 0.9334819912910461
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1ccbd0d9-59e8-8ede-c3c1-38d42a1e6854",
-                "width": 20.0,
-                "height": 20.0
-            },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
-            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
-        },
-        {
-            "id": "b1fbaff9-4c66-56ec-bc93-818448b5750e",
-            "worldPosition": {
-                "x": 9838.689453125,
-                "y": 3402.173828125,
-                "z": 132.83438110351563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.3990008234977722,
-                "w": 0.9169505834579468
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "855cc391-147e-9642-9229-b5b9e0660830",
-                "width": 20.0,
-                "height": 20.0
-            },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
-            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
-        },
-        {
-            "id": "b3782807-2666-e42c-31a4-6f7d61c8af00",
-            "worldPosition": {
-                "x": 9858.1484375,
-                "y": 3427.080078125,
-                "z": 132.83438110351563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4773999750614166,
-                "w": 0.8786860704421997
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "9ea5438f-e8bf-aa28-f828-5af037a4af84",
-                "width": 20.0,
-                "height": 20.0
-            },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
-            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
         },
         {
             "id": "74e08273-7ff7-4817-6641-7cb59ad65723",
@@ -1134,243 +830,55 @@
             "sliceAssetId": "{01729453-AF14-5784-BC93-2842DEDC1AB9}:2"
         },
         {
-            "id": "7de1515c-13b9-51a2-cc99-4c004108800d",
+            "id": "a9b96aae-f6f1-d9c3-923b-52112065fb80",
             "worldPosition": {
-                "x": 9998.650390625,
-                "y": 3299.861083984375,
-                "z": 154.59637451171876
+                "x": 9986.5068359375,
+                "y": 3403.3671875,
+                "z": 134.56683349609376
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.6755900382995606,
+                "w": 0.7372775077819824
             },
             "footprint": {
                 "type": "Circle",
-                "id": "b10042db-e72e-9765-f81d-5bb430711555",
-                "radius": 10.0
+                "id": "d3e6ccd7-cafa-7589-5223-f01b3f189cce",
+                "radius": 3.0
             },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_A",
-            "sliceAssetId": "{AD53E4B8-E893-5FFB-A987-6B32432BA974}:2"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/WaterProduction/Well/Well_Abnd_Single_A",
+            "sliceAssetId": "{207B69D4-E3B9-5608-9390-CEEAB068AC67}:2",
+            "cookie": {
+                "innerRadius": 2.0,
+                "outerRadius": 5.0,
+                "maxHeightBlend": 1.0
+            }
         },
         {
-            "id": "05c61d8a-3c80-6f5a-0c68-5f2e46d43a3d",
+            "id": "376d4bb3-40b8-eefe-3b5e-31967e025360",
             "worldPosition": {
-                "x": 9997.17578125,
-                "y": 3254.304443359375,
-                "z": 159.9296417236328
+                "x": 9961.6240234375,
+                "y": 3401.9150390625,
+                "z": 135.1632537841797
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.08715634793043137,
-                "w": 0.9961946606636047
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d8a90b5f-2924-28a9-0d5e-0ab1d4ce7881",
-                "radius": 2.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_C",
-            "sliceAssetId": "{74337507-22AD-57C4-A970-43441BF09533}:2"
-        },
-        {
-            "id": "19a9cc0f-d3c0-ea3a-d100-9db47de86f27",
-            "worldPosition": {
-                "x": 9999.8564453125,
-                "y": 3293.0859375,
-                "z": 156.2781219482422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9996573328971863,
-                "w": 0.02617735043168068
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "285884d9-34fd-51ca-6e49-0d80ed9869fa",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_C",
-            "sliceAssetId": "{74337507-22AD-57C4-A970-43441BF09533}:2"
-        },
-        {
-            "id": "20ea97bd-e939-3e85-0aad-5a390b0e6178",
-            "worldPosition": {
-                "x": 9685.82421875,
-                "y": 3267.431884765625,
-                "z": 120.13626098632813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.32582783699035647,
-                "w": 0.9454291462898254
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "50aa3efa-2d44-6948-acbf-0d039d98b7e1",
-                "width": 0.0,
-                "height": 0.0
+                "id": "609c6121-c887-9721-d4f9-c52b343d52f0",
+                "width": 9.0,
+                "height": 12.0
             },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "ec8a775b-438b-700a-83d2-900dacb66ba7",
-            "worldPosition": {
-                "x": 9891.341796875,
-                "y": 3511.275146484375,
-                "z": 133.06246948242188
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5735765099525452,
-                "w": 0.8191519975662231
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d8365dc2-be23-1bf0-2e06-2079dd38136b",
-                "width": 25.0,
-                "height": 25.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "d197d0ef-fb06-182f-01fe-b48006c93dab",
-            "worldPosition": {
-                "x": 9837.6806640625,
-                "y": 3401.908935546875,
-                "z": 127.15504455566406
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4226182997226715,
-                "w": 0.9063077569007874
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "963b6dbe-1fee-eff9-0b90-44f8aae31440",
-                "width": 25.0,
-                "height": 25.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "a6d3eb06-5170-8d09-8843-fe9186ea6a3b",
-            "worldPosition": {
-                "x": 9721.306640625,
-                "y": 3296.003662109375,
-                "z": 121.764404296875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.35862427949905398,
-                "w": 0.9334819912910461
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "f9dfab8c-0ba3-a608-6b75-6e3bf1956c3a",
-                "width": 0.0,
-                "height": 0.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "6ee89d3b-3746-663f-ea80-0b53781ee41f",
-            "worldPosition": {
-                "x": 9743.134765625,
-                "y": 3315.981201171875,
-                "z": 122.3167724609375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.35862427949905398,
-                "w": 0.9334819912910461
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "90ed3c31-2f3d-e497-89d3-a3e623a55241",
-                "width": 10.0,
-                "height": 8.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "1871096d-86fc-59d1-7e72-a7c4507218fe",
-            "worldPosition": {
-                "x": 9859.09765625,
-                "y": 3427.420166015625,
-                "z": 131.0537567138672
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.44619786739349368,
-                "w": 0.894934356212616
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ca87ed7b-6177-0363-716d-58fadd6507f7",
-                "width": 25.0,
-                "height": 25.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "6ab68bcd-32c0-eaae-d542-20923a3977f4",
-            "worldPosition": {
-                "x": 9875.3583984375,
-                "y": 3455.929931640625,
-                "z": 131.0537567138672
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5735765099525452,
-                "w": 0.8191519975662231
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "5b300a8b-6c31-2d99-692b-0607dadcb1de",
-                "width": 25.0,
-                "height": 25.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "88854de3-f8b2-1c1d-704f-4701a40e5c36",
-            "worldPosition": {
-                "x": 10004.9541015625,
-                "y": 3296.920654296875,
-                "z": 155.80633544921876
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "c00f4b2a-2b52-b0bd-0961-9e0f8f834d67",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_B",
-            "sliceAssetId": "{783C06CB-3E6B-5866-8242-77199F164C79}:2"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Storage_Structures/struc_shed_abnd_e",
+            "sliceAssetId": "{1816B168-632D-5084-B15D-A6CBA25FF68E}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "5f231eba-4cec-7ebd-a986-c4aa996674fc",
@@ -1394,46 +902,135 @@
             "sliceAssetId": "{6DB8B27F-D91E-5B37-BEF3-755BE7BFD7B5}:2"
         },
         {
-            "id": "ea936fb7-99f5-91f6-00d0-4ccbd3cdd3dc",
+            "id": "b3782807-2666-e42c-31a4-6f7d61c8af00",
             "worldPosition": {
-                "x": 9873.2119140625,
-                "y": 3454.84765625,
+                "x": 9858.1484375,
+                "y": 3427.080078125,
                 "z": 132.83438110351563
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.51527339220047,
-                "w": 0.8570258617401123
+                "z": 0.4773999750614166,
+                "w": 0.8786860704421997
             },
             "footprint": {
-                "type": "Circle",
-                "id": "91c61ba7-8983-103d-a32e-9e495586e6be",
-                "radius": 0.0
+                "type": "Rectangle",
+                "id": "9ea5438f-e8bf-aa28-f828-5af037a4af84",
+                "width": 20.0,
+                "height": 20.0
             },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Span_B",
-            "sliceAssetId": "{9BFDD9D9-9EAF-54B4-B667-3C16AC0C6FE8}:2"
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
+            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
         },
         {
-            "id": "810eee11-f9a7-6529-10d5-bd690e0eb5d5",
+            "id": "e4e3ba75-30bc-47c5-1440-924f427bf8d2",
             "worldPosition": {
-                "x": 9858.41015625,
-                "y": 3426.9658203125,
+                "x": 9872.9501953125,
+                "y": 3454.9619140625,
                 "z": 132.83438110351563
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.43861788511276247,
-                "w": 0.8986736536026001
+                "z": 0.5521659255027771,
+                "w": 0.8337342739105225
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "0884018c-554e-7173-0694-9b51e4d81a48",
+                "width": 20.0,
+                "height": 20.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
+            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
+        },
+        {
+            "id": "b1fbaff9-4c66-56ec-bc93-818448b5750e",
+            "worldPosition": {
+                "x": 9838.689453125,
+                "y": 3402.173828125,
+                "z": 132.83438110351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.3990008234977722,
+                "w": 0.9169505834579468
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "855cc391-147e-9642-9229-b5b9e0660830",
+                "width": 20.0,
+                "height": 20.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
+            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
+        },
+        {
+            "id": "2da12263-4ad5-c886-5ba1-e28a2d12a84b",
+            "worldPosition": {
+                "x": 9732.59765625,
+                "y": 3306.482666015625,
+                "z": 122.10417175292969
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.35862427949905398,
+                "w": 0.9334819912910461
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "1ccbd0d9-59e8-8ede-c3c1-38d42a1e6854",
+                "width": 20.0,
+                "height": 20.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_A",
+            "sliceAssetId": "{B1401998-88FE-5AF5-9DBF-212A63118103}:2"
+        },
+        {
+            "id": "3674baad-d388-c59c-39ed-7fcd59fc0ece",
+            "worldPosition": {
+                "x": 9770.064453125,
+                "y": 3503.0625,
+                "z": 131.48692321777345
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9483235478401184,
+                "w": 0.3173050284385681
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "7dd51468-900c-9a9b-21d3-8573a1e9d5f8",
+                "width": 45.0,
+                "height": 42.0
+            },
+            "sliceName": "slices/POIs/Ancient/Towers/Ancient_Tower_Greatplains_B_Master",
+            "sliceAssetId": "{26519F98-302B-5AC6-9E5A-D84EF0693C1B}:2"
+        },
+        {
+            "id": "678d5ff8-1477-f664-ff98-b1b74c237649",
+            "worldPosition": {
+                "x": 9874.0869140625,
+                "y": 3454.789794921875,
+                "z": 132.83438110351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8088555932044983,
+                "w": 0.588007390499115
             },
             "footprint": {
                 "type": "Circle",
-                "id": "fd4203d2-2fdc-a0ba-8d8d-827558231458",
+                "id": "6f6096f4-a5fa-85b8-33a9-f7b2b74acce7",
                 "radius": 0.0
             },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Span_B",
-            "sliceAssetId": "{9BFDD9D9-9EAF-54B4-B667-3C16AC0C6FE8}:2"
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Arch_Brk_A",
+            "sliceAssetId": "{906CFEAE-8FBE-520A-BAEC-D3A7D5977B9F}:2"
         },
         {
             "id": "ce3219ce-fe2f-e245-3a72-1e562451967c",
@@ -1455,6 +1052,167 @@
             },
             "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Span_Brk_A",
             "sliceAssetId": "{85A38AC6-479E-593E-A95D-A94DB9000574}:2"
+        },
+        {
+            "id": "c59215f2-8be9-ded8-e3bc-db0cb6b94bf7",
+            "worldPosition": {
+                "x": 9972.76953125,
+                "y": 3216.05859375,
+                "z": 166.50091552734376
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7933529019355774,
+                "w": 0.6087620258331299
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "69997ae7-9be7-e5c5-c351-3b7663868b5c",
+                "width": 30.0,
+                "height": 15.0
+            },
+            "sliceName": "CoatGen\\85443a18\\Haunted_Graveyard_HillTop_c59215f28be9ded8e3bcdb0cb6b94bf7",
+            "sliceAssetId": "{7607F021-A6D0-5C77-B6B9-B155F0FA0A5D}:b94bf7",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "703a25a2-5e19-61ad-5fed-ec02e3fbe955",
+            "worldPosition": {
+                "x": 9891.4267578125,
+                "y": 3510.94970703125,
+                "z": 132.83438110351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5880073308944702,
+                "w": 0.8088555932044983
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ab540136-e274-9875-ce52-90572530bf2f",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_Brk_AA",
+            "sliceAssetId": "{4519843C-081C-5DF9-9E4F-2C99DE0AD833}:2"
+        },
+        {
+            "id": "b5d9aa2f-a90c-85fe-efe4-707160b52b9b",
+            "worldPosition": {
+                "x": 9991.46875,
+                "y": 3297.81982421875,
+                "z": 155.89102172851563
+            },
+            "rotation": {
+                "x": 0.018678175285458566,
+                "y": -0.05616283789277077,
+                "z": -0.7129977345466614,
+                "w": 0.6986637711524963
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8e326b1d-99d4-e45b-48b7-0044fcde8003",
+                "radius": 4.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_F",
+            "sliceAssetId": "{B5FA1B8A-9CAE-5A00-B3B2-9E80542F8995}:2",
+            "cookie": {
+                "innerRadius": 3.0,
+                "outerRadius": 10.0,
+                "maxHeightBlend": 0.25,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0
+            }
+        },
+        {
+            "id": "fbaeb3d7-e3aa-0526-734b-0c5395d63812",
+            "worldPosition": {
+                "x": 9991.474609375,
+                "y": 3302.71337890625,
+                "z": 154.31658935546876
+            },
+            "rotation": {
+                "x": 0.09129711240530014,
+                "y": 0.20275898277759553,
+                "z": 0.9082672595977783,
+                "w": -0.3544069230556488
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "58996633-b172-4f10-01a3-a241ed26e4f1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_GraveStone_C",
+            "sliceAssetId": "{98E5900F-1087-53D4-A07F-A167981CCDC1}:2"
+        },
+        {
+            "id": "7520c6bd-a0e6-11b8-4873-b6c1dd142a85",
+            "worldPosition": {
+                "x": 10007.568359375,
+                "y": 3253.437744140625,
+                "z": 160.22177124023438
+            },
+            "rotation": {
+                "x": -0.007095532491803169,
+                "y": 0.024135390296578409,
+                "z": 0.3006105422973633,
+                "w": 0.9534150958061218
+            },
+            "scale": 1.1999987363815308,
+            "footprint": {
+                "type": "Circle",
+                "id": "cb2ff5b2-9aef-6c6d-a17d-17f71f50da94",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_GraveStone_A",
+            "sliceAssetId": "{4936A3F8-AAF4-5E71-A808-5C8ACA627F7A}:2"
+        },
+        {
+            "id": "3ecfdc94-f047-b00e-3d2d-e2fe10426712",
+            "worldPosition": {
+                "x": 10008.9921875,
+                "y": 3300.14794921875,
+                "z": 156.82716369628907
+            },
+            "rotation": {
+                "x": -0.20067833364009858,
+                "y": -0.08130589127540589,
+                "z": 0.859833836555481,
+                "w": 0.4623887836933136
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e6bafdbc-735b-3110-e253-cd61934c7449",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_GraveStone_A",
+            "sliceAssetId": "{4936A3F8-AAF4-5E71-A808-5C8ACA627F7A}:2"
+        },
+        {
+            "id": "f096d846-6454-f02f-50f8-b82aaf6c4420",
+            "worldPosition": {
+                "x": 9774.98046875,
+                "y": 3344.3955078125,
+                "z": 126.40925598144531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.35862427949905398,
+                "w": 0.9334819912910461
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "1e27129d-8afc-fa77-80e2-bee799b0a5e8",
+                "width": 20.0,
+                "height": 20.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_Brk_B",
+            "sliceAssetId": "{6836794C-AC7F-52DC-9FBF-10E5BBDE382B}:2"
         },
         {
             "id": "63d4c445-4c4e-c69b-bff3-e758100c151b",
@@ -1501,47 +1259,111 @@
             "sliceAssetId": "{DC1F3025-D17F-5FDC-985B-B232DFEE7693}:2"
         },
         {
-            "id": "7520c6bd-a0e6-11b8-4873-b6c1dd142a85",
+            "id": "88854de3-f8b2-1c1d-704f-4701a40e5c36",
             "worldPosition": {
-                "x": 10007.5810546875,
-                "y": 3253.4462890625,
-                "z": 160.52291870117188
-            },
-            "rotation": {
-                "x": -0.007095532491803169,
-                "y": 0.024135390296578409,
-                "z": 0.3006105422973633,
-                "w": 0.9534150958061218
-            },
-            "scale": 1.1999987363815308,
-            "footprint": {
-                "type": "Circle",
-                "id": "cb2ff5b2-9aef-6c6d-a17d-17f71f50da94",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_GraveStone_A",
-            "sliceAssetId": "{4936A3F8-AAF4-5E71-A808-5C8ACA627F7A}:2"
-        },
-        {
-            "id": "3ecfdc94-f047-b00e-3d2d-e2fe10426712",
-            "worldPosition": {
-                "x": 10009.5849609375,
-                "y": 3302.347900390625,
-                "z": 156.50233459472657
+                "x": 10007.8486328125,
+                "y": 3295.484619140625,
+                "z": 155.31524658203126
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.38268348574638369,
+                "w": 0.9238795042037964
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "c00f4b2a-2b52-b0bd-0961-9e0f8f834d67",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_B",
+            "sliceAssetId": "{783C06CB-3E6B-5866-8242-77199F164C79}:2"
+        },
+        {
+            "id": "05c61d8a-3c80-6f5a-0c68-5f2e46d43a3d",
+            "worldPosition": {
+                "x": 9997.17578125,
+                "y": 3254.304443359375,
+                "z": 159.9296417236328
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.08715634793043137,
+                "w": 0.9961946606636047
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e6bafdbc-735b-3110-e253-cd61934c7449",
+                "id": "d8a90b5f-2924-28a9-0d5e-0ab1d4ce7881",
+                "radius": 2.0
+            },
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_C",
+            "sliceAssetId": "{74337507-22AD-57C4-A970-43441BF09533}:2"
+        },
+        {
+            "id": "19a9cc0f-d3c0-ea3a-d100-9db47de86f27",
+            "worldPosition": {
+                "x": 9963.90625,
+                "y": 3225.9951171875,
+                "z": 163.31509399414063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.748955249786377,
+                "w": 0.6626205444335938
+            },
+            "scale": 1.25,
+            "footprint": {
+                "type": "Circle",
+                "id": "285884d9-34fd-51ca-6e49-0d80ed9869fa",
                 "radius": 1.0
             },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_GraveStone_A",
-            "sliceAssetId": "{4936A3F8-AAF4-5E71-A808-5C8ACA627F7A}:2"
+            "sliceName": "CoatGen\\85443a18\\Jav_prp_Island_grave_Gravestone_LG_C_19a9cc0fd3c0ea3ad1009db47de86f27",
+            "sliceAssetId": "{7607F021-A6D0-5C77-B6B9-B155F0FA0A5D}:e86f27"
+        },
+        {
+            "id": "810eee11-f9a7-6529-10d5-bd690e0eb5d5",
+            "worldPosition": {
+                "x": 9858.41015625,
+                "y": 3426.9658203125,
+                "z": 132.83438110351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.43861788511276247,
+                "w": 0.8986736536026001
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "fd4203d2-2fdc-a0ba-8d8d-827558231458",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Span_B",
+            "sliceAssetId": "{9BFDD9D9-9EAF-54B4-B667-3C16AC0C6FE8}:2"
+        },
+        {
+            "id": "ea936fb7-99f5-91f6-00d0-4ccbd3cdd3dc",
+            "worldPosition": {
+                "x": 9873.2119140625,
+                "y": 3454.84765625,
+                "z": 132.83438110351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.51527339220047,
+                "w": 0.8570258617401123
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "91c61ba7-8983-103d-a32e-9e495586e6be",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Span_B",
+            "sliceAssetId": "{9BFDD9D9-9EAF-54B4-B667-3C16AC0C6FE8}:2"
         },
         {
             "id": "404bba3e-3a86-ac59-61bf-fea8e7af10bd",
@@ -1565,176 +1387,47 @@
             "sliceAssetId": "{BE5E0417-6501-57DE-801A-64F76F98125D}:2"
         },
         {
-            "id": "8c666991-9abb-8b34-e1bc-b2459d143bd1",
+            "id": "3e8edd72-8e9c-12a0-7499-f99371d1798f",
             "worldPosition": {
-                "x": 9990.7646484375,
-                "y": 3367.699462890625,
-                "z": 134.6324005126953
+                "x": 9709.740234375,
+                "y": 3286.13818359375,
+                "z": 120.13626098632813
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a3a733ad-dc82-0150-13d3-1414a8efad7c",
-                "radius": 5.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/Farming/Struc_outhouse_abnd_b",
-            "sliceAssetId": "{E02BBABD-52E4-554B-97F8-D8D70A8C0CAF}:2",
-            "cookie": {
-                "innerRadius": 3.0,
-                "outerRadius": 5.0,
-                "maxHeightBlend": 0.75
-            },
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "376d4bb3-40b8-eefe-3b5e-31967e025360",
-            "worldPosition": {
-                "x": 9961.6240234375,
-                "y": 3401.9150390625,
-                "z": 135.1632537841797
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
+                "z": 0.32582783699035647,
+                "w": 0.9454291462898254
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "609c6121-c887-9721-d4f9-c52b343d52f0",
-                "width": 9.0,
-                "height": 12.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Storage_Structures/struc_shed_abnd_e",
-            "sliceAssetId": "{1816B168-632D-5084-B15D-A6CBA25FF68E}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c59215f2-8be9-ded8-e3bc-db0cb6b94bf7",
-            "worldPosition": {
-                "x": 9972.76953125,
-                "y": 3216.05859375,
-                "z": 166.50091552734376
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7933529019355774,
-                "w": 0.6087620258331299
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "69997ae7-9be7-e5c5-c351-3b7663868b5c",
-                "width": 30.0,
-                "height": 15.0
-            },
-            "sliceName": "CoatGen\\85443a18\\Haunted_Graveyard_HillTop_c59215f28be9ded8e3bcdb0cb6b94bf7",
-            "sliceAssetId": "{7607F021-A6D0-5C77-B6B9-B155F0FA0A5D}:b94bf7",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f096d846-6454-f02f-50f8-b82aaf6c4420",
-            "worldPosition": {
-                "x": 9774.98046875,
-                "y": 3344.3955078125,
-                "z": 126.40925598144531
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.35862427949905398,
-                "w": 0.9334819912910461
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1e27129d-8afc-fa77-80e2-bee799b0a5e8",
+                "id": "055d32c0-e0e1-a5f0-a112-0cbbb33d2a3a",
                 "width": 20.0,
                 "height": 20.0
             },
-            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Kit_Column_Brk_B",
-            "sliceAssetId": "{6836794C-AC7F-52DC-9FBF-10E5BBDE382B}:2"
+            "sliceName": "slices/POIs/Ancient/Aquaduct/Ancient_Aquaduct_Combined_Slope_A",
+            "sliceAssetId": "{204209F3-2510-5F74-B91A-9448A3310937}:2"
         },
         {
-            "id": "3674baad-d388-c59c-39ed-7fcd59fc0ece",
+            "id": "7de1515c-13b9-51a2-cc99-4c004108800d",
             "worldPosition": {
-                "x": 9770.064453125,
-                "y": 3503.0625,
-                "z": 131.48692321777345
+                "x": 10005.3623046875,
+                "y": 3302.765380859375,
+                "z": 154.9091796875
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9483235478401184,
-                "w": 0.3173050284385681
+                "z": -0.3420202136039734,
+                "w": 0.9396926164627075
             },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "7dd51468-900c-9a9b-21d3-8573a1e9d5f8",
-                "width": 45.0,
-                "height": 42.0
-            },
-            "sliceName": "slices/POIs/Ancient/Towers/Ancient_Tower_Greatplains_B_Master",
-            "sliceAssetId": "{26519F98-302B-5AC6-9E5A-D84EF0693C1B}:2"
-        },
-        {
-            "id": "fbaeb3d7-e3aa-0526-734b-0c5395d63812",
-            "worldPosition": {
-                "x": 10004.9443359375,
-                "y": 3305.60205078125,
-                "z": 154.45640563964845
-            },
-            "rotation": {
-                "x": -0.034101519733667377,
-                "y": 0.0922086238861084,
-                "z": 0.9948865175247192,
-                "w": 0.023139309138059617
-            },
-            "scale": 0.9999998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "58996633-b172-4f10-01a3-a241ed26e4f1",
-                "radius": 1.0
+                "id": "b10042db-e72e-9765-f81d-5bb430711555",
+                "radius": 10.0
             },
-            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_GraveStone_C",
-            "sliceAssetId": "{98E5900F-1087-53D4-A07F-A167981CCDC1}:2"
-        },
-        {
-            "id": "d17c58cf-394f-7883-83a8-83bfffbe394a",
-            "worldPosition": {
-                "x": 9948.21484375,
-                "y": 3399.239013671875,
-                "z": 134.5264434814453
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "9b4a52b2-8a62-75f9-3ad3-3b93afc76cd9",
-                "width": 6.0,
-                "height": 7.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Storage_Structures/Storage_Shed_Group_B",
-            "sliceAssetId": "{8F19FC33-1596-523B-9D6B-88E6E497D6F2}:2",
-            "cookie": {
-                "innerRadius": 1.0,
-                "outerRadius": 2.0,
-                "maxHeightBlend": 1.0
-            }
+            "sliceName": "slices/Landmarks/Weavers_Grave_Site_Claim/Jav_prp_Island_grave_Gravestone_LG_A",
+            "sliceAssetId": "{AD53E4B8-E893-5FFB-A987-6B32432BA974}:2"
         }
     ]
 }

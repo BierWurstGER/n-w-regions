@@ -1,11 +1,32 @@
 {
     "Capitals": [
         {
-            "id": "49545cfd-c297-b6a2-7954-d223af947258",
+            "id": "afe041c9-9352-de18-a1c7-02361d341f59",
             "worldPosition": {
-                "x": 9984.8388671875,
-                "y": 3291.253662109375,
-                "z": 162.17225646972657
+                "x": 10064.8466796875,
+                "y": 3143.253662109375,
+                "z": 161.64175415039063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.01396220549941063,
+                "z": 0.0,
+                "w": 0.9999025464057922
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7ba3b4ed-78af-f5af-06ef-3b71ef21a06a",
+                "radius": 0.0
+            },
+            "sliceName": "CoatGen\\2362055d\\POI_TOD_Everfall_A_afe041c99352de18a1c702361d341f59",
+            "sliceAssetId": "{8AC0CDB8-9860-5C46-8A73-55B343A5A9B8}:341f59"
+        },
+        {
+            "id": "8405f537-cab4-42a1-1cd4-5b4a48f0f2b8",
+            "worldPosition": {
+                "x": 9049.0,
+                "y": 3966.0,
+                "z": 104.0
             },
             "rotation": {
                 "x": 0.0,
@@ -15,11 +36,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "a5d0bcf4-b9a6-3615-f5d1-b829bddc95d5",
+                "id": "f3da5904-233a-5893-b19b-6597e5a8b44a",
                 "radius": 0.0
             },
-            "sliceName": "CoatGen\\2362055d\\Brightwoods_Haunted_ToD_A_49545cfdc297b6a27954d223af947258",
-            "sliceAssetId": "{8AC0CDB8-9860-5C46-8A73-55B343A5A9B8}:947258"
+            "sliceName": "slices/POI/TimeOfDay/POI_TOD_Everfall_A",
+            "sliceAssetId": "{59474822-D69E-5B54-8455-26543B3CCC55}:2"
         },
         {
             "id": "fced9f32-a243-0143-5e21-041fc4db80b1",
@@ -37,6 +58,27 @@
             "footprint": {
                 "type": "Circle",
                 "id": "cc476da6-5e53-ac42-4f64-41161972e4a7",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POI/TimeOfDay/POI_TOD_Everfall_A",
+            "sliceAssetId": "{59474822-D69E-5B54-8455-26543B3CCC55}:2"
+        },
+        {
+            "id": "6a4c07be-91a9-9bec-ea1f-a8735a74b7db",
+            "worldPosition": {
+                "x": 8730.0,
+                "y": 4045.0,
+                "z": 104.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "de4d7258-bdf0-9d80-5eb0-9ebbbb0d07da",
                 "radius": 0.0
             },
             "sliceName": "slices/POI/TimeOfDay/POI_TOD_Everfall_A",
@@ -85,32 +127,33 @@
             "sliceAssetId": "{59474822-D69E-5B54-8455-26543B3CCC55}:2"
         },
         {
-            "id": "8405f537-cab4-42a1-1cd4-5b4a48f0f2b8",
+            "id": "d6be3260-b34e-6a09-c50c-17d2247ab513",
             "worldPosition": {
-                "x": 9049.0,
-                "y": 3966.0,
-                "z": 104.0
+                "x": 9963.6904296875,
+                "y": 3264.0107421875,
+                "z": 160.81497192382813
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.8870108127593994,
+                "w": 0.4617486000061035
             },
+            "scale": 0.6999998092651367,
             "footprint": {
                 "type": "Circle",
-                "id": "f3da5904-233a-5893-b19b-6597e5a8b44a",
+                "id": "76870c03-d6b5-f28f-f4b1-85940b725770",
                 "radius": 0.0
             },
-            "sliceName": "slices/POI/TimeOfDay/POI_TOD_Everfall_A",
-            "sliceAssetId": "{59474822-D69E-5B54-8455-26543B3CCC55}:2"
+            "sliceName": "CoatGen\\2362055d\\Haunted_Fog02_d6be3260b34e6a09c50c17d2247ab513",
+            "sliceAssetId": "{8AC0CDB8-9860-5C46-8A73-55B343A5A9B8}:7ab513"
         },
         {
-            "id": "6a4c07be-91a9-9bec-ea1f-a8735a74b7db",
+            "id": "49545cfd-c297-b6a2-7954-d223af947258",
             "worldPosition": {
-                "x": 8730.0,
-                "y": 4045.0,
-                "z": 104.0
+                "x": 9984.8388671875,
+                "y": 3291.253662109375,
+                "z": 162.17225646972657
             },
             "rotation": {
                 "x": 0.0,
@@ -120,11 +163,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "de4d7258-bdf0-9d80-5eb0-9ebbbb0d07da",
+                "id": "a5d0bcf4-b9a6-3615-f5d1-b829bddc95d5",
                 "radius": 0.0
             },
-            "sliceName": "slices/POI/TimeOfDay/POI_TOD_Everfall_A",
-            "sliceAssetId": "{59474822-D69E-5B54-8455-26543B3CCC55}:2"
+            "sliceName": "CoatGen\\2362055d\\Brightwoods_Haunted_ToD_A_49545cfdc297b6a27954d223af947258",
+            "sliceAssetId": "{8AC0CDB8-9860-5C46-8A73-55B343A5A9B8}:947258"
         },
         {
             "id": "c40c44bd-1a5b-25bd-03db-aa15dd0e39aa",
@@ -146,27 +189,6 @@
             },
             "sliceName": "slices/POI/TimeOfDay/POI_TOD_Beach_A",
             "sliceAssetId": "{67BFE0CF-3919-5530-AA52-86264211EF55}:2"
-        },
-        {
-            "id": "d6be3260-b34e-6a09-c50c-17d2247ab513",
-            "worldPosition": {
-                "x": 9976.0,
-                "y": 3243.0,
-                "z": 160.81497192382813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "76870c03-d6b5-f28f-f4b1-85940b725770",
-                "radius": 0.0
-            },
-            "sliceName": "CoatGen\\2362055d\\Haunted_Fog02_d6be3260b34e6a09c50c17d2247ab513",
-            "sliceAssetId": "{8AC0CDB8-9860-5C46-8A73-55B343A5A9B8}:7ab513"
         }
     ]
 }

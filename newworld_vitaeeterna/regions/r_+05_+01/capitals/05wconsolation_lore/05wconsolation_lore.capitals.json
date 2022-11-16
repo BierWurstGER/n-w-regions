@@ -1,61 +1,636 @@
 {
     "Capitals": [
         {
-            "id": "ca8577e3-64aa-a020-0a33-f47e233d44a0",
+            "id": "6360bcdc-4a1f-faf7-ea31-8d4878fa2641",
             "worldPosition": {
-                "x": 10581.9541015625,
-                "y": 3785.6484375,
-                "z": 282.0921630859375
+                "x": 10368.6953125,
+                "y": 3353.745849609375,
+                "z": 107.62664031982422
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9848077297210693,
-                "w": 0.17364822328090669
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "6ef64e97-e205-5a86-a999-086f100923fd",
-                "width": 0.0,
-                "height": 0.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/AncientMap/IO_WorldEvent_0510_AncientMap_00",
-            "sliceAssetId": "{07BDDCDE-2B01-58FD-9692-B89A4D96AA43}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "dc615931-6736-342f-01d5-729098166e6c",
-            "worldPosition": {
-                "x": 10787.2890625,
-                "y": 3182.605712890625,
-                "z": 92.10746002197266
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.882947564125061,
-                "w": -0.4694715738296509
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "bc26ee40-5279-3fff-9dc5-fbb1bee2905f",
+                "id": "29d9c9f5-ed41-a8ab-3bf8-f83cd0b430b7",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/StoneWallTablet/IO_WorldEvent_0514_StoneWallTablet_00",
-            "sliceAssetId": "{34B4DB1B-6D7A-5507-B159-58353640EE68}:2",
+            "sliceName": "slices/WorldEvents/Missions/Interact/PKTraceAbsorber/IO_WorldEvent_9801_PKTraceAbsorberB_00",
+            "sliceAssetId": "{E8B6310A-C205-56C7-9799-90941687F1CD}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "b524d212-e62c-02b8-b9cb-8c1fea1ec93c",
+            "id": "13585f95-11cf-4a69-b497-bcfb409a8d17",
             "worldPosition": {
-                "x": 10723.326171875,
-                "y": 3231.640625,
-                "z": 84.03463745117188
+                "x": 11625.7890625,
+                "y": 3347.416748046875,
+                "z": 56.11458969116211
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "087b4215-4612-e153-59e7-b341c35131dd",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "346c2921-edc8-2065-bc99-2eb8882ed893",
+            "worldPosition": {
+                "x": 11620.1162109375,
+                "y": 3278.203369140625,
+                "z": 54.181766510009769
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9998477101325989,
+                "w": 0.017452383413910867
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "3cf6eb3a-624b-974b-9452-3a329b924dab",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a427d9f3-1093-3ed6-02b3-1871c64a3f24",
+            "worldPosition": {
+                "x": 11614.7548828125,
+                "y": 3317.7314453125,
+                "z": 54.30347442626953
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.5150380730628967,
+                "w": 0.8571673631668091
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "511199b8-234c-b747-097d-6b9363db4cea",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "7ccd8009-b6a1-af60-5c03-65c01f5a6f12",
+            "worldPosition": {
+                "x": 11458.306640625,
+                "y": 3302.912841796875,
+                "z": 61.3198356628418
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.32556819915771487,
+                "w": 0.9455185532569885
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "0794d2b8-92f7-d907-7b1f-96918e870e5c",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "9c45c3ba-a86b-b146-a027-2f3359ddb16e",
+            "worldPosition": {
+                "x": 11583.4755859375,
+                "y": 3323.881103515625,
+                "z": 57.062538146972659
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9702957272529602,
+                "w": 0.24192191660404206
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "dd83fa5f-8bfb-656b-301d-be085a8d3eb5",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c94f763c-3465-ef7d-7b19-29d824eaf2e1",
+            "worldPosition": {
+                "x": 11472.6630859375,
+                "y": 3388.930419921875,
+                "z": 60.02473449707031
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.13917310535907746,
+                "w": 0.9902681112289429
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "c28a8f64-afb7-da00-0f7e-ddcc7f459b7b",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "487174e0-33aa-4fd0-db18-d9d51af66a1b",
+            "worldPosition": {
+                "x": 11473.8193359375,
+                "y": 3386.366455078125,
+                "z": 63.68437576293945
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "e695ef9f-2ec7-acf3-81f1-87c4fc81e41f",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "51cc2ae4-6743-d193-bc1e-88d0b9cd8c30",
+            "worldPosition": {
+                "x": 11528.1796875,
+                "y": 3369.09814453125,
+                "z": 51.918067932128909
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.4226182699203491,
+                "w": 0.9063078165054321
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "59d43aa9-abe6-a597-4ede-abaef9e9d1c1",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f10bfec5-d811-b938-31ec-3dcfc868f818",
+            "worldPosition": {
+                "x": 11496.158203125,
+                "y": 3364.776611328125,
+                "z": 53.382450103759769
+            },
+            "rotation": {
+                "x": -0.0010276965331286193,
+                "y": -0.0013635973446071149,
+                "z": -0.329818457365036,
+                "w": 0.9440428614616394
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "0672ac9e-00e2-c02f-e60a-ea153ede0f8b",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e0b74b75-0c79-3b8c-684e-2babfb8068c5",
+            "worldPosition": {
+                "x": 11615.34375,
+                "y": 3318.101806640625,
+                "z": 57.95573806762695
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.809016764163971,
+                "w": 0.587785542011261
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "721cd010-772a-bb5c-a8b0-ee380a64c976",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d75024ef-20a0-4093-4ba3-196cff76179d",
+            "worldPosition": {
+                "x": 11636.04296875,
+                "y": 3293.078369140625,
+                "z": 54.236751556396487
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4694715738296509,
+                "w": 0.882947564125061
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "8c06e1e5-5ed3-bbb8-879c-28ec7a40f37c",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "5c435032-9925-3f27-e4e9-7e5b614e16a9",
+            "worldPosition": {
+                "x": 11595.0224609375,
+                "y": 3319.951904296875,
+                "z": 54.320289611816409
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "1a21e223-f217-cf2c-a997-02051a6a4947",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "aa64770f-2609-eac1-98a7-af174a485755",
+            "worldPosition": {
+                "x": 11442.6005859375,
+                "y": 3366.16943359375,
+                "z": 64.77388000488281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b7b8c6e9-4256-ba47-0f0b-66dc0ffab7aa",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "787c5c2d-b9e0-2f8c-618b-5e4eccade589",
+            "worldPosition": {
+                "x": 11456.3134765625,
+                "y": 3360.89306640625,
+                "z": 52.08235168457031
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9975640177726746,
+                "w": 0.06975651532411576
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "88aa6287-292d-ce09-69c5-bd40f6811a56",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
+            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "82c7fcc7-4b70-db14-e97f-d3c03c504bc4",
+            "worldPosition": {
+                "x": 11999.9267578125,
+                "y": 2672.506591796875,
+                "z": 96.86365509033203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 17.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "8286b1de-b28a-8682-af6a-c9d8c33b7328",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_82c7fcc74b70db14e97fd3c03c504bc4",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:504bc4"
+        },
+        {
+            "id": "603eb4c3-16ba-61a4-56af-e57b50dfeff3",
+            "worldPosition": {
+                "x": 11836.7177734375,
+                "y": 3974.515380859375,
+                "z": 86.1632080078125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 6.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "62efc15e-034a-5fb1-38b9-41990e45135c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_603eb4c316ba61a456afe57b50dfeff3",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:dfeff3"
+        },
+        {
+            "id": "557cc979-bae9-a1cf-f25c-f19254b7af78",
+            "worldPosition": {
+                "x": 12010.43359375,
+                "y": 3014.3388671875,
+                "z": 69.96399688720703
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.08715634047985077,
+                "w": 0.9961946606636047
+            },
+            "scale": 3.000000238418579,
+            "footprint": {
+                "type": "Circle",
+                "id": "8323d8c8-4a19-0a6c-80af-4673a1666470",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_557cc979bae9a1cff25cf19254b7af78",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:b7af78"
+        },
+        {
+            "id": "ba24283f-e751-4885-d601-6d064756d637",
+            "worldPosition": {
+                "x": 11794.62109375,
+                "y": 3782.370361328125,
+                "z": 69.81600189208985
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 6.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "1d4820f7-73ec-f10b-b350-0028cea1f8b5",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_ba24283fe7514885d6016d064756d637",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:56d637"
+        },
+        {
+            "id": "6ef7084b-4b13-602a-2d48-29cff5a893e3",
+            "worldPosition": {
+                "x": 12001.4033203125,
+                "y": 2867.28662109375,
+                "z": 86.75776672363281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.08715634047985077,
+                "w": 0.9961946606636047
+            },
+            "scale": 6.000000476837158,
+            "footprint": {
+                "type": "Circle",
+                "id": "28bfee17-1224-0f75-cf90-b27be3184fbf",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_6ef7084b4b13602a2d4829cff5a893e3",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:a893e3"
+        },
+        {
+            "id": "e322adc0-8fe0-f98f-7bc3-0034c151c23f",
+            "worldPosition": {
+                "x": 12025.3291015625,
+                "y": 3059.468994140625,
+                "z": 69.96399688720703
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 6.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "34772bf5-a65a-34c7-ed67-b7902baab79f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_e322adc08fe0f98f7bc30034c151c23f",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:51c23f"
+        },
+        {
+            "id": "31237b93-9cb0-3ec8-55e4-841bd2a6750c",
+            "worldPosition": {
+                "x": 11824.4150390625,
+                "y": 3151.86279296875,
+                "z": 71.26000213623047
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070579051971438,
+                "w": 0.9537169933319092
+            },
+            "scale": 6.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "44a9476f-08d3-fbc4-e664-ac7c664f16b6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_31237b939cb03ec855e4841bd2a6750c",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:a6750c"
+        },
+        {
+            "id": "4ed973b0-5163-4fdb-f76b-0206345d1198",
+            "worldPosition": {
+                "x": 11655.9482421875,
+                "y": 3697.21337890625,
+                "z": 96.17903900146485
+            },
+            "rotation": {
+                "x": 0.40673667192459109,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9135454297065735
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "88e32f6c-8d4f-8fda-c69d-fad2cf585134",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "10110b3c-1564-1fa9-0ab0-6b4c5db6eaf5",
+            "worldPosition": {
+                "x": 11585.8603515625,
+                "y": 3701.8515625,
+                "z": 101.93370056152344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.43837109208106997,
+                "z": 0.0,
+                "w": 0.8987941145896912
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "77d0579f-c20a-a3da-c320-7306a2565335",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "60c62638-d81c-05ed-b0ed-a4fe1c28ca04",
+            "worldPosition": {
+                "x": 11588.3896484375,
+                "y": 3718.472412109375,
+                "z": 101.03759765625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.15643443167209626,
+                "z": 0.0,
+                "w": 0.9876883029937744
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "67a53281-60f6-9901-b0a9-5d84a24a4b29",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "34775bf6-b979-a2e4-ff46-1f5ca957b45c",
+            "worldPosition": {
+                "x": 11658.4013671875,
+                "y": 3675.436279296875,
+                "z": 91.9873046875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.3746069073677063,
+                "z": 0.0,
+                "w": 0.9271837472915649
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "871300df-77e1-4af4-20ae-7bee63a41184",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "8eec7833-c2b3-e9ea-d1af-c0c3326ebfc7",
+            "worldPosition": {
+                "x": 11623.9345703125,
+                "y": 3721.585205078125,
+                "z": 97.07861328125
             },
             "rotation": {
                 "x": 0.0,
@@ -65,7 +640,223 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "4f97276b-598f-14ce-7f55-0f8e6d89fff8",
+                "id": "386f2306-8cc3-4aec-e692-584a8d0a677f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "5af34917-7ce7-ab93-85ef-065bb3e5f4c4",
+            "worldPosition": {
+                "x": 11564.076171875,
+                "y": 3663.845703125,
+                "z": 107.587890625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.5591928958892822,
+                "z": 0.0,
+                "w": 0.829037606716156
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "41797545-fe3b-ca71-66e9-7624a14c063d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f2c9a777-d044-6962-7c56-d5863c024c5d",
+            "worldPosition": {
+                "x": 11609.107421875,
+                "y": 3669.382568359375,
+                "z": 98.8369140625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.5,
+                "z": 0.0,
+                "w": 0.8660253882408142
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0070adf5-5a0f-e239-95fb-ad574a17757a",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "353bfcef-0637-3c41-98e2-03d534345126",
+            "worldPosition": {
+                "x": 11645.9912109375,
+                "y": 3717.12890625,
+                "z": 96.4468765258789
+            },
+            "rotation": {
+                "x": 0.22885605692863465,
+                "y": -0.25417062640190127,
+                "z": 0.6287771463394165,
+                "w": 0.6983276605606079
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "81a1f3e7-b22d-e739-8f57-b8551cefed7b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "27a49879-38fc-486b-56f2-0e6bcfff0b67",
+            "worldPosition": {
+                "x": 11642.703125,
+                "y": 3668.378662109375,
+                "z": 92.75516510009766
+            },
+            "rotation": {
+                "x": -0.17564083635807038,
+                "y": 0.07455508410930634,
+                "z": 0.9035924673080444,
+                "w": -0.3835524916648865
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aaf20cf7-8ba5-bee6-1b03-4b29f3af81b9",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "8d42c11c-1140-c9b7-6b9e-504f56ffdd11",
+            "worldPosition": {
+                "x": 11564.701171875,
+                "y": 3694.9404296875,
+                "z": 105.74922943115235
+            },
+            "rotation": {
+                "x": 0.27563735842704775,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9612616896629334
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "494063b4-bcd8-b2f4-79f2-b419fefd2eee",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e0d08d86-e8d8-19a0-a961-5a93355f536f",
+            "worldPosition": {
+                "x": 11574.53125,
+                "y": 3683.240966796875,
+                "z": 102.71512603759766
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3e1bd926-a834-7696-9e80-bfa91267f43f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "930d1d90-f76c-45a5-6488-d87d1b40273e",
+            "worldPosition": {
+                "x": 11590.3681640625,
+                "y": 3660.76611328125,
+                "z": 98.11575317382813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7880107164382935,
+                "w": 0.6156615018844605
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9baf8f98-7a58-aac0-7747-cb01c250a564",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f29072f9-b959-421b-e84e-6c23f2d75fa1",
+            "worldPosition": {
+                "x": 11669.45703125,
+                "y": 3672.468017578125,
+                "z": 92.78401184082031
+            },
+            "rotation": {
+                "x": 0.27563735842704775,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9612616896629334
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6fd99de1-522b-5265-f8ae-c90841ffbe12",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
+            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "877162f2-92da-8caa-692b-1697a0451194",
+            "worldPosition": {
+                "x": 10756.8017578125,
+                "y": 3157.373046875,
+                "z": 85.09487915039063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f528b92c-d419-9667-9dc0-a6412a174c5d",
                 "radius": 0.5
             },
             "sliceName": "slices/WorldEvents/Reekwater/Interact/StoneTablet/IO_WorldEvent_0509_StoneTablet_00",
@@ -100,22 +891,23 @@
             }
         },
         {
-            "id": "877162f2-92da-8caa-692b-1697a0451194",
+            "id": "166c50bf-a39b-6d4b-4b2d-0a73143fe52c",
             "worldPosition": {
-                "x": 10756.8017578125,
-                "y": 3157.373046875,
-                "z": 85.09487915039063
+                "x": 11848.3876953125,
+                "y": 3246.7919921875,
+                "z": 79.6705322265625
             },
             "rotation": {
                 "x": 0.0,
-                "y": 0.0,
+                "y": -0.10452873259782791,
                 "z": 0.0,
-                "w": 1.0
+                "w": 0.9945218563079834
             },
             "footprint": {
-                "type": "Circle",
-                "id": "f528b92c-d419-9667-9dc0-a6412a174c5d",
-                "radius": 0.5
+                "type": "Rectangle",
+                "id": "a32368fb-1406-18df-da72-24e07662777f",
+                "width": 3.5,
+                "height": 2.0
             },
             "sliceName": "slices/WorldEvents/Reekwater/Interact/StoneTablet/IO_WorldEvent_0509_StoneTablet_00",
             "sliceAssetId": "{E3B5DE2E-528B-5EB9-B2FE-094321AA657E}:2",
@@ -124,11 +916,11 @@
             }
         },
         {
-            "id": "80178529-e75b-ae11-27c8-d2dd9bf36431",
+            "id": "b524d212-e62c-02b8-b9cb-8c1fea1ec93c",
             "worldPosition": {
-                "x": 10786.0947265625,
-                "y": 3219.085205078125,
-                "z": 84.19861602783203
+                "x": 10723.326171875,
+                "y": 3231.640625,
+                "z": 84.03463745117188
             },
             "rotation": {
                 "x": 0.0,
@@ -138,7 +930,7 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5f9ce46a-0375-6f28-3875-c327a79ffda7",
+                "id": "4f97276b-598f-14ce-7f55-0f8e6d89fff8",
                 "radius": 0.5
             },
             "sliceName": "slices/WorldEvents/Reekwater/Interact/StoneTablet/IO_WorldEvent_0509_StoneTablet_00",
@@ -172,23 +964,22 @@
             }
         },
         {
-            "id": "166c50bf-a39b-6d4b-4b2d-0a73143fe52c",
+            "id": "80178529-e75b-ae11-27c8-d2dd9bf36431",
             "worldPosition": {
-                "x": 11848.3876953125,
-                "y": 3246.7919921875,
-                "z": 79.6705322265625
+                "x": 10786.0947265625,
+                "y": 3219.085205078125,
+                "z": 84.19861602783203
             },
             "rotation": {
                 "x": 0.0,
-                "y": -0.10452873259782791,
+                "y": 0.0,
                 "z": 0.0,
-                "w": 0.9945218563079834
+                "w": 1.0
             },
             "footprint": {
-                "type": "Rectangle",
-                "id": "a32368fb-1406-18df-da72-24e07662777f",
-                "width": 3.5,
-                "height": 2.0
+                "type": "Circle",
+                "id": "5f9ce46a-0375-6f28-3875-c327a79ffda7",
+                "radius": 0.5
             },
             "sliceName": "slices/WorldEvents/Reekwater/Interact/StoneTablet/IO_WorldEvent_0509_StoneTablet_00",
             "sliceAssetId": "{E3B5DE2E-528B-5EB9-B2FE-094321AA657E}:2",
@@ -217,318 +1008,6 @@
             },
             "sliceName": "CoatGen\\d34fbb96\\IO_WorldEvent_0509_StoneTablet_00_fb67b6d540a6886f291f2e69eee84e7b",
             "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:e84e7b",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "27a49879-38fc-486b-56f2-0e6bcfff0b67",
-            "worldPosition": {
-                "x": 11642.703125,
-                "y": 3668.378662109375,
-                "z": 92.75516510009766
-            },
-            "rotation": {
-                "x": -0.17564083635807038,
-                "y": 0.07455508410930634,
-                "z": 0.9035924673080444,
-                "w": -0.3835524916648865
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "aaf20cf7-8ba5-bee6-1b03-4b29f3af81b9",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "8eec7833-c2b3-e9ea-d1af-c0c3326ebfc7",
-            "worldPosition": {
-                "x": 11623.9345703125,
-                "y": 3721.585205078125,
-                "z": 97.07861328125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "386f2306-8cc3-4aec-e692-584a8d0a677f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e0d08d86-e8d8-19a0-a961-5a93355f536f",
-            "worldPosition": {
-                "x": 11574.53125,
-                "y": 3683.240966796875,
-                "z": 102.71512603759766
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3e1bd926-a834-7696-9e80-bfa91267f43f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f2c9a777-d044-6962-7c56-d5863c024c5d",
-            "worldPosition": {
-                "x": 11609.107421875,
-                "y": 3669.382568359375,
-                "z": 98.8369140625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": -0.5,
-                "z": 0.0,
-                "w": 0.8660253882408142
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0070adf5-5a0f-e239-95fb-ad574a17757a",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "5af34917-7ce7-ab93-85ef-065bb3e5f4c4",
-            "worldPosition": {
-                "x": 11564.076171875,
-                "y": 3663.845703125,
-                "z": 107.587890625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.5591928958892822,
-                "z": 0.0,
-                "w": 0.829037606716156
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "41797545-fe3b-ca71-66e9-7624a14c063d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "8d42c11c-1140-c9b7-6b9e-504f56ffdd11",
-            "worldPosition": {
-                "x": 11564.701171875,
-                "y": 3694.9404296875,
-                "z": 105.74922943115235
-            },
-            "rotation": {
-                "x": 0.27563735842704775,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9612616896629334
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "494063b4-bcd8-b2f4-79f2-b419fefd2eee",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "34775bf6-b979-a2e4-ff46-1f5ca957b45c",
-            "worldPosition": {
-                "x": 11658.4013671875,
-                "y": 3675.436279296875,
-                "z": 91.9873046875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": -0.3746069073677063,
-                "z": 0.0,
-                "w": 0.9271837472915649
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "871300df-77e1-4af4-20ae-7bee63a41184",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f29072f9-b959-421b-e84e-6c23f2d75fa1",
-            "worldPosition": {
-                "x": 11669.45703125,
-                "y": 3672.468017578125,
-                "z": 92.78401184082031
-            },
-            "rotation": {
-                "x": 0.27563735842704775,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9612616896629334
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6fd99de1-522b-5265-f8ae-c90841ffbe12",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "4ed973b0-5163-4fdb-f76b-0206345d1198",
-            "worldPosition": {
-                "x": 11655.9482421875,
-                "y": 3697.21337890625,
-                "z": 96.17903900146485
-            },
-            "rotation": {
-                "x": 0.40673667192459109,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9135454297065735
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "88e32f6c-8d4f-8fda-c69d-fad2cf585134",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "353bfcef-0637-3c41-98e2-03d534345126",
-            "worldPosition": {
-                "x": 11645.9912109375,
-                "y": 3717.12890625,
-                "z": 96.4468765258789
-            },
-            "rotation": {
-                "x": 0.22885605692863465,
-                "y": -0.25417062640190127,
-                "z": 0.6287771463394165,
-                "w": 0.6983276605606079
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "81a1f3e7-b22d-e739-8f57-b8551cefed7b",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "930d1d90-f76c-45a5-6488-d87d1b40273e",
-            "worldPosition": {
-                "x": 11590.3681640625,
-                "y": 3660.76611328125,
-                "z": 98.11575317382813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7880107164382935,
-                "w": 0.6156615018844605
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9baf8f98-7a58-aac0-7747-cb01c250a564",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "60c62638-d81c-05ed-b0ed-a4fe1c28ca04",
-            "worldPosition": {
-                "x": 11588.3896484375,
-                "y": 3718.472412109375,
-                "z": 101.03759765625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": -0.15643443167209626,
-                "z": 0.0,
-                "w": 0.9876883029937744
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "67a53281-60f6-9901-b0a9-5d84a24a4b29",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "10110b3c-1564-1fa9-0ab0-6b4c5db6eaf5",
-            "worldPosition": {
-                "x": 11585.8603515625,
-                "y": 3701.8515625,
-                "z": 101.93370056152344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.43837109208106997,
-                "z": 0.0,
-                "w": 0.8987941145896912
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "77d0579f-c20a-a3da-c320-7306a2565335",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/CrystalCluster/IO_WorldEvent_0502_CrystalCluster_00",
-            "sliceAssetId": "{A79DE023-C658-5483-97D1-724DA5D689B6}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -606,1144 +1085,54 @@
             }
         },
         {
-            "id": "ec8a8fff-d70a-5b74-ba03-1b0153122098",
+            "id": "dc615931-6736-342f-01d5-729098166e6c",
             "worldPosition": {
-                "x": 10841.2177734375,
-                "y": 2460.308349609375,
-                "z": 57.438377380371097
+                "x": 10787.2890625,
+                "y": 3182.605712890625,
+                "z": 92.10746002197266
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.4226181209087372,
-                "w": 0.9063078761100769
+                "z": 0.882947564125061,
+                "w": -0.4694715738296509
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "57fb3d3f-c247-bea5-edcb-c4229977790c",
+                "id": "bc26ee40-5279-3fff-9dc5-fbb1bee2905f",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
-            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/StoneWallTablet/IO_WorldEvent_0514_StoneWallTablet_00",
+            "sliceAssetId": "{34B4DB1B-6D7A-5507-B159-58353640EE68}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "2b865c35-5a68-37d5-4737-7b7ad1d67c2a",
+            "id": "1a0f7401-90a1-dfa1-237c-0566964f8a88",
             "worldPosition": {
-                "x": 10841.2646484375,
-                "y": 2438.28173828125,
-                "z": 57.421871185302737
+                "x": 12035.376953125,
+                "y": 3068.984619140625,
+                "z": 72.28564453125
             },
             "rotation": {
-                "x": 0.014310479164123536,
-                "y": -0.010743034072220326,
-                "z": -0.13050509989261628,
-                "w": 0.9912861585617065
+                "x": 0.8291618227958679,
+                "y": -0.13907460868358613,
+                "z": -0.338381826877594,
+                "w": 0.42266619205474856
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "7c21546c-706e-c93b-5bc6-20597d47d580",
-                "width": 3.5,
-                "height": 2.0
+                "id": "7f65f7d1-14a1-3f04-4c61-7585d36b71f6",
+                "width": 0.0,
+                "height": 0.0
             },
-            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
-            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/TowerMural/IO_WorldEvent_0505_TowerMural_00",
+            "sliceAssetId": "{8818E6F7-3518-553A-80ED-158BC2FAE07C}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "0d5934c3-5c00-da40-8d8a-96c868c5c2c0",
-            "worldPosition": {
-                "x": 10812.365234375,
-                "y": 2484.62158203125,
-                "z": 57.438377380371097
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.608761727809906,
-                "w": 0.7933530807495117
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "9ce9d77d-d367-5046-429f-6077499c56ad",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
-            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "b8cda6b0-16c6-48fd-3d92-bffd87c8f807",
-            "worldPosition": {
-                "x": 10847.4306640625,
-                "y": 2494.45361328125,
-                "z": 57.438377380371097
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9063079953193665,
-                "w": 0.4226178526878357
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "3e058e7d-802b-2586-1f4c-6f2551438b76",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
-            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f0f4d5d0-73a5-7374-3505-435058c79b42",
-            "worldPosition": {
-                "x": 10846.9873046875,
-                "y": 2515.320068359375,
-                "z": 57.54088592529297
-            },
-            "rotation": {
-                "x": -0.007330385968089104,
-                "y": -0.057638876140117648,
-                "z": 0.9973604679107666,
-                "w": 0.043545231223106387
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8f6bfa7e-bb40-f44f-f3ab-dd58b90b3df5",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
-            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "92e4ce11-b51a-9cdd-0846-c502cdd26446",
-            "worldPosition": {
-                "x": 11406.7978515625,
-                "y": 2990.99609375,
-                "z": 83.83417510986328
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "57203b3c-a1e5-d8c7-e4ba-9378bb29dbce",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\IO_WorldEvent_0831_BruteSchematic_00_92e4ce11b51a9cdd846c502cdd26446",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:d26446",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "7ccd8009-b6a1-af60-5c03-65c01f5a6f12",
-            "worldPosition": {
-                "x": 11458.306640625,
-                "y": 3302.912841796875,
-                "z": 61.3198356628418
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.32556819915771487,
-                "w": 0.9455185532569885
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "0794d2b8-92f7-d907-7b1f-96918e870e5c",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "787c5c2d-b9e0-2f8c-618b-5e4eccade589",
-            "worldPosition": {
-                "x": 11456.3134765625,
-                "y": 3360.89306640625,
-                "z": 52.08235168457031
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9975640177726746,
-                "w": 0.06975651532411576
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "88aa6287-292d-ce09-69c5-bd40f6811a56",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "aa64770f-2609-eac1-98a7-af174a485755",
-            "worldPosition": {
-                "x": 11442.6005859375,
-                "y": 3366.16943359375,
-                "z": 64.77388000488281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b7b8c6e9-4256-ba47-0f0b-66dc0ffab7aa",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "13585f95-11cf-4a69-b497-bcfb409a8d17",
-            "worldPosition": {
-                "x": 11625.7890625,
-                "y": 3347.416748046875,
-                "z": 56.11458969116211
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "087b4215-4612-e153-59e7-b341c35131dd",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "5c435032-9925-3f27-e4e9-7e5b614e16a9",
-            "worldPosition": {
-                "x": 11595.0224609375,
-                "y": 3319.951904296875,
-                "z": 54.320289611816409
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1a21e223-f217-cf2c-a997-02051a6a4947",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9c45c3ba-a86b-b146-a027-2f3359ddb16e",
-            "worldPosition": {
-                "x": 11583.4755859375,
-                "y": 3323.881103515625,
-                "z": 57.062538146972659
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9702957272529602,
-                "w": 0.24192191660404206
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "dd83fa5f-8bfb-656b-301d-be085a8d3eb5",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a427d9f3-1093-3ed6-02b3-1871c64a3f24",
-            "worldPosition": {
-                "x": 11614.7548828125,
-                "y": 3317.7314453125,
-                "z": 54.30347442626953
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5150380730628967,
-                "w": 0.8571673631668091
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "511199b8-234c-b747-097d-6b9363db4cea",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "487174e0-33aa-4fd0-db18-d9d51af66a1b",
-            "worldPosition": {
-                "x": 11473.8193359375,
-                "y": 3386.366455078125,
-                "z": 63.68437576293945
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "e695ef9f-2ec7-acf3-81f1-87c4fc81e41f",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f10bfec5-d811-b938-31ec-3dcfc868f818",
-            "worldPosition": {
-                "x": 11496.158203125,
-                "y": 3364.776611328125,
-                "z": 53.382450103759769
-            },
-            "rotation": {
-                "x": -0.0010276965331286193,
-                "y": -0.0013635973446071149,
-                "z": -0.329818457365036,
-                "w": 0.9440428614616394
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "0672ac9e-00e2-c02f-e60a-ea153ede0f8b",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e0b74b75-0c79-3b8c-684e-2babfb8068c5",
-            "worldPosition": {
-                "x": 11615.34375,
-                "y": 3318.101806640625,
-                "z": 57.95573806762695
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.809016764163971,
-                "w": 0.587785542011261
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "721cd010-772a-bb5c-a8b0-ee380a64c976",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "51cc2ae4-6743-d193-bc1e-88d0b9cd8c30",
-            "worldPosition": {
-                "x": 11528.1796875,
-                "y": 3369.09814453125,
-                "z": 51.918067932128909
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4226182699203491,
-                "w": 0.9063078165054321
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "59d43aa9-abe6-a597-4ede-abaef9e9d1c1",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c94f763c-3465-ef7d-7b19-29d824eaf2e1",
-            "worldPosition": {
-                "x": 11472.6630859375,
-                "y": 3388.930419921875,
-                "z": 60.02473449707031
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.13917310535907746,
-                "w": 0.9902681112289429
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c28a8f64-afb7-da00-0f7e-ddcc7f459b7b",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "346c2921-edc8-2065-bc99-2eb8882ed893",
-            "worldPosition": {
-                "x": 11620.1162109375,
-                "y": 3278.203369140625,
-                "z": 54.181766510009769
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9998477101325989,
-                "w": 0.017452383413910867
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "3cf6eb3a-624b-974b-9452-3a329b924dab",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "d75024ef-20a0-4093-4ba3-196cff76179d",
-            "worldPosition": {
-                "x": 11636.04296875,
-                "y": 3293.078369140625,
-                "z": 54.236751556396487
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4694715738296509,
-                "w": 0.882947564125061
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8c06e1e5-5ed3-bbb8-879c-28ec7a40f37c",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/RelicPile/IO_WorldEvent_0506_RelicPile_00",
-            "sliceAssetId": "{855F759F-9C83-52A2-A9D9-4AB05D54523F}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "ca636c30-dd57-2c89-a448-8140594fcba1",
-            "worldPosition": {
-                "x": 10927.046875,
-                "y": 2723.12158203125,
-                "z": 76.34366607666016
-            },
-            "rotation": {
-                "x": 0.017395654693245889,
-                "y": 0.0026060999371111395,
-                "z": -1.1511982478396021e-7,
-                "w": 0.9998453259468079
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "26da9e46-df48-1887-6ac7-0a271cb74125",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_09_02",
-            "sliceAssetId": "{6F9F97B8-F105-517F-BCCE-1A4F2D81AC71}:2"
-        },
-        {
-            "id": "ba24283f-e751-4885-d601-6d064756d637",
-            "worldPosition": {
-                "x": 11794.62109375,
-                "y": 3782.370361328125,
-                "z": 69.81600189208985
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 6.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "1d4820f7-73ec-f10b-b350-0028cea1f8b5",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_ba24283fe7514885d6016d064756d637",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:56d637"
-        },
-        {
-            "id": "603eb4c3-16ba-61a4-56af-e57b50dfeff3",
-            "worldPosition": {
-                "x": 11836.7177734375,
-                "y": 3974.515380859375,
-                "z": 86.1632080078125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 6.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "62efc15e-034a-5fb1-38b9-41990e45135c",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_603eb4c316ba61a456afe57b50dfeff3",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:dfeff3"
-        },
-        {
-            "id": "82c7fcc7-4b70-db14-e97f-d3c03c504bc4",
-            "worldPosition": {
-                "x": 11999.9267578125,
-                "y": 2672.506591796875,
-                "z": 96.86365509033203
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 17.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "8286b1de-b28a-8682-af6a-c9d8c33b7328",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_82c7fcc74b70db14e97fd3c03c504bc4",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:504bc4"
-        },
-        {
-            "id": "31237b93-9cb0-3ec8-55e4-841bd2a6750c",
-            "worldPosition": {
-                "x": 11824.4150390625,
-                "y": 3151.86279296875,
-                "z": 71.26000213623047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070579051971438,
-                "w": 0.9537169933319092
-            },
-            "scale": 6.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "44a9476f-08d3-fbc4-e664-ac7c664f16b6",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_31237b939cb03ec855e4841bd2a6750c",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:a6750c"
-        },
-        {
-            "id": "557cc979-bae9-a1cf-f25c-f19254b7af78",
-            "worldPosition": {
-                "x": 12010.43359375,
-                "y": 3014.3388671875,
-                "z": 69.96399688720703
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.08715634047985077,
-                "w": 0.9961946606636047
-            },
-            "scale": 3.000000238418579,
-            "footprint": {
-                "type": "Circle",
-                "id": "8323d8c8-4a19-0a6c-80af-4673a1666470",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_557cc979bae9a1cff25cf19254b7af78",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:b7af78"
-        },
-        {
-            "id": "6ef7084b-4b13-602a-2d48-29cff5a893e3",
-            "worldPosition": {
-                "x": 12001.4033203125,
-                "y": 2867.28662109375,
-                "z": 86.75776672363281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.08715634047985077,
-                "w": 0.9961946606636047
-            },
-            "scale": 6.000000476837158,
-            "footprint": {
-                "type": "Circle",
-                "id": "28bfee17-1224-0f75-cf90-b27be3184fbf",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_6ef7084b4b13602a2d4829cff5a893e3",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:a893e3"
-        },
-        {
-            "id": "e322adc0-8fe0-f98f-7bc3-0034c151c23f",
-            "worldPosition": {
-                "x": 12025.3291015625,
-                "y": 3059.468994140625,
-                "z": 69.96399688720703
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 6.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "34772bf5-a65a-34c7-ed67-b7902baab79f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Prime_Trigger_Volume_e322adc08fe0f98f7bc30034c151c23f",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:51c23f"
-        },
-        {
-            "id": "0747fda4-1262-1b50-9196-209e450b48ea",
-            "worldPosition": {
-                "x": 11454.455078125,
-                "y": 2536.43798828125,
-                "z": 232.45289611816407
-            },
-            "rotation": {
-                "x": 0.02286318875849247,
-                "y": 0.0505061149597168,
-                "z": 0.07575275003910065,
-                "w": 0.9955841898918152
-            },
-            "scale": 1.4999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "6448474b-d83e-5a91-1c19-45c6f66b5f9a",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_06",
-            "sliceAssetId": "{22ECDE08-CF06-5BBB-8D43-49CEE56D91A8}:2"
-        },
-        {
-            "id": "e2c304fd-517c-d513-6c5e-2debe1f02e27",
-            "worldPosition": {
-                "x": 10993.521484375,
-                "y": 2806.7734375,
-                "z": 77.11222839355469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9426414370536804,
-                "w": 0.3338070213794708
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4ce7379e-9970-7a42-2308-c728d27cfc49",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_09_01",
-            "sliceAssetId": "{E3CACC61-99FC-5CD3-8122-B3A6F2A1733D}:2"
-        },
-        {
-            "id": "675cc507-3743-e2d1-9bbd-b7b348c748e7",
-            "worldPosition": {
-                "x": 11827.8466796875,
-                "y": 3144.427978515625,
-                "z": 71.26012420654297
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9396926164627075,
-                "w": -0.3420201241970062
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "31e6912b-f83a-560e-ab3b-436d3dbd06a8",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/AncientBookcase/IO_WorldEvent_0504_AncientBookcase_00",
-            "sliceAssetId": "{8E16D02F-4CB0-5DF7-ADC3-474AC3EC7E66}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "eb9aac91-44ac-4ffb-6d79-a4290d0171e3",
-            "worldPosition": {
-                "x": 10368.6953125,
-                "y": 3353.85791015625,
-                "z": 107.62664031982422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "856c476c-de5d-2bed-2788-59bcba94b621",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Missions/Interact/PKTraceAbsorber/IO_WorldEvent_9801_PKTraceAbsorberA_00",
-            "sliceAssetId": "{996861E6-3A95-525D-9D30-B1545B403346}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "4b4b964c-106d-773f-3a93-be56f85c0050",
-            "worldPosition": {
-                "x": 11998.1064453125,
-                "y": 3877.41162109375,
-                "z": 44.333396911621097
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.19936791062355042,
-                "w": 0.9799246788024902
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1e709014-7983-c06c-547f-a5fb57985c05",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_06_02",
-            "sliceAssetId": "{8A2372D1-4015-5344-9C24-8164A3273717}:2"
-        },
-        {
-            "id": "a3519ac2-6804-d4a6-3dd4-4711e42e7ded",
-            "worldPosition": {
-                "x": 10564.0478515625,
-                "y": 2864.45947265625,
-                "z": 134.57598876953126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7771459817886353,
-                "w": 0.6293203234672546
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bd90861f-c7f6-61c1-f6c4-c1277b68fa07",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_09_03",
-            "sliceAssetId": "{C71A3AE6-8C33-52E3-B1B4-6BBD3751C5C2}:2"
-        },
-        {
-            "id": "3e04dced-ac45-88d2-d340-10abc655ce08",
-            "worldPosition": {
-                "x": 10636.16015625,
-                "y": 2822.99462890625,
-                "z": 76.93202209472656
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8191520571708679,
-                "w": 0.5735764503479004
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "53dad647-eef7-2fed-6519-75a7d0ca3f06",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Trigger_Volume_Sphere_Test_3e04dcedac4588d2d34010abc655ce08",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:55ce08"
-        },
-        {
-            "id": "82673c2c-af30-c5fd-33be-d4adb12700e7",
-            "worldPosition": {
-                "x": 11622.5205078125,
-                "y": 2551.40576171875,
-                "z": 143.30197143554688
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 1.5,
-            "footprint": {
-                "type": "Circle",
-                "id": "b5348631-9880-d504-2dbf-6b61bc62b5c2",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_02",
-            "sliceAssetId": "{C6B10376-1988-52AB-B7F7-8244B39B47C7}:2"
-        },
-        {
-            "id": "212611f8-e4a5-9153-73d2-dff8ee37e66b",
-            "worldPosition": {
-                "x": 10588.79296875,
-                "y": 3796.82958984375,
-                "z": 247.802001953125
-            },
-            "rotation": {
-                "x": 6.061356998543488e-7,
-                "y": 1.7917922434662615e-7,
-                "z": -0.8141152858734131,
-                "w": 0.5807033181190491
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "35ce924e-08d9-155b-4f88-3a4b4c3c40b3",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_02_01",
-            "sliceAssetId": "{87FE7446-DE49-5D7F-ABC3-6B6629D2AE69}:2"
-        },
-        {
-            "id": "2c85530e-0a5d-8563-5c4a-5f661d75cca5",
-            "worldPosition": {
-                "x": 11821.0625,
-                "y": 3983.48291015625,
-                "z": 95.5833740234375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "37a414af-eeef-9630-56cc-264a88670e98",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_06_01",
-            "sliceAssetId": "{FE2E5E88-3C04-5EB4-B037-41ACFACC9854}:2"
-        },
-        {
-            "id": "6360bcdc-4a1f-faf7-ea31-8d4878fa2641",
-            "worldPosition": {
-                "x": 10368.6953125,
-                "y": 3353.745849609375,
-                "z": 107.62664031982422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "29d9c9f5-ed41-a8ab-3bf8-f83cd0b430b7",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Missions/Interact/PKTraceAbsorber/IO_WorldEvent_9801_PKTraceAbsorberB_00",
-            "sliceAssetId": "{E8B6310A-C205-56C7-9799-90941687F1CD}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "95634b82-7abf-1d2d-02b2-cfcfb9d0d5af",
-            "worldPosition": {
-                "x": 11795.7861328125,
-                "y": 3181.63427734375,
-                "z": 71.82081604003906
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d5e73fd1-e1c0-0697-f1a2-ac4d70869a70",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_02",
-            "sliceAssetId": "{2CE2DC80-895A-5FF6-8CA5-01B72C132546}:2"
-        },
-        {
-            "id": "045b3693-f70f-2c54-1c6e-39e37f39a6fc",
-            "worldPosition": {
-                "x": 11542.990234375,
-                "y": 2808.073486328125,
-                "z": 95.67901611328125
-            },
-            "rotation": {
-                "x": -0.016191231086850168,
-                "y": 0.0223412923514843,
-                "z": 0.9532850980758667,
-                "w": -0.30080941319465639
-            },
-            "scale": 2.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "145b8cab-c132-f5f6-f858-36f4014cfab2",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_06_045b3693f70f2c541c6e39e37f39a6fc",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:39a6fc"
-        },
-        {
-            "id": "8772918b-1a14-404b-2e15-a6fd90b703c6",
-            "worldPosition": {
-                "x": 11355.111328125,
-                "y": 2560.757568359375,
-                "z": 215.47621154785157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.55193692445755,
-                "w": 0.8338858485221863
-            },
-            "scale": 1.5,
-            "footprint": {
-                "type": "Circle",
-                "id": "7b96e166-babe-d3c1-18da-e1ab0413c240",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_07",
-            "sliceAssetId": "{C0BCBF0A-5EF8-5CA8-A0CE-63ADEB52C91F}:2"
-        },
-        {
-            "id": "8e2481d7-0701-4fc0-ac4b-0864b8365a7c",
-            "worldPosition": {
-                "x": 10627.3115234375,
-                "y": 2736.803955078125,
-                "z": 76.06570434570313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9238795638084412,
-                "w": 0.38268333673477175
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "e040c4f5-e9d9-1c6a-fa31-6f54840cef97",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\IO_WorldEvent_9802_DryadTerminusPool_00_8e2481d707014fc0ac4b0864b8365a7c",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:365a7c",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a34cfa36-e621-f726-9092-018f97b88035",
-            "worldPosition": {
-                "x": 11961.3046875,
-                "y": 2689.255615234375,
-                "z": 106.48572540283203
-            },
-            "rotation": {
-                "x": -0.043862245976924899,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9990375638008118
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "47a60989-caad-4c0d-1ef3-074b3e6b6d53",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_04_01",
-            "sliceAssetId": "{5AC9FBEE-50CC-50C2-8D7D-AAF8C9045B6D}:2"
-        },
-        {
-            "id": "2b949ed7-13a5-cf8a-b9a0-03ee7bf93fb2",
-            "worldPosition": {
-                "x": 11785.4306640625,
-                "y": 3701.584716796875,
-                "z": 80.06809997558594
-            },
-            "rotation": {
-                "x": -0.09724275022745133,
-                "y": -0.01722785271704197,
-                "z": -2.0010659795843822e-7,
-                "w": 0.9951115846633911
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b6744d78-9a84-81f3-1caf-01b7a88569ee",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_01",
-            "sliceAssetId": "{0DB9DD0F-D0C2-501D-9D7C-8D5921B4ACD3}:2"
-        },
-        {
-            "id": "5b1553b5-cb68-a81b-1325-693defe69593",
-            "worldPosition": {
-                "x": 11864.9765625,
-                "y": 3206.10400390625,
-                "z": 89.67747497558594
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9135453104972839,
-                "w": 0.40673696994781496
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "496217e1-1b49-fc49-cbe1-86828229a576",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/HeartDevice/IO_WorldEvent_0508_HeartDevice_00",
-            "sliceAssetId": "{E6F92231-C46D-5A0E-AF3C-276558BF4CFB}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "40280fd9-c830-b221-bc62-b874d6954e35",
-            "worldPosition": {
-                "x": 10567.4990234375,
-                "y": 2113.882080078125,
-                "z": 41.36419677734375
-            },
-            "rotation": {
-                "x": 0.14095498621463777,
-                "y": -0.06891109049320221,
-                "z": -0.8040325045585632,
-                "w": 0.5735108852386475
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "40a6354a-2b3f-c81b-6135-815f2eea8e21",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_04",
-            "sliceAssetId": "{A629AD7A-DD82-5190-AE6A-CE911281E0FC}:2"
-        },
-        {
-            "id": "cdba0440-046e-9444-3e3a-ed5c5b16ee59",
-            "worldPosition": {
-                "x": 11553.9775390625,
-                "y": 3336.562255859375,
-                "z": 53.14542007446289
-            },
-            "rotation": {
-                "x": -0.014959738589823246,
-                "y": 0.008988170884549618,
-                "z": -4.497227035216156e-9,
-                "w": 0.9998477101325989
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0c052b5c-528d-0751-207b-9b91ffb63ada",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_07_02",
-            "sliceAssetId": "{DCD53486-20F0-5B5E-92E4-9949402D6DF8}:2"
-        },
-        {
-            "id": "2ba283d9-25ac-ffab-acd7-0dd371b4d3d9",
-            "worldPosition": {
-                "x": 11218.5576171875,
-                "y": 2769.6201171875,
-                "z": 49.710411071777347
-            },
-            "rotation": {
-                "x": 0.19484654068946839,
-                "y": -0.17129111289978028,
-                "z": 0.0014948686584830285,
-                "w": 0.965759813785553
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "aa4a845f-a1f4-dd0e-f27f-b6ad2872ef05",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_03",
-            "sliceAssetId": "{6AB0345A-3E33-5FB2-9FA8-8FA3DF5A5358}:2"
         },
         {
             "id": "3afd0103-1f3c-b879-6018-bae295ebd9bf",
@@ -1821,54 +1210,53 @@
             }
         },
         {
-            "id": "35b4682e-3e9b-9df5-66a4-22534409df2b",
+            "id": "f738bfaf-cc6d-de25-db4d-ed4822319ce0",
             "worldPosition": {
-                "x": 11565.671875,
-                "y": 2604.39599609375,
-                "z": 182.9097900390625
+                "x": 11991.9765625,
+                "y": 2444.634765625,
+                "z": 45.15842056274414
             },
             "rotation": {
-                "x": 5.169878828456423e-26,
-                "y": 7.754815777494306e-26,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "scale": 1.499998688697815,
-            "footprint": {
-                "type": "Circle",
-                "id": "8646a225-9acd-42b3-6a6b-c7ef238a92c2",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_05",
-            "sliceAssetId": "{735D4B21-1274-59E7-8609-0AFC8E646FFC}:2"
-        },
-        {
-            "id": "d59436d9-4050-2622-c7b4-0619e6c9c601",
-            "worldPosition": {
-                "x": 11285.9736328125,
-                "y": 3553.17822265625,
-                "z": 55.52475357055664
-            },
-            "rotation": {
-                "x": -0.12845854461193086,
-                "y": 0.004661626182496548,
-                "z": 1.0271554717888876e-9,
-                "w": 0.9917039275169373
+                "x": 0.0026554360520094635,
+                "y": 0.0402320921421051,
+                "z": 0.00789338443428278,
+                "w": 0.9991557002067566
             },
             "footprint": {
                 "type": "Circle",
-                "id": "c427ee54-5dec-00db-d095-06585be7ab8e",
+                "id": "3cc9c48a-b6c2-6ee3-44ed-56f93b3649f2",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_08_03",
-            "sliceAssetId": "{43AF5DBC-A419-5B50-A50A-DAD4E5A45C7F}:2"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_02_03",
+            "sliceAssetId": "{5161B3A0-4C05-5D30-B20D-D32AD934143E}:2"
         },
         {
-            "id": "5ab5a5c6-205b-8161-48c1-a4a8cf423b7a",
+            "id": "3e04dced-ac45-88d2-d340-10abc655ce08",
             "worldPosition": {
-                "x": 11571.2900390625,
-                "y": 3389.81298828125,
-                "z": 53.32086181640625
+                "x": 10636.16015625,
+                "y": 2822.99462890625,
+                "z": 76.93202209472656
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8191520571708679,
+                "w": 0.5735764503479004
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "53dad647-eef7-2fed-6519-75a7d0ca3f06",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Trigger_Volume_Sphere_Test_3e04dcedac4588d2d34010abc655ce08",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:55ce08"
+        },
+        {
+            "id": "95634b82-7abf-1d2d-02b2-cfcfb9d0d5af",
+            "worldPosition": {
+                "x": 11795.7861328125,
+                "y": 3181.63427734375,
+                "z": 71.82081604003906
             },
             "rotation": {
                 "x": 0.0,
@@ -1878,75 +1266,78 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "2c15dd27-33ee-21b1-15d5-a598e41e842d",
+                "id": "d5e73fd1-e1c0-0697-f1a2-ac4d70869a70",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_01_01",
-            "sliceAssetId": "{BF82EA40-B0E3-5DEB-A15F-40ABA22A4D3D}:2"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_02",
+            "sliceAssetId": "{2CE2DC80-895A-5FF6-8CA5-01B72C132546}:2"
         },
         {
-            "id": "58e88e60-6348-cb24-d436-c9bf8c1623f9",
+            "id": "24fb7caa-b889-fca2-4c20-f38cb717cc17",
             "worldPosition": {
-                "x": 11987.2587890625,
-                "y": 2709.84130859375,
-                "z": 98.59539794921875
+                "x": 12051.7080078125,
+                "y": 3573.100341796875,
+                "z": 63.52018737792969
+            },
+            "rotation": {
+                "x": 0.06746876984834671,
+                "y": 0.05833093449473381,
+                "z": -0.7401832342147827,
+                "w": 0.6664640307426453
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ccf59f38-78b0-7891-4603-386907aff62d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_05_03",
+            "sliceAssetId": "{213FFDDD-69FB-5279-A2AE-7027EE8E8CD8}:2"
+        },
+        {
+            "id": "212611f8-e4a5-9153-73d2-dff8ee37e66b",
+            "worldPosition": {
+                "x": 10588.79296875,
+                "y": 3796.82958984375,
+                "z": 247.802001953125
+            },
+            "rotation": {
+                "x": 6.061356998543488e-7,
+                "y": 1.7917922434662615e-7,
+                "z": -0.8141152858734131,
+                "w": 0.5807033181190491
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "35ce924e-08d9-155b-4f88-3a4b4c3c40b3",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_02_01",
+            "sliceAssetId": "{87FE7446-DE49-5D7F-ABC3-6B6629D2AE69}:2"
+        },
+        {
+            "id": "92e4ce11-b51a-9cdd-0846-c502cdd26446",
+            "worldPosition": {
+                "x": 11406.7978515625,
+                "y": 2990.99609375,
+                "z": 83.83417510986328
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.6427876353263855,
+                "w": 0.7660444378852844
             },
             "footprint": {
-                "type": "Circle",
-                "id": "91257c62-5f37-81b2-a5cc-b03d85fde891",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "57203b3c-a1e5-d8c7-e4ba-9378bb29dbce",
+                "width": 3.5,
+                "height": 2.0
             },
-            "sliceName": "CoatGen\\d34fbb96\\collision_cube_2x2x10_58e88e606348cb24d436c9bf8c1623f9",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:1623f9"
-        },
-        {
-            "id": "99463958-b858-15b9-96e4-051f680d616d",
-            "worldPosition": {
-                "x": 11648.8203125,
-                "y": 2703.438232421875,
-                "z": 119.29215240478516
-            },
-            "rotation": {
-                "x": 3.6814389068721205e-22,
-                "y": 3.5527132552840274e-15,
-                "z": -0.505532443523407,
-                "w": 0.8628076314926148
-            },
-            "scale": 1.5,
-            "footprint": {
-                "type": "Circle",
-                "id": "002ddc15-58d7-245b-21c1-215cf899913e",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_01",
-            "sliceAssetId": "{D0F4A1DF-E50B-54D3-A73D-0B78040262FD}:2"
-        },
-        {
-            "id": "c66be20a-9e63-a74a-b665-2c2a043c57b3",
-            "worldPosition": {
-                "x": 11982.158203125,
-                "y": 2748.367431640625,
-                "z": 102.21318054199219
-            },
-            "rotation": {
-                "x": -0.04364120960235596,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9990472793579102
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b5414478-a279-178f-bdb7-b22f6e54e446",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_02_04",
-            "sliceAssetId": "{83A0D9D7-C1E9-52A0-B10A-2625751708BD}:2"
+            "sliceName": "CoatGen\\d34fbb96\\IO_WorldEvent_0831_BruteSchematic_00_92e4ce11b51a9cdd846c502cdd26446",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:d26446",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "4dd3935c-6ad9-38db-2f48-d4cf306c973a",
@@ -1970,178 +1361,234 @@
             "sliceAssetId": "{881F321A-F8D2-5CF8-AE6A-88381927B972}:2"
         },
         {
-            "id": "e02aeaa3-9dbc-57b8-37c7-7d24c24cb3a7",
+            "id": "81db1861-c52b-0385-8f89-c4b4e13692d3",
             "worldPosition": {
-                "x": 11480.900390625,
-                "y": 2953.490478515625,
-                "z": 102.33474731445313
-            },
-            "rotation": {
-                "x": -0.0021634111180901529,
-                "y": -0.011131055653095246,
-                "z": 0.9238201975822449,
-                "w": 0.3826587498188019
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0bc0f671-7148-842e-f6d3-5f80ad384e4c",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_05_e02aeaa39dbc57b837c77d24c24cb3a7",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:4cb3a7"
-        },
-        {
-            "id": "f8214198-c990-be02-f4d2-d3864d590c06",
-            "worldPosition": {
-                "x": 11552.9775390625,
-                "y": 2596.603515625,
-                "z": 151.539306640625
+                "x": 11540.2900390625,
+                "y": 2501.992919921875,
+                "z": 193.67947387695313
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
+                "z": 0.9238795638084412,
+                "w": 0.38268333673477175
             },
             "footprint": {
                 "type": "Circle",
-                "id": "b8300cd7-c284-da94-2cd7-98fd21cc553f",
+                "id": "5bd457d8-5f50-fc8e-9d8d-2fbd0c038d96",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_03",
-            "sliceAssetId": "{FF85F603-3B7B-59AE-8BD4-9FFE6BC70F72}:2"
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_11_04_81db1861c52b03858f89c4b4e13692d3",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:3692d3"
         },
         {
-            "id": "bb5a747d-7e7d-42a3-045e-c2f64fb3571a",
+            "id": "90488c59-8794-d7cf-6a90-3fb7ac1c7da4",
             "worldPosition": {
-                "x": 11269.96484375,
-                "y": 3478.548095703125,
-                "z": 55.28630447387695
+                "x": 12012.5986328125,
+                "y": 2681.087646484375,
+                "z": 107.28793334960938
             },
             "rotation": {
-                "x": -0.08285157382488251,
-                "y": 0.05328159034252167,
-                "z": -3.837083895064097e-8,
-                "w": 0.995136559009552
+                "x": -0.04359809309244156,
+                "y": 9.115110799484683e-8,
+                "z": 8.352820657364646e-8,
+                "w": 0.9990491271018982
             },
             "footprint": {
                 "type": "Circle",
-                "id": "3e9c0118-b8ab-03d7-c205-85c69dc95021",
+                "id": "82317321-1899-6f05-8fc3-a2703deb71e0",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_08_02",
-            "sliceAssetId": "{C369D744-9B12-51B9-8C2A-99F18A674B0C}:2"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_04_02",
+            "sliceAssetId": "{D7F928B3-3B9B-5289-A1E3-C727631119B2}:2"
         },
         {
-            "id": "7773256b-1f62-5bc2-b25b-d444c96ea34e",
+            "id": "f0f4d5d0-73a5-7374-3505-435058c79b42",
             "worldPosition": {
-                "x": 11404.845703125,
-                "y": 2979.533935546875,
-                "z": 84.43341064453125
+                "x": 10846.9873046875,
+                "y": 2515.320068359375,
+                "z": 57.54088592529297
             },
             "rotation": {
-                "x": 8.77834125390109e-8,
-                "y": 0.0261769387871027,
-                "z": 1.7204961011429988e-8,
-                "w": 0.9996573328971863
-            },
-            "scale": 1.5000001192092896,
-            "footprint": {
-                "type": "Circle",
-                "id": "635605f1-302b-07e2-fd26-2ee54bf27dfe",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_03_7773256b1f625bc2b25bd444c96ea34e",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:6ea34e"
-        },
-        {
-            "id": "ba00ad32-396c-f950-3359-2819a32356b0",
-            "worldPosition": {
-                "x": 10588.18359375,
-                "y": 3785.537841796875,
-                "z": 247.45443725585938
-            },
-            "rotation": {
-                "x": 1.0112149340102406e-7,
-                "y": -7.0940956220511e-8,
-                "z": 0.9848077297210693,
-                "w": 0.17364822328090669
+                "x": -0.007330385968089104,
+                "y": -0.057638876140117648,
+                "z": 0.9973604679107666,
+                "w": 0.043545231223106387
             },
             "footprint": {
-                "type": "Circle",
-                "id": "e553b604-d034-8ca4-c3ac-63584c1ee276",
-                "radius": 0.5
+                "type": "Rectangle",
+                "id": "8f6bfa7e-bb40-f44f-f3ab-dd58b90b3df5",
+                "width": 3.5,
+                "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/AncientStatueWDoor/IO_WorldEvent_0517_AncientTowerDoor_00",
-            "sliceAssetId": "{5DCDC52E-FD8C-5BDF-8214-38698B20CA2F}:2",
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "680c7c19-a17c-2142-f89c-2e89bff4dbd2",
+            "id": "ec8a8fff-d70a-5b74-ba03-1b0153122098",
             "worldPosition": {
-                "x": 11456.3427734375,
-                "y": 2943.799560546875,
-                "z": 83.28800964355469
-            },
-            "rotation": {
-                "x": 8.742275525719379e-8,
-                "y": -8.742278367890322e-8,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "scale": 1.5,
-            "footprint": {
-                "type": "Circle",
-                "id": "469c94ac-0fff-e700-213f-7999ab678219",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_02_680c7c19a17c2142f89c2e89bff4dbd2",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:f4dbd2"
-        },
-        {
-            "id": "07201e25-5627-b6e0-5100-39fff13c9347",
-            "worldPosition": {
-                "x": 11621.15234375,
-                "y": 3274.025390625,
-                "z": 54.06938934326172
-            },
-            "rotation": {
-                "x": 6.005802788422443e-8,
-                "y": -3.8941436741879445e-7,
-                "z": -5.092865216463523e-15,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "79bb83c9-7510-d185-3d41-97405658327f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_07_01",
-            "sliceAssetId": "{2EB788D8-F12D-5349-A24F-D069D4EFDDFA}:2"
-        },
-        {
-            "id": "317ba6c1-c5ac-3b41-7378-e2c485fd84a1",
-            "worldPosition": {
-                "x": 11440.7470703125,
-                "y": 3034.881103515625,
-                "z": 71.63687133789063
+                "x": 10841.2177734375,
+                "y": 2460.308349609375,
+                "z": 57.438377380371097
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.4226181209087372,
+                "w": 0.9063078761100769
             },
-            "scale": 1.4999998807907105,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "57fb3d3f-c247-bea5-edcb-c4229977790c",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "0d5934c3-5c00-da40-8d8a-96c868c5c2c0",
+            "worldPosition": {
+                "x": 10812.365234375,
+                "y": 2484.62158203125,
+                "z": 57.438377380371097
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.608761727809906,
+                "w": 0.7933530807495117
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9ce9d77d-d367-5046-429f-6077499c56ad",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b8cda6b0-16c6-48fd-3d92-bffd87c8f807",
+            "worldPosition": {
+                "x": 10847.4306640625,
+                "y": 2494.45361328125,
+                "z": 57.438377380371097
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9063079953193665,
+                "w": 0.4226178526878357
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "3e058e7d-802b-2586-1f4c-6f2551438b76",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2b865c35-5a68-37d5-4737-7b7ad1d67c2a",
+            "worldPosition": {
+                "x": 10841.2646484375,
+                "y": 2438.28173828125,
+                "z": 57.421871185302737
+            },
+            "rotation": {
+                "x": 0.014310479164123536,
+                "y": -0.010743034072220326,
+                "z": -0.13050509989261628,
+                "w": 0.9912861585617065
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "7c21546c-706e-c93b-5bc6-20597d47d580",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/FM_PVP_Box/IO_WorldEvent_FM_PVP_War_Camp_Loot_Box",
+            "sliceAssetId": "{C09F19C1-3810-5AD8-AB85-AC003D2A4783}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2b949ed7-13a5-cf8a-b9a0-03ee7bf93fb2",
+            "worldPosition": {
+                "x": 11785.4306640625,
+                "y": 3701.584716796875,
+                "z": 80.06809997558594
+            },
+            "rotation": {
+                "x": -0.09724275022745133,
+                "y": -0.01722785271704197,
+                "z": -2.0010659795843822e-7,
+                "w": 0.9951115846633911
+            },
             "footprint": {
                 "type": "Circle",
-                "id": "1bbe0bf6-4a65-299b-8eae-376e3b6c502e",
+                "id": "b6744d78-9a84-81f3-1caf-01b7a88569ee",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_01_317ba6c1c5ac3b417378e2c485fd84a1",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:fd84a1"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_01",
+            "sliceAssetId": "{0DB9DD0F-D0C2-501D-9D7C-8D5921B4ACD3}:2"
+        },
+        {
+            "id": "ca636c30-dd57-2c89-a448-8140594fcba1",
+            "worldPosition": {
+                "x": 10927.046875,
+                "y": 2723.12158203125,
+                "z": 76.34366607666016
+            },
+            "rotation": {
+                "x": 0.017395654693245889,
+                "y": 0.0026060999371111395,
+                "z": -1.1511982478396021e-7,
+                "w": 0.9998453259468079
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "26da9e46-df48-1887-6ac7-0a271cb74125",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_09_02",
+            "sliceAssetId": "{6F9F97B8-F105-517F-BCCE-1A4F2D81AC71}:2"
+        },
+        {
+            "id": "e2c304fd-517c-d513-6c5e-2debe1f02e27",
+            "worldPosition": {
+                "x": 10993.521484375,
+                "y": 2806.7734375,
+                "z": 77.11222839355469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9426414370536804,
+                "w": 0.3338070213794708
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4ce7379e-9970-7a42-2308-c728d27cfc49",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_09_01",
+            "sliceAssetId": "{E3CACC61-99FC-5CD3-8122-B3A6F2A1733D}:2"
         },
         {
             "id": "d2aac93a-6981-dc49-e81e-181043e150d1",
@@ -2166,156 +1613,155 @@
             "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:e150d1"
         },
         {
-            "id": "81db1861-c52b-0385-8f89-c4b4e13692d3",
+            "id": "a3519ac2-6804-d4a6-3dd4-4711e42e7ded",
             "worldPosition": {
-                "x": 11540.2900390625,
-                "y": 2501.992919921875,
-                "z": 193.67947387695313
+                "x": 10564.0478515625,
+                "y": 2864.45947265625,
+                "z": 134.57598876953126
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9238795638084412,
-                "w": 0.38268333673477175
+                "z": -0.7771459817886353,
+                "w": 0.6293203234672546
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5bd457d8-5f50-fc8e-9d8d-2fbd0c038d96",
+                "id": "bd90861f-c7f6-61c1-f6c4-c1277b68fa07",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_11_04_81db1861c52b03858f89c4b4e13692d3",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:3692d3"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_09_03",
+            "sliceAssetId": "{C71A3AE6-8C33-52E3-B1B4-6BBD3751C5C2}:2"
         },
         {
-            "id": "613a4806-dfd3-7e45-8cb9-dfd188456449",
+            "id": "35b4682e-3e9b-9df5-66a4-22534409df2b",
             "worldPosition": {
-                "x": 11208.4169921875,
-                "y": 3469.219970703125,
-                "z": 55.82086181640625
+                "x": 11565.671875,
+                "y": 2604.39599609375,
+                "z": 182.9097900390625
             },
             "rotation": {
-                "x": -0.15974728763103486,
-                "y": -0.0970817506313324,
-                "z": -0.004097785335034132,
-                "w": 0.9823640584945679
+                "x": 5.169878828456423e-26,
+                "y": 7.754815777494306e-26,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
             },
+            "scale": 1.499998688697815,
             "footprint": {
                 "type": "Circle",
-                "id": "170f6a9b-30f4-7622-89b8-26025d85b114",
+                "id": "8646a225-9acd-42b3-6a6b-c7ef238a92c2",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_08_01_613a4806dfd37e458cb9dfd188456449",
-            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:456449"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_05",
+            "sliceAssetId": "{735D4B21-1274-59E7-8609-0AFC8E646FFC}:2"
         },
         {
-            "id": "1a0f7401-90a1-dfa1-237c-0566964f8a88",
+            "id": "58e88e60-6348-cb24-d436-c9bf8c1623f9",
             "worldPosition": {
-                "x": 12035.376953125,
-                "y": 3068.984619140625,
-                "z": 72.28564453125
+                "x": 11987.2587890625,
+                "y": 2709.84130859375,
+                "z": 98.59539794921875
             },
             "rotation": {
-                "x": 0.8291618227958679,
-                "y": -0.13907460868358613,
-                "z": -0.338381826877594,
-                "w": 0.42266619205474856
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "7f65f7d1-14a1-3f04-4c61-7585d36b71f6",
-                "width": 0.0,
-                "height": 0.0
-            },
-            "sliceName": "slices/WorldEvents/Reekwater/Interact/TowerMural/IO_WorldEvent_0505_TowerMural_00",
-            "sliceAssetId": "{8818E6F7-3518-553A-80ED-158BC2FAE07C}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e5233a76-b962-ff9a-66c6-d8d6e45450d0",
-            "worldPosition": {
-                "x": 11372.837890625,
-                "y": 2586.531494140625,
-                "z": 204.4290771484375
-            },
-            "rotation": {
-                "x": 8.741944412804514e-8,
-                "y": 7.629001874676078e-10,
-                "z": 0.9999619126319885,
-                "w": 0.008726561442017556
-            },
-            "scale": 1.4999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "e7507574-b2da-2999-57e5-04fc83f0b3f4",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_08",
-            "sliceAssetId": "{DD192966-A53B-559B-A1CD-F504112C3766}:2"
-        },
-        {
-            "id": "6b3270c8-c2be-5c11-2bef-496e4e80d347",
-            "worldPosition": {
-                "x": 12003.5537109375,
-                "y": 3564.224853515625,
-                "z": 76.51444244384766
-            },
-            "rotation": {
-                "x": 8.029749665183772e-8,
-                "y": -3.8941436741879445e-7,
-                "z": -6.997848244069075e-15,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
                 "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "cd0940ca-bfa3-01ab-8ce8-a8893e212ae0",
+                "id": "91257c62-5f37-81b2-a5cc-b03d85fde891",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_05_02",
-            "sliceAssetId": "{28031042-9425-5E60-9455-B7D3F453B7EE}:2"
+            "sliceName": "CoatGen\\d34fbb96\\collision_cube_2x2x10_58e88e606348cb24d436c9bf8c1623f9",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:1623f9"
         },
         {
-            "id": "26361a2a-b9a5-1a5c-3980-f7aca4bfcd8e",
+            "id": "82673c2c-af30-c5fd-33be-d4adb12700e7",
             "worldPosition": {
-                "x": 11994.4345703125,
-                "y": 3575.2265625,
-                "z": 60.45952224731445
+                "x": 11622.5205078125,
+                "y": 2551.40576171875,
+                "z": 143.30197143554688
             },
             "rotation": {
-                "x": 8.979681354048808e-8,
-                "y": -0.025489818304777147,
-                "z": -4.442335230884511e-16,
-                "w": 0.9996750950813294
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.5,
+            "footprint": {
+                "type": "Circle",
+                "id": "b5348631-9880-d504-2dbf-6b61bc62b5c2",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_02",
+            "sliceAssetId": "{C6B10376-1988-52AB-B7F7-8244B39B47C7}:2"
+        },
+        {
+            "id": "e02aeaa3-9dbc-57b8-37c7-7d24c24cb3a7",
+            "worldPosition": {
+                "x": 11480.900390625,
+                "y": 2953.490478515625,
+                "z": 102.33474731445313
+            },
+            "rotation": {
+                "x": -0.0021634111180901529,
+                "y": -0.011131055653095246,
+                "z": 0.9238201975822449,
+                "w": 0.3826587498188019
             },
             "footprint": {
                 "type": "Circle",
-                "id": "cda2f1a3-89f7-fcdb-7bbc-0a1649053918",
+                "id": "0bc0f671-7148-842e-f6d3-5f80ad384e4c",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_05_01",
-            "sliceAssetId": "{0C981083-061C-5644-9F92-CD9406FA7317}:2"
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_05_e02aeaa39dbc57b837c77d24c24cb3a7",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:4cb3a7"
         },
         {
-            "id": "90488c59-8794-d7cf-6a90-3fb7ac1c7da4",
+            "id": "8772918b-1a14-404b-2e15-a6fd90b703c6",
             "worldPosition": {
-                "x": 12012.5986328125,
-                "y": 2681.087646484375,
-                "z": 107.28793334960938
+                "x": 11355.111328125,
+                "y": 2560.757568359375,
+                "z": 215.47621154785157
             },
             "rotation": {
-                "x": -0.04359809309244156,
-                "y": 9.115110799484683e-8,
-                "z": 8.352820657364646e-8,
-                "w": 0.9990491271018982
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.55193692445755,
+                "w": 0.8338858485221863
             },
+            "scale": 1.5,
             "footprint": {
                 "type": "Circle",
-                "id": "82317321-1899-6f05-8fc3-a2703deb71e0",
+                "id": "7b96e166-babe-d3c1-18da-e1ab0413c240",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_04_02",
-            "sliceAssetId": "{D7F928B3-3B9B-5289-A1E3-C727631119B2}:2"
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_07",
+            "sliceAssetId": "{C0BCBF0A-5EF8-5CA8-A0CE-63ADEB52C91F}:2"
+        },
+        {
+            "id": "0747fda4-1262-1b50-9196-209e450b48ea",
+            "worldPosition": {
+                "x": 11454.455078125,
+                "y": 2536.43798828125,
+                "z": 232.45289611816407
+            },
+            "rotation": {
+                "x": 0.02286318875849247,
+                "y": 0.0505061149597168,
+                "z": 0.07575275003910065,
+                "w": 0.9955841898918152
+            },
+            "scale": 1.4999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "6448474b-d83e-5a91-1c19-45c6f66b5f9a",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_06",
+            "sliceAssetId": "{22ECDE08-CF06-5BBB-8D43-49CEE56D91A8}:2"
         },
         {
             "id": "b18e2405-02cc-3a21-036f-68b14eac3081",
@@ -2343,6 +1789,577 @@
             }
         },
         {
+            "id": "2ba283d9-25ac-ffab-acd7-0dd371b4d3d9",
+            "worldPosition": {
+                "x": 11218.5576171875,
+                "y": 2769.6201171875,
+                "z": 49.710411071777347
+            },
+            "rotation": {
+                "x": 0.19484654068946839,
+                "y": -0.17129111289978028,
+                "z": 0.0014948686584830285,
+                "w": 0.965759813785553
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aa4a845f-a1f4-dd0e-f27f-b6ad2872ef05",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_03",
+            "sliceAssetId": "{6AB0345A-3E33-5FB2-9FA8-8FA3DF5A5358}:2"
+        },
+        {
+            "id": "07201e25-5627-b6e0-5100-39fff13c9347",
+            "worldPosition": {
+                "x": 11621.15234375,
+                "y": 3274.025390625,
+                "z": 54.06938934326172
+            },
+            "rotation": {
+                "x": 6.005802788422443e-8,
+                "y": -3.8941436741879445e-7,
+                "z": -5.092865216463523e-15,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "79bb83c9-7510-d185-3d41-97405658327f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_07_01",
+            "sliceAssetId": "{2EB788D8-F12D-5349-A24F-D069D4EFDDFA}:2"
+        },
+        {
+            "id": "e5233a76-b962-ff9a-66c6-d8d6e45450d0",
+            "worldPosition": {
+                "x": 11372.837890625,
+                "y": 2586.531494140625,
+                "z": 204.4290771484375
+            },
+            "rotation": {
+                "x": 8.741944412804514e-8,
+                "y": 7.629001874676078e-10,
+                "z": 0.9999619126319885,
+                "w": 0.008726561442017556
+            },
+            "scale": 1.4999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "e7507574-b2da-2999-57e5-04fc83f0b3f4",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_08",
+            "sliceAssetId": "{DD192966-A53B-559B-A1CD-F504112C3766}:2"
+        },
+        {
+            "id": "7773256b-1f62-5bc2-b25b-d444c96ea34e",
+            "worldPosition": {
+                "x": 11404.845703125,
+                "y": 2979.533935546875,
+                "z": 84.43341064453125
+            },
+            "rotation": {
+                "x": 8.77834125390109e-8,
+                "y": 0.0261769387871027,
+                "z": 1.7204961011429988e-8,
+                "w": 0.9996573328971863
+            },
+            "scale": 1.5000001192092896,
+            "footprint": {
+                "type": "Circle",
+                "id": "635605f1-302b-07e2-fd26-2ee54bf27dfe",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_03_7773256b1f625bc2b25bd444c96ea34e",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:6ea34e"
+        },
+        {
+            "id": "045b3693-f70f-2c54-1c6e-39e37f39a6fc",
+            "worldPosition": {
+                "x": 11542.990234375,
+                "y": 2808.073486328125,
+                "z": 95.67901611328125
+            },
+            "rotation": {
+                "x": -0.016191231086850168,
+                "y": 0.022341294214129449,
+                "z": 0.9532850980758667,
+                "w": -0.30080941319465639
+            },
+            "scale": 2.0,
+            "footprint": {
+                "type": "Circle",
+                "id": "145b8cab-c132-f5f6-f858-36f4014cfab2",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_06_045b3693f70f2c541c6e39e37f39a6fc",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:39a6fc"
+        },
+        {
+            "id": "d59436d9-4050-2622-c7b4-0619e6c9c601",
+            "worldPosition": {
+                "x": 11285.9736328125,
+                "y": 3553.17822265625,
+                "z": 55.52475357055664
+            },
+            "rotation": {
+                "x": -0.12845854461193086,
+                "y": 0.004661626182496548,
+                "z": 1.0271554717888876e-9,
+                "w": 0.9917039275169373
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c427ee54-5dec-00db-d095-06585be7ab8e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_08_03",
+            "sliceAssetId": "{43AF5DBC-A419-5B50-A50A-DAD4E5A45C7F}:2"
+        },
+        {
+            "id": "680c7c19-a17c-2142-f89c-2e89bff4dbd2",
+            "worldPosition": {
+                "x": 11456.3427734375,
+                "y": 2943.799560546875,
+                "z": 83.28800964355469
+            },
+            "rotation": {
+                "x": 8.742275525719379e-8,
+                "y": -8.742278367890322e-8,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "scale": 1.5,
+            "footprint": {
+                "type": "Circle",
+                "id": "469c94ac-0fff-e700-213f-7999ab678219",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_02_680c7c19a17c2142f89c2e89bff4dbd2",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:f4dbd2"
+        },
+        {
+            "id": "40280fd9-c830-b221-bc62-b874d6954e35",
+            "worldPosition": {
+                "x": 10567.4990234375,
+                "y": 2113.882080078125,
+                "z": 41.36419677734375
+            },
+            "rotation": {
+                "x": 0.14095498621463777,
+                "y": -0.06891109049320221,
+                "z": -0.8040325045585632,
+                "w": 0.5735108852386475
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "40a6354a-2b3f-c81b-6135-815f2eea8e21",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_03_04",
+            "sliceAssetId": "{A629AD7A-DD82-5190-AE6A-CE911281E0FC}:2"
+        },
+        {
+            "id": "a34cfa36-e621-f726-9092-018f97b88035",
+            "worldPosition": {
+                "x": 11961.3046875,
+                "y": 2689.255615234375,
+                "z": 106.48572540283203
+            },
+            "rotation": {
+                "x": -0.043862245976924899,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9990375638008118
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "47a60989-caad-4c0d-1ef3-074b3e6b6d53",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_04_01",
+            "sliceAssetId": "{5AC9FBEE-50CC-50C2-8D7D-AAF8C9045B6D}:2"
+        },
+        {
+            "id": "bb5a747d-7e7d-42a3-045e-c2f64fb3571a",
+            "worldPosition": {
+                "x": 11269.96484375,
+                "y": 3478.548095703125,
+                "z": 55.28630447387695
+            },
+            "rotation": {
+                "x": -0.08285157382488251,
+                "y": 0.05328159034252167,
+                "z": -3.837083895064097e-8,
+                "w": 0.995136559009552
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3e9c0118-b8ab-03d7-c205-85c69dc95021",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_08_02",
+            "sliceAssetId": "{C369D744-9B12-51B9-8C2A-99F18A674B0C}:2"
+        },
+        {
+            "id": "eb9aac91-44ac-4ffb-6d79-a4290d0171e3",
+            "worldPosition": {
+                "x": 10368.6953125,
+                "y": 3353.85791015625,
+                "z": 107.62664031982422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "856c476c-de5d-2bed-2788-59bcba94b621",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Missions/Interact/PKTraceAbsorber/IO_WorldEvent_9801_PKTraceAbsorberA_00",
+            "sliceAssetId": "{996861E6-3A95-525D-9D30-B1545B403346}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "ff50f2bf-8263-9ad2-095b-0d83cb71c743",
+            "worldPosition": {
+                "x": 11552.9775390625,
+                "y": 2596.603515625,
+                "z": 151.539306640625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071067690849304,
+                "w": 0.7071067690849304
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "904579d3-e82c-7ac6-f242-041885ae0857",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_03_NEW",
+            "sliceAssetId": "{52ADA15F-46DA-5322-9DB0-A1365494DE19}:2"
+        },
+        {
+            "id": "317ba6c1-c5ac-3b41-7378-e2c485fd84a1",
+            "worldPosition": {
+                "x": 11440.7470703125,
+                "y": 3034.881103515625,
+                "z": 71.63687133789063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.4999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "1bbe0bf6-4a65-299b-8eae-376e3b6c502e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_10_01_317ba6c1c5ac3b417378e2c485fd84a1",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:fd84a1"
+        },
+        {
+            "id": "5b1553b5-cb68-a81b-1325-693defe69593",
+            "worldPosition": {
+                "x": 11864.9765625,
+                "y": 3206.10400390625,
+                "z": 89.67747497558594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9135453104972839,
+                "w": 0.40673696994781496
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "496217e1-1b49-fc49-cbe1-86828229a576",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/HeartDevice/IO_WorldEvent_0508_HeartDevice_00",
+            "sliceAssetId": "{E6F92231-C46D-5A0E-AF3C-276558BF4CFB}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "99463958-b858-15b9-96e4-051f680d616d",
+            "worldPosition": {
+                "x": 11648.8203125,
+                "y": 2703.438232421875,
+                "z": 119.29215240478516
+            },
+            "rotation": {
+                "x": 3.6814389068721205e-22,
+                "y": 3.5527132552840274e-15,
+                "z": -0.505532443523407,
+                "w": 0.8628076314926148
+            },
+            "scale": 1.5,
+            "footprint": {
+                "type": "Circle",
+                "id": "002ddc15-58d7-245b-21c1-215cf899913e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_11_01",
+            "sliceAssetId": "{D0F4A1DF-E50B-54D3-A73D-0B78040262FD}:2"
+        },
+        {
+            "id": "cdba0440-046e-9444-3e3a-ed5c5b16ee59",
+            "worldPosition": {
+                "x": 11553.9775390625,
+                "y": 3336.562255859375,
+                "z": 53.14542007446289
+            },
+            "rotation": {
+                "x": -0.014959738589823246,
+                "y": 0.008988170884549618,
+                "z": -4.511781170890572e-9,
+                "w": 0.9998477101325989
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0c052b5c-528d-0751-207b-9b91ffb63ada",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_07_02",
+            "sliceAssetId": "{DCD53486-20F0-5B5E-92E4-9949402D6DF8}:2"
+        },
+        {
+            "id": "4b4b964c-106d-773f-3a93-be56f85c0050",
+            "worldPosition": {
+                "x": 11998.1064453125,
+                "y": 3877.41162109375,
+                "z": 44.333396911621097
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.19936791062355042,
+                "w": 0.9799246788024902
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1e709014-7983-c06c-547f-a5fb57985c05",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_06_02",
+            "sliceAssetId": "{8A2372D1-4015-5344-9C24-8164A3273717}:2"
+        },
+        {
+            "id": "2c85530e-0a5d-8563-5c4a-5f661d75cca5",
+            "worldPosition": {
+                "x": 11821.0625,
+                "y": 3983.48291015625,
+                "z": 95.5833740234375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "37a414af-eeef-9630-56cc-264a88670e98",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_06_01",
+            "sliceAssetId": "{FE2E5E88-3C04-5EB4-B037-41ACFACC9854}:2"
+        },
+        {
+            "id": "ca8577e3-64aa-a020-0a33-f47e233d44a0",
+            "worldPosition": {
+                "x": 10581.9541015625,
+                "y": 3785.6484375,
+                "z": 282.0921630859375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9848077297210693,
+                "w": 0.17364822328090669
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "6ef64e97-e205-5a86-a999-086f100923fd",
+                "width": 0.0,
+                "height": 0.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/AncientMap/IO_WorldEvent_0510_AncientMap_00",
+            "sliceAssetId": "{07BDDCDE-2B01-58FD-9692-B89A4D96AA43}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f2f99ada-fb8f-abd9-ee6b-fcda585c7000",
+            "worldPosition": {
+                "x": 11481.8388671875,
+                "y": 3350.58056640625,
+                "z": 70.91429901123047
+            },
+            "rotation": {
+                "x": 0.0440533384680748,
+                "y": 0.06427482515573502,
+                "z": -0.00021928436763118953,
+                "w": 0.996959388256073
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4d629738-15e7-6e66-ad96-15de264ed15b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_07_03",
+            "sliceAssetId": "{12370F13-8A55-57D1-8709-2DFC7A31B5F1}:2"
+        },
+        {
+            "id": "6b3270c8-c2be-5c11-2bef-496e4e80d347",
+            "worldPosition": {
+                "x": 12003.5537109375,
+                "y": 3564.224853515625,
+                "z": 76.51444244384766
+            },
+            "rotation": {
+                "x": 8.029749665183772e-8,
+                "y": -3.8941436741879445e-7,
+                "z": -6.997848244069075e-15,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cd0940ca-bfa3-01ab-8ce8-a8893e212ae0",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_05_02",
+            "sliceAssetId": "{28031042-9425-5E60-9455-B7D3F453B7EE}:2"
+        },
+        {
+            "id": "5ab5a5c6-205b-8161-48c1-a4a8cf423b7a",
+            "worldPosition": {
+                "x": 11571.2900390625,
+                "y": 3389.81298828125,
+                "z": 53.32086181640625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2c15dd27-33ee-21b1-15d5-a598e41e842d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_01_01",
+            "sliceAssetId": "{BF82EA40-B0E3-5DEB-A15F-40ABA22A4D3D}:2"
+        },
+        {
+            "id": "675cc507-3743-e2d1-9bbd-b7b348c748e7",
+            "worldPosition": {
+                "x": 11827.8466796875,
+                "y": 3144.427978515625,
+                "z": 71.26012420654297
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9396926164627075,
+                "w": -0.3420201241970062
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "31e6912b-f83a-560e-ab3b-436d3dbd06a8",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/AncientBookcase/IO_WorldEvent_0504_AncientBookcase_00",
+            "sliceAssetId": "{8E16D02F-4CB0-5DF7-ADC3-474AC3EC7E66}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "26361a2a-b9a5-1a5c-3980-f7aca4bfcd8e",
+            "worldPosition": {
+                "x": 11994.4345703125,
+                "y": 3575.2265625,
+                "z": 60.45952224731445
+            },
+            "rotation": {
+                "x": 8.979681354048808e-8,
+                "y": -0.025489818304777147,
+                "z": -4.442335230884511e-16,
+                "w": 0.9996750950813294
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cda2f1a3-89f7-fcdb-7bbc-0a1649053918",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_05_01",
+            "sliceAssetId": "{0C981083-061C-5644-9F92-CD9406FA7317}:2"
+        },
+        {
+            "id": "ba00ad32-396c-f950-3359-2819a32356b0",
+            "worldPosition": {
+                "x": 10588.18359375,
+                "y": 3785.537841796875,
+                "z": 247.45443725585938
+            },
+            "rotation": {
+                "x": 1.0112149340102406e-7,
+                "y": -7.0940956220511e-8,
+                "z": 0.9848077297210693,
+                "w": 0.17364822328090669
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e553b604-d034-8ca4-c3ac-63584c1ee276",
+                "radius": 0.5
+            },
+            "sliceName": "slices/WorldEvents/Reekwater/Interact/AncientStatueWDoor/IO_WorldEvent_0517_AncientTowerDoor_00",
+            "sliceAssetId": "{5DCDC52E-FD8C-5BDF-8214-38698B20CA2F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "613a4806-dfd3-7e45-8cb9-dfd188456449",
+            "worldPosition": {
+                "x": 11208.4169921875,
+                "y": 3469.219970703125,
+                "z": 55.82086181640625
+            },
+            "rotation": {
+                "x": -0.15974728763103486,
+                "y": -0.0970817506313324,
+                "z": -0.004097785335034132,
+                "w": 0.9823640584945679
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "170f6a9b-30f4-7622-89b8-26025d85b114",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\d34fbb96\\Lore_05_Reekwater_Title_08_01_613a4806dfd37e458cb9dfd188456449",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:456449"
+        },
+        {
             "id": "ea3427c8-8b6e-670d-4ebd-97413ea8a246",
             "worldPosition": {
                 "x": 11451.6904296875,
@@ -2362,6 +2379,27 @@
             },
             "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_01_02",
             "sliceAssetId": "{11BA0CA4-C985-5738-B8F2-500A99651517}:2"
+        },
+        {
+            "id": "c66be20a-9e63-a74a-b665-2c2a043c57b3",
+            "worldPosition": {
+                "x": 11982.158203125,
+                "y": 2748.367431640625,
+                "z": 102.21318054199219
+            },
+            "rotation": {
+                "x": -0.04364120960235596,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9990472793579102
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b5414478-a279-178f-bdb7-b22f6e54e446",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_02_04",
+            "sliceAssetId": "{83A0D9D7-C1E9-52A0-B10A-2625751708BD}:2"
         },
         {
             "id": "837fcfe2-900c-06b9-98a8-dd411cda4174",
@@ -2388,67 +2426,29 @@
             }
         },
         {
-            "id": "f738bfaf-cc6d-de25-db4d-ed4822319ce0",
+            "id": "8e2481d7-0701-4fc0-ac4b-0864b8365a7c",
             "worldPosition": {
-                "x": 11991.9765625,
-                "y": 2444.634765625,
-                "z": 45.15842056274414
+                "x": 10627.3115234375,
+                "y": 2736.803955078125,
+                "z": 76.06570434570313
             },
             "rotation": {
-                "x": 0.0026554360520094635,
-                "y": 0.0402320921421051,
-                "z": 0.00789338443428278,
-                "w": 0.9991557002067566
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9238795638084412,
+                "w": 0.38268333673477175
             },
             "footprint": {
-                "type": "Circle",
-                "id": "3cc9c48a-b6c2-6ee3-44ed-56f93b3649f2",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "e040c4f5-e9d9-1c6a-fa31-6f54840cef97",
+                "width": 3.5,
+                "height": 2.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_02_03",
-            "sliceAssetId": "{5161B3A0-4C05-5D30-B20D-D32AD934143E}:2"
-        },
-        {
-            "id": "24fb7caa-b889-fca2-4c20-f38cb717cc17",
-            "worldPosition": {
-                "x": 12051.7080078125,
-                "y": 3573.100341796875,
-                "z": 63.52018737792969
-            },
-            "rotation": {
-                "x": 0.06746876984834671,
-                "y": 0.05833093449473381,
-                "z": -0.7401832342147827,
-                "w": 0.6664640307426453
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ccf59f38-78b0-7891-4603-386907aff62d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_05_03",
-            "sliceAssetId": "{213FFDDD-69FB-5279-A2AE-7027EE8E8CD8}:2"
-        },
-        {
-            "id": "f2f99ada-fb8f-abd9-ee6b-fcda585c7000",
-            "worldPosition": {
-                "x": 11481.8388671875,
-                "y": 3350.58056640625,
-                "z": 70.91429901123047
-            },
-            "rotation": {
-                "x": 0.0440533384680748,
-                "y": 0.06427482515573502,
-                "z": -0.00021928436763118953,
-                "w": 0.996959388256073
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4d629738-15e7-6e66-ad96-15de264ed15b",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_05_Reekwater_Title_07_03",
-            "sliceAssetId": "{12370F13-8A55-57D1-8709-2DFC7A31B5F1}:2"
+            "sliceName": "CoatGen\\d34fbb96\\IO_WorldEvent_9802_DryadTerminusPool_00_8e2481d707014fc0ac4b0864b8365a7c",
+            "sliceAssetId": "{D462F210-AF61-5B02-BF05-E13E728805CB}:365a7c",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         }
     ]
 }

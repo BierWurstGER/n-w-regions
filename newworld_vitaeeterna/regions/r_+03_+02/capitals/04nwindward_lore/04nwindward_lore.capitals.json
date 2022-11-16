@@ -1,25 +1,27 @@
 {
     "Capitals": [
         {
-            "id": "653edee7-b87e-e169-17de-06d1fd793237",
+            "id": "6cefb7c0-85f2-b6c5-c2e2-c7bef0130ccb",
             "worldPosition": {
-                "x": 7813.86328125,
-                "y": 4584.302734375,
-                "z": 45.23326873779297
+                "x": 7918.56005859375,
+                "y": 4687.16748046875,
+                "z": 49.17843246459961
             },
             "rotation": {
-                "x": -0.0033654216676950456,
-                "y": 0.14361999928951264,
-                "z": 0.8572251796722412,
-                "w": 0.4944966435432434
+                "x": 0.0005718019092455506,
+                "y": 0.0010754085378721357,
+                "z": -0.4067556858062744,
+                "w": 0.9135361909866333
             },
+            "scale": 0.9999998807907105,
             "footprint": {
-                "type": "Circle",
-                "id": "16cce80d-0fab-ed15-6159-6c24ec31b529",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "09a95428-6ac2-c6af-d91f-c7e137afe7c7",
+                "width": 3.5,
+                "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_ShipsLocker_00",
-            "sliceAssetId": "{1FC18F30-EA00-507F-8E49-741092E5096C}:2",
+            "sliceName": "slices/WorldEvents/MainStoryQuest/ShipFlag/IO_WorldEvent_MSQ_0002_ShipFlagBow_00",
+            "sliceAssetId": "{31627A93-B116-5919-9EC6-913612037F31}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -56,10 +58,10 @@
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.6087614297866821,
+                "z": 0.6087613701820374,
                 "w": 0.7933533787727356
             },
-            "scale": 7.999999046325684,
+            "scale": 7.999997615814209,
             "footprint": {
                 "type": "Circle",
                 "id": "73113815-7066-bb9f-3f2c-3ce28dc086e8",
@@ -91,32 +93,6 @@
             "sliceAssetId": "{813C6ED1-9A1A-5C09-BD68-EFA8110CD383}:68cbd6"
         },
         {
-            "id": "6cefb7c0-85f2-b6c5-c2e2-c7bef0130ccb",
-            "worldPosition": {
-                "x": 7918.56005859375,
-                "y": 4687.16748046875,
-                "z": 49.17843246459961
-            },
-            "rotation": {
-                "x": 0.0005718019092455506,
-                "y": 0.0010754085378721357,
-                "z": -0.4067556858062744,
-                "w": 0.9135361909866333
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "09a95428-6ac2-c6af-d91f-c7e137afe7c7",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/MainStoryQuest/ShipFlag/IO_WorldEvent_MSQ_0002_ShipFlagBow_00",
-            "sliceAssetId": "{31627A93-B116-5919-9EC6-913612037F31}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "bbe3adf1-c9d3-1a0f-373c-1b0127be63f0",
             "worldPosition": {
                 "x": 7890.982421875,
@@ -138,46 +114,25 @@
             "sliceAssetId": "{0EC95A77-1D39-570E-813A-2625BA9C0DA1}:2"
         },
         {
-            "id": "b8354999-c5e4-86a1-db5c-eb92616765b4",
+            "id": "5d5ac602-cdb9-37eb-7392-c79ed27f0d09",
             "worldPosition": {
-                "x": 7982.61865234375,
-                "y": 4580.55078125,
-                "z": 41.13711929321289
+                "x": 7890.0,
+                "y": 4495.0,
+                "z": 41.4777946472168
             },
             "rotation": {
-                "x": 0.026555398479104043,
-                "y": 0.023514648899435998,
-                "z": 0.3912791609764099,
-                "w": 0.9195882081985474
+                "x": 0.10072609782218933,
+                "y": -0.11433655023574829,
+                "z": 1.13079181573994e-8,
+                "w": 0.9883224964141846
             },
             "footprint": {
                 "type": "Circle",
-                "id": "aac4e8ee-a353-5130-151b-26daf532f877",
+                "id": "06f69b77-4456-3b07-10a9-b34887bd49ee",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_12_03",
-            "sliceAssetId": "{8CCAE2CA-E3A9-5802-B117-C8129C38B792}:2"
-        },
-        {
-            "id": "0cb36d23-4271-f723-a905-d94966b935f2",
-            "worldPosition": {
-                "x": 8106.9208984375,
-                "y": 4525.0390625,
-                "z": 43.85466766357422
-            },
-            "rotation": {
-                "x": -0.015173529274761677,
-                "y": -0.004264895338565111,
-                "z": -0.26620402932167055,
-                "w": 0.963787853717804
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "cbf13cb8-19bd-5a23-d689-a70f9e11a660",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_12_01",
-            "sliceAssetId": "{39595EBC-CC26-554D-B01E-0E886F61D81E}:2"
+            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_17_01",
+            "sliceAssetId": "{3603FBA9-D0D9-586C-9905-59375E0A860D}:2"
         },
         {
             "id": "f5868a46-64b6-e8d9-865f-5681de2892f1",
@@ -189,7 +144,7 @@
             "rotation": {
                 "x": 0.02513938769698143,
                 "y": -0.02513906918466091,
-                "z": 5.32936983432819e-9,
+                "z": 4.7469250752385509e-9,
                 "w": 0.9993678331375122
             },
             "footprint": {
@@ -201,25 +156,112 @@
             "sliceAssetId": "{1433D2A5-E68E-5962-8607-76A9C82E98F4}:2"
         },
         {
-            "id": "3df52014-b0fa-12fd-7d7d-26abea5713be",
+            "id": "014ec77a-a6b8-f8f3-ed76-9dac99b433f1",
             "worldPosition": {
-                "x": 7956.05322265625,
-                "y": 4815.85009765625,
-                "z": 42.063480377197269
+                "x": 7933.1923828125,
+                "y": 4449.7734375,
+                "z": 43.791141510009769
             },
             "rotation": {
-                "x": -0.0075082480907440189,
-                "y": 0.010754480957984925,
-                "z": 2.113847541451719e-9,
-                "w": 0.9999139904975891
+                "x": -0.08939353376626969,
+                "y": -0.046563759446144107,
+                "z": -0.0015513165853917599,
+                "w": 0.9949061274528503
             },
             "footprint": {
                 "type": "Circle",
-                "id": "99ac1d07-569e-362d-994b-135dfbe53243",
+                "id": "fed745ad-9f24-0cb5-7ce5-077719aef2a0",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_16_01",
-            "sliceAssetId": "{6141F95A-95B9-5DF3-BE0D-3940098DF07E}:2"
+            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_17_04",
+            "sliceAssetId": "{56A10C6D-6B65-5D90-99C7-522879323F45}:2"
+        },
+        {
+            "id": "653edee7-b87e-e169-17de-06d1fd793237",
+            "worldPosition": {
+                "x": 7813.86328125,
+                "y": 4584.302734375,
+                "z": 45.23326873779297
+            },
+            "rotation": {
+                "x": -0.0033654216676950456,
+                "y": 0.14361999928951264,
+                "z": 0.8572251796722412,
+                "w": 0.4944966435432434
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "16cce80d-0fab-ed15-6159-6c24ec31b529",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/StarterBeach/Shipwreck/WorldEvent_Object_MSQ_ShipsLocker_00",
+            "sliceAssetId": "{1FC18F30-EA00-507F-8E49-741092E5096C}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "34f6fb1d-084d-605d-3097-ca05a19ead52",
+            "worldPosition": {
+                "x": 7848.3828125,
+                "y": 4590.61669921875,
+                "z": 40.648990631103519
+            },
+            "rotation": {
+                "x": -0.046721283346414569,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.9989079833030701
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "dc82fca0-b3ba-db3f-d41a-180f6ab6fe06",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_02",
+            "sliceAssetId": "{AA64ADB6-2AE0-53F0-B6D5-ED114FDDFF1D}:2"
+        },
+        {
+            "id": "e752bc82-d0be-641f-bf68-94d2b0ce2566",
+            "worldPosition": {
+                "x": 7743.3701171875,
+                "y": 4390.89892578125,
+                "z": 41.94424819946289
+            },
+            "rotation": {
+                "x": -0.029238030314445497,
+                "y": -0.046355146914720538,
+                "z": -5.781724894404761e-7,
+                "w": 0.9984970688819885
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3003b1a5-48c6-68be-4693-11f057dfa052",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_10",
+            "sliceAssetId": "{2AC9E9B6-5454-546E-A319-4764C0DFA75E}:2"
+        },
+        {
+            "id": "7dca6b31-c5fe-5400-09b8-e2affbc606eb",
+            "worldPosition": {
+                "x": 7875.94775390625,
+                "y": 4483.93798828125,
+                "z": 42.20689392089844
+            },
+            "rotation": {
+                "x": 0.0002905870496761054,
+                "y": 0.008647676557302475,
+                "z": 0.00015094576519913971,
+                "w": 0.999962568283081
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7fd161b7-6e6e-e0c9-5033-be169ed54751",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_17_03",
+            "sliceAssetId": "{73DD2FB7-D078-5757-9BAC-BF67B5715EE4}:2"
         },
         {
             "id": "d6e1c3d7-d048-ed7d-4045-c6b8b77b6f63",
@@ -248,109 +290,25 @@
             }
         },
         {
-            "id": "e752bc82-d0be-641f-bf68-94d2b0ce2566",
+            "id": "3df52014-b0fa-12fd-7d7d-26abea5713be",
             "worldPosition": {
-                "x": 7743.36572265625,
-                "y": 4390.90185546875,
-                "z": 41.991676330566409
+                "x": 7956.05322265625,
+                "y": 4815.85009765625,
+                "z": 42.063480377197269
             },
             "rotation": {
-                "x": -0.029238030314445497,
-                "y": -0.046355146914720538,
-                "z": -5.781724894404761e-7,
-                "w": 0.9984970688819885
+                "x": -0.0075082480907440189,
+                "y": 0.010754480957984925,
+                "z": 2.113847541451719e-9,
+                "w": 0.9999139904975891
             },
             "footprint": {
                 "type": "Circle",
-                "id": "3003b1a5-48c6-68be-4693-11f057dfa052",
+                "id": "99ac1d07-569e-362d-994b-135dfbe53243",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_10",
-            "sliceAssetId": "{2AC9E9B6-5454-546E-A319-4764C0DFA75E}:2"
-        },
-        {
-            "id": "4ad0f72c-d79a-bdd6-002d-a9216cd5bc07",
-            "worldPosition": {
-                "x": 8148.39306640625,
-                "y": 4627.005859375,
-                "z": 64.22041320800781
-            },
-            "rotation": {
-                "x": 0.15348099172115327,
-                "y": -0.051477499306201938,
-                "z": 0.12026181071996689,
-                "w": 0.9794542789459229
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "25382614-c883-7b24-46dd-52df41aa653f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_12_02",
-            "sliceAssetId": "{DF747506-151E-5354-9FCD-2B3ADD4DC6D0}:2"
-        },
-        {
-            "id": "34f6fb1d-084d-605d-3097-ca05a19ead52",
-            "worldPosition": {
-                "x": 7848.3828125,
-                "y": 4590.61669921875,
-                "z": 40.648990631103519
-            },
-            "rotation": {
-                "x": -0.046721283346414569,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9989079833030701
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dc82fca0-b3ba-db3f-d41a-180f6ab6fe06",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_05_02",
-            "sliceAssetId": "{AA64ADB6-2AE0-53F0-B6D5-ED114FDDFF1D}:2"
-        },
-        {
-            "id": "014ec77a-a6b8-f8f3-ed76-9dac99b433f1",
-            "worldPosition": {
-                "x": 7933.1923828125,
-                "y": 4449.7734375,
-                "z": 43.791141510009769
-            },
-            "rotation": {
-                "x": -0.08939353376626969,
-                "y": -0.046563759446144107,
-                "z": -0.0015513165853917599,
-                "w": 0.9949061274528503
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "fed745ad-9f24-0cb5-7ce5-077719aef2a0",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_17_04",
-            "sliceAssetId": "{56A10C6D-6B65-5D90-99C7-522879323F45}:2"
-        },
-        {
-            "id": "7dca6b31-c5fe-5400-09b8-e2affbc606eb",
-            "worldPosition": {
-                "x": 7875.94775390625,
-                "y": 4483.93798828125,
-                "z": 42.20689392089844
-            },
-            "rotation": {
-                "x": 0.0002905870496761054,
-                "y": 0.008647676557302475,
-                "z": 0.00015094576519913971,
-                "w": 0.999962568283081
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7fd161b7-6e6e-e0c9-5033-be169ed54751",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_17_03",
-            "sliceAssetId": "{73DD2FB7-D078-5757-9BAC-BF67B5715EE4}:2"
+            "sliceName": "slices/POIs/Lore/Lore_04_Everfall_Title_16_01",
+            "sliceAssetId": "{6141F95A-95B9-5DF3-BE0D-3940098DF07E}:2"
         }
     ]
 }

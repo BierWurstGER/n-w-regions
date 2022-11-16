@@ -1,0 +1,49 @@
+{
+    "Capitals": [
+        {
+            "id": "00e63155-703b-bc49-4378-4d6fafb1751d",
+            "worldPosition": {
+                "x": 4963.828125,
+                "y": 7759.47314453125,
+                "z": 208.09866333007813
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "df51f4d5-455d-db30-4cba-13440beb669e",
+                "radius": 45.0
+            },
+            "sliceName": "slices/POIs/Brimstone/SandWorm_Arena/SandWormArenaRock_Brimstone_A",
+            "sliceAssetId": "{43876745-FC86-5E8B-8DE8-33A6E9117AEE}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Brimstone/SandWormArenaBowl_B_footprint.obj"
+            }
+        },
+        {
+            "id": "bfff82e4-1623-23c5-9db6-9544d052dbb4",
+            "worldPosition": {
+                "x": 4965.900390625,
+                "y": 7761.4990234375,
+                "z": 186.3186492919922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cf075ea9-3f66-9b5f-0fdc-e730195f7e67",
+                "radius": 10.0
+            },
+            "sliceName": "slices/Volumetrics/SandWormArena_Fog01__",
+            "sliceAssetId": "{D82BC4D2-01C2-5778-95D8-68DA226FB6D2}:2"
+        }
+    ]
+}

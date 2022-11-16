@@ -697,8 +697,8 @@
                 "id": "be6eac52-f1a3-571a-8568-aa5316c42a06",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\jav_wld_boulder_cryst_md01_608f88a339576439f7a615f801d616ee",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:d616ee"
+            "sliceName": "slices/Terrain_Elements/Boulders/jav_wld_boulder_cryst_md01",
+            "sliceAssetId": "{7C11A79F-CD6B-56DC-BA91-ED88C2455D62}:2"
         },
         {
             "id": "36b58e83-378d-1624-472b-8fd00acd57f5",
@@ -718,8 +718,8 @@
                 "id": "3e1e5e55-8d63-3fc6-65cd-30dec2cf7776",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\jav_wld_boulder_cryst_md01_36b58e83378d1624472b8fd00acd57f5",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:cd57f5"
+            "sliceName": "slices/Terrain_Elements/Boulders/jav_wld_boulder_cryst_md01",
+            "sliceAssetId": "{7C11A79F-CD6B-56DC-BA91-ED88C2455D62}:2"
         },
         {
             "id": "51c2afbc-057c-f582-5436-a515fe6bfeb5",
@@ -2728,10 +2728,9 @@
                 "w": 0.38229429721832278
             },
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "7d8941f7-0ba3-1173-9e7b-874625c8f996",
-                "width": 6.0,
-                "height": 4.0
+                "radius": 0.10000000149011612
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_M",
             "sliceAssetId": "{974766A5-F60B-5AF9-84EE-C80D6E0F742A}:2"
@@ -2750,10 +2749,9 @@
                 "w": 0.9238268733024597
             },
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "7729c841-c994-ec06-a35e-2049fe04f1a3",
-                "width": 6.0,
-                "height": 4.0
+                "radius": 0.10000000149011612
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_M",
             "sliceAssetId": "{974766A5-F60B-5AF9-84EE-C80D6E0F742A}:2"
@@ -2772,10 +2770,9 @@
                 "w": 0.3829437494277954
             },
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "b801900e-dbf3-65be-98a7-a284fe9a3761",
-                "width": 6.0,
-                "height": 4.0
+                "radius": 0.10000000149011612
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_M",
             "sliceAssetId": "{974766A5-F60B-5AF9-84EE-C80D6E0F742A}:2"
@@ -2794,10 +2791,9 @@
                 "w": -0.3806208074092865
             },
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "2b3dd382-f519-4b2b-f097-5d006b7b8493",
-                "width": 6.0,
-                "height": 4.0
+                "radius": 0.10000000149011612
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_M",
             "sliceAssetId": "{974766A5-F60B-5AF9-84EE-C80D6E0F742A}:2"
@@ -3051,8 +3047,8 @@
                 "id": "e2611139-42a5-ff85-bcf7-1c9783512c14",
                 "radius": 6.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_F_7fbe64143e00a41679d4129f8f93276f",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:93276f"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_F",
+            "sliceAssetId": "{E05C0057-D98A-5799-8CBD-CFB336900933}:2"
         },
         {
             "id": "b272f482-15ac-8d68-e611-b939913e0c6f",
@@ -3072,8 +3068,8 @@
                 "id": "e499d2e5-34ca-682b-f634-a70a9eb7ce39",
                 "radius": 6.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_F_b272f48215ac8d68e611b939913e0c6f",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:3e0c6f"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_F",
+            "sliceAssetId": "{E05C0057-D98A-5799-8CBD-CFB336900933}:2"
         },
         {
             "id": "7ce3c7cf-1eef-2bdc-d2fe-0a1d6d33a51d",
@@ -3093,8 +3089,8 @@
                 "id": "eabad6e4-bb4b-a6c9-fd91-5cc2842f987d",
                 "radius": 6.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_F_7ce3c7cf1eef2bdcd2fe0a1d6d33a51d",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:33a51d"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_F",
+            "sliceAssetId": "{E05C0057-D98A-5799-8CBD-CFB336900933}:2"
         },
         {
             "id": "8ae7bab0-8f80-0088-e358-834410ff7540",
@@ -3114,8 +3110,8 @@
                 "id": "814ebd12-f83e-74e2-2e89-596d935156c7",
                 "radius": 6.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_F_8ae7bab08f800088e358834410ff7540",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:ff7540"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_F",
+            "sliceAssetId": "{E05C0057-D98A-5799-8CBD-CFB336900933}:2"
         },
         {
             "id": "4a0b70bc-c82d-34ff-6f07-34e4e2f144da",
@@ -3135,8 +3131,8 @@
                 "id": "32631692-3736-f393-0db7-27a552873588",
                 "radius": 6.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_F_4a0b70bcc82d34ff6f0734e4e2f144da",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:f144da"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_F",
+            "sliceAssetId": "{E05C0057-D98A-5799-8CBD-CFB336900933}:2"
         },
         {
             "id": "8cd31a06-1ae2-4a0a-7f3f-0be5baec8ace",
@@ -3538,8 +3534,8 @@
                 "id": "343015d3-8a91-72b9-11c9-f4e3b3988d3b",
                 "radius": 5.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_B_f34e40b811bccae24ee8dc14093c23ce",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:3c23ce"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_B",
+            "sliceAssetId": "{9A67CA7F-6478-50E9-9FF1-8C6C2A67B498}:2"
         },
         {
             "id": "a2d92e18-e1ab-4d85-0945-46ea89c3a519",
@@ -3560,8 +3556,8 @@
                 "width": 9.0,
                 "height": 1.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Farm_gateframe_b_a2d92e18e1ab4d8594546ea89c3a519",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:c3a519"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/Farming/Farm_gateframe_b",
+            "sliceAssetId": "{BC8AE839-3CF7-5961-810F-0CE48170C5D1}:2"
         },
         {
             "id": "6de75e92-9116-10bf-9e26-2dc0cd8003a6",
@@ -3582,8 +3578,8 @@
                 "width": 9.0,
                 "height": 1.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Farm_gateframe_b_6de75e92911610bf9e262dc0cd8003a6",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:8003a6"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/Farming/Farm_gateframe_b",
+            "sliceAssetId": "{BC8AE839-3CF7-5961-810F-0CE48170C5D1}:2"
         },
         {
             "id": "6f55e2d6-282a-1621-c5d0-5abe5688b136",
@@ -3604,8 +3600,8 @@
                 "width": 9.0,
                 "height": 1.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Farm_gateframe_b_6f55e2d6282a1621c5d05abe5688b136",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:88b136"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Production_Structures/Farming/Farm_gateframe_b",
+            "sliceAssetId": "{BC8AE839-3CF7-5961-810F-0CE48170C5D1}:2"
         },
         {
             "id": "6a739b53-f3a9-39a8-c213-acaf143daeb5",
@@ -3625,8 +3621,8 @@
                 "id": "31a6bfe4-80ae-5761-98a4-433f4d23669a",
                 "radius": 20.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_G_6a739b53f3a939a8c213acaf143daeb5",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:3daeb5"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_G",
+            "sliceAssetId": "{2B964109-680D-58E6-AE1F-5258B81A5F8B}:2"
         },
         {
             "id": "3696858b-256f-3691-c688-f44a0f3fb85c",
@@ -3646,8 +3642,8 @@
                 "id": "2790eec6-dbf6-b551-a9c8-ff60f47e7d2d",
                 "radius": 20.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_G_3696858b256f3691c688f44a0f3fb85c",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:3fb85c"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_G",
+            "sliceAssetId": "{2B964109-680D-58E6-AE1F-5258B81A5F8B}:2"
         },
         {
             "id": "5ea06e7d-41d4-2a84-65e2-17d0ff66d955",
@@ -3667,8 +3663,8 @@
                 "id": "a75c49ab-fe75-d0e9-8bbf-18fd6f55d6ab",
                 "radius": 20.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_G_5ea06e7d41d42a8465e217d0ff66d955",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:66d955"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_G",
+            "sliceAssetId": "{2B964109-680D-58E6-AE1F-5258B81A5F8B}:2"
         },
         {
             "id": "4d6554cc-89aa-dafb-a534-4a5438157348",
@@ -3688,8 +3684,8 @@
                 "id": "ce2f4e12-542b-317e-524b-635a4a63e281",
                 "radius": 20.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_G_4d6554cc89aadafba5344a5438157348",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:157348"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_G",
+            "sliceAssetId": "{2B964109-680D-58E6-AE1F-5258B81A5F8B}:2"
         },
         {
             "id": "8f3a8174-5e15-22b3-e2c5-b01fcdae2a2c",
@@ -3709,8 +3705,8 @@
                 "id": "1ed40969-b6a2-6633-e40d-6d20af56afac",
                 "radius": 20.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_G_8f3a81745e1522b3e2c5b01fcdae2a2c",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:ae2a2c"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_G",
+            "sliceAssetId": "{2B964109-680D-58E6-AE1F-5258B81A5F8B}:2"
         },
         {
             "id": "59e67305-fbd6-1174-9b38-4b916a7bdcb2",
@@ -3730,8 +3726,8 @@
                 "id": "63eb5320-4f03-327f-04f1-ee87b446096a",
                 "radius": 20.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_G_59e67305fbd611749b384b916a7bdcb2",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:7bdcb2"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_G",
+            "sliceAssetId": "{2B964109-680D-58E6-AE1F-5258B81A5F8B}:2"
         },
         {
             "id": "d7efa55b-75ff-49e9-3a94-84ec77cded9e",
@@ -3881,8 +3877,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "286055a4-3ac0-aa27-7d0e-14de1a9055b7",
-                "width": 7.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 3.0
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_O",
             "sliceAssetId": "{803E0F5E-2A71-5ED1-85E2-74CD810CD96B}:2"
@@ -3903,8 +3899,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "0f1f5a6a-7a2d-499b-7e71-0a3bfa4c2b69",
-                "width": 7.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 3.0
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_O",
             "sliceAssetId": "{803E0F5E-2A71-5ED1-85E2-74CD810CD96B}:2"
@@ -3925,8 +3921,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "c27dbf6d-5276-9d71-059b-e5c42acc52c6",
-                "width": 7.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 3.0
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_O",
             "sliceAssetId": "{803E0F5E-2A71-5ED1-85E2-74CD810CD96B}:2"
@@ -3947,8 +3943,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "f61d944f-9164-d4d7-a670-c0c960694aad",
-                "width": 7.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 3.0
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_O",
             "sliceAssetId": "{803E0F5E-2A71-5ED1-85E2-74CD810CD96B}:2"
@@ -3971,8 +3967,8 @@
                 "id": "f4b0e8c0-cb17-f449-cb9a-193b210878a7",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_I_bb22e8e4881871e72083d70736bbcf4e",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:bbcf4e"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_I",
+            "sliceAssetId": "{48B07969-BC18-5E6B-9233-8A59F57158FD}:2"
         },
         {
             "id": "3b2de283-ae27-74f7-321a-0645f2494564",
@@ -3992,8 +3988,8 @@
                 "id": "ae70b3a9-39f2-3910-9543-c7005493dc38",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_I_3b2de283ae2774f7321a0645f2494564",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:494564"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_I",
+            "sliceAssetId": "{48B07969-BC18-5E6B-9233-8A59F57158FD}:2"
         },
         {
             "id": "e9d0dc44-5743-12eb-fb81-f54f8bef0aa4",
@@ -4013,8 +4009,8 @@
                 "id": "d605f0bc-f6d9-1bb8-6021-37bee5700ad5",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_I_e9d0dc44574312ebfb81f54f8bef0aa4",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:ef0aa4"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_I",
+            "sliceAssetId": "{48B07969-BC18-5E6B-9233-8A59F57158FD}:2"
         },
         {
             "id": "e43ae669-347d-361a-033f-bedbe7e13007",
@@ -4034,8 +4030,8 @@
                 "id": "7e0781ac-f2de-3021-b558-4d33d55c70ca",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_I_e43ae669347d361a33fbedbe7e13007",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:e13007"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_I",
+            "sliceAssetId": "{48B07969-BC18-5E6B-9233-8A59F57158FD}:2"
         },
         {
             "id": "c9c8ab69-d26a-0767-4a20-b2d0caab526e",
@@ -4055,8 +4051,8 @@
                 "id": "879496ae-4739-796c-e747-76bbc01891a8",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_I_c9c8ab69d26a07674a20b2d0caab526e",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:ab526e"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_I",
+            "sliceAssetId": "{48B07969-BC18-5E6B-9233-8A59F57158FD}:2"
         },
         {
             "id": "272c7504-1a6f-23f4-d8b6-39d8fb3f337f",
@@ -4076,8 +4072,8 @@
                 "id": "ebb3d6f4-d44f-6bed-1aa9-323ab1d6f77a",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_I_272c75041a6f23f4d8b639d8fb3f337f",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:3f337f"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_I",
+            "sliceAssetId": "{48B07969-BC18-5E6B-9233-8A59F57158FD}:2"
         },
         {
             "id": "fe63d909-f4d8-40f5-ec13-b508326d61b6",
@@ -4282,8 +4278,8 @@
                 "width": 9.0,
                 "height": 6.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\struc_shed_platform_b_f438f46966bc1ef34cb250d184cf80d8",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:cf80d8",
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Storage_Structures/struc_shed_platform_b",
+            "sliceAssetId": "{074B91BB-BF20-562A-A3E7-236735FAC131}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -4306,8 +4302,8 @@
                 "id": "84805d51-a264-5195-94e4-5145ccad7bb5",
                 "radius": 5.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_C_8f45259f09ec3e43597c4db938c47574",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:c47574"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_C",
+            "sliceAssetId": "{0D16EE10-0C29-5C6D-BB6C-BDABA6CAD100}:2"
         },
         {
             "id": "2b583ccf-0ea6-0b46-864a-4f5bfd4e89dd",
@@ -4327,8 +4323,8 @@
                 "id": "f5157afb-4ce7-3cbc-82ab-d56b7e16bd36",
                 "radius": 5.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\Beach_Boulders_C_2b583ccf0ea60b46864a4f5bfd4e89dd",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:4e89dd"
+            "sliceName": "slices/POIs/Beach/Beach_Boulders_C",
+            "sliceAssetId": "{0D16EE10-0C29-5C6D-BB6C-BDABA6CAD100}:2"
         },
         {
             "id": "8533b392-f39f-7699-7917-10fb9b21bbbc",
@@ -4473,8 +4469,8 @@
                 "id": "dad78a73-edd5-4337-c4fe-f60595a3cf12",
                 "radius": 0.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\ShipWreck_H_4c55bbcfe7341fe7250d5ecdc82c4103",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:2c4103"
+            "sliceName": "slices/POIs/Shipwreck/ShipWreck_H",
+            "sliceAssetId": "{1C2B7539-273E-593B-9FDD-064218823F9E}:2"
         },
         {
             "id": "fa7d88c0-7370-05cd-0fe4-763168fa15a0",
@@ -4492,8 +4488,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "d1737686-b06d-077b-61bf-dd95603c4b18",
-                "width": 11.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 3.0
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_P",
             "sliceAssetId": "{75082949-EAA7-58AF-AD91-731F9ACE7C08}:2"
@@ -4514,8 +4510,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "f1e08f5e-48c5-252d-1f60-4fc08bd34a42",
-                "width": 12.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_L",
             "sliceAssetId": "{6BE57F93-AECB-5E12-8C68-8AC379D7A690}:2"
@@ -4559,8 +4555,8 @@
                 "id": "6e7b4d29-4f41-68a4-8a63-1cbcde7399bf",
                 "radius": 30.0
             },
-            "sliceName": "CoatGen\\62ba12c2\\jav_wld_boulder_cryst_lg01_bb714c4a2656896ed49871bb800ab10",
-            "sliceAssetId": "{5B032D00-3DA5-54F7-B23F-30CDD681F88C}:ab10"
+            "sliceName": "slices/Terrain_Elements/Boulders/jav_wld_boulder_cryst_lg01",
+            "sliceAssetId": "{C96B5E35-4936-54E6-9DBE-29220CCD38FA}:2"
         }
     ]
 }

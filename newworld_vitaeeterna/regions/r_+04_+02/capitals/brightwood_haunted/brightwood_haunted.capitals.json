@@ -209,8 +209,8 @@
                 "id": "c4660135-cee3-ac27-3894-ef43630bbb40",
                 "radius": 3.0
             },
-            "sliceName": "CoatGen\\abfae875\\Handcart_Abnd_Debris_C_06e6b8bd1beaa338cdaa1fe38ca3cc4",
-            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:ca3cc4"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_C",
+            "sliceAssetId": "{61D08D61-6399-5731-BC81-D6C5527E15F5}:2"
         },
         {
             "id": "0d6ef47d-4b61-8f9a-9784-4a62f55f5cf4",
@@ -231,8 +231,8 @@
                 "width": 6.0,
                 "height": 2.0
             },
-            "sliceName": "CoatGen\\abfae875\\Haunted_Struc_Def_FieldStone_T0_FenceBrokenSlant_0d6ef47d4b618f9a97844a62f55f5cf4",
-            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:5f5cf4"
+            "sliceName": "slices/POIs/Haunted/Haunted_Kit/Haunted_Struc_Def_FieldStone_T0_FenceBrokenSlant",
+            "sliceAssetId": "{31E0C042-F4F6-5D7A-9E06-5EC60B838F2D}:2"
         },
         {
             "id": "9fc0f130-cbe9-7bc2-a733-511d2af3f0d8",
@@ -253,8 +253,8 @@
                 "width": 6.0,
                 "height": 2.0
             },
-            "sliceName": "CoatGen\\abfae875\\Haunted_Struc_Def_FieldStone_T0_FenceBrokenSlant_9fc0f130cbe97bc2a733511d2af3f0d8",
-            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:f3f0d8"
+            "sliceName": "slices/POIs/Haunted/Haunted_Kit/Haunted_Struc_Def_FieldStone_T0_FenceBrokenSlant",
+            "sliceAssetId": "{31E0C042-F4F6-5D7A-9E06-5EC60B838F2D}:2"
         },
         {
             "id": "94ecc47e-c668-64da-8572-9bc13bd616f4",
@@ -355,13 +355,12 @@
             },
             "scale": 0.9999998807907105,
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "ba2806a8-6c94-6061-155c-4e8f7678df3a",
-                "width": 3.0,
-                "height": 3.0
+                "radius": 0.10000000149011612
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_D",
-            "sliceAssetId": "{80233DE2-C168-501A-8188-0EE0D22E05DB}:2",
+            "sliceName": "CoatGen\\abfae875\\Handcart_Abnd_Debris_D_073a741e2d9f3dd92a63ccbd612d8132",
+            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:2d8132",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -431,8 +430,8 @@
                 "width": 12.0,
                 "height": 3.0
             },
-            "sliceName": "CoatGen\\abfae875\\Haunted_Fence_Section_BA_1ab0a9b0e3d68386bfaf0c891e8f5f83",
-            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:8f5f83"
+            "sliceName": "slices/POIs/Haunted/Haunted_Kit/Haunted_Fence_Section_BA",
+            "sliceAssetId": "{A2FEEE35-180E-5789-A853-539E5AECD171}:2"
         },
         {
             "id": "5ecb2918-c8c0-4fd8-c778-1f02527b4fe1",
@@ -476,8 +475,8 @@
                 "id": "9afeb6ba-6fbf-8b3c-fd08-55fc53691115",
                 "radius": 5.0
             },
-            "sliceName": "CoatGen\\abfae875\\Handcart_Abnd_Debris_A_36201a568b9531bbdcca1496296e6bc4",
-            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:6e6bc4"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_A",
+            "sliceAssetId": "{CF5AD8D1-E6A6-562D-8B47-DDC0E6E8F814}:2"
         },
         {
             "id": "e6a6ddee-8f8a-b314-0e7d-ff46e1946a0c",
@@ -592,8 +591,8 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "90bc3626-bcf4-cc33-c720-a07d4943cb84",
-                "width": 10.0,
-                "height": 1.0
+                "width": 14.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_f",
             "sliceAssetId": "{3D55629C-64B6-59A3-A4DF-48DEA0742735}:2"
@@ -617,8 +616,8 @@
                 "width": 12.0,
                 "height": 3.0
             },
-            "sliceName": "CoatGen\\abfae875\\Haunted_Fence_Section_BAB_4d17c14db2a0038b978470b1bebba0d0",
-            "sliceAssetId": "{97089958-332E-5613-AD9A-5D852BCE5773}:bba0d0"
+            "sliceName": "slices/POIs/Haunted/Haunted_Kit/Haunted_Fence_Section_BAB",
+            "sliceAssetId": "{BB9B133F-38CD-5200-9F29-2CA6DB7CF44A}:2"
         },
         {
             "id": "f498bd0b-e4bd-6d9a-e1df-fede31a7d4a7",

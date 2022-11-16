@@ -1,30 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "597e3763-7a86-964d-87bf-8e27dc524838",
-            "worldPosition": {
-                "x": 10005.60546875,
-                "y": 6531.38525390625,
-                "z": 266.65966796875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5150380730628967,
-                "w": 0.8571673631668091
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3838b0c7-5535-da95-22f2-c298bb2d8d5a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\bdc7b530\\IO_0202_0101_Inquisitor_597e37637a86964d87bf8e27dc524838",
-            "sliceAssetId": "{87F6417A-CA0F-5C72-8F1B-3E39F16BC730}:524838",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "cac0d121-2b72-a005-88e4-ff4038976234",
             "worldPosition": {
                 "x": 9982.0,
@@ -44,6 +20,30 @@
             },
             "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselA",
             "sliceAssetId": "{A2CD4647-C121-5601-A600-F0AE86B05079}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "597e3763-7a86-964d-87bf-8e27dc524838",
+            "worldPosition": {
+                "x": 10005.60546875,
+                "y": 6531.38525390625,
+                "z": 266.65966796875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.5150380730628967,
+                "w": 0.8571673631668091
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3838b0c7-5535-da95-22f2-c298bb2d8d5a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\bdc7b530\\IO_0202_0101_Inquisitor_597e37637a86964d87bf8e27dc524838",
+            "sliceAssetId": "{87F6417A-CA0F-5C72-8F1B-3E39F16BC730}:524838",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -71,6 +71,27 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "207cf652-1a1a-f418-1265-f385e3a31030",
+            "worldPosition": {
+                "x": 9525.943359375,
+                "y": 6307.33740234375,
+                "z": 265.8562927246094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "66009f57-4052-4043-908c-87a4518dd142",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_03_01",
+            "sliceAssetId": "{B99D0994-C969-5E8E-99A0-D5946CFADCBF}:2"
         }
     ]
 }

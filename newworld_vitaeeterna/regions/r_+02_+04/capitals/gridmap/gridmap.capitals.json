@@ -1,3 +1,49 @@
 {
-    "Capitals": []
+    "Capitals": [
+        {
+            "id": "234adc53-0a81-5701-2484-31b5f39ad07b",
+            "worldPosition": {
+                "x": 4800.11181640625,
+                "y": 9394.177734375,
+                "z": 345.8970031738281
+            },
+            "rotation": {
+                "x": -0.061860792338848117,
+                "y": -0.00957780797034502,
+                "z": 0.8525608777999878,
+                "w": 0.5188655853271484
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "56835d0c-226b-dc7b-4827-24a14122f8d6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\8f3ff012\\IO_PlaceOfPillars_CorrectGlyph_Decal_Hint_13_12_234adc530a815701248431b5f39ad07b",
+            "sliceAssetId": "{9AC83B33-709A-5AD1-8C4C-239D351DC929}:9ad07b"
+        },
+        {
+            "id": "d17045ef-2793-16d6-23fa-ff64963245e7",
+            "worldPosition": {
+                "x": 4834.642578125,
+                "y": 9402.1337890625,
+                "z": 345.5397644042969
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8660253286361694,
+                "w": 0.5000000596046448
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d5baee12-11ed-f5c3-0178-89e79ca96e46",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\8f3ff012\\IO_PlaceOfPillars_ShortCut_Teleporter_d17045ef279316d623faff64963245e7",
+            "sliceAssetId": "{9AC83B33-709A-5AD1-8C4C-239D351DC929}:3245e7",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        }
+    ]
 }

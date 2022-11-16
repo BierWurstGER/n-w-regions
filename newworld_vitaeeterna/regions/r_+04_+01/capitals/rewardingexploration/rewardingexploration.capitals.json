@@ -8,10 +8,10 @@
                 "z": 51.39797592163086
             },
             "rotation": {
-                "x": -0.05003952234983444,
-                "y": 0.02911517024040222,
-                "z": 0.7796338796615601,
-                "w": 0.6235538125038147
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7802380323410034,
+                "w": 0.6254826784133911
             },
             "footprint": {
                 "type": "Circle",
@@ -20,38 +20,6 @@
             },
             "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_NorthWindsward02",
             "sliceAssetId": "{CB5932A5-F77C-5286-A40A-D6EDAA1E3592}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "d6cf56c3-01d2-8eb3-2547-a4e6316cf3e3",
-            "worldPosition": {
-                "x": 9207.6533203125,
-                "y": 2613.9404296875,
-                "z": 77.78551483154297
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c1b73df7-2e0a-e11e-b0a9-5b6dd0639fd1",
-                "radius": 8.0
-            },
-            "sliceName": "CoatGen\\96d8b5e9\\BlankSpace_for_Player_Camp_d6cf56c301d28eb32547a4e6316cf3e3",
-            "sliceAssetId": "{F1C47A34-9D98-5AD0-87A1-64E440DC03EF}:6cf3e3",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.0
-            },
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -82,13 +50,13 @@
             "worldPosition": {
                 "x": 10024.91796875,
                 "y": 3654.521728515625,
-                "z": 201.8003692626953
+                "z": 201.73382568359376
             },
             "rotation": {
-                "x": -0.07352131605148316,
-                "y": 0.00856172014027834,
-                "z": 0.68646639585495,
-                "w": 0.7233846187591553
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6864373087882996,
+                "w": 0.7271890044212341
             },
             "footprint": {
                 "type": "Circle",
@@ -102,17 +70,49 @@
             }
         },
         {
+            "id": "d6cf56c3-01d2-8eb3-2547-a4e6316cf3e3",
+            "worldPosition": {
+                "x": 9625.7470703125,
+                "y": 2816.060791015625,
+                "z": 143.14010620117188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.46174854040145876,
+                "w": 0.8870108723640442
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c1b73df7-2e0a-e11e-b0a9-5b6dd0639fd1",
+                "radius": 8.0
+            },
+            "sliceName": "CoatGen\\96d8b5e9\\BlankSpace_for_Player_Camp_d6cf56c301d28eb32547a4e6316cf3e3",
+            "sliceAssetId": "{F1C47A34-9D98-5AD0-87A1-64E440DC03EF}:6cf3e3",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.0
+            },
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "3c482a2d-33f4-686f-8317-72db301b4961",
             "worldPosition": {
                 "x": 9302.9970703125,
                 "y": 3209.0,
-                "z": 114.4605484008789
+                "z": 114.41020202636719
             },
             "rotation": {
-                "x": -0.057565025985240939,
-                "y": 0.043736446648836139,
-                "z": -0.8068998456001282,
-                "w": 0.5862475037574768
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8090831637382507,
+                "w": 0.5876941680908203
             },
             "footprint": {
                 "type": "Circle",

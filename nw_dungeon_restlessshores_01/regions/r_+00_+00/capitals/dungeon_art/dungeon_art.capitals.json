@@ -1,6 +1,28 @@
 {
     "Capitals": [
         {
+            "id": "f1f558af-fe3d-c381-a2bf-3c02710c3401",
+            "worldPosition": {
+                "x": 996.3499755859375,
+                "y": 1197.7498779296875,
+                "z": 200.99996948242188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.8999999761581421,
+            "footprint": {
+                "type": "Circle",
+                "id": "0ced9d4c-0e22-4f74-39eb-eb4534ea769e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/NavObstacle/Collision_NoClimb",
+            "sliceAssetId": "{FD7C02A2-CF02-55CF-836B-682C7DEAE2F3}:2"
+        },
+        {
             "id": "3147d51c-79a0-b224-2b62-7f5fe93c7ce7",
             "worldPosition": {
                 "x": 1136.2498779296875,
@@ -22,11 +44,11 @@
             "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:3c7ce7"
         },
         {
-            "id": "f1f558af-fe3d-c381-a2bf-3c02710c3401",
+            "id": "b07300bb-831b-1026-1ffb-821edb2ac2c2",
             "worldPosition": {
-                "x": 996.3499755859375,
-                "y": 1197.7498779296875,
-                "z": 200.99996948242188
+                "x": 1179.2498779296875,
+                "y": 1169.75,
+                "z": 180.24998474121095
             },
             "rotation": {
                 "x": 0.0,
@@ -34,14 +56,76 @@
                 "z": 0.0,
                 "w": 1.0
             },
-            "scale": 0.8999999761581421,
             "footprint": {
                 "type": "Circle",
-                "id": "0ced9d4c-0e22-4f74-39eb-eb4534ea769e",
+                "id": "7850ebab-f9b5-7f66-6770-71ba8fc8f5ae",
                 "radius": 1.0
             },
-            "sliceName": "slices/NavObstacle/Collision_NoClimb",
-            "sliceAssetId": "{FD7C02A2-CF02-55CF-836B-682C7DEAE2F3}:2"
+            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_b07300bb831b10261ffb821edb2ac2c2",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:2ac2c2"
+        },
+        {
+            "id": "15fd76dd-c723-196a-6348-0284a681be4d",
+            "worldPosition": {
+                "x": 985.940185546875,
+                "y": 1208.2650146484375,
+                "z": 177.75
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "04f28fff-e501-fad3-d867-a0533a10b15e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_15fd76ddc723196a63480284a681be4d",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:81be4d"
+        },
+        {
+            "id": "52d50481-bd8d-41df-cea9-85c6977b4314",
+            "worldPosition": {
+                "x": 835.5848388671875,
+                "y": 1094.2493896484375,
+                "z": 139.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c1357f66-1207-9b9b-d098-6b5d4b03f9ea",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_52d50481bd8d41dfcea985c6977b4314",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:7b4314"
+        },
+        {
+            "id": "63592ccd-817f-6e67-2928-84a91246cdc2",
+            "worldPosition": {
+                "x": 838.0848388671875,
+                "y": 1238.7493896484375,
+                "z": 147.25
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "45139ecf-8c83-dedc-01d6-2bb29f9ad6e0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_63592ccd817f6e67292884a91246cdc2",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:46cdc2"
         },
         {
             "id": "39487d7b-8647-3f0b-05ef-adf4f1806dd8",
@@ -108,82 +192,11 @@
             "sliceAssetId": "{E2AD60A7-A929-533D-BEDC-7CB0FD0B9CC8}:2"
         },
         {
-            "id": "b202b4a6-4052-4fd0-98c6-fc4f26319898",
-            "worldPosition": {
-                "x": 993.8425903320313,
-                "y": 1018.18896484375,
-                "z": 147.44305419921876
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "a87cb2ad-7715-ddad-48ab-2283a610a393",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_Natural_16m_c_b202b4a640524fd098c6fc4f26319898",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:319898",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "829c3c6e-8ab8-a574-6caf-e66b97e8fb28",
-            "worldPosition": {
-                "x": 950.9999389648438,
-                "y": 948.0,
-                "z": 147.5
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 3.115412710030796e-7,
-                "w": 1.0
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "73b60fd6-e39b-6f0b-79aa-7f0b48b868fe",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_16m_restlessshores_a_829c3c6e8ab8a5746cafe66b97e8fb28",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:e8fb28"
-        },
-        {
-            "id": "672a6b47-116a-9af6-1a5b-fe2806a923cb",
-            "worldPosition": {
-                "x": 917.9998168945313,
-                "y": 932.4999389648438,
-                "z": 147.5
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.9460421185613087e-7,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b7f50d8b-3e5d-1050-7cd7-7be8cfde358d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores",
-            "sliceAssetId": "{F19111F6-7347-5B88-B7C4-73B7F3EEFFC8}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c67d1c83-365e-443d-1675-ed9a0e63977c",
+            "id": "c362059e-ba60-a4b0-f67e-1676d4926a82",
             "worldPosition": {
                 "x": 837.9994506835938,
-                "y": 1157.0003662109375,
-                "z": 176.24998474121095
+                "y": 1121.0003662109375,
+                "z": 168.24998474121095
             },
             "rotation": {
                 "x": 0.0,
@@ -193,107 +206,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "7cf0979b-3794-b491-81eb-f33a53a28d37",
+                "id": "95037f1f-c22e-bc64-1d0a-2db3e3c7d871",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_32m_restlessshores_c_c67d1c83365e443d1675ed9a0e63977c",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:63977c"
-        },
-        {
-            "id": "4f42e169-e6a8-1ec2-57a0-fcf7b3654928",
-            "worldPosition": {
-                "x": 724.4635009765625,
-                "y": 1151.5360107421875,
-                "z": 157.2085723876953
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.5000001788139343,
-                "w": 0.8660253286361694
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "47f03a04-d10a-97eb-6b53-08d66cbc7507",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_32m_96m_restlessshores",
-            "sliceAssetId": "{AE17A6DC-A7DD-5C84-A99D-68976E07CF52}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "400e6059-ac9d-d0f3-3a6b-252e0b9ac124",
-            "worldPosition": {
-                "x": 986.0,
-                "y": 1243.0,
-                "z": 201.5
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8f139430-561a-ea8a-bb11-169bdb3e451a",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_64m_64m_restlessshores",
-            "sliceAssetId": "{FDD02501-76CE-5C07-B926-A42F96412D33}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "95868b31-4a63-68af-782c-436a2fcb7184",
-            "worldPosition": {
-                "x": 893.9999389648438,
-                "y": 1064.0,
-                "z": 160.99998474121095
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "e498d266-9a4a-8164-947e-f7d7327572ab",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_room_ancient_24m_32m_restlessshores_a_95868b314a6368af782c436a2fcb7184",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:cb7184",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "4dc28c1b-06a7-2ff5-427c-d6bbcbf04278",
-            "worldPosition": {
-                "x": 838.2498779296875,
-                "y": 1014.4998779296875,
-                "z": 159.75
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b3c45557-e8a1-3cf4-6b0b-efa3fe00eb10",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores_a",
-            "sliceAssetId": "{B0457D8B-6084-5932-AC58-EAB691369D94}:2",
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores_b",
+            "sliceAssetId": "{CB9BD8C4-E5D1-59C8-96CE-FB48CC9AE316}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -323,11 +240,11 @@
             }
         },
         {
-            "id": "bdd9ede3-9495-0c21-b01d-03af8821449a",
+            "id": "428692f8-04d8-2d6b-ac1d-d007a1029f30",
             "worldPosition": {
-                "x": 837.9996337890625,
-                "y": 1348.0001220703125,
-                "z": 193.49998474121095
+                "x": 926.9999389648438,
+                "y": 941.0,
+                "z": 147.5
             },
             "rotation": {
                 "x": 0.0,
@@ -335,13 +252,14 @@
                 "z": -0.7071065902709961,
                 "w": 0.7071069478988648
             },
+            "scale": 0.9999998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "1a3e452b-9da0-1b69-24bc-8f080f127adb",
+                "id": "1f134fb9-696d-19d4-c3de-887360a6a948",
                 "radius": 1.0
             },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_corner_restlessshores_b",
-            "sliceAssetId": "{E581C92E-89C9-5451-8463-AAAFB6AB0E8E}:2",
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_16m_corner_restlessshores",
+            "sliceAssetId": "{124712BD-4EC5-5376-82FF-4E17E78CAEB0}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -372,11 +290,61 @@
             }
         },
         {
-            "id": "b07300bb-831b-1026-1ffb-821edb2ac2c2",
+            "id": "bdd9ede3-9495-0c21-b01d-03af8821449a",
             "worldPosition": {
-                "x": 1179.2498779296875,
-                "y": 1169.75,
-                "z": 180.24998474121095
+                "x": 837.9996337890625,
+                "y": 1348.0001220703125,
+                "z": 193.49998474121095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1a3e452b-9da0-1b69-24bc-8f080f127adb",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_32m_corner_restlessshores_b_bdd9ede394950c21b01d03af8821449a",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:21449a",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "95868b31-4a63-68af-782c-436a2fcb7184",
+            "worldPosition": {
+                "x": 893.9999389648438,
+                "y": 1064.0,
+                "z": 160.99998474121095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "e498d266-9a4a-8164-947e-f7d7327572ab",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_24m_32m_restlessshores_a",
+            "sliceAssetId": "{AFFE1E65-7432-5AA7-A65B-B1229FE11745}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "b202b4a6-4052-4fd0-98c6-fc4f26319898",
+            "worldPosition": {
+                "x": 993.8425903320313,
+                "y": 1018.18896484375,
+                "z": 147.44305419921876
             },
             "rotation": {
                 "x": 0.0,
@@ -384,83 +352,48 @@
                 "z": 0.0,
                 "w": 1.0
             },
+            "scale": 0.9999998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "7850ebab-f9b5-7f66-6770-71ba8fc8f5ae",
+                "id": "a87cb2ad-7715-ddad-48ab-2283a610a393",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_b07300bb831b10261ffb821edb2ac2c2",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:2ac2c2"
+            "sliceName": "slices/Dungeon/Natural/dungeon_hallway_Natural_16m_c",
+            "sliceAssetId": "{01AB268C-ED66-52D1-9294-FCC3586D811B}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
         },
         {
-            "id": "63592ccd-817f-6e67-2928-84a91246cdc2",
+            "id": "672a6b47-116a-9af6-1a5b-fe2806a923cb",
             "worldPosition": {
-                "x": 838.0848388671875,
-                "y": 1238.7493896484375,
-                "z": 147.25
+                "x": 917.9998168945313,
+                "y": 932.4999389648438,
+                "z": 147.5
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
+                "z": 1.9460421185613087e-7,
                 "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "45139ecf-8c83-dedc-01d6-2bb29f9ad6e0",
+                "id": "b7f50d8b-3e5d-1050-7cd7-7be8cfde358d",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_63592ccd817f6e67292884a91246cdc2",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:46cdc2"
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores",
+            "sliceAssetId": "{F19111F6-7347-5B88-B7C4-73B7F3EEFFC8}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "52d50481-bd8d-41df-cea9-85c6977b4314",
+            "id": "9ac09a37-f2ca-c7d1-e52d-cef1d1d2abbe",
             "worldPosition": {
-                "x": 835.5848388671875,
-                "y": 1094.2493896484375,
-                "z": 139.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c1357f66-1207-9b9b-d098-6b5d4b03f9ea",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_52d50481bd8d41dfcea985c6977b4314",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:7b4314"
-        },
-        {
-            "id": "15fd76dd-c723-196a-6348-0284a681be4d",
-            "worldPosition": {
-                "x": 985.940185546875,
-                "y": 1208.2650146484375,
-                "z": 177.75
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "04f28fff-e501-fad3-d867-a0533a10b15e",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\Lava_Fast_Volume_50m_15fd76ddc723196a63480284a681be4d",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:81be4d"
-        },
-        {
-            "id": "7b1233d9-7ee6-2202-5068-46c668c7432d",
-            "worldPosition": {
-                "x": 847.25,
-                "y": 1006.0,
-                "z": 159.5
+                "x": 855.0,
+                "y": 961.9999389648438,
+                "z": 155.5
             },
             "rotation": {
                 "x": 0.0,
@@ -468,14 +401,61 @@
                 "z": 1.0,
                 "w": -1.6292068494294654e-7
             },
-            "scale": 0.9999998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "12790de8-21e2-0493-244f-571fc5b91262",
+                "id": "4981babd-c868-51b9-6e35-f64967885feb",
                 "radius": 1.0
             },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_16m_corner_restlessshores_a",
-            "sliceAssetId": "{A4E9998A-DB57-5C69-8E27-DEA70F4F19AE}:2"
+            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_24m_32m_restlessshores_b",
+            "sliceAssetId": "{1B41B200-D93B-5D12-87EF-DFE0716AA24B}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c67d1c83-365e-443d-1675-ed9a0e63977c",
+            "worldPosition": {
+                "x": 837.9994506835938,
+                "y": 1157.0003662109375,
+                "z": 176.24998474121095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7cf0979b-3794-b491-81eb-f33a53a28d37",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_32m_restlessshores_c_c67d1c83365e443d1675ed9a0e63977c",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:63977c"
+        },
+        {
+            "id": "fb849152-055d-fe7f-2d04-bf7a7c8ca38f",
+            "worldPosition": {
+                "x": 837.499267578125,
+                "y": 1293.000244140625,
+                "z": 186.2805633544922
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "88b548ab-8307-9bba-c55b-33b6462e0682",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores_d",
+            "sliceAssetId": "{6FD61D82-8163-5913-A42B-5E73E1CB0240}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "9bf76abe-1f92-3bd6-79a4-2392d1c6d52f",
@@ -497,6 +477,97 @@
             },
             "sliceName": "CoatGen\\1a9d0d69\\Dungeon_room_ancient_96m_96m_restlessshores_9bf76abe1f923bd679a42392d1c6d52f",
             "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:c6d52f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a525dad6-f726-c383-39e0-5ee950d393c4",
+            "worldPosition": {
+                "x": 995.0,
+                "y": 1015.2066650390625,
+                "z": 154.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0634217f-db03-f2e2-5b5f-8c94161a67ec",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\1a9d0d69\\Dungeon_ReslessShores_TOD_a525dad6f726c38339e05ee950d393c4",
+            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:d393c4"
+        },
+        {
+            "id": "bff6c393-34a3-fb0e-b3b6-03c5dcf52d94",
+            "worldPosition": {
+                "x": 863.0,
+                "y": 933.0,
+                "z": 155.5
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.1955505385685684e-7,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c94d8893-acf9-4db7-e198-7bf8b0899e5e",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_corner_restlessshores_a",
+            "sliceAssetId": "{C91B7F14-52F9-538E-8B44-69353794F2CC}:2"
+        },
+        {
+            "id": "cb8a0ad9-9afb-57f5-9cb1-faa74cb9d1b4",
+            "worldPosition": {
+                "x": 782.9999389648438,
+                "y": 1065.0,
+                "z": 160.91539001464845
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "scale": 0.9999998807907105,
+            "footprint": {
+                "type": "Circle",
+                "id": "2678c369-31c9-66b7-bd7d-302888e35bf8",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_32m_32m_restlessshores",
+            "sliceAssetId": "{03B8E79F-3E9C-5C7B-9955-09EECEC08B70}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "4dc28c1b-06a7-2ff5-427c-d6bbcbf04278",
+            "worldPosition": {
+                "x": 838.2498779296875,
+                "y": 1014.4998779296875,
+                "z": 159.75
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b3c45557-e8a1-3cf4-6b0b-efa3fe00eb10",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores_a",
+            "sliceAssetId": "{B0457D8B-6084-5932-AC58-EAB691369D94}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -526,122 +597,96 @@
             }
         },
         {
-            "id": "cb8a0ad9-9afb-57f5-9cb1-faa74cb9d1b4",
+            "id": "7b1233d9-7ee6-2202-5068-46c668c7432d",
             "worldPosition": {
-                "x": 782.9999389648438,
-                "y": 1065.0,
-                "z": 160.91539001464845
+                "x": 847.25,
+                "y": 1006.0,
+                "z": 159.5
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
             },
             "scale": 0.9999998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "2678c369-31c9-66b7-bd7d-302888e35bf8",
+                "id": "12790de8-21e2-0493-244f-571fc5b91262",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_room_ancient_32m_32m_restlessshores_cb8a0ad99afb57f59cb1faa74cb9d1b4",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:b9d1b4",
-            "params": {
-                "HAS_WATER_COMPONENTS": "2"
-            }
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_16m_corner_restlessshores_a",
+            "sliceAssetId": "{A4E9998A-DB57-5C69-8E27-DEA70F4F19AE}:2"
         },
         {
-            "id": "428692f8-04d8-2d6b-ac1d-d007a1029f30",
+            "id": "829c3c6e-8ab8-a574-6caf-e66b97e8fb28",
             "worldPosition": {
-                "x": 926.9999389648438,
-                "y": 941.0,
+                "x": 950.9999389648438,
+                "y": 948.0,
                 "z": 147.5
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
+                "z": 3.115412710030796e-7,
+                "w": 1.0
             },
             "scale": 0.9999998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "1f134fb9-696d-19d4-c3de-887360a6a948",
+                "id": "73b60fd6-e39b-6f0b-79aa-7f0b48b868fe",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_16m_corner_restlessshores_428692f804d82d6bac1dd007a1029f30",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:29f30",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_16m_restlessshores_a",
+            "sliceAssetId": "{5F9CE4FD-8457-5BBA-AF5C-53936C25C66A}:2"
         },
         {
-            "id": "fb849152-055d-fe7f-2d04-bf7a7c8ca38f",
+            "id": "400e6059-ac9d-d0f3-3a6b-252e0b9ac124",
             "worldPosition": {
-                "x": 837.499267578125,
-                "y": 1293.000244140625,
-                "z": 186.2805633544922
+                "x": 986.0,
+                "y": 1243.0,
+                "z": 201.5
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "88b548ab-8307-9bba-c55b-33b6462e0682",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_32m_restlessshores_d",
-            "sliceAssetId": "{6FD61D82-8163-5913-A42B-5E73E1CB0240}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "bff6c393-34a3-fb0e-b3b6-03c5dcf52d94",
-            "worldPosition": {
-                "x": 863.0,
-                "y": 933.0,
-                "z": 155.5
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.1955505385685684e-7,
+                "z": 0.0,
                 "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "c94d8893-acf9-4db7-e198-7bf8b0899e5e",
+                "id": "8f139430-561a-ea8a-bb11-169bdb3e451a",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_32m_corner_restlessshores_a_bff6c39334a3fb0eb3b603c5dcf52d94",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:f52d94"
+            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_64m_64m_restlessshores",
+            "sliceAssetId": "{FDD02501-76CE-5C07-B926-A42F96412D33}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "c362059e-ba60-a4b0-f67e-1676d4926a82",
+            "id": "4f42e169-e6a8-1ec2-57a0-fcf7b3654928",
             "worldPosition": {
-                "x": 837.9994506835938,
-                "y": 1121.0003662109375,
-                "z": 168.24998474121095
+                "x": 724.4635009765625,
+                "y": 1151.5360107421875,
+                "z": 157.2085723876953
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
+                "z": 0.5000001788139343,
+                "w": 0.8660253286361694
             },
             "footprint": {
                 "type": "Circle",
-                "id": "95037f1f-c22e-bc64-1d0a-2db3e3c7d871",
+                "id": "47f03a04-d10a-97eb-6b53-08d66cbc7507",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_hallway_ancient_32m_restlessshores_b_c362059eba60a4b0f67e1676d4926a82",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:926a82",
+            "sliceName": "slices/Dungeon/Ancient/dungeon_room_ancient_32m_96m_restlessshores",
+            "sliceAssetId": "{AE17A6DC-A7DD-5C84-A99D-68976E07CF52}:2",
             "params": {
-                "HAS_VEG_COMPONENTS": "1"
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
@@ -668,73 +713,6 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "fafab356-5e96-b410-16f8-f98fbf755c1f",
-            "worldPosition": {
-                "x": 814.4991455078125,
-                "y": 1289.0003662109375,
-                "z": 196.49998474121095
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "scale": 0.9999998807907105,
-            "footprint": {
-                "type": "Circle",
-                "id": "d0b3902b-4902-4ea1-2bed-c16afa473082",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Ancient/dungeon_hallway_ancient_16m",
-            "sliceAssetId": "{E7F94F5B-36FB-52EB-95E1-2ADC71148049}:2"
-        },
-        {
-            "id": "9ac09a37-f2ca-c7d1-e52d-cef1d1d2abbe",
-            "worldPosition": {
-                "x": 855.0,
-                "y": 961.9999389648438,
-                "z": 155.5
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4981babd-c868-51b9-6e35-f64967885feb",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\dungeon_room_ancient_24m_32m_restlessshores_b_9ac09a37f2cac7d1e52dcef1d1d2abbe",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:d2abbe",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a525dad6-f726-c383-39e0-5ee950d393c4",
-            "worldPosition": {
-                "x": 995.0,
-                "y": 1015.2066650390625,
-                "z": 154.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0634217f-db03-f2e2-5b5f-8c94161a67ec",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\1a9d0d69\\Dungeon_ReslessShores_TOD_a525dad6f726c38339e05ee950d393c4",
-            "sliceAssetId": "{6D71DF14-549C-5562-B27F-6118E143A1D2}:d393c4"
         }
     ]
 }

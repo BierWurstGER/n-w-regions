@@ -59,13 +59,12 @@
             },
             "scale": 0.9999998807907105,
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "6cf924f8-0a48-2735-ac64-5fed1143f2fc",
-                "width": 3.0,
-                "height": 3.0
+                "radius": 0.10000000149011612
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_D",
-            "sliceAssetId": "{80233DE2-C168-501A-8188-0EE0D22E05DB}:2",
+            "sliceName": "CoatGen\\8bddfb53\\Handcart_Abnd_Debris_D_9f9799fd17bd8a6450777319faa4536c",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:a4536c",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -88,8 +87,8 @@
                 "id": "a7a2397b-a04d-c1e6-ca0e-158082a5b474",
                 "radius": 33.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Den_Cave_Arena_A_57802faa5489375880d2a0240355cea4",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:55cea4",
+            "sliceName": "slices/POIs/Nature/Wildlife/Den_Cave_Arena_A",
+            "sliceAssetId": "{A47A1235-BB65-5605-8C5B-837EE1C6AFAF}:2",
             "params": {
                 "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Natural/Den_Cave_Arena_A_footprint.obj",
                 "HAS_VEG_COMPONENTS": "1"
@@ -114,8 +113,8 @@
                 "width": 5.0,
                 "height": 4.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Jav_Struc_Ruins_Debris_D_24f84062396569a87c3e4ab9b6d0e67f",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:d0e67f",
+            "sliceName": "slices/POIs/Ancient/Kit/Jav_Struc_Ruins_Debris_D",
+            "sliceAssetId": "{F8CBD71D-49D9-5CA0-8AC0-E2486A0392E1}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -255,8 +254,8 @@
                 "width": 2.0,
                 "height": 7.0
             },
-            "sliceName": "slices/POIs/Damned/Camps/Damned_Camp_Tent_Ext_Set_Dressing_R_A",
-            "sliceAssetId": "{D416B5C0-E156-567C-A5EB-A6A6436D785E}:2",
+            "sliceName": "CoatGen\\8bddfb53\\Damned_Camp_Tent_Ext_Set_Dressing_R_A_5d02239783ff9707c64ecbc085656079",
+            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:656079",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -373,11 +372,11 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "8a04f6af-a97c-97a8-4166-878340cec0b5",
-                "width": 19.0,
+                "width": 12.0,
                 "height": 4.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_SD_a9621204b04c8326c9caa6fa936bcfc0",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:6bcfc0",
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_SD",
+            "sliceAssetId": "{CEB2A015-E8D6-50C2-8369-C8F1FC8FA176}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -425,8 +424,8 @@
                 "id": "65f8bfec-2185-7e3f-11b1-0ac58433782d",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_837b2ac599c8c2152373e48856938dfa",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:938dfa"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
+            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
         },
         {
             "id": "1f5ddf39-b633-0d52-d685-b55997ac8358",
@@ -446,8 +445,8 @@
                 "id": "541b1a7d-5628-82fa-f4e1-b1a25831c446",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_1f5ddf39b6330d52d685b55997ac8358",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:ac8358"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
+            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
         },
         {
             "id": "0a49e7da-afe2-4765-b716-50000855b59a",
@@ -467,8 +466,8 @@
                 "id": "f24f2a6c-ee59-1f3c-326e-229ed3a138e4",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_0a49e7daafe24765b71650000855b59a",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:55b59a"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
+            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
         },
         {
             "id": "b9525080-68c4-9f53-1c3b-6c433c20c54f",
@@ -488,8 +487,8 @@
                 "id": "70b7049e-ccb6-5874-a526-d90315f3bef8",
                 "radius": 10.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Ancient_Ruins_Traversal_C_b952508068c49f531c3b6c433c20c54f",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:20c54f"
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Ruins_Structures/Ruins/Ancient_Ruins_Traversal_C",
+            "sliceAssetId": "{102C6533-D9BB-5087-A661-E28DA7839D80}:2"
         },
         {
             "id": "250ce68c-fbc4-141a-6ded-e7f9cea9547f",
@@ -607,8 +606,8 @@
                 "id": "3cbb1f45-5eb5-b148-2890-71d6a2de7744",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\JAV_Pirate_Camp_Small_A_59424670f222b090c05da08a4000f026",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:f026"
+            "sliceName": "slices/POIs/Pirate/JAV_Pirate_Camp_Small_A",
+            "sliceAssetId": "{45F05598-140A-5D1A-8340-48724438A15E}:2"
         },
         {
             "id": "4db55d87-d457-38b2-a98c-2a077bf0ab56",
@@ -628,8 +627,8 @@
                 "id": "7c3b9a79-e976-2513-c634-ff96c229ec9b",
                 "radius": 5.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\JAV_Struc_Pirate_Tower_B_4db55d87d45738b2a98c2a077bf0ab56",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:f0ab56"
+            "sliceName": "slices/POIs/Pirate/JAV_Struc_Pirate_Tower_B",
+            "sliceAssetId": "{C892C099-C85D-557A-8FE7-067A8B9956D4}:2"
         },
         {
             "id": "76285365-12a2-cd09-ad2c-c1bdd0c38933",
@@ -743,8 +742,8 @@
                 "width": 11.0,
                 "height": 7.0
             },
-            "sliceName": "CoatGen\\8bddfb53\\Jav_Struc_Ruins_Debris_C_17c7f110ebc68008e20fc24d6cec1723",
-            "sliceAssetId": "{489532BF-577C-5524-AAFE-2F3C1D1FF860}:ec1723",
+            "sliceName": "slices/POIs/Ancient/Kit/Jav_Struc_Ruins_Debris_C",
+            "sliceAssetId": "{559483BE-5817-5C92-BDF8-2D0140D24D0F}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

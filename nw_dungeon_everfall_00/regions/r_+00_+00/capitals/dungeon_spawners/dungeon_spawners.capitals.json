@@ -1,67 +1,487 @@
 {
     "Capitals": [
         {
-            "id": "2004c86c-bbd4-8fd8-9bd0-88ffece21db9",
+            "id": "300fb8a3-b050-23cd-9b77-29781da73bf9",
             "worldPosition": {
-                "x": 881.2236328125,
-                "y": 541.1387329101563,
-                "z": 304.50347900390627
+                "x": 932.1726684570313,
+                "y": 672.2474365234375,
+                "z": 312.8681640625
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.21643996238708497,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a988e4c3-2598-489e-ca09-c0343e1eb99d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "9e13414b-e19e-b53e-d921-a8894ceaf809",
+            "worldPosition": {
+                "x": 935.1409912109375,
+                "y": 674.0250244140625,
+                "z": 312.9571228027344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e2a21015-69b3-1b19-b490-8e475fc0fb05",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "8f0db119-98a1-408e-effe-eac6ac5691e8",
+            "worldPosition": {
+                "x": 926.8839111328125,
+                "y": 632.072021484375,
+                "z": 312.0576477050781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f05d5185-7e7f-b16e-6ef8-c69fc7167623",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "9a71f323-4ec0-a7fc-c0db-3c47073e65c8",
+            "worldPosition": {
+                "x": 747.7965087890625,
+                "y": 451.6858825683594,
+                "z": 320.92279052734377
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3017f966-b78f-0207-0e7c-952035360ac1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "311ed289-3ec3-6599-1585-4b51a5e83f1f",
+            "worldPosition": {
+                "x": 837.06201171875,
+                "y": 635.2435302734375,
+                "z": 316.9522399902344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071069478988648,
+                "w": 0.7071065902709961
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c78603c7-e144-d636-5a57-0a2de27128dc",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Crawler_311ed2893ec3659915854b51a5e83f1f",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:e83f1f"
+        },
+        {
+            "id": "6886d9d0-b4c2-7fc8-549c-4f7dd94076aa",
+            "worldPosition": {
+                "x": 744.7789916992188,
+                "y": 453.8829650878906,
+                "z": 321.02166748046877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3fc0bf4c-7940-3db8-0d53-e4a10f2c0e0b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "3645436d-bc9f-6277-df47-bb7b33514192",
+            "worldPosition": {
+                "x": 934.3328247070313,
+                "y": 653.5352783203125,
+                "z": 312.8367919921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8a5474d6-20aa-e875-f52f-327dae65e887",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "2c295840-3aff-1238-f2f2-9ab9d57cf606",
+            "worldPosition": {
+                "x": 930.5800170898438,
+                "y": 654.3889770507813,
+                "z": 312.9297790527344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "86549880-0713-1ea5-ddeb-b4a27b47d8fb",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "f1bd8999-1906-a726-ebf8-90313d6b12c9",
+            "worldPosition": {
+                "x": 938.0235595703125,
+                "y": 633.1591796875,
+                "z": 312.0576477050781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4a1a5625-0513-17f1-734c-d66aa3df37c9",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "3035c482-1921-23d7-4af2-af6e4f49c9eb",
+            "worldPosition": {
+                "x": 821.9725952148438,
+                "y": 672.532470703125,
+                "z": 316.07342529296877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b75dae41-491a-6acf-7cfe-693b9893a628",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "d3239b7c-07b0-7441-b09f-03880e39421e",
+            "worldPosition": {
+                "x": 857.20068359375,
+                "y": 632.1701049804688,
+                "z": 316.9522399902344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.2164398729801178,
                 "w": 0.9762959480285645
             },
             "footprint": {
                 "type": "Circle",
-                "id": "054c51ef-daae-b7eb-a6f7-17006bca247b",
+                "id": "4b46a51a-809e-017f-ca7f-c835c4642c63",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_2004c86cbbd48fd89bd088ffece21db9",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:e21db9"
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
         },
         {
-            "id": "b9218e74-d6ac-0706-af41-295f091d3e26",
+            "id": "44eb22c8-e5fb-9fc5-5a91-57293651c57e",
             "worldPosition": {
-                "x": 532.8095092773438,
-                "y": 536.0736083984375,
-                "z": 325.0668640136719
+                "x": 855.8455810546875,
+                "y": 639.5022583007813,
+                "z": 316.9522399902344
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
+                "z": 1.0,
+                "w": -6.397578431460715e-7
             },
             "footprint": {
                 "type": "Circle",
-                "id": "756c6fec-b164-6b63-4ef7-8a3699ce02e8",
+                "id": "ebaaff4a-d824-89d6-4b43-3a61426589e5",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_b9218e74d6ac0706af41295f091d3e26",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:1d3e26"
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
         },
         {
-            "id": "9a0cf843-e9b3-3138-2999-b585bcf0993d",
+            "id": "264c6bcc-e661-b685-b2e5-a671f4833389",
             "worldPosition": {
-                "x": 758.89453125,
-                "y": 458.1613464355469,
-                "z": 316.5802917480469
+                "x": 816.7316284179688,
+                "y": 673.9976806640625,
+                "z": 316.0301513671875
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
             },
             "footprint": {
                 "type": "Circle",
-                "id": "8d1922ab-fdb0-48cb-439f-782ff961177c",
+                "id": "b713e59f-231d-cdfd-3277-61c6d1171eb3",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_9a0cf843e9b331382999b585bcf0993d",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f0993d"
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "e3085a53-bc12-fe8c-da43-23cc48704350",
+            "worldPosition": {
+                "x": 839.2001953125,
+                "y": 637.8258056640625,
+                "z": 316.9522399902344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071069478988648,
+                "w": 0.7071065902709961
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "102c0a52-bdf7-6c90-a626-c72b25984a72",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "9acdd592-20ef-5760-c94b-e02950b51d91",
+            "worldPosition": {
+                "x": 818.091064453125,
+                "y": 669.0319213867188,
+                "z": 316.1134948730469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6427876353263855,
+                "w": 0.7660444378852844
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "085b8d5e-c310-aff6-8049-c6ee042b2817",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
+            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
+        },
+        {
+            "id": "2c971112-0796-12e9-31e5-393850af1d15",
+            "worldPosition": {
+                "x": 451.87939453125,
+                "y": 526.2445068359375,
+                "z": 330.9219970703125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bb96c104-ccd0-e66a-29e2-801a2fb40640",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_2c971112079612e931e5393850af1d15",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:af1d15"
+        },
+        {
+            "id": "b024e089-bf37-201d-f969-2b491d2c556e",
+            "worldPosition": {
+                "x": 817.9999389648438,
+                "y": 671.0,
+                "z": 303.9999694824219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "49502d8c-c3a6-e9ef-f1bb-f87c363e4661",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_b024e089bf37201df9692b491d2c556e",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:2c556e"
+        },
+        {
+            "id": "934fd565-3dd7-ec1a-d094-96e127e400de",
+            "worldPosition": {
+                "x": 494.9642028808594,
+                "y": 613.9955444335938,
+                "z": 317.3387756347656
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5e892191-cf12-ebc9-35ef-0f6d2e68fdab",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_934fd5653dd7ec1ad09496e127e400de",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:e400de"
+        },
+        {
+            "id": "4c04b2a3-d06c-b3a7-902f-7fb6f9fac41b",
+            "worldPosition": {
+                "x": 853.9999389648438,
+                "y": 561.0,
+                "z": 270.9999694824219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "621d4191-929c-3beb-5d4e-58e63cc83634",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_4c04b2a3d06cb3a7902f7fb6f9fac41b",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:fac41b"
+        },
+        {
+            "id": "f12756d8-3f52-6f9e-f44b-6048544ca147",
+            "worldPosition": {
+                "x": 931.9999389648438,
+                "y": 617.0,
+                "z": 293.9999694824219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "36af8fec-39af-3d21-5e2e-ed181e72914f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_f12756d83f526f9ef44b6048544ca147",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:4ca147"
+        },
+        {
+            "id": "b147c6a4-e156-2d95-1d6b-c061c67b9484",
+            "worldPosition": {
+                "x": 751.9722900390625,
+                "y": 487.0,
+                "z": 309.9999694824219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7f4248df-7a6c-abfa-ab59-15d510f9c850",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_b147c6a4e1562d951d6bc061c67b9484",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7b9484"
+        },
+        {
+            "id": "75214595-897c-3140-eeca-39fb267ac723",
+            "worldPosition": {
+                "x": 381.12823486328127,
+                "y": 575.6282348632813,
+                "z": 314.54443359375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "53b6b393-c4e9-d418-bb77-f34490ac3abd",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_75214595897c3140eeca39fb267ac723",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7ac723"
+        },
+        {
+            "id": "7a1edb45-a603-ed84-7aed-980445849e26",
+            "worldPosition": {
+                "x": 595.9999389648438,
+                "y": 486.0,
+                "z": 316.9999694824219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ac7f2df6-42d5-f103-f02c-d552377b64bf",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_7a1edb45a603ed847aed980445849e26",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:849e26"
         },
         {
             "id": "c6c0344c-76d1-8cb9-7174-3be7de7e4447",
@@ -85,90 +505,6 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7e4447"
         },
         {
-            "id": "6891a16a-1b66-03ae-9100-afb0673beeeb",
-            "worldPosition": {
-                "x": 773.6676025390625,
-                "y": 507.5657653808594,
-                "z": 313.8973083496094
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a481ffec-711e-ec44-48b1-3368cbd70a12",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_6891a16a1b6603ae9100afb0673beeeb",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:3beeeb"
-        },
-        {
-            "id": "03ddd2d7-e440-71e9-e817-56fd7e18a3b0",
-            "worldPosition": {
-                "x": 765.3282470703125,
-                "y": 468.02923583984377,
-                "z": 313.51715087890627
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1305265575647354,
-                "w": 0.9914448261260986
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "739c1bb5-0445-05cf-578f-2bfa4cc83270",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_03ddd2d7e44071e9e81756fd7e18a3b0",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:18a3b0"
-        },
-        {
-            "id": "4b569ed1-1dd8-5da8-770c-5fe1db49b8c9",
-            "worldPosition": {
-                "x": 538.0333862304688,
-                "y": 531.1455078125,
-                "z": 325.0668640136719
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a73e2ed6-0e97-cad8-43ac-8501bf11cac7",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_4b569ed11dd85da8770c5fe1db49b8c9",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:49b8c9"
-        },
-        {
-            "id": "1c65e342-23eb-18a5-13d2-c636eb24fa7a",
-            "worldPosition": {
-                "x": 768.4638061523438,
-                "y": 506.7664489746094,
-                "z": 313.8973083496094
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dcaf6157-9c8e-fa0b-2ee7-82cffd6ad1c9",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_1c65e34223eb18a513d2c636eb24fa7a",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:24fa7a"
-        },
-        {
             "id": "664ebe7d-10e3-142e-83a6-d024bdee2f24",
             "worldPosition": {
                 "x": 541.0563354492188,
@@ -190,46 +526,25 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:ee2f24"
         },
         {
-            "id": "034f7c78-639c-f748-8fcb-78d0435d672f",
+            "id": "2004c86c-bbd4-8fd8-9bd0-88ffece21db9",
             "worldPosition": {
-                "x": 528.9300537109375,
-                "y": 524.9881591796875,
-                "z": 325.005615234375
+                "x": 881.2236328125,
+                "y": 541.1387329101563,
+                "z": 304.50347900390627
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
             },
             "footprint": {
                 "type": "Circle",
-                "id": "ae5fdaba-4291-be61-f4a2-4ee05e972225",
+                "id": "054c51ef-daae-b7eb-a6f7-17006bca247b",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_034f7c78639cf7488fcb78d0435d672f",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:5d672f"
-        },
-        {
-            "id": "41fcfe6a-adbc-c2d9-069e-8f5c3ff147cc",
-            "worldPosition": {
-                "x": 446.6700439453125,
-                "y": 519.8067016601563,
-                "z": 332.5690612792969
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9914448857307434,
-                "w": -0.13052619993686677
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9fc50c2c-cbf1-c1f4-af29-cadeb2b30c8d",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_41fcfe6aadbcc2d969e8f5c3ff147cc",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f147cc"
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_2004c86cbbd48fd89bd088ffece21db9",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:e21db9"
         },
         {
             "id": "e0a65bbb-096e-733f-df50-98a32feb4578",
@@ -253,6 +568,153 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:eb4578"
         },
         {
+            "id": "034f7c78-639c-f748-8fcb-78d0435d672f",
+            "worldPosition": {
+                "x": 528.9300537109375,
+                "y": 524.9881591796875,
+                "z": 325.005615234375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755901575088501,
+                "w": 0.7372773885726929
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ae5fdaba-4291-be61-f4a2-4ee05e972225",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_034f7c78639cf7488fcb78d0435d672f",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:5d672f"
+        },
+        {
+            "id": "03ddd2d7-e440-71e9-e817-56fd7e18a3b0",
+            "worldPosition": {
+                "x": 765.3282470703125,
+                "y": 468.02923583984377,
+                "z": 313.51715087890627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1305265575647354,
+                "w": 0.9914448261260986
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "739c1bb5-0445-05cf-578f-2bfa4cc83270",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_03ddd2d7e44071e9e81756fd7e18a3b0",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:18a3b0"
+        },
+        {
+            "id": "1c65e342-23eb-18a5-13d2-c636eb24fa7a",
+            "worldPosition": {
+                "x": 768.4638061523438,
+                "y": 506.7664489746094,
+                "z": 313.8973083496094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755901575088501,
+                "w": 0.7372773885726929
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "dcaf6157-9c8e-fa0b-2ee7-82cffd6ad1c9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_1c65e34223eb18a513d2c636eb24fa7a",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:24fa7a"
+        },
+        {
+            "id": "9a0cf843-e9b3-3138-2999-b585bcf0993d",
+            "worldPosition": {
+                "x": 758.89453125,
+                "y": 458.1613464355469,
+                "z": 316.5802917480469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8d1922ab-fdb0-48cb-439f-782ff961177c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_9a0cf843e9b331382999b585bcf0993d",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f0993d"
+        },
+        {
+            "id": "4b569ed1-1dd8-5da8-770c-5fe1db49b8c9",
+            "worldPosition": {
+                "x": 538.0333862304688,
+                "y": 531.1455078125,
+                "z": 325.0668640136719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755901575088501,
+                "w": 0.7372773885726929
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a73e2ed6-0e97-cad8-43ac-8501bf11cac7",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_4b569ed11dd85da8770c5fe1db49b8c9",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:49b8c9"
+        },
+        {
+            "id": "6891a16a-1b66-03ae-9100-afb0673beeeb",
+            "worldPosition": {
+                "x": 773.6676025390625,
+                "y": 507.5657653808594,
+                "z": 313.8973083496094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755901575088501,
+                "w": 0.7372773885726929
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a481ffec-711e-ec44-48b1-3368cbd70a12",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_6891a16a1b6603ae9100afb0673beeeb",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:3beeeb"
+        },
+        {
+            "id": "b9218e74-d6ac-0706-af41-295f091d3e26",
+            "worldPosition": {
+                "x": 532.8095092773438,
+                "y": 536.0736083984375,
+                "z": 325.0668640136719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755901575088501,
+                "w": 0.7372773885726929
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "756c6fec-b164-6b63-4ef7-8a3699ce02e8",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_b9218e74d6ac0706af41295f091d3e26",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:1d3e26"
+        },
+        {
             "id": "4ab429ff-a37e-d0cd-2e67-f04ed2dca8c7",
             "worldPosition": {
                 "x": 753.95458984375,
@@ -272,6 +734,27 @@
             },
             "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_4ab429ffa37ed0cd2e67f04ed2dca8c7",
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:dca8c7"
+        },
+        {
+            "id": "41fcfe6a-adbc-c2d9-069e-8f5c3ff147cc",
+            "worldPosition": {
+                "x": 446.6700439453125,
+                "y": 519.8067016601563,
+                "z": 332.5690612792969
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9914448857307434,
+                "w": -0.13052619993686677
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9fc50c2c-cbf1-c1f4-af29-cadeb2b30c8d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_0wp_Wander_41fcfe6aadbcc2d969e8f5c3ff147cc",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f147cc"
         },
         {
             "id": "73699004-68df-230b-c671-4e911bf492b7",
@@ -295,6 +778,27 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f492b7"
         },
         {
+            "id": "67514e71-8dfa-7952-e095-257bd6d252fa",
+            "worldPosition": {
+                "x": 653.7034912109375,
+                "y": 485.6421813964844,
+                "z": 331.1972351074219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.0000013430886838250445,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2e0710fb-61fd-37c6-4aba-7b9583339bd6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_67514e718dfa7952e095257bd6d252fa",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:d252fa"
+        },
+        {
             "id": "c6f3fc08-7aaa-5669-f09b-1eb8d6ef34f4",
             "worldPosition": {
                 "x": 931.86376953125,
@@ -314,6 +818,48 @@
             },
             "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_c6f3fc087aaa5669f09b1eb8d6ef34f4",
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:ef34f4"
+        },
+        {
+            "id": "03bcb8a7-f539-9a00-e889-9171129ce001",
+            "worldPosition": {
+                "x": 822.3953857421875,
+                "y": 676.8845825195313,
+                "z": 317.0220642089844
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071079611778259,
+                "w": 0.7071055769920349
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4e040aca-8c8e-f12a-9da0-502d0f7eccce",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_03bcb8a7f5399a00e8899171129ce001",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:9ce001"
+        },
+        {
+            "id": "06344fd3-ad4e-01af-f859-9b35b52edfe8",
+            "worldPosition": {
+                "x": 822.1949462890625,
+                "y": 667.4373168945313,
+                "z": 316.0687255859375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071079611778259,
+                "w": 0.7071055769920349
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "777208f0-dc31-5d2d-f57c-50cd5dec4530",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_06344fd3ad4e01aff8599b35b52edfe8",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:2edfe8"
         },
         {
             "id": "2cbde38d-7d74-b96b-182e-c50b3466582b",
@@ -358,27 +904,6 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:cd26ca"
         },
         {
-            "id": "03bcb8a7-f539-9a00-e889-9171129ce001",
-            "worldPosition": {
-                "x": 822.3953857421875,
-                "y": 676.8845825195313,
-                "z": 317.0220642089844
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071079611778259,
-                "w": 0.7071055769920349
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4e040aca-8c8e-f12a-9da0-502d0f7eccce",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_03bcb8a7f5399a00e8899171129ce001",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:9ce001"
-        },
-        {
             "id": "9ec87e2d-f5b0-b27e-1cfa-9a0cb9c94197",
             "worldPosition": {
                 "x": 927.9166259765625,
@@ -398,678 +923,6 @@
             },
             "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_9ec87e2df5b0b27e1cfa9a0cb9c94197",
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:c94197"
-        },
-        {
-            "id": "06344fd3-ad4e-01af-f859-9b35b52edfe8",
-            "worldPosition": {
-                "x": 822.1949462890625,
-                "y": 667.4373168945313,
-                "z": 316.0687255859375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071079611778259,
-                "w": 0.7071055769920349
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "777208f0-dc31-5d2d-f57c-50cd5dec4530",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_06344fd3ad4e01aff8599b35b52edfe8",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:2edfe8"
-        },
-        {
-            "id": "67514e71-8dfa-7952-e095-257bd6d252fa",
-            "worldPosition": {
-                "x": 653.7034912109375,
-                "y": 485.6421813964844,
-                "z": 331.1972351074219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.0000013430886838250445,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2e0710fb-61fd-37c6-4aba-7b9583339bd6",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Path_67514e718dfa7952e095257bd6d252fa",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:d252fa"
-        },
-        {
-            "id": "f1bd8999-1906-a726-ebf8-90313d6b12c9",
-            "worldPosition": {
-                "x": 938.0235595703125,
-                "y": 633.1591796875,
-                "z": 312.0576477050781
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4a1a5625-0513-17f1-734c-d66aa3df37c9",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "d3239b7c-07b0-7441-b09f-03880e39421e",
-            "worldPosition": {
-                "x": 857.20068359375,
-                "y": 632.1701049804688,
-                "z": 316.9522399902344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.2164398729801178,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4b46a51a-809e-017f-ca7f-c835c4642c63",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "9acdd592-20ef-5760-c94b-e02950b51d91",
-            "worldPosition": {
-                "x": 818.091064453125,
-                "y": 669.0319213867188,
-                "z": 316.1134948730469
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "085b8d5e-c310-aff6-8049-c6ee042b2817",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "44eb22c8-e5fb-9fc5-5a91-57293651c57e",
-            "worldPosition": {
-                "x": 855.8455810546875,
-                "y": 639.5022583007813,
-                "z": 316.9522399902344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -6.397578431460715e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ebaaff4a-d824-89d6-4b43-3a61426589e5",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "3645436d-bc9f-6277-df47-bb7b33514192",
-            "worldPosition": {
-                "x": 934.3328247070313,
-                "y": 653.5352783203125,
-                "z": 312.8367919921875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8a5474d6-20aa-e875-f52f-327dae65e887",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "9a71f323-4ec0-a7fc-c0db-3c47073e65c8",
-            "worldPosition": {
-                "x": 747.7965087890625,
-                "y": 451.6858825683594,
-                "z": 320.92279052734377
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3017f966-b78f-0207-0e7c-952035360ac1",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "8f0db119-98a1-408e-effe-eac6ac5691e8",
-            "worldPosition": {
-                "x": 926.8839111328125,
-                "y": 632.072021484375,
-                "z": 312.0576477050781
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f05d5185-7e7f-b16e-6ef8-c69fc7167623",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "300fb8a3-b050-23cd-9b77-29781da73bf9",
-            "worldPosition": {
-                "x": 932.1726684570313,
-                "y": 672.2474365234375,
-                "z": 312.8681640625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a988e4c3-2598-489e-ca09-c0343e1eb99d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "6886d9d0-b4c2-7fc8-549c-4f7dd94076aa",
-            "worldPosition": {
-                "x": 744.7789916992188,
-                "y": 453.8829650878906,
-                "z": 321.02166748046877
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3fc0bf4c-7940-3db8-0d53-e4a10f2c0e0b",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "3035c482-1921-23d7-4af2-af6e4f49c9eb",
-            "worldPosition": {
-                "x": 821.9725952148438,
-                "y": 672.532470703125,
-                "z": 316.07342529296877
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b75dae41-491a-6acf-7cfe-693b9893a628",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "e3085a53-bc12-fe8c-da43-23cc48704350",
-            "worldPosition": {
-                "x": 839.2001953125,
-                "y": 637.8258056640625,
-                "z": 316.9522399902344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071069478988648,
-                "w": 0.7071065902709961
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "102c0a52-bdf7-6c90-a626-c72b25984a72",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "9e13414b-e19e-b53e-d921-a8894ceaf809",
-            "worldPosition": {
-                "x": 935.1409912109375,
-                "y": 674.0250244140625,
-                "z": 312.9571228027344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e2a21015-69b3-1b19-b490-8e475fc0fb05",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "2c295840-3aff-1238-f2f2-9ab9d57cf606",
-            "worldPosition": {
-                "x": 930.5800170898438,
-                "y": 654.3889770507813,
-                "z": 312.9297790527344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "86549880-0713-1ea5-ddeb-b4a27b47d8fb",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "311ed289-3ec3-6599-1585-4b51a5e83f1f",
-            "worldPosition": {
-                "x": 837.06201171875,
-                "y": 635.2435302734375,
-                "z": 316.9522399902344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071069478988648,
-                "w": 0.7071065902709961
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c78603c7-e144-d636-5a57-0a2de27128dc",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "264c6bcc-e661-b685-b2e5-a671f4833389",
-            "worldPosition": {
-                "x": 816.7316284179688,
-                "y": 673.9976806640625,
-                "z": 316.0301513671875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b713e59f-231d-cdfd-3277-61c6d1171eb3",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Crawler",
-            "sliceAssetId": "{87C1C5D4-E0DF-57D2-8F8D-AC7A0D49BC5F}:2"
-        },
-        {
-            "id": "75214595-897c-3140-eeca-39fb267ac723",
-            "worldPosition": {
-                "x": 381.12823486328127,
-                "y": 575.6282348632813,
-                "z": 314.54443359375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "53b6b393-c4e9-d418-bb77-f34490ac3abd",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_75214595897c3140eeca39fb267ac723",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7ac723"
-        },
-        {
-            "id": "4c04b2a3-d06c-b3a7-902f-7fb6f9fac41b",
-            "worldPosition": {
-                "x": 853.9999389648438,
-                "y": 561.0,
-                "z": 270.9999694824219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "621d4191-929c-3beb-5d4e-58e63cc83634",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_4c04b2a3d06cb3a7902f7fb6f9fac41b",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:fac41b"
-        },
-        {
-            "id": "2c971112-0796-12e9-31e5-393850af1d15",
-            "worldPosition": {
-                "x": 451.87939453125,
-                "y": 526.2445068359375,
-                "z": 330.9219970703125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bb96c104-ccd0-e66a-29e2-801a2fb40640",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_2c971112079612e931e5393850af1d15",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:af1d15"
-        },
-        {
-            "id": "b147c6a4-e156-2d95-1d6b-c061c67b9484",
-            "worldPosition": {
-                "x": 751.9722900390625,
-                "y": 487.0,
-                "z": 309.9999694824219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7f4248df-7a6c-abfa-ab59-15d510f9c850",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_b147c6a4e1562d951d6bc061c67b9484",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7b9484"
-        },
-        {
-            "id": "f12756d8-3f52-6f9e-f44b-6048544ca147",
-            "worldPosition": {
-                "x": 931.9999389648438,
-                "y": 617.0,
-                "z": 293.9999694824219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "36af8fec-39af-3d21-5e2e-ed181e72914f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_f12756d83f526f9ef44b6048544ca147",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:4ca147"
-        },
-        {
-            "id": "934fd565-3dd7-ec1a-d094-96e127e400de",
-            "worldPosition": {
-                "x": 494.9642028808594,
-                "y": 613.9955444335938,
-                "z": 317.3387756347656
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5e892191-cf12-ebc9-35ef-0f6d2e68fdab",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_934fd5653dd7ec1ad09496e127e400de",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:e400de"
-        },
-        {
-            "id": "7a1edb45-a603-ed84-7aed-980445849e26",
-            "worldPosition": {
-                "x": 595.9999389648438,
-                "y": 486.0,
-                "z": 316.9999694824219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ac7f2df6-42d5-f103-f02c-d552377b64bf",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_7a1edb45a603ed847aed980445849e26",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:849e26"
-        },
-        {
-            "id": "b024e089-bf37-201d-f969-2b491d2c556e",
-            "worldPosition": {
-                "x": 817.9999389648438,
-                "y": 671.0,
-                "z": 303.9999694824219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "49502d8c-c3a6-e9ef-f1bb-f87c363e4661",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\POI_BannerAreaTrigger_Master_b024e089bf37201df9692b491d2c556e",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:2c556e"
-        },
-        {
-            "id": "e210309f-6975-3ec3-2420-8685229862b8",
-            "worldPosition": {
-                "x": 913.4337768554688,
-                "y": 676.3643798828125,
-                "z": 313.1713562011719
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7d10fbaf-6c30-e3bc-4a96-2f2a24e353ee",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_e210309f69753ec324208685229862b8",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:9862b8"
-        },
-        {
-            "id": "2410fef5-35c9-a0b7-4a73-17e5a554d939",
-            "worldPosition": {
-                "x": 475.36102294921877,
-                "y": 546.890625,
-                "z": 333.0502014160156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071067690849304,
-                "w": 0.7071067690849304
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b2663a42-0718-52ce-fb7c-3b25f94bdd45",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_2410fef535c9a0b74a7317e5a554d939",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:54d939"
-        },
-        {
-            "id": "6a985d10-2bba-15d3-be30-855a41dcc4bd",
-            "worldPosition": {
-                "x": 475.36102294921877,
-                "y": 545.5645141601563,
-                "z": 333.0502014160156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071067690849304,
-                "w": 0.7071067690849304
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "de680c2b-5822-cb2f-dc22-569b08976540",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_6a985d102bba15d3be30855a41dcc4bd",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:dcc4bd"
-        },
-        {
-            "id": "30632a5c-4e74-9a07-d24e-dbc4a9901a57",
-            "worldPosition": {
-                "x": 475.36102294921877,
-                "y": 544.1585693359375,
-                "z": 333.0502014160156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071067690849304,
-                "w": 0.7071067690849304
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bdf63c88-9f09-d07f-84f8-ee5296309429",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_30632a5c4e749a07d24edbc4a9901a57",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:901a57"
-        },
-        {
-            "id": "d1cf2df8-6851-4104-3865-b732342388bc",
-            "worldPosition": {
-                "x": 910.7017211914063,
-                "y": 676.3643798828125,
-                "z": 313.1713562011719
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b0881f38-6c81-a5d4-ce70-eb5d57d7a218",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_d1cf2df8685141043865b732342388bc",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:2388bc"
-        },
-        {
-            "id": "e46a10b6-4edb-bec6-eb7e-223c5c0d1c32",
-            "worldPosition": {
-                "x": 910.7017211914063,
-                "y": 667.5444946289063,
-                "z": 313.1713562011719
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "79d89c5d-e964-13d1-6b54-067c6c20b8a0",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_e46a10b64edbbec6eb7e223c5c0d1c32",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:d1c32"
-        },
-        {
-            "id": "ce547b31-7dee-4912-6847-01fc107aa2df",
-            "worldPosition": {
-                "x": 484.4881286621094,
-                "y": 544.0048828125,
-                "z": 333.2646789550781
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071066498756409,
-                "w": 0.70710688829422
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "735ddfd1-a973-9dfd-b0d1-59befb0cac28",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_ce547b317dee4912684701fc107aa2df",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7aa2df"
         },
         {
             "id": "3f1ea3b7-8edf-7313-1510-8336587e4f31",
@@ -1093,11 +946,95 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7e4f31"
         },
         {
-            "id": "b6ca2b62-81a5-28a1-0af2-a6ffc5644c1a",
+            "id": "ce547b31-7dee-4912-6847-01fc107aa2df",
             "worldPosition": {
-                "x": 932.15576171875,
-                "y": 635.66748046875,
-                "z": 312.0571594238281
+                "x": 484.4881286621094,
+                "y": 544.0048828125,
+                "z": 333.2646789550781
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "735ddfd1-a973-9dfd-b0d1-59befb0cac28",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_ce547b317dee4912684701fc107aa2df",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7aa2df"
+        },
+        {
+            "id": "e46a10b6-4edb-bec6-eb7e-223c5c0d1c32",
+            "worldPosition": {
+                "x": 910.7017211914063,
+                "y": 667.5444946289063,
+                "z": 313.1713562011719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "79d89c5d-e964-13d1-6b54-067c6c20b8a0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_e46a10b64edbbec6eb7e223c5c0d1c32",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:d1c32"
+        },
+        {
+            "id": "2410fef5-35c9-a0b7-4a73-17e5a554d939",
+            "worldPosition": {
+                "x": 475.36102294921877,
+                "y": 546.890625,
+                "z": 333.0502014160156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071067690849304,
+                "w": 0.7071067690849304
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b2663a42-0718-52ce-fb7c-3b25f94bdd45",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_2410fef535c9a0b74a7317e5a554d939",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:54d939"
+        },
+        {
+            "id": "30632a5c-4e74-9a07-d24e-dbc4a9901a57",
+            "worldPosition": {
+                "x": 475.36102294921877,
+                "y": 544.1585693359375,
+                "z": 333.0502014160156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7071067690849304,
+                "w": 0.7071067690849304
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bdf63c88-9f09-d07f-84f8-ee5296309429",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_30632a5c4e749a07d24edbc4a9901a57",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:901a57"
+        },
+        {
+            "id": "e210309f-6975-3ec3-2420-8685229862b8",
+            "worldPosition": {
+                "x": 913.4337768554688,
+                "y": 676.3643798828125,
+                "z": 313.1713562011719
             },
             "rotation": {
                 "x": 0.0,
@@ -1107,81 +1044,39 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "24f2133e-7dae-0b3d-8282-094f3c291da0",
+                "id": "7d10fbaf-6c30-e3bc-4a96-2f2a24e353ee",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_b6ca2b6281a528a1af2a6ffc5644c1a",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:644c1a"
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_e210309f69753ec324208685229862b8",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:9862b8"
         },
         {
-            "id": "e53cb334-94b0-3e09-260c-fd46a7948e62",
+            "id": "6a985d10-2bba-15d3-be30-855a41dcc4bd",
             "worldPosition": {
-                "x": 738.1432495117188,
-                "y": 483.5589294433594,
-                "z": 325.2320861816406
+                "x": 475.36102294921877,
+                "y": 545.5645141601563,
+                "z": 333.0502014160156
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
+                "z": -0.7071067690849304,
+                "w": 0.7071067690849304
             },
             "footprint": {
                 "type": "Circle",
-                "id": "d1f5de87-12cb-49b2-a8d9-c683a9be1386",
+                "id": "de680c2b-5822-cb2f-dc22-569b08976540",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_e53cb33494b03e09260cfd46a7948e62",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:948e62"
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_6a985d102bba15d3be30855a41dcc4bd",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:dcc4bd"
         },
         {
-            "id": "63a15133-613f-3b47-7580-c6b2a183391e",
+            "id": "d1cf2df8-6851-4104-3865-b732342388bc",
             "worldPosition": {
-                "x": 544.4876708984375,
-                "y": 519.3634033203125,
-                "z": 325.0221252441406
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0af67e26-223a-17af-1c36-c528ed151193",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_63a15133613f3b477580c6b2a183391e",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:83391e"
-        },
-        {
-            "id": "114fa7b8-dfd9-bc95-b4fa-e11f3ef618f7",
-            "worldPosition": {
-                "x": 579.828857421875,
-                "y": 547.9542236328125,
-                "z": 332.12872314453127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6427876353263855,
-                "w": 0.7660444378852844
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6223682e-116f-ea85-e1c5-bb2a1c3dcc00",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_114fa7b8dfd9bc95b4fae11f3ef618f7",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f618f7"
-        },
-        {
-            "id": "a22238b4-0da7-0b12-1ec1-5d1ea801986c",
-            "worldPosition": {
-                "x": 570.3648681640625,
-                "y": 548.6524658203125,
-                "z": 331.2558288574219
+                "x": 910.7017211914063,
+                "y": 676.3643798828125,
+                "z": 313.1713562011719
             },
             "rotation": {
                 "x": 0.0,
@@ -1191,32 +1086,32 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "126363b9-dc5f-0525-f8c5-e50b42cf54ff",
+                "id": "b0881f38-6c81-a5d4-ce70-eb5d57d7a218",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_a22238b40da70b121ec15d1ea801986c",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:1986c"
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_Skeleton_Spear_Slump_d1cf2df8685141043865b732342388bc",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:2388bc"
         },
         {
-            "id": "3941ded0-f2d8-8676-cf28-71dbdf722435",
+            "id": "eae189e9-a41b-33c7-3f9b-b5bfe5ed9929",
             "worldPosition": {
-                "x": 816.9788818359375,
-                "y": 672.0820922851563,
-                "z": 316.1310729980469
+                "x": 965.0,
+                "y": 576.0,
+                "z": 317.0
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
             },
             "footprint": {
                 "type": "Circle",
-                "id": "a70dc477-5561-bc07-168c-395e21e8de56",
+                "id": "61be9b42-08e4-0566-ce36-0a72cbea7ea8",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_3941ded0f2d88676cf2871dbdf722435",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:722435"
+            "sliceName": "slices/Dungeon/Design/start_area_reference",
+            "sliceAssetId": "{46D9FB24-4FFB-58A1-AB87-54A73CB74BB8}:2"
         },
         {
             "id": "0a80b1aa-1a2c-544d-1195-fd5a9d087cbd",
@@ -1240,27 +1135,6 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:87cbd"
         },
         {
-            "id": "ec864dc2-9856-979b-a3c9-2eaeff6f3643",
-            "worldPosition": {
-                "x": 932.929443359375,
-                "y": 617.9818115234375,
-                "z": 315.8716125488281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4d5a9c65-1881-d687-013c-7a8f3fc46a93",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_AncientGuardian_Spear_ec864dc29856979ba3c92eaeff6f3643",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:6f3643"
-        },
-        {
             "id": "011d9a7b-1cfd-9801-12d3-d7ac64c7319a",
             "worldPosition": {
                 "x": 931.0677490234375,
@@ -1282,25 +1156,25 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:c7319a"
         },
         {
-            "id": "d9690328-9f7b-4136-7962-39f58e973c74",
+            "id": "ec864dc2-9856-979b-a3c9-2eaeff6f3643",
             "worldPosition": {
-                "x": 799.7152709960938,
-                "y": 505.7570495605469,
-                "z": 313.0910339355469
+                "x": 932.929443359375,
+                "y": 617.9818115234375,
+                "z": 315.8716125488281
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
             },
             "footprint": {
                 "type": "Circle",
-                "id": "80f8e280-700d-0dfd-ba47-67057378800a",
+                "id": "4d5a9c65-1881-d687-013c-7a8f3fc46a93",
                 "radius": 1.0
             },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword_SlumpA",
-            "sliceAssetId": "{E7B0B73D-82A2-5581-A91A-1572F0AAFA01}:2"
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_AncientGuardian_Spear_ec864dc29856979ba3c92eaeff6f3643",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:6f3643"
         },
         {
             "id": "a43036b3-f3c9-0b56-a7e8-b5d8d2bb0ed8",
@@ -1324,6 +1198,174 @@
             "sliceAssetId": "{2FFCC96F-4F09-5262-87A7-1E480025C6C4}:2"
         },
         {
+            "id": "d9690328-9f7b-4136-7962-39f58e973c74",
+            "worldPosition": {
+                "x": 799.7152709960938,
+                "y": 505.7570495605469,
+                "z": 313.0910339355469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "80f8e280-700d-0dfd-ba47-67057378800a",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword_SlumpA",
+            "sliceAssetId": "{E7B0B73D-82A2-5581-A91A-1572F0AAFA01}:2"
+        },
+        {
+            "id": "042529bd-c322-b9bb-1c09-a17ad90ba53b",
+            "worldPosition": {
+                "x": 833.2267456054688,
+                "y": 541.0912475585938,
+                "z": 305.3997802734375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0436190627515316,
+                "w": 0.9990482330322266
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7f3a5ea9-b4ed-f27c-cf6c-6505e3cff72c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_042529bdc322b9bb1c09a17ad90ba53b",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:ba53b"
+        },
+        {
+            "id": "5adb665c-dd9c-6e70-33b0-ef1544299a16",
+            "worldPosition": {
+                "x": 912.0514526367188,
+                "y": 667.4342651367188,
+                "z": 312.99114990234377
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "072fe4b1-6c0f-3236-c411-906f4d195ed9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_5adb665cdd9c6e7033b0ef1544299a16",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:299a16"
+        },
+        {
+            "id": "ba14eb0e-1efa-2f60-8ff9-8c746d6f27f2",
+            "worldPosition": {
+                "x": 484.5983581542969,
+                "y": 545.3546142578125,
+                "z": 333.08447265625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "26a3bf6c-38f3-585a-a198-c331df7a88bd",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_ba14eb0e1efa2f608ff98c746d6f27f2",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:6f27f2"
+        },
+        {
+            "id": "0a398991-f339-3455-fe1a-220f8a75eb03",
+            "worldPosition": {
+                "x": 564.9138793945313,
+                "y": 556.7279663085938,
+                "z": 332.0057067871094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6755903959274292,
+                "w": 0.7372772097587586
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4002f7c4-b4bf-d7e6-e4d5-1e55d39a247d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_0a398991f3393455fe1a220f8a75eb03",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:75eb03"
+        },
+        {
+            "id": "bd1a4670-a3a1-cf17-c586-3521d14921f8",
+            "worldPosition": {
+                "x": 913.4544677734375,
+                "y": 667.4314575195313,
+                "z": 312.99114990234377
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c4ff0ddd-1c6a-9b54-96c3-dd7a66bf8960",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_bd1a4670a3a1cf17c5863521d14921f8",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:4921f8"
+        },
+        {
+            "id": "d8e9a21d-7afb-536c-958f-9d35a5eeee48",
+            "worldPosition": {
+                "x": 484.6011657714844,
+                "y": 546.7576293945313,
+                "z": 333.08447265625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "228e03c3-120a-eecf-6740-6bb099ff005a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_d8e9a21d7afb536c958f9d35a5eeee48",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:eeee48"
+        },
+        {
+            "id": "0fdbca76-ea65-6219-cf9b-8a3777b771a7",
+            "worldPosition": {
+                "x": 857.95361328125,
+                "y": 635.4342651367188,
+                "z": 317.0161437988281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "12f0ca73-7574-99be-e0dc-c43e86f16131",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_0fdbca76ea656219cf9b8a3777b771a7",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:b771a7"
+        },
+        {
             "id": "c17a36f9-ad44-a6b6-fa6f-c0f3921a8630",
             "worldPosition": {
                 "x": 573.3289794921875,
@@ -1345,93 +1387,252 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:1a8630"
         },
         {
-            "id": "5ebe8901-e51f-b334-71cd-b0f0867c3fe6",
+            "id": "97b7f7dc-7a24-3814-1e1b-b8045dcfbe47",
             "worldPosition": {
-                "x": 816.9386596679688,
-                "y": 698.6868896484375,
-                "z": 317.06842041015627
+                "x": 729.8702392578125,
+                "y": 449.0128173828125,
+                "z": 325.0816650390625
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.866025447845459,
-                "w": 0.49999991059303286
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
             },
             "footprint": {
                 "type": "Circle",
-                "id": "95f76771-dfc0-082f-487d-9493fd33db24",
-                "radius": 2.299999952316284
+                "id": "8a77e0a2-0f34-46d6-74b5-2eaac2fa5d76",
+                "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\Single_Iron_A_Spawns_5ebe8901e51fb33471cdb0f0867c3fe6",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:7c3fe6",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword",
+            "sliceAssetId": "{A2DF30D6-C217-5E24-A743-4466195180AC}:2"
         },
         {
-            "id": "5aef660b-e80c-2cb9-942b-e3c01e134318",
+            "id": "870745a7-261b-5371-8c8c-9cdea6ac0fab",
             "worldPosition": {
-                "x": 835.0405883789063,
-                "y": 583.6604614257813,
-                "z": 302.7164306640625
+                "x": 793.3554077148438,
+                "y": 508.1922607421875,
+                "z": 313.15411376953127
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.866025447845459,
-                "w": 0.49999991059303286
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
             },
             "footprint": {
                 "type": "Circle",
-                "id": "e5703ea9-8d77-d955-0039-841161071e46",
-                "radius": 1.7999999523162842
+                "id": "69513444-8b9c-ed61-3260-b4aa1a1c1eb8",
+                "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\Single_Iron_B_Spawns_5aef660be80c2cb9942be3c01e134318",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:134318",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword",
+            "sliceAssetId": "{A2DF30D6-C217-5E24-A743-4466195180AC}:2"
         },
         {
-            "id": "82af612d-5049-4eb5-99c4-7c6253231c58",
+            "id": "f1a5d66f-18d8-ebda-3552-0f56fef020f1",
             "worldPosition": {
-                "x": 574.0106811523438,
-                "y": 578.4273071289063,
-                "z": 331.511962890625
+                "x": 816.0746459960938,
+                "y": 694.7468872070313,
+                "z": 317.2814025878906
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.5,
+                "w": 0.8660253882408142
             },
             "footprint": {
                 "type": "Circle",
-                "id": "ea3e2f4e-8807-85e6-9d42-9cd7c8889d13",
-                "radius": 1.7999999523162842
+                "id": "f8354524-1899-47b5-0809-6173d53118ae",
+                "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\Single_Iron_B_Spawns_82af612d50494eb599c47c6253231c58",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:231c58",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/POIs/Lore/Lore_TalesofExpeditions_Title_04_02",
+            "sliceAssetId": "{C0709A01-13F5-539C-A767-8E2F471E6CFA}:2"
         },
         {
-            "id": "e8289375-d031-b6c2-c995-8832be1ac5fe",
+            "id": "b6ca2b62-81a5-28a1-0af2-a6ffc5644c1a",
             "worldPosition": {
-                "x": 542.5576782226563,
-                "y": 514.403564453125,
-                "z": 325.10650634765627
+                "x": 932.15576171875,
+                "y": 635.66748046875,
+                "z": 312.0571594238281
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.30070585012435915,
-                "w": 0.9537169337272644
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
             },
             "footprint": {
                 "type": "Circle",
-                "id": "fb916119-7bf8-49b6-9106-f67faa9d38e1",
+                "id": "24f2133e-7dae-0b3d-8282-094f3c291da0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_b6ca2b6281a528a1af2a6ffc5644c1a",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:644c1a"
+        },
+        {
+            "id": "a22238b4-0da7-0b12-1ec1-5d1ea801986c",
+            "worldPosition": {
+                "x": 570.3648681640625,
+                "y": 548.6524658203125,
+                "z": 331.2558288574219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "126363b9-dc5f-0525-f8c5-e50b42cf54ff",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_a22238b40da70b121ec15d1ea801986c",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:1986c"
+        },
+        {
+            "id": "63a15133-613f-3b47-7580-c6b2a183391e",
+            "worldPosition": {
+                "x": 544.4876708984375,
+                "y": 519.3634033203125,
+                "z": 325.0221252441406
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0af67e26-223a-17af-1c36-c528ed151193",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_63a15133613f3b477580c6b2a183391e",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:83391e"
+        },
+        {
+            "id": "3941ded0-f2d8-8676-cf28-71dbdf722435",
+            "worldPosition": {
+                "x": 816.9788818359375,
+                "y": 672.0820922851563,
+                "z": 316.1310729980469
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a70dc477-5561-bc07-168c-395e21e8de56",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_3941ded0f2d88676cf2871dbdf722435",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:722435"
+        },
+        {
+            "id": "114fa7b8-dfd9-bc95-b4fa-e11f3ef618f7",
+            "worldPosition": {
+                "x": 579.828857421875,
+                "y": 547.9542236328125,
+                "z": 332.12872314453127
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6427876353263855,
+                "w": 0.7660444378852844
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6223682e-116f-ea85-e1c5-bb2a1c3dcc00",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_114fa7b8dfd9bc95b4fae11f3ef618f7",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:f618f7"
+        },
+        {
+            "id": "e53cb334-94b0-3e09-260c-fd46a7948e62",
+            "worldPosition": {
+                "x": 738.1432495117188,
+                "y": 483.5589294433594,
+                "z": 325.2320861816406
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6427876353263855,
+                "w": 0.7660444378852844
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d1f5de87-12cb-49b2-a8d9-c683a9be1386",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\310bcc40\\PointSpawner_3wp_Triangle_e53cb33494b03e09260cfd46a7948e62",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:948e62"
+        },
+        {
+            "id": "f61d1a01-6210-97b1-451d-2b8e96f71983",
+            "worldPosition": {
+                "x": 943.4301147460938,
+                "y": 571.5521850585938,
+                "z": 318.501708984375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.38268348574638369,
+                "w": 0.9238795042037964
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3a507b75-aae6-8d12-5fc1-16abaabfa826",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_TalesofExpeditions_Title_04_01",
+            "sliceAssetId": "{83A64DD9-2525-5049-BA42-E57CE1A291F5}:2"
+        },
+        {
+            "id": "3c80541a-2be3-4e94-a3a2-d70c9d1e2460",
+            "worldPosition": {
+                "x": 769.0847778320313,
+                "y": 481.0610046386719,
+                "z": 313.2793884277344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0871557965874672,
+                "w": 0.9961947202682495
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "41e8b049-c2e7-c9ed-ab8a-f11064316099",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Archer",
+            "sliceAssetId": "{2925060F-C632-5696-A24D-0189DFA5951F}:2"
+        },
+        {
+            "id": "b583ebd7-3d75-20ed-7530-88d7ff0aed83",
+            "worldPosition": {
+                "x": 739.31201171875,
+                "y": 445.80615234375,
+                "z": 325.0237731933594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.3007061183452606,
+                "w": 0.9537168741226196
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "430d523a-7a5f-9a85-e833-9bb152f4b9bc",
                 "radius": 1.0
             },
             "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Archer",
@@ -1501,42 +1702,21 @@
             "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:63c680"
         },
         {
-            "id": "3c80541a-2be3-4e94-a3a2-d70c9d1e2460",
+            "id": "e8289375-d031-b6c2-c995-8832be1ac5fe",
             "worldPosition": {
-                "x": 769.0847778320313,
-                "y": 481.0610046386719,
-                "z": 313.2793884277344
+                "x": 542.5576782226563,
+                "y": 514.403564453125,
+                "z": 325.10650634765627
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0871557965874672,
-                "w": 0.9961947202682495
+                "z": 0.30070585012435915,
+                "w": 0.9537169337272644
             },
             "footprint": {
                 "type": "Circle",
-                "id": "41e8b049-c2e7-c9ed-ab8a-f11064316099",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Archer",
-            "sliceAssetId": "{2925060F-C632-5696-A24D-0189DFA5951F}:2"
-        },
-        {
-            "id": "b583ebd7-3d75-20ed-7530-88d7ff0aed83",
-            "worldPosition": {
-                "x": 739.31201171875,
-                "y": 445.80615234375,
-                "z": 325.0237731933594
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.3007061183452606,
-                "w": 0.9537168741226196
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "430d523a-7a5f-9a85-e833-9bb152f4b9bc",
+                "id": "fb916119-7bf8-49b6-9106-f67faa9d38e1",
                 "radius": 1.0
             },
             "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_Archer",
@@ -1564,199 +1744,25 @@
             "sliceAssetId": "{2925060F-C632-5696-A24D-0189DFA5951F}:2"
         },
         {
-            "id": "ba14eb0e-1efa-2f60-8ff9-8c746d6f27f2",
+            "id": "30d2ce84-57aa-2b5e-0b95-b05b4efd9a88",
             "worldPosition": {
-                "x": 484.5983581542969,
-                "y": 545.3546142578125,
-                "z": 333.08447265625
+                "x": 763.6408081054688,
+                "y": 485.32550048828127,
+                "z": 313.1694641113281
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.7071066498756409,
-                "w": 0.70710688829422
+                "z": -0.17364782094955445,
+                "w": 0.9848077893257141
             },
             "footprint": {
                 "type": "Circle",
-                "id": "26a3bf6c-38f3-585a-a198-c331df7a88bd",
+                "id": "83297043-51ab-f700-80af-b3baa493a800",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_ba14eb0e1efa2f608ff98c746d6f27f2",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:6f27f2"
-        },
-        {
-            "id": "d8e9a21d-7afb-536c-958f-9d35a5eeee48",
-            "worldPosition": {
-                "x": 484.6011657714844,
-                "y": 546.7576293945313,
-                "z": 333.08447265625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071066498756409,
-                "w": 0.70710688829422
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "228e03c3-120a-eecf-6740-6bb099ff005a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_d8e9a21d7afb536c958f9d35a5eeee48",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:eeee48"
-        },
-        {
-            "id": "0fdbca76-ea65-6219-cf9b-8a3777b771a7",
-            "worldPosition": {
-                "x": 857.95361328125,
-                "y": 635.4342651367188,
-                "z": 317.0161437988281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071066498756409,
-                "w": 0.70710688829422
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "12f0ca73-7574-99be-e0dc-c43e86f16131",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_0fdbca76ea656219cf9b8a3777b771a7",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:b771a7"
-        },
-        {
-            "id": "5adb665c-dd9c-6e70-33b0-ef1544299a16",
-            "worldPosition": {
-                "x": 912.0514526367188,
-                "y": 667.4342651367188,
-                "z": 312.99114990234377
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "072fe4b1-6c0f-3236-c411-906f4d195ed9",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_5adb665cdd9c6e7033b0ef1544299a16",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:299a16"
-        },
-        {
-            "id": "0a398991-f339-3455-fe1a-220f8a75eb03",
-            "worldPosition": {
-                "x": 564.9138793945313,
-                "y": 556.7279663085938,
-                "z": 332.0057067871094
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6755903959274292,
-                "w": 0.7372772097587586
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4002f7c4-b4bf-d7e6-e4d5-1e55d39a247d",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_0a398991f3393455fe1a220f8a75eb03",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:75eb03"
-        },
-        {
-            "id": "bd1a4670-a3a1-cf17-c586-3521d14921f8",
-            "worldPosition": {
-                "x": 913.4544677734375,
-                "y": 667.4314575195313,
-                "z": 312.99114990234377
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c4ff0ddd-1c6a-9b54-96c3-dd7a66bf8960",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_bd1a4670a3a1cf17c5863521d14921f8",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:4921f8"
-        },
-        {
-            "id": "042529bd-c322-b9bb-1c09-a17ad90ba53b",
-            "worldPosition": {
-                "x": 833.2267456054688,
-                "y": 541.0912475585938,
-                "z": 305.3997802734375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0436190627515316,
-                "w": 0.9990482330322266
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7f3a5ea9-b4ed-f27c-cf6c-6505e3cff72c",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\PointSpawner_1wp_Stand_042529bdc322b9bb1c09a17ad90ba53b",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:ba53b"
-        },
-        {
-            "id": "a6398807-d568-d658-1933-376d1430c625",
-            "worldPosition": {
-                "x": 554.951904296875,
-                "y": 610.2627563476563,
-                "z": 319.8263244628906
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c5ca1d2e-1f79-933f-eb88-07bc4954e23a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Alchemy_SoulPlant_a6398807d568d6581933376d1430c625",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:30c625",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "519e14d4-94fe-c1b0-5112-9ccc9e500695",
-            "worldPosition": {
-                "x": 663.338134765625,
-                "y": 479.58319091796877,
-                "z": 330.96405029296877
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "81b4e5f8-e804-69ac-57d8-199aa0681e10",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Alchemy_SoulPlant_519e14d494fec1b051129ccc9e500695",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:500695",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_AncientGuardian_Javelin_Named_00_30d2ce8457aa2b5eb95b05b4efd9a88",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:fd9a88"
         },
         {
             "id": "787029c9-eca8-5fe4-71bf-658ce52eb33d",
@@ -1780,182 +1786,11 @@
             "sliceAssetId": "{06837AD9-668E-592F-A75D-FADCD9C1EFD0}:2"
         },
         {
-            "id": "30d2ce84-57aa-2b5e-0b95-b05b4efd9a88",
+            "id": "0f672ffe-130a-6f82-18f9-2a220689ca8c",
             "worldPosition": {
-                "x": 763.6408081054688,
-                "y": 485.32550048828127,
-                "z": 313.1694641113281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.17364782094955445,
-                "w": 0.9848077893257141
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "83297043-51ab-f700-80af-b3baa493a800",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_AncientGuardian_Javelin_Named_00_30d2ce8457aa2b5eb95b05b4efd9a88",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:fd9a88"
-        },
-        {
-            "id": "f61d1a01-6210-97b1-451d-2b8e96f71983",
-            "worldPosition": {
-                "x": 943.4301147460938,
-                "y": 571.5521850585938,
-                "z": 318.501708984375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.38268348574638369,
-                "w": 0.9238795042037964
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3a507b75-aae6-8d12-5fc1-16abaabfa826",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_TalesofExpeditions_Title_04_01",
-            "sliceAssetId": "{83A64DD9-2525-5049-BA42-E57CE1A291F5}:2"
-        },
-        {
-            "id": "870745a7-261b-5371-8c8c-9cdea6ac0fab",
-            "worldPosition": {
-                "x": 793.3554077148438,
-                "y": 508.1922607421875,
+                "x": 796.4359741210938,
+                "y": 505.3335266113281,
                 "z": 313.15411376953127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "69513444-8b9c-ed61-3260-b4aa1a1c1eb8",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword",
-            "sliceAssetId": "{A2DF30D6-C217-5E24-A743-4466195180AC}:2"
-        },
-        {
-            "id": "97b7f7dc-7a24-3814-1e1b-b8045dcfbe47",
-            "worldPosition": {
-                "x": 729.8702392578125,
-                "y": 449.0128173828125,
-                "z": 325.0816650390625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8a77e0a2-0f34-46d6-74b5-2eaac2fa5d76",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword",
-            "sliceAssetId": "{A2DF30D6-C217-5E24-A743-4466195180AC}:2"
-        },
-        {
-            "id": "c4b31295-e361-c98e-4e05-68fec44686d0",
-            "worldPosition": {
-                "x": 862.9761352539063,
-                "y": 566.2527465820313,
-                "z": 274.63848876953127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 1.7453291434321728e-7,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "41a6c1ba-6865-020f-75d4-6e8c127668d1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Lava_Fast_Box_100x80m_Floor_c4b31295e361c98e4e0568fec44686d0",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:4686d0"
-        },
-        {
-            "id": "29718b20-b2eb-02b2-e48e-097fe00ab1a0",
-            "worldPosition": {
-                "x": 731.0732421875,
-                "y": 454.3209533691406,
-                "z": 324.9189147949219
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5f128212-865f-9db5-920a-02489f5f8937",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Alchemy_LifePlant_29718b20b2eb02b2e48e097fe00ab1a0",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:ab1a0",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f1a5d66f-18d8-ebda-3552-0f56fef020f1",
-            "worldPosition": {
-                "x": 816.0746459960938,
-                "y": 694.7468872070313,
-                "z": 317.2814025878906
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5,
-                "w": 0.8660253882408142
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f8354524-1899-47b5-0809-6173d53118ae",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_TalesofExpeditions_Title_04_02",
-            "sliceAssetId": "{C0709A01-13F5-539C-A767-8E2F471E6CFA}:2"
-        },
-        {
-            "id": "1b3b0327-7988-eb00-7723-272d9e03074c",
-            "worldPosition": {
-                "x": 771.21875,
-                "y": 483.6238098144531,
-                "z": 313.2793884277344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "67feb8ac-1fbc-871b-938f-241ea4293519",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_AncientGuardian_Reaver_1b3b03277988eb007723272d9e03074c",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:3074c"
-        },
-        {
-            "id": "4094c984-7787-f960-59da-cbe8a78db000",
-            "worldPosition": {
-                "x": 841.202392578125,
-                "y": 633.35107421875,
-                "z": 317.14642333984377
             },
             "rotation": {
                 "x": 0.0,
@@ -1966,7 +1801,7 @@
             "scale": 0.9999995827674866,
             "footprint": {
                 "type": "Circle",
-                "id": "61bfc245-7cbb-24a2-06e9-33be04c07bfd",
+                "id": "7b80dcdb-251e-b75e-bb14-def7232d2539",
                 "radius": 1.0
             },
             "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword_SlumpC",
@@ -1995,11 +1830,11 @@
             "sliceAssetId": "{782087A3-AC70-52AD-B38C-4BA9CF0B204A}:2"
         },
         {
-            "id": "0f672ffe-130a-6f82-18f9-2a220689ca8c",
+            "id": "4094c984-7787-f960-59da-cbe8a78db000",
             "worldPosition": {
-                "x": 796.4359741210938,
-                "y": 505.3335266113281,
-                "z": 313.15411376953127
+                "x": 841.202392578125,
+                "y": 633.35107421875,
+                "z": 317.14642333984377
             },
             "rotation": {
                 "x": 0.0,
@@ -2010,152 +1845,53 @@
             "scale": 0.9999995827674866,
             "footprint": {
                 "type": "Circle",
-                "id": "7b80dcdb-251e-b75e-bb14-def7232d2539",
+                "id": "61bfc245-7cbb-24a2-06e9-33be04c07bfd",
                 "radius": 1.0
             },
             "sliceName": "slices/Dungeon_EventManager/Spawners/DG_Everfall_00_PointSpawner_Skeleton_1H_Sword_SlumpC",
             "sliceAssetId": "{782087A3-AC70-52AD-B38C-4BA9CF0B204A}:2"
         },
         {
-            "id": "d1a3ea70-c339-0d38-cdbd-e8dc30260c70",
+            "id": "c4b31295-e361-c98e-4e05-68fec44686d0",
             "worldPosition": {
-                "x": 741.8287963867188,
-                "y": 484.5382385253906,
-                "z": 325.0666809082031
+                "x": 862.9761352539063,
+                "y": 566.2527465820313,
+                "z": 274.63848876953127
             },
             "rotation": {
                 "x": 0.0,
-                "y": 0.0,
-                "z": -0.1305265575647354,
-                "w": 0.9914448261260986
+                "y": 1.7453291434321728e-7,
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "dc6735a9-c093-0c7c-aa9d-d394a9efe975",
+                "id": "41a6c1ba-6865-020f-75d4-6e8c127668d1",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\Alchemy_SoulStone_d1a3ea70c3390d38cdbde8dc30260c70",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:260c70",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\310bcc40\\Lava_Fast_Box_100x80m_Floor_c4b31295e361c98e4e0568fec44686d0",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:4686d0"
         },
         {
-            "id": "30dcc36c-7a62-c7cf-7860-0ae26a63641a",
+            "id": "1b3b0327-7988-eb00-7723-272d9e03074c",
             "worldPosition": {
-                "x": 546.3170166015625,
-                "y": 515.0472412109375,
-                "z": 324.827392578125
+                "x": 771.21875,
+                "y": 483.6238098144531,
+                "z": 313.2793884277344
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.6755901575088501,
-                "w": 0.7372773885726929
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "4555b28d-ef8f-1310-e0b6-6666d76d974d",
+                "id": "67feb8ac-1fbc-871b-938f-241ea4293519",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\310bcc40\\Alchemy_SoulStone_30dcc36c7a62c7cf78600ae26a63641a",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:63641a",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "7717b8f7-7195-339c-ba0b-17947497a392",
-            "worldPosition": {
-                "x": 638.7723999023438,
-                "y": 495.1521911621094,
-                "z": 331.17559814453127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7660444378852844,
-                "w": 0.6427875757217407
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d6b16677-b3e5-5e68-bc7f-c0810c46d3cc",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Alchemy_SoulStone_7717b8f77195339cba0b17947497a392",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:97a392",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "94285ea6-22bd-e352-c677-61daddbae4f6",
-            "worldPosition": {
-                "x": 483.3271484375,
-                "y": 566.2179565429688,
-                "z": 325.0964660644531
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8660253882408142,
-                "w": 0.4999999701976776
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9b884a2d-6c45-627d-9f83-b32c786a89e1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Single_Iron_C_Spawns_94285ea622bde352c67761daddbae4f6",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:bae4f6",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "eae189e9-a41b-33c7-3f9b-b5bfe5ed9929",
-            "worldPosition": {
-                "x": 965.0,
-                "y": 576.0,
-                "z": 317.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071066498756409,
-                "w": 0.70710688829422
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "61be9b42-08e4-0566-ce36-0a72cbea7ea8",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Dungeon/Design/start_area_reference",
-            "sliceAssetId": "{46D9FB24-4FFB-58A1-AB87-54A73CB74BB8}:2"
-        },
-        {
-            "id": "b8b59bd1-2054-a464-bab6-4f6d373123b7",
-            "worldPosition": {
-                "x": 570.1834106445313,
-                "y": 498.1009826660156,
-                "z": 339.1421203613281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5735764503479004,
-                "w": 0.8191520571708679
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ac66a1cc-894c-6bed-afe4-bd5045a7de84",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\310bcc40\\Single_LifeStone_Spawns_b8b59bd12054a464bab64f6d373123b7",
-            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:3123b7",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\310bcc40\\DG_Everfall_00_PointSpawner_AncientGuardian_Reaver_1b3b03277988eb007723272d9e03074c",
+            "sliceAssetId": "{48513EB4-1B4A-552B-9450-84E671125EDD}:3074c"
         }
     ]
 }

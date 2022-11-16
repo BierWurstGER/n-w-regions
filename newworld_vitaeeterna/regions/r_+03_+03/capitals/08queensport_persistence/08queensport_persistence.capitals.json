@@ -1,51 +1,32 @@
 {
     "Capitals": [
         {
-            "id": "c2b78e86-4f55-6219-03d4-ad7e919433ef",
+            "id": "4dcf41fb-72d2-e184-2adc-c5bcda43328f",
             "worldPosition": {
-                "x": 7292.93212890625,
-                "y": 6309.32470703125,
-                "z": 221.0894775390625
+                "x": 8061.99951171875,
+                "y": 6360.0,
+                "z": 181.75277709960938
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.6946584582328796,
-                "w": 0.7193397283554077
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "234298e6-b513-28ff-ec8f-cc70830758dc",
+                "id": "2cc04685-61b6-7019-7589-90899f23608d",
                 "radius": 1.0
             },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "b7e48c99-797c-08f0-cf98-c7ec13f60b65",
-            "worldPosition": {
-                "x": 7406.345703125,
-                "y": 6424.7490234375,
-                "z": 258.09417724609377
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.017452457919716836,
-                "w": 0.9998477101325989
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7ca20911-4b1a-ef61-2848-2aa73fd44cac",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            "sliceName": "slices/WorldBoss/WorldBoss_Cookie_Footprint_Master",
+            "sliceAssetId": "{F391707C-6F83-5166-B097-9367AC7EA6D7}:2",
+            "cookie": {
+                "innerRadius": 4.0,
+                "outerRadius": 16.0,
+                "maxHeightBlend": 0.5,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.05000000074505806
             }
         },
         {
@@ -97,6 +78,30 @@
             }
         },
         {
+            "id": "c2b78e86-4f55-6219-03d4-ad7e919433ef",
+            "worldPosition": {
+                "x": 7292.93212890625,
+                "y": 6309.32470703125,
+                "z": 221.0894775390625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6946584582328796,
+                "w": 0.7193397283554077
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "234298e6-b513-28ff-ec8f-cc70830758dc",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
             "id": "5c563291-7a1a-0cff-b6b9-d0ab260efd9a",
             "worldPosition": {
                 "x": 7198.8427734375,
@@ -121,6 +126,51 @@
             }
         },
         {
+            "id": "b7e48c99-797c-08f0-cf98-c7ec13f60b65",
+            "worldPosition": {
+                "x": 7406.345703125,
+                "y": 6424.7490234375,
+                "z": 258.09417724609377
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.017452457919716836,
+                "w": 0.9998477101325989
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7ca20911-4b1a-ef61-2848-2aa73fd44cac",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "4bdc28dd-6078-6e41-5a88-5823dbede311",
+            "worldPosition": {
+                "x": 7376.705078125,
+                "y": 6320.48779296875,
+                "z": 238.44073486328126
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "31b7cf46-761c-c8cd-d245-444d5b265fca",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\409ebc7c\\Darkness_SpawnGroup_Minor_Master_4bdc28dd60786e415a885823dbede311",
+            "sliceAssetId": "{66348099-49EB-5CF3-9C33-D6870C3D6704}:ede311"
+        },
+        {
             "id": "bf24b1de-6d33-ca43-5040-8f5584f240df",
             "worldPosition": {
                 "x": 7392.21435546875,
@@ -142,11 +192,11 @@
             "sliceAssetId": "{66348099-49EB-5CF3-9C33-D6870C3D6704}:f240df"
         },
         {
-            "id": "576535e7-a1f2-4efe-101a-2c2fc57b0380",
+            "id": "a91885d8-0b2b-9f9a-78ad-683b699ba490",
             "worldPosition": {
-                "x": 7897.087890625,
-                "y": 6223.63720703125,
-                "z": 136.99925231933595
+                "x": 7885.07421875,
+                "y": 6241.19189453125,
+                "z": 131.34356689453126
             },
             "rotation": {
                 "x": 0.0,
@@ -156,11 +206,32 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "25793253-81b6-4675-b788-21b128f291ae",
+                "id": "045aa7b1-46d2-75d1-e383-a529884ba8ed",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_08_EbonscaleReach_Title_04_02",
-            "sliceAssetId": "{CA497948-205D-53E4-ABEA-1F51A999408D}:2"
+            "sliceName": "slices/POIs/Lore/Lore_08_EbonscaleReach_Title_08_01",
+            "sliceAssetId": "{98677D41-8910-5B02-BAB5-7289DA3E1ABD}:2"
+        },
+        {
+            "id": "fb9177d4-ba89-9075-b7b6-7f0ba4d56690",
+            "worldPosition": {
+                "x": 7810.7900390625,
+                "y": 6520.0625,
+                "z": 212.19444274902345
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c7091c4e-8382-14d5-1868-1df8373f9092",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_08_EbonscaleReach_Title_08_02",
+            "sliceAssetId": "{470B3101-AAE4-53C6-B1BE-4D9A51D72B71}:2"
         },
         {
             "id": "ec0fb159-7976-ea67-6f35-2c45bbd9b221",
@@ -184,9 +255,29 @@
             "sliceName": "slices/FastTravel/FastTravel_Teleporter",
             "sliceAssetId": "{28BB2A57-D25F-5F02-9132-C8F71A9EF7E7}:2",
             "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
+                "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "576535e7-a1f2-4efe-101a-2c2fc57b0380",
+            "worldPosition": {
+                "x": 7897.087890625,
+                "y": 6223.63720703125,
+                "z": 136.99925231933595
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "25793253-81b6-4675-b788-21b128f291ae",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_08_EbonscaleReach_Title_04_02",
+            "sliceAssetId": "{CA497948-205D-53E4-ABEA-1F51A999408D}:2"
         },
         {
             "id": "8ac04767-009f-8854-5d47-4bfc37d3ce67",
@@ -211,69 +302,6 @@
             "params": {
                 "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_major/major_darkness_footprint_slope.obj"
             }
-        },
-        {
-            "id": "fb9177d4-ba89-9075-b7b6-7f0ba4d56690",
-            "worldPosition": {
-                "x": 7810.7900390625,
-                "y": 6520.0625,
-                "z": 212.19444274902345
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c7091c4e-8382-14d5-1868-1df8373f9092",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_08_EbonscaleReach_Title_08_02",
-            "sliceAssetId": "{470B3101-AAE4-53C6-B1BE-4D9A51D72B71}:2"
-        },
-        {
-            "id": "a91885d8-0b2b-9f9a-78ad-683b699ba490",
-            "worldPosition": {
-                "x": 7885.07421875,
-                "y": 6241.19189453125,
-                "z": 131.34356689453126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "045aa7b1-46d2-75d1-e383-a529884ba8ed",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_08_EbonscaleReach_Title_08_01",
-            "sliceAssetId": "{98677D41-8910-5B02-BAB5-7289DA3E1ABD}:2"
-        },
-        {
-            "id": "4bdc28dd-6078-6e41-5a88-5823dbede311",
-            "worldPosition": {
-                "x": 7376.705078125,
-                "y": 6320.48779296875,
-                "z": 238.44073486328126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "31b7cf46-761c-c8cd-d245-444d5b265fca",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\409ebc7c\\Darkness_SpawnGroup_Minor_Master_4bdc28dd60786e415a885823dbede311",
-            "sliceAssetId": "{66348099-49EB-5CF3-9C33-D6870C3D6704}:ede311"
         }
     ]
 }

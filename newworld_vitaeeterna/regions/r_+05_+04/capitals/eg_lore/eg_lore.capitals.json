@@ -1,70 +1,7 @@
 {
     "Capitals": [
         {
-            "id": "0291672e-8c3b-e868-bad0-ccfa24f6d8fb",
-            "worldPosition": {
-                "x": 11400.7451171875,
-                "y": 8306.95703125,
-                "z": 202.36978149414063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4617484211921692,
-                "w": 0.887010931968689
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1368cc3b-2353-6461-b6c7-21365671d519",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\db85169d\\Trigger_Volume_Sphere_Test_0291672e8c3be868bad0ccfa24f6d8fb",
-            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:f6d8fb"
-        },
-        {
-            "id": "de315ce2-bbfd-6b3f-1692-3a10c29f931b",
-            "worldPosition": {
-                "x": 11730.59765625,
-                "y": 8319.3408203125,
-                "z": 269.4676818847656
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a0bc5ee0-a6df-ccff-647a-a9f7ae0fd407",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\db85169d\\Trigger_Volume_Sphere_Test_de315ce2bbfd6b3f16923a10c29f931b",
-            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:9f931b"
-        },
-        {
-            "id": "4622418d-eba4-6c26-b062-5b9b0536e00c",
-            "worldPosition": {
-                "x": 11725.9677734375,
-                "y": 8323.9150390625,
-                "z": 272.1463623046875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5591932535171509,
-                "w": 0.8290373682975769
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d40636d0-e5e1-13fd-9884-20ad75c37ba2",
-                "radius": 0.4000000059604645
-            },
-            "sliceName": "CoatGen\\db85169d\\Object_1434_EncStart_Pyre_Visual_BaseMesh_4622418deba46c26b0625b9b0536e00c",
-            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:36e00c"
-        },
-        {
-            "id": "329d3212-1191-e091-408f-a5e3c804c741",
+            "id": "286fedca-0fdd-a7ac-8947-50eafe4eec43",
             "worldPosition": {
                 "x": 11339.3896484375,
                 "y": 8489.263671875,
@@ -78,11 +15,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "354ec107-849b-fc2f-2ecf-d26bf417610e",
-                "radius": 0.4000000059604645
+                "id": "fc20c929-69ad-fa0a-6f36-1585d712e8a4",
+                "radius": 1.0
             },
-            "sliceName": "CoatGen\\db85169d\\Object_1434_EncStart_BlightedRanger_Visual_BaseMesh_329d32121191e091408fa5e3c804c741",
-            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:4c741"
+            "sliceName": "CoatGen\\db85169d\\WorldEvent_SpawnGroup_Single_Master_286fedca0fdda7ac894750eafe4eec43",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:4eec43"
         },
         {
             "id": "3b1f3f5e-fad7-0403-e6c1-c8fd0fff91d2",
@@ -106,25 +43,52 @@
             "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:ff91d2"
         },
         {
-            "id": "286fedca-0fdd-a7ac-8947-50eafe4eec43",
+            "id": "53e1197e-e07b-f644-3b87-0c0600bd49c0",
             "worldPosition": {
-                "x": 11339.3896484375,
-                "y": 8489.263671875,
-                "z": 306.60614013671877
+                "x": 10483.060546875,
+                "y": 9329.33203125,
+                "z": 589.1925048828125
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.2417854517698288,
+                "y": 0.07428370416164398,
+                "z": -0.6218854188919067,
+                "w": 0.7411344647407532
             },
             "footprint": {
                 "type": "Circle",
-                "id": "fc20c929-69ad-fa0a-6f36-1585d712e8a4",
+                "id": "bce0b5b5-4ba0-17e3-5c54-c852cdf2e0e5",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\db85169d\\WorldEvent_SpawnGroup_Single_Master_286fedca0fdda7ac894750eafe4eec43",
-            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:4eec43"
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_53e1197ee07bf6443b870c0600bd49c0",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:bd49c0",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "646b409d-1cc5-57c3-1987-974ef3448ba6",
+            "worldPosition": {
+                "x": 10472.2802734375,
+                "y": 9373.1611328125,
+                "z": 600.3283081054688
+            },
+            "rotation": {
+                "x": -0.0418604351580143,
+                "y": -0.05211889371275902,
+                "z": 2.1118411908105373e-8,
+                "w": 0.9977631568908691
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f36bef66-d710-1409-122a-8cc2d38782ce",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_646b409d1cc557c31987974ef3448ba6",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:448ba6",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "94ab4100-873e-90f1-de25-db71b0791eb9",
@@ -149,6 +113,297 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "b4f2adc5-a96c-ce6c-ad23-4385dd6444cd",
+            "worldPosition": {
+                "x": 10454.888671875,
+                "y": 9342.02734375,
+                "z": 582.1723022460938
+            },
+            "rotation": {
+                "x": 0.1615910679101944,
+                "y": -0.25157004594802859,
+                "z": -0.6000125408172607,
+                "w": 0.7420147061347961
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6721e4b9-3ea5-0b07-08af-4251502e8e8b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_b4f2adc5a96cce6cad234385dd6444cd",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:6444cd",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e09b0d28-1696-a948-85da-9f588238041a",
+            "worldPosition": {
+                "x": 10416.64453125,
+                "y": 9463.9296875,
+                "z": 580.0156860351563
+            },
+            "rotation": {
+                "x": -0.005526160355657339,
+                "y": -0.19271813333034516,
+                "z": 0.8275682926177979,
+                "w": 0.5272191166877747
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4dd1975f-3b24-569c-9204-744c4227331e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_e09b0d281696a94885da9f588238041a",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:38041a",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "d0edbe47-bec4-6970-f4ab-cb194f0d84b3",
+            "worldPosition": {
+                "x": 10464.3515625,
+                "y": 9431.97265625,
+                "z": 587.7330322265625
+            },
+            "rotation": {
+                "x": 0.09954153746366501,
+                "y": -0.27901434898376467,
+                "z": -0.00527608348056674,
+                "w": 0.9550992846488953
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a2573d25-75b0-316c-50c7-98a737365252",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_d0edbe47bec46970f4abcb194f0d84b3",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:d84b3",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b61ffbf2-9908-c921-a7cf-20168ecf86ec",
+            "worldPosition": {
+                "x": 10464.591796875,
+                "y": 9392.25,
+                "z": 591.841796875
+            },
+            "rotation": {
+                "x": -0.057476695626974109,
+                "y": -0.01821252331137657,
+                "z": -2.734914801294508e-7,
+                "w": 0.9981807470321655
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "01624180-7d1c-dd54-3c98-099ace5e9c3d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_b61ffbf29908c921a7cf20168ecf86ec",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:cf86ec",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c259503f-8168-fdf9-fb49-4f37203a0dc1",
+            "worldPosition": {
+                "x": 10464.1455078125,
+                "y": 9344.111328125,
+                "z": 595.7185668945313
+            },
+            "rotation": {
+                "x": -0.05490664392709732,
+                "y": -0.04363665357232094,
+                "z": 0.25265219807624819,
+                "w": 0.9650118947029114
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5980caf9-1bbe-49ba-364f-a4153938fdf1",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_c259503f8168fdf9fb494f37203a0dc1",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:3a0dc1",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "92947193-1754-8004-42d1-c4b9f3b4ffce",
+            "worldPosition": {
+                "x": 10461.7490234375,
+                "y": 9397.7763671875,
+                "z": 583.322265625
+            },
+            "rotation": {
+                "x": -0.18082499504089356,
+                "y": -0.2072543203830719,
+                "z": 0.3265722393989563,
+                "w": 0.904266893863678
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3daf7e10-eb81-344e-a3b9-481065935945",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Master_Quest_IO_Instanced_Spawner_929471931754800442d1c4b9f3b4ffce",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:b4ffce",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "08036974-d6e1-062b-5b84-209412ba5752",
+            "worldPosition": {
+                "x": 10713.2060546875,
+                "y": 8411.283203125,
+                "z": 362.84100341796877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f99e3512-14c5-be37-ac25-01c313d72c86",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_TwinFalls0202",
+            "sliceAssetId": "{155A86B6-6973-5255-816F-A8A74718B227}:2"
+        },
+        {
+            "id": "de315ce2-bbfd-6b3f-1692-3a10c29f931b",
+            "worldPosition": {
+                "x": 11730.59765625,
+                "y": 8319.3408203125,
+                "z": 269.4676818847656
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a0bc5ee0-a6df-ccff-647a-a9f7ae0fd407",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Trigger_Volume_Sphere_Test_de315ce2bbfd6b3f16923a10c29f931b",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:9f931b"
+        },
+        {
+            "id": "0291672e-8c3b-e868-bad0-ccfa24f6d8fb",
+            "worldPosition": {
+                "x": 11400.7451171875,
+                "y": 8306.95703125,
+                "z": 202.36978149414063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4617484211921692,
+                "w": 0.887010931968689
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1368cc3b-2353-6461-b6c7-21365671d519",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\db85169d\\Trigger_Volume_Sphere_Test_0291672e8c3be868bad0ccfa24f6d8fb",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:f6d8fb"
+        },
+        {
+            "id": "4622418d-eba4-6c26-b062-5b9b0536e00c",
+            "worldPosition": {
+                "x": 11725.9677734375,
+                "y": 8323.9150390625,
+                "z": 272.1463623046875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.5591932535171509,
+                "w": 0.8290373682975769
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d40636d0-e5e1-13fd-9884-20ad75c37ba2",
+                "radius": 0.4000000059604645
+            },
+            "sliceName": "slices/WorldEvents/Edengrove/Siren_Quest_Interact/Object_1434_EncStart_Pyre_Visual_BaseMesh",
+            "sliceAssetId": "{005E3F31-4213-597A-9734-1EEF8DEDDABF}:2"
+        },
+        {
+            "id": "c0b0992e-e700-3bc7-40b4-fe17fd883904",
+            "worldPosition": {
+                "x": 10682.931640625,
+                "y": 8436.1376953125,
+                "z": 362.4209899902344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "94936e1a-a1e3-a7bc-fb95-3db1f16340e7",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_TwinFalls0203",
+            "sliceAssetId": "{ED0B46E9-BD64-5CE8-B906-CD1EEC89977F}:2"
+        },
+        {
+            "id": "c587cea4-9b55-dfa8-e441-e3f12cfe84df",
+            "worldPosition": {
+                "x": 10714.4443359375,
+                "y": 8448.2314453125,
+                "z": 357.92498779296877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8cfc0faf-168e-7a99-c8b3-2fe5d1566661",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_TwinFalls0201",
+            "sliceAssetId": "{AA0A6018-42F6-5913-A6CA-0E0AACD8AB1E}:2"
+        },
+        {
+            "id": "329d3212-1191-e091-408f-a5e3c804c741",
+            "worldPosition": {
+                "x": 11339.3896484375,
+                "y": 8489.263671875,
+                "z": 306.60614013671877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "354ec107-849b-fc2f-2ecf-d26bf417610e",
+                "radius": 0.4000000059604645
+            },
+            "sliceName": "CoatGen\\db85169d\\Object_1434_EncStart_BlightedRanger_Visual_BaseMesh_329d32121191e091408fa5e3c804c741",
+            "sliceAssetId": "{DAB05B20-59C0-5175-A6AF-A0DE5BCB58B1}:4c741"
         }
     ]
 }

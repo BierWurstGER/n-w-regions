@@ -1,0 +1,121 @@
+{
+    "Capitals": [
+        {
+            "id": "434bc3fa-2a48-5ed1-73fd-66ced5feb6f9",
+            "worldPosition": {
+                "x": 10006.4619140625,
+                "y": 3207.781982421875,
+                "z": 167.39527893066407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.8216051459312439,
+                "w": 0.5700569748878479
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "69dbdf85-e71e-3366-f6ac-1feb2d0cb9bc",
+                "width": 19.0,
+                "height": 19.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "958a88ba-7368-5b39-6f41-b4ea1e472cd7",
+            "worldPosition": {
+                "x": 10036.248046875,
+                "y": 3168.637451171875,
+                "z": 167.26368713378907
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8854840397834778,
+                "w": -0.4646698832511902
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "7c4411a0-7e25-aa4a-74cc-929bb245fc7f",
+                "width": 70.0,
+                "height": 70.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "aa0f14e1-e78f-4f5e-da01-913086c6705a",
+            "worldPosition": {
+                "x": 9993.7275390625,
+                "y": 3194.252197265625,
+                "z": 167.46958923339845
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.27563735842704775,
+                "w": 0.9612616896629334
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "40fd650f-541c-3fb5-f97f-2e56b2d2b264",
+                "width": 33.0,
+                "height": 25.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_A",
+            "sliceAssetId": "{32B7695B-7F9E-5BF5-9214-159CF3DAA98F}:2"
+        },
+        {
+            "id": "c7c86c89-3bf3-c4ee-f8ce-5ca323422f25",
+            "worldPosition": {
+                "x": 10032.2705078125,
+                "y": 3197.594970703125,
+                "z": 173.2556915283203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8433915376663208,
+                "w": 0.537299633026123
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "ecfa236f-0baf-3f6c-4cf5-a2c4db93985f",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "CoatGen\\a7e59670\\FastTravel_Teleporter_c7c86c893bf3c4eef8ce5ca323422f25",
+            "sliceAssetId": "{4926DF12-9197-50E7-9973-290609949C50}:422f25",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "bfca47fd-6255-902e-a299-c876b628abd5",
+            "worldPosition": {
+                "x": 10025.0,
+                "y": 3175.0,
+                "z": 183.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "77f9a9eb-4be2-cf48-c5a0-073574b9deec",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\a7e59670\\everfall_msq_covenant_enclave_bfca47fd6255902ea299c876b628abd5",
+            "sliceAssetId": "{4926DF12-9197-50E7-9973-290609949C50}:28abd5",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Everfall/ef_covenant_footprint_mesh.obj",
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        }
+    ]
+}

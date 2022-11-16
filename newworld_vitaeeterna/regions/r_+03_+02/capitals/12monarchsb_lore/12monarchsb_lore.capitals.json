@@ -1,6 +1,132 @@
 {
     "Capitals": [
         {
+            "id": "d047db07-c74a-aa3b-00f4-8be176f2d776",
+            "worldPosition": {
+                "x": 7590.06787109375,
+                "y": 4145.72900390625,
+                "z": 81.61336517333985
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6e1a12fc-6c48-27b6-2102-b7aeeb9a80dd",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\eda9f846\\MasterNpc_SwapHidden_Spawner_d047db07c74aaa3bf48be176f2d776",
+            "sliceAssetId": "{45831941-A30E-5931-B505-10040DA03097}:f2d776"
+        },
+        {
+            "id": "fd29e5ce-49e1-b702-99be-cfacec787736",
+            "worldPosition": {
+                "x": 7598.01318359375,
+                "y": 4149.330078125,
+                "z": 82.53600311279297
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5,
+                "w": 0.8660253882408142
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d6965f2d-d9ed-8473-65c9-e588e678d3e6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\eda9f846\\MasterNpc_SwapHidden_Spawner_fd29e5ce49e1b70299becfacec787736",
+            "sliceAssetId": "{45831941-A30E-5931-B505-10040DA03097}:787736"
+        },
+        {
+            "id": "55a2787a-f310-e9de-46db-e04a61090772",
+            "worldPosition": {
+                "x": 7587.68701171875,
+                "y": 4134.44287109375,
+                "z": 80.96199798583985
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071067690849304,
+                "w": 0.7071067690849304
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cb733bfd-ff63-eec9-b551-4bd426fff42e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\eda9f846\\MasterNpc_SwapHidden_Spawner_55a2787af310e9de46dbe04a61090772",
+            "sliceAssetId": "{45831941-A30E-5931-B505-10040DA03097}:90772"
+        },
+        {
+            "id": "c77a2dae-b9ae-1379-0b70-ef541a16aba2",
+            "worldPosition": {
+                "x": 7598.95703125,
+                "y": 4153.65283203125,
+                "z": 82.55856323242188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071066498756409,
+                "w": 0.70710688829422
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d17a9877-087a-3d57-e722-3f97c7b05aec",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\eda9f846\\MasterNpc_SwapHidden_Spawner_c77a2daeb9ae1379b70ef541a16aba2",
+            "sliceAssetId": "{45831941-A30E-5931-B505-10040DA03097}:16aba2"
+        },
+        {
+            "id": "8aca7f65-83b8-9d1c-0db1-71aeb7311094",
+            "worldPosition": {
+                "x": 7516.931640625,
+                "y": 4257.7177734375,
+                "z": 42.28057098388672
+            },
+            "rotation": {
+                "x": 0.09058445692062378,
+                "y": 0.035557251423597339,
+                "z": -0.6693792939186096,
+                "w": 0.7365198731422424
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "072e04d7-0724-fe7b-81c1-a5569eceb4e1",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_12_MonarchsBluffs_Title_03_02",
+            "sliceAssetId": "{28F621E6-8EB7-5152-B14F-C0CB5B950429}:2"
+        },
+        {
+            "id": "32ba98f9-876d-343f-f289-ac538e4ff97a",
+            "worldPosition": {
+                "x": 7812.2080078125,
+                "y": 4272.0439453125,
+                "z": 99.72100067138672
+            },
+            "rotation": {
+                "x": -0.0016448573442175985,
+                "y": -0.0007941868389025331,
+                "z": 0.0037105681840330364,
+                "w": 0.9999914169311523
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3be2e761-5a20-8b74-6d74-aca686c69770",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_12_MonarchsBluffs_Title_17_04",
+            "sliceAssetId": "{46FF345E-79C5-5751-B74C-35F291120757}:2"
+        },
+        {
             "id": "eaca8218-b554-0398-8704-dd2a18e3cdac",
             "worldPosition": {
                 "x": 7636.6708984375,
@@ -22,6 +148,27 @@
             "sliceAssetId": "{98C2CF37-9E18-5E94-890A-9C12E7023EEF}:2"
         },
         {
+            "id": "e053b62d-b57f-d529-02a1-fba9cd2e1e5d",
+            "worldPosition": {
+                "x": 7821.34375,
+                "y": 4208.0849609375,
+                "z": 111.7764892578125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "623189a5-92cf-29a3-ca8a-ac356847165c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\eda9f846\\Trigger_Volume_Template_e053b62db57fd5292a1fba9cd2e1e5d",
+            "sliceAssetId": "{45831941-A30E-5931-B505-10040DA03097}:2e1e5d"
+        },
+        {
             "id": "0ed10890-8aa4-f9a5-b234-0e74bd721aef",
             "worldPosition": {
                 "x": 7653.35302734375,
@@ -41,69 +188,6 @@
             },
             "sliceName": "slices/POIs/Lore/Lore_12_MonarchsBluffs_Title_03_01",
             "sliceAssetId": "{51FA2CE6-2542-510A-ABE8-9C4653649886}:2"
-        },
-        {
-            "id": "32ba98f9-876d-343f-f289-ac538e4ff97a",
-            "worldPosition": {
-                "x": 7811.0810546875,
-                "y": 4195.48876953125,
-                "z": 111.38749694824219
-            },
-            "rotation": {
-                "x": -0.04476412385702133,
-                "y": -0.08802949637174607,
-                "z": 2.831090206711906e-8,
-                "w": 0.9951115846633911
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3be2e761-5a20-8b74-6d74-aca686c69770",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_12_MonarchsBluffs_Title_17_04",
-            "sliceAssetId": "{46FF345E-79C5-5751-B74C-35F291120757}:2"
-        },
-        {
-            "id": "8aca7f65-83b8-9d1c-0db1-71aeb7311094",
-            "worldPosition": {
-                "x": 7655.07373046875,
-                "y": 4287.62158203125,
-                "z": 65.4020004272461
-            },
-            "rotation": {
-                "x": -0.13177894055843354,
-                "y": -0.19706876575946809,
-                "z": -0.44175803661346438,
-                "w": 0.8652445077896118
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "072e04d7-0724-fe7b-81c1-a5569eceb4e1",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_12_MonarchsBluffs_Title_03_02",
-            "sliceAssetId": "{28F621E6-8EB7-5152-B14F-C0CB5B950429}:2"
-        },
-        {
-            "id": "87288d4d-71fe-7dab-185e-c6569d135cd2",
-            "worldPosition": {
-                "x": 7788.77880859375,
-                "y": 4235.26513671875,
-                "z": 113.0128173828125
-            },
-            "rotation": {
-                "x": -0.07845903933048248,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 0.9969173073768616
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "618e0c0e-267f-7802-bcb5-033d0792e0bb",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_18_01",
-            "sliceAssetId": "{039FB38A-47BD-56C3-9DDD-77C083D7DF6F}:2"
         }
     ]
 }

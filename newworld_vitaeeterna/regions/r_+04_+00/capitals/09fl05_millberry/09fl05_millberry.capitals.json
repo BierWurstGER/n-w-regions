@@ -6628,8 +6628,8 @@
                 "id": "b95d57d4-4764-6a7f-7a08-a2a9a73dd813",
                 "radius": 3.0
             },
-            "sliceName": "CoatGen\\54a59b67\\Handcart_Abnd_Debris_C_f326d55ea1fca31a85130473ea234f1d",
-            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:234f1d"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_C",
+            "sliceAssetId": "{61D08D61-6399-5731-BC81-D6C5527E15F5}:2"
         },
         {
             "id": "0fd2b7ca-22c1-20a6-b8cc-fd10a5e4227b",
@@ -7520,8 +7520,8 @@
                 "id": "0058bf45-2316-85b4-8920-ddaf9860373c",
                 "radius": 7.0
             },
-            "sliceName": "CoatGen\\54a59b67\\Burned_Crafting_A_52c0135a34f3099610c55c6f4520e691",
-            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:20e691",
+            "sliceName": "slices/POIs/Burned/Burned_Crafting_A",
+            "sliceAssetId": "{C18FDAB8-EA76-52C2-8BFF-CA6DAF3579E1}:2",
             "cookie": {
                 "innerRadius": 7.0,
                 "outerRadius": 20.0,
@@ -8319,8 +8319,8 @@
                 "id": "fbfd73be-eb15-36ea-4870-46f79b1065d3",
                 "radius": 7.0
             },
-            "sliceName": "CoatGen\\54a59b67\\struc_shed_platform_e_999c21c65e6fb72d9f6d6a5f451fe31b",
-            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:1fe31b",
+            "sliceName": "slices/POIs/Assembly/Crafting/Architecture/Storage_Structures/struc_shed_platform_e",
+            "sliceAssetId": "{210DBD51-765E-595A-BC16-1975F4994B7A}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -8473,9 +8473,10 @@
                 "w": 0.9208936095237732
             },
             "footprint": {
-                "type": "Circle",
+                "type": "Rectangle",
                 "id": "a6e25e1e-185e-4fa8-3323-aff83afb3a33",
-                "radius": 2.0
+                "width": 18.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_k",
             "sliceAssetId": "{C91057D3-CAC8-5996-A76C-E65E5748827F}:2"
@@ -8494,9 +8495,10 @@
                 "w": 0.6288068890571594
             },
             "footprint": {
-                "type": "Circle",
+                "type": "Rectangle",
                 "id": "1d040e75-cd02-1a0c-bb32-9bb5fa5ff0e8",
-                "radius": 2.0
+                "width": 18.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_k",
             "sliceAssetId": "{C91057D3-CAC8-5996-A76C-E65E5748827F}:2"
@@ -8515,9 +8517,10 @@
                 "w": 0.7235382199287415
             },
             "footprint": {
-                "type": "Circle",
+                "type": "Rectangle",
                 "id": "fdd207c4-83ee-3779-344c-e70e51656ae0",
-                "radius": 2.0
+                "width": 18.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_k",
             "sliceAssetId": "{C91057D3-CAC8-5996-A76C-E65E5748827F}:2"
@@ -8536,9 +8539,10 @@
                 "w": 0.014453054405748845
             },
             "footprint": {
-                "type": "Circle",
+                "type": "Rectangle",
                 "id": "5ec7b1df-13d8-66d1-0a6a-0f3723b4b7da",
-                "radius": 2.0
+                "width": 18.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Feildstone_Fence_k",
             "sliceAssetId": "{C91057D3-CAC8-5996-A76C-E65E5748827F}:2"
@@ -8582,8 +8586,8 @@
                 "id": "27b8b2d6-25cf-fa73-952f-f68d4300337b",
                 "radius": 2.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_E",
-            "sliceAssetId": "{7705E122-9A7A-5AA5-A5C3-43AE6C2F44C9}:2"
+            "sliceName": "CoatGen\\54a59b67\\Handcart_Abnd_Debris_E_60dacc08bad8d9a5d34f67ff7d8d454e",
+            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:8d454e"
         },
         {
             "id": "b950b762-63d0-9e23-1a40-8f378cb33731",
@@ -8603,8 +8607,8 @@
                 "id": "e943d73a-0f25-ea83-13f7-5cf97c04b1cb",
                 "radius": 0.10000000149011612
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_E",
-            "sliceAssetId": "{7705E122-9A7A-5AA5-A5C3-43AE6C2F44C9}:2"
+            "sliceName": "CoatGen\\54a59b67\\Handcart_Abnd_Debris_E_b950b76263d09e231a408f378cb33731",
+            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:b33731"
         },
         {
             "id": "9cb50633-7c38-5093-a59e-c547b63f8a84",
@@ -8881,13 +8885,12 @@
             },
             "scale": 0.9999998807907105,
             "footprint": {
-                "type": "Rectangle",
+                "type": "Circle",
                 "id": "a0862c57-15c2-c4d0-965f-cec9045baada",
-                "width": 3.0,
-                "height": 3.0
+                "radius": 0.10000000149011612
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_D",
-            "sliceAssetId": "{80233DE2-C168-501A-8188-0EE0D22E05DB}:2",
+            "sliceName": "CoatGen\\54a59b67\\Handcart_Abnd_Debris_D_ed6bfda9747329a59d6a456822763214",
+            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:763214",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -8910,8 +8913,8 @@
                 "id": "98fec7a7-17e9-b073-000c-24082dbe3d45",
                 "radius": 0.0
             },
-            "sliceName": "CoatGen\\54a59b67\\RD_Fence_L_40cb71dede388ba8793e816d600ef94b",
-            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:ef94b"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Fence_L",
+            "sliceAssetId": "{97F06A0A-3073-58BB-899E-D0EBAF378C0A}:2"
         },
         {
             "id": "2b5a968d-5067-9b5b-3bc2-a3a04e83c8ab",
@@ -9108,8 +9111,8 @@
                 "id": "3d16826e-b06b-cc99-54bc-398fb10ca73e",
                 "radius": 2.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Fence_p",
-            "sliceAssetId": "{5309562E-9210-544A-BEAF-B7A4282BA417}:2",
+            "sliceName": "CoatGen\\54a59b67\\RD_Fence_p_c07d24ac17ca11f1d5f924648eadbc8e",
+            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:adbc8e",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -9131,10 +9134,10 @@
                 "type": "Rectangle",
                 "id": "e954d53e-7593-fdb1-a748-3d5c62e1b92b",
                 "width": 15.0,
-                "height": 1.0
+                "height": 3.0
             },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Fence_p",
-            "sliceAssetId": "{5309562E-9210-544A-BEAF-B7A4282BA417}:2",
+            "sliceName": "CoatGen\\54a59b67\\RD_Fence_p_beb2186feb9fb051b559ad8ea4530610",
+            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:530610",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -9178,8 +9181,8 @@
                 "id": "98f67487-8adc-1c2f-431b-9876e51f4f7b",
                 "radius": 5.0
             },
-            "sliceName": "CoatGen\\54a59b67\\Handcart_Abnd_Debris_A_8331f5b88eb208b9447e54027111d897",
-            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:11d897"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Cart/Handcart_Abnd_Debris_A",
+            "sliceAssetId": "{CF5AD8D1-E6A6-562D-8B47-DDC0E6E8F814}:2"
         },
         {
             "id": "03d1c95e-4491-bed0-f6fc-001a402d0061",
@@ -9307,8 +9310,8 @@
                 "id": "bf7a725a-c7e3-9a16-1d18-0cc47359abea",
                 "radius": 0.0
             },
-            "sliceName": "CoatGen\\54a59b67\\Wagon_Abnd_General_Group_A_874b04be3b235bbd30a98189eaea3ca6",
-            "sliceAssetId": "{CAC1C216-81DB-5508-98C0-C2587988558B}:ea3ca6"
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Vehicles/Wagons/Wagon_Abnd_General_Group_A",
+            "sliceAssetId": "{D66F6A06-5F9B-597D-942A-F5CF9D6C5CE8}:2"
         },
         {
             "id": "9153c9d2-0571-225f-619d-852cf7d142ff",
@@ -9584,9 +9587,10 @@
                 "w": 0.7061697840690613
             },
             "footprint": {
-                "type": "Circle",
+                "type": "Rectangle",
                 "id": "6aa54697-c45c-0858-1e88-1248c0b815b5",
-                "radius": 2.0
+                "width": 10.0,
+                "height": 1.5
             },
             "sliceName": "slices/POIs/Assembly/Crafting/Props/Roads/RD_Fence_Gate_c",
             "sliceAssetId": "{5EBDA01F-7942-58A3-B93E-1711431A3F77}:2"

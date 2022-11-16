@@ -1,0 +1,141 @@
+{
+    "Capitals": [
+        {
+            "id": "1eb29d11-c7e8-9b4b-96f1-bc243d18178b",
+            "worldPosition": {
+                "x": 6810.16015625,
+                "y": 2944.2744140625,
+                "z": 37.67807388305664
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.4226182997226715,
+                "w": 0.9063077569007874
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b1d0a0ea-1ede-2725-a181-5116ca11056c",
+                "width": 200.0,
+                "height": 200.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "152a0707-5c6b-654b-90ba-38de6e9b5fb6",
+            "worldPosition": {
+                "x": 6862.919921875,
+                "y": 2939.46923828125,
+                "z": 76.21603393554688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9077614545822144,
+                "w": 0.41948679089546206
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c3a2959b-a061-b471-6e9f-142ca0018365",
+                "radius": 130.0
+            },
+            "sliceName": "CoatGen\\986603a9\\jav_prp_portal_oneway_symbol_152a07075c6b654b90ba38de6e9b5fb6",
+            "sliceAssetId": "{7646B0B2-1EE5-55A3-93B7-066CF7214D4C}:9b5fb6",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "5b41b521-76e0-2137-cf97-327e8cf53297",
+            "worldPosition": {
+                "x": 6770.0,
+                "y": 2947.0,
+                "z": 46.12189483642578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d481b68f-cff7-06b1-62d2-db1f26ec3620",
+                "radius": 130.0
+            },
+            "sliceName": "CoatGen\\986603a9\\Monarchsbluffs_gawains_domain_5b41b52176e02137cf97327e8cf53297",
+            "sliceAssetId": "{7646B0B2-1EE5-55A3-93B7-066CF7214D4C}:f53297",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "75fc2970-2a37-9250-7d57-41bbecb70bec",
+            "worldPosition": {
+                "x": 6715.52587890625,
+                "y": 3036.945556640625,
+                "z": 36.90139389038086
+            },
+            "rotation": {
+                "x": 8.726646427703599e-8,
+                "y": 8.726645006618128e-8,
+                "z": 8.29031421289983e-8,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6a1b9fe6-3982-6cd0-2785-da3ff0fd3c9b",
+                "radius": 130.0
+            },
+            "sliceName": "slices/MonarchsBluffs/Monarchsbluffs_gawains_domain_roaddressing",
+            "sliceAssetId": "{EE92A93C-55CB-5240-88AB-8AE65E0E9B90}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "7891a61b-4735-31da-ac54-d12a817aefa6",
+            "worldPosition": {
+                "x": 6845.73974609375,
+                "y": 2923.26025390625,
+                "z": 72.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.38268348574638369,
+                "w": 0.9238795042037964
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5a32158f-0cf7-426b-44ba-0cf1ff6b8b80",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\986603a9\\POI_BannerAreaTrigger_Master_7891a61b473531daac54d12a817aefa6",
+            "sliceAssetId": "{7646B0B2-1EE5-55A3-93B7-066CF7214D4C}:7aefa6"
+        },
+        {
+            "id": "802fad30-9be1-6cf8-029f-d5c27aade93c",
+            "worldPosition": {
+                "x": 6794.9912109375,
+                "y": 2957.77294921875,
+                "z": 55.37531280517578
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.3826834559440613,
+                "w": 0.9238795042037964
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "733b3210-8cff-2ce4-d077-9ba0e6afc9df",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/MonarchsBluffs/CorbenicCastle/CorbenicCastle_CrownChamberDoor_Spawner",
+            "sliceAssetId": "{6C0D382A-D416-5164-9382-887C1853CE4B}:2"
+        }
+    ]
+}

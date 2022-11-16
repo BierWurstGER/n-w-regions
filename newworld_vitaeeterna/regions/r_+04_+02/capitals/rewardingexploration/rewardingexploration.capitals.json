@@ -5,13 +5,13 @@
             "worldPosition": {
                 "x": 8232.1904296875,
                 "y": 4671.7919921875,
-                "z": 128.54429626464845
+                "z": 128.49508666992188
             },
             "rotation": {
-                "x": 0.03317536786198616,
-                "y": -0.10992421209812164,
-                "z": 0.9743872880935669,
-                "w": -0.19335335493087769
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.981930136680603,
+                "w": -0.189243882894516
             },
             "footprint": {
                 "type": "Circle",
@@ -20,30 +20,6 @@
             },
             "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_WestEverfall01",
             "sliceAssetId": "{A60C977E-9575-5B17-9173-C264169BB35C}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "5c7a3978-69b5-9b10-3740-3c78cd118800",
-            "worldPosition": {
-                "x": 9913.3984375,
-                "y": 4955.51318359375,
-                "z": 193.43177795410157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9271838665008545,
-                "w": -0.3746066093444824
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "68dadfc0-263f-7901-aa0f-9b3245f15ab7",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthBrightwood01",
-            "sliceAssetId": "{59BC3B41-FE07-5E9B-9284-5CC1D6D5E3F3}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -68,6 +44,30 @@
             },
             "sliceName": "slices/WorldEvents/RewardingExploration/LootGoblin/WorldEvent_LootGoblin_Spawner_02BW",
             "sliceAssetId": "{25BDCA52-16B7-562E-8F73-E09C1C63B4C2}:2"
+        },
+        {
+            "id": "5c7a3978-69b5-9b10-3740-3c78cd118800",
+            "worldPosition": {
+                "x": 9913.3984375,
+                "y": 4955.51318359375,
+                "z": 193.43177795410157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9271838665008545,
+                "w": -0.3746066093444824
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "68dadfc0-263f-7901-aa0f-9b3245f15ab7",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_SouthBrightwood01",
+            "sliceAssetId": "{59BC3B41-FE07-5E9B-9284-5CC1D6D5E3F3}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "4d8765e5-7208-68c5-f575-9562610450c1",

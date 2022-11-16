@@ -22,41 +22,17 @@
             "sliceAssetId": "{67673FE9-58A7-59A4-BD1B-96D765755AF1}:2"
         },
         {
-            "id": "f416c403-5696-b676-b866-23d4966da5f3",
-            "worldPosition": {
-                "x": 7751.0009765625,
-                "y": 1302.00244140625,
-                "z": 119.59770202636719
-            },
-            "rotation": {
-                "x": -0.04171387106180191,
-                "y": -0.01275293342769146,
-                "z": 0.9553945660591126,
-                "w": -0.2920933663845062
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "79019f6b-de53-584a-c9e8-5744f87f3b5b",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_EastCutlass01",
-            "sliceAssetId": "{84ED4833-5E08-5373-A4CB-609FF4981B8B}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "7898cbe7-0fb6-6f05-220e-5a01a1995a15",
             "worldPosition": {
-                "x": 7425.99951171875,
+                "x": 7425.99365234375,
                 "y": 1855.000732421875,
-                "z": 60.483734130859378
+                "z": 60.46763229370117
             },
             "rotation": {
-                "x": 0.029900003224611284,
-                "y": -0.025248052552342416,
-                "z": 0.9328652024269104,
-                "w": 0.3580937385559082
+                "x": 6.736596280809692e-10,
+                "y": -1.7515521255617728e-9,
+                "z": 0.9333481788635254,
+                "w": 0.3589724004268646
             },
             "footprint": {
                 "type": "Circle",
@@ -65,6 +41,30 @@
             },
             "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_WestCutlass01",
             "sliceAssetId": "{E151898E-3CA9-57E2-AAE7-84262576981F}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f416c403-5696-b676-b866-23d4966da5f3",
+            "worldPosition": {
+                "x": 7751.0009765625,
+                "y": 1302.00244140625,
+                "z": 119.56854248046875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9560458064079285,
+                "w": -0.2932173013687134
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "79019f6b-de53-584a-c9e8-5744f87f3b5b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_EastCutlass01",
+            "sliceAssetId": "{84ED4833-5E08-5373-A4CB-609FF4981B8B}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }

@@ -1,6 +1,51 @@
 {
     "Capitals": [
         {
+            "id": "6b941722-9d2b-2e21-bfaa-419f94b15cb7",
+            "worldPosition": {
+                "x": 7245.8203125,
+                "y": 7499.1689453125,
+                "z": 204.11399841308595
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9938172698020935,
+                "w": -0.11102785170078278
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4524910d-1ded-897e-a33a-9b9bb0ce5492",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/RewardingExploration/VistaPoints/ExploreVista_Painting_EastBrimstone02",
+            "sliceAssetId": "{BFA551C3-762F-55AD-9F1D-2EF90F12733B}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "edab9444-7004-6be7-e3a9-780c8b25701f",
+            "worldPosition": {
+                "x": 6241.81689453125,
+                "y": 7526.37255859375,
+                "z": 49.04364013671875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "01959e82-ee10-a893-b491-380d2e2d0e7d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\59379fa7\\WorldEvent_LootGoblin_Spawner_16BS_edab944470046be7e3a9780c8b25701f",
+            "sliceAssetId": "{4AAC5983-249A-5B72-826E-186E72DEE2B7}:25701f"
+        },
+        {
             "id": "1a81e5b8-3dc6-8d4a-7319-2e1473385c38",
             "worldPosition": {
                 "x": 7926.0,

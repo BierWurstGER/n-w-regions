@@ -1,27 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "f0cf3d5b-5fd0-da41-830a-63156e5adbfe",
-            "worldPosition": {
-                "x": 11178.0,
-                "y": 8581.0,
-                "z": 283.37933349609377
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5bd58173-4a0a-1dc6-5d7c-150024e9be06",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Area_CapitalPlot",
-            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
-        },
-        {
             "id": "e99b45d7-c03a-57f0-da18-82e45f35c622",
             "worldPosition": {
                 "x": 11508.0,
@@ -43,11 +22,11 @@
             "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
         },
         {
-            "id": "c0a93f44-df2a-0fd3-bf64-59e84b8530c0",
+            "id": "f0cf3d5b-5fd0-da41-830a-63156e5adbfe",
             "worldPosition": {
-                "x": 10755.0,
-                "y": 8599.0,
-                "z": 560.696044921875
+                "x": 11178.0,
+                "y": 8581.0,
+                "z": 283.37933349609377
             },
             "rotation": {
                 "x": 0.0,
@@ -57,7 +36,7 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "2f6feb0f-ed11-d8f8-0782-ee402f9a9125",
+                "id": "5bd58173-4a0a-1dc6-5d7c-150024e9be06",
                 "radius": 0.0
             },
             "sliceName": "slices/POIs/Area_CapitalPlot",
@@ -85,48 +64,25 @@
             "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
         },
         {
-            "id": "4946d850-1334-076c-a0c2-2dbe32b2e9a1",
+            "id": "c0a93f44-df2a-0fd3-bf64-59e84b8530c0",
             "worldPosition": {
-                "x": 12083.056640625,
-                "y": 8501.607421875,
-                "z": 307.0
+                "x": 10755.0,
+                "y": 8599.0,
+                "z": 560.696044921875
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.17364811897277833,
-                "w": 0.9848077893257141
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
-                "type": "Rectangle",
-                "id": "a7dfdaa1-359f-f820-cec1-351c3c5d4ed0",
-                "width": 20.0,
-                "height": 15.0
+                "type": "Circle",
+                "id": "2f6feb0f-ed11-d8f8-0782-ee402f9a9125",
+                "radius": 0.0
             },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "2138f421-67e4-1a98-68b5-d1961e1246cd",
-            "worldPosition": {
-                "x": 12077.8662109375,
-                "y": 8516.3359375,
-                "z": 305.8950500488281
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5807029604911804,
-                "w": 0.8141155242919922
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "91004e6b-fc50-44dd-bb2c-588fa647d38a",
-                "width": 50.0,
-                "height": 60.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+            "sliceName": "slices/POIs/Area_CapitalPlot",
+            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
         },
         {
             "id": "2d828654-2ba0-8ea4-7f26-025f1b44e6f1",
@@ -157,28 +113,48 @@
             }
         },
         {
-            "id": "1d0e7106-6625-175b-6307-b9eb381ab39d",
+            "id": "2138f421-67e4-1a98-68b5-d1961e1246cd",
             "worldPosition": {
-                "x": 11114.0888671875,
-                "y": 8493.515625,
-                "z": 190.24000549316407
+                "x": 12077.8662109375,
+                "y": 8516.3359375,
+                "z": 305.8950500488281
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.5807029604911804,
+                "w": 0.8141155242919922
             },
             "footprint": {
-                "type": "Circle",
-                "id": "961d9a9a-d5ef-67a8-6428-d299ef8c2b3b",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "91004e6b-fc50-44dd-bb2c-588fa647d38a",
+                "width": 50.0,
+                "height": 60.0
             },
-            "sliceName": "slices/WorldEvents/MainStoryQuest/Fungus/IO_WorldEvent_MSQ_0050_Fungus3_00",
-            "sliceAssetId": "{7C072F89-E717-5CD5-BF69-1653EC667CBF}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "4946d850-1334-076c-a0c2-2dbe32b2e9a1",
+            "worldPosition": {
+                "x": 12083.056640625,
+                "y": 8501.607421875,
+                "z": 307.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.17364811897277833,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "a7dfdaa1-359f-f820-cec1-351c3c5d4ed0",
+                "width": 20.0,
+                "height": 15.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
         },
         {
             "id": "77f96732-c3b6-8b61-96da-c749ef0354b6",
@@ -231,6 +207,170 @@
             }
         },
         {
+            "id": "cea5d2d4-ac73-30b3-49e6-3f7140a49a34",
+            "worldPosition": {
+                "x": 11438.0,
+                "y": 8818.0,
+                "z": 334.5364074707031
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d5facb6a-4e1b-686b-705a-e9adfea6f699",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldBoss/WorldBoss_Cookie_Footprint_Master",
+            "sliceAssetId": "{F391707C-6F83-5166-B097-9367AC7EA6D7}:2",
+            "cookie": {
+                "innerRadius": 12.0,
+                "outerRadius": 35.0,
+                "maxHeightBlend": 0.5,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.05000000074505806
+            }
+        },
+        {
+            "id": "ab4b54d5-efe5-e708-da8d-5c186691bd19",
+            "worldPosition": {
+                "x": 12086.6767578125,
+                "y": 8505.91015625,
+                "z": 308.51251220703127
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8090171813964844,
+                "w": 0.587785005569458
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "786ede0b-28c3-dca4-611c-e385a219a7e7",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\a3306382\\NPC_1423_Innkeep_ab4b54d5efe5e708da8d5c186691bd19",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:91bd19"
+        },
+        {
+            "id": "1d0e7106-6625-175b-6307-b9eb381ab39d",
+            "worldPosition": {
+                "x": 11114.0888671875,
+                "y": 8493.515625,
+                "z": 190.24000549316407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "961d9a9a-d5ef-67a8-6428-d299ef8c2b3b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/MainStoryQuest/Fungus/IO_WorldEvent_MSQ_0050_Fungus3_00",
+            "sliceAssetId": "{7C072F89-E717-5CD5-BF69-1653EC667CBF}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b0657cd4-1bc4-1b1c-7e5f-cd2d693aed8b",
+            "worldPosition": {
+                "x": 12103.6103515625,
+                "y": 8540.4052734375,
+                "z": 307.8477478027344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9975640773773193,
+                "w": 0.06975580751895905
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "46bb8ba0-6513-8d98-c619-930482f034a2",
+                "radius": 7.0
+            },
+            "sliceName": "slices/Structures/Settlements/Teleporters/Settlement_Ancient_Teleporter_A",
+            "sliceAssetId": "{B4C8ECB2-1D22-5862-B4A5-44E0D9AA836D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "29767123-cc0f-cf23-66c3-d55fec740e4c",
+            "worldPosition": {
+                "x": 12076.8427734375,
+                "y": 8507.330078125,
+                "z": 307.25469970703127
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.052336130291223529,
+                "w": 0.9986295104026794
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7c7f6adb-1e0f-3522-1236-ace7deeb9238",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\a3306382\\NPC_1417_Warden_29767123cc0fcf2366c3d55fec740e4c",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:740e4c"
+        },
+        {
+            "id": "87343e81-b80c-5f48-8d13-6cbb70273ca2",
+            "worldPosition": {
+                "x": 12053.0791015625,
+                "y": 8527.4990234375,
+                "z": 313.32769775390627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9969173073768616,
+                "w": -0.07845963537693024
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "37192d1b-8bd8-f05c-7e62-af6fd0655924",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\a3306382\\NPC_1412_Watcher_87343e81b80c5f488d136cbb70273ca2",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:273ca2"
+        },
+        {
+            "id": "7a286761-1299-0486-cc3b-fe4772c47498",
+            "worldPosition": {
+                "x": 11759.3828125,
+                "y": 8345.3798828125,
+                "z": 263.9070129394531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "634376c1-7d6a-c4c2-225a-c97c49709612",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/MainStoryQuest/Fungus/IO_WorldEvent_MSQ_0050_Fungus2_00",
+            "sliceAssetId": "{F20A09CB-F0B6-50E2-8795-CAE9EE4D7236}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "60d2961b-e7e1-e262-88e3-a768c320f66f",
             "worldPosition": {
                 "x": 11096.8212890625,
@@ -250,81 +390,6 @@
             },
             "sliceName": "slices/POIs/POI_CapitalPlot",
             "sliceAssetId": "{817279CF-C3F1-56DF-A9C7-282929522FB8}:2"
-        },
-        {
-            "id": "7afa0b9b-3327-3780-b897-5e22c519824d",
-            "worldPosition": {
-                "x": 11090.3203125,
-                "y": 8587.7119140625,
-                "z": 245.65673828125
-            },
-            "rotation": {
-                "x": 0.008328398689627648,
-                "y": -0.14110352098941804,
-                "z": 0.7324140071868897,
-                "w": 0.666025698184967
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "bfb4d579-fb36-b3d3-1158-dd8ecfe0a5f2",
-                "width": 4.0,
-                "height": 11.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Road_Spline_Dirt_Farm_Straight_C",
-            "sliceAssetId": "{3E2D93D3-A010-5386-8C0F-3BBB77BECA3B}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "48e3330c-7dce-2a56-b3d7-0dd1cab9721b",
-            "worldPosition": {
-                "x": 11072.8828125,
-                "y": 8587.1201171875,
-                "z": 242.68994140625
-            },
-            "rotation": {
-                "x": 0.2098310887813568,
-                "y": -0.20117244124412538,
-                "z": 0.6765724420547485,
-                "w": 0.6765725016593933
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a31cd2d5-2639-0203-071f-d246e24e4daf",
-                "width": 4.0,
-                "height": 11.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Road_Spline_Dirt_Farm_Straight_C",
-            "sliceAssetId": "{3E2D93D3-A010-5386-8C0F-3BBB77BECA3B}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "eb53fbdd-388b-9590-34ff-24768ef45937",
-            "worldPosition": {
-                "x": 11081.9345703125,
-                "y": 8587.0126953125,
-                "z": 243.72508239746095
-            },
-            "rotation": {
-                "x": 0.01324779074639082,
-                "y": -0.1407269388437271,
-                "z": 0.7087239027023315,
-                "w": 0.6911807656288147
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "9329e833-bdeb-e225-e083-30e4fb3cf812",
-                "width": 4.0,
-                "height": 11.0
-            },
-            "sliceName": "slices/Terrain_Elements/Roads/Road_Spline_Dirt_Farm_Straight_C",
-            "sliceAssetId": "{3E2D93D3-A010-5386-8C0F-3BBB77BECA3B}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
         },
         {
             "id": "95e7f7c9-8687-ad52-d8ab-8fed14f4a334",
@@ -372,74 +437,163 @@
             "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:52bf8e"
         },
         {
-            "id": "d6e085b3-1ab6-646a-5132-af16b16be823",
+            "id": "be0c2290-95f5-98f0-10a6-2b2f336fd17b",
             "worldPosition": {
-                "x": 12189.3076171875,
-                "y": 8369.4912109375,
-                "z": 450.8580017089844
+                "x": 12078.240234375,
+                "y": 8524.4208984375,
+                "z": 307.25469970703127
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.026176711544394494,
+                "w": 0.9996573328971863
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5a893cc0-3c84-1103-d81b-3a7bbe1f1092",
+                "id": "c5ac8afd-0c2d-8e04-7fea-f83484cc49ef",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\a3306382\\SwapSlice_Perils3_d6e085b31ab6646a5132af16b16be823",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:6be823",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
+            "sliceName": "CoatGen\\a3306382\\NPC_1413_Watcher_be0c229095f598f010a62b2f336fd17b",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:6fd17b"
         },
         {
-            "id": "7a286761-1299-0486-cc3b-fe4772c47498",
+            "id": "2731256f-3ce3-5bfc-849a-db65fe72fcee",
             "worldPosition": {
-                "x": 11759.3828125,
-                "y": 8345.3798828125,
-                "z": 263.9070129394531
+                "x": 10334.509765625,
+                "y": 8905.3515625,
+                "z": 713.537109375
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.11320339888334274,
+                "w": 0.9935718178749085
             },
             "footprint": {
                 "type": "Circle",
-                "id": "634376c1-7d6a-c4c2-225a-c97c49709612",
+                "id": "7d25ee74-4ade-ade3-1c0b-80700940394b",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/MainStoryQuest/Fungus/IO_WorldEvent_MSQ_0050_Fungus2_00",
-            "sliceAssetId": "{F20A09CB-F0B6-50E2-8795-CAE9EE4D7236}:2",
+            "sliceName": "CoatGen\\a3306382\\NPC_0716_Warden_2731256f3ce35bfc849adb65fe72fcee",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:72fcee"
+        },
+        {
+            "id": "282c4bcf-01d6-c69f-789c-89dca5e8e487",
+            "worldPosition": {
+                "x": 12072.439453125,
+                "y": 8502.333984375,
+                "z": 307.3376770019531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.258819043636322,
+                "w": 0.9659258127212524
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bb5fef33-2d73-8a1a-e16f-041d9d1d906b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\a3306382\\NPC_1403_SurvivalistA_NoSetDressing_282c4bcf01d6c69f789c89dca5e8e487",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:e8e487"
+        },
+        {
+            "id": "eb53fbdd-388b-9590-34ff-24768ef45937",
+            "worldPosition": {
+                "x": 11081.9345703125,
+                "y": 8587.0126953125,
+                "z": 243.72508239746095
+            },
+            "rotation": {
+                "x": 0.01324779074639082,
+                "y": -0.1407269388437271,
+                "z": 0.7087239027023315,
+                "w": 0.6911807656288147
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9329e833-bdeb-e225-e083-30e4fb3cf812",
+                "width": 4.0,
+                "height": 11.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Road_Spline_Dirt_Farm_Straight_C",
+            "sliceAssetId": "{3E2D93D3-A010-5386-8C0F-3BBB77BECA3B}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "ab4b54d5-efe5-e708-da8d-5c186691bd19",
+            "id": "48e3330c-7dce-2a56-b3d7-0dd1cab9721b",
             "worldPosition": {
-                "x": 12086.6767578125,
-                "y": 8505.91015625,
-                "z": 308.51251220703127
+                "x": 11072.8828125,
+                "y": 8587.1201171875,
+                "z": 242.68994140625
+            },
+            "rotation": {
+                "x": 0.2098310887813568,
+                "y": -0.20117244124412538,
+                "z": 0.6765724420547485,
+                "w": 0.6765725016593933
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "a31cd2d5-2639-0203-071f-d246e24e4daf",
+                "width": 4.0,
+                "height": 11.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Road_Spline_Dirt_Farm_Straight_C",
+            "sliceAssetId": "{3E2D93D3-A010-5386-8C0F-3BBB77BECA3B}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "7afa0b9b-3327-3780-b897-5e22c519824d",
+            "worldPosition": {
+                "x": 11090.3203125,
+                "y": 8587.7119140625,
+                "z": 245.65673828125
+            },
+            "rotation": {
+                "x": 0.008328398689627648,
+                "y": -0.14110352098941804,
+                "z": 0.7324140071868897,
+                "w": 0.666025698184967
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "bfb4d579-fb36-b3d3-1158-dd8ecfe0a5f2",
+                "width": 4.0,
+                "height": 11.0
+            },
+            "sliceName": "slices/Terrain_Elements/Roads/Road_Spline_Dirt_Farm_Straight_C",
+            "sliceAssetId": "{3E2D93D3-A010-5386-8C0F-3BBB77BECA3B}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "dca2a3f4-7fab-731c-0735-8740558bb48d",
+            "worldPosition": {
+                "x": 10351.0,
+                "y": 8918.0,
+                "z": 713.4483642578125
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.8090171813964844,
-                "w": 0.587785005569458
+                "z": 0.6755902767181397,
+                "w": 0.7372772693634033
             },
             "footprint": {
                 "type": "Circle",
-                "id": "786ede0b-28c3-dca4-611c-e385a219a7e7",
+                "id": "7c6733f0-9df7-3b86-580e-027dd8af01ab",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\a3306382\\NPC_1423_Innkeep_ab4b54d5efe5e708da8d5c186691bd19",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:91bd19"
+            "sliceName": "CoatGen\\a3306382\\NPC_0718_Ranger_dca2a3f47fab731c7358740558bb48d",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:8bb48d"
         },
         {
             "id": "ede9d027-19fe-e7a0-8b40-8a61ed846ae6",
@@ -476,155 +630,29 @@
             }
         },
         {
-            "id": "87343e81-b80c-5f48-8d13-6cbb70273ca2",
+            "id": "d6e085b3-1ab6-646a-5132-af16b16be823",
             "worldPosition": {
-                "x": 12053.0791015625,
-                "y": 8527.4990234375,
-                "z": 313.32769775390627
+                "x": 12189.3076171875,
+                "y": 8369.4912109375,
+                "z": 450.8580017089844
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9969173073768616,
-                "w": -0.07845963537693024
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
                 "type": "Circle",
-                "id": "37192d1b-8bd8-f05c-7e62-af6fd0655924",
+                "id": "5a893cc0-3c84-1103-d81b-3a7bbe1f1092",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\a3306382\\NPC_1412_Watcher_87343e81b80c5f488d136cbb70273ca2",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:273ca2"
-        },
-        {
-            "id": "b0657cd4-1bc4-1b1c-7e5f-cd2d693aed8b",
-            "worldPosition": {
-                "x": 12103.6103515625,
-                "y": 8540.4052734375,
-                "z": 307.8477478027344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9975640773773193,
-                "w": 0.06975580751895905
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "46bb8ba0-6513-8d98-c619-930482f034a2",
-                "radius": 7.0
-            },
-            "sliceName": "slices/Structures/Settlements/Teleporters/Settlement_Ancient_Teleporter_A",
-            "sliceAssetId": "{B4C8ECB2-1D22-5862-B4A5-44E0D9AA836D}:2",
+            "sliceName": "CoatGen\\a3306382\\SwapSlice_Perils3_d6e085b31ab6646a5132af16b16be823",
+            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:6be823",
             "params": {
-                "HAS_VEG_COMPONENTS": "1"
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
             }
-        },
-        {
-            "id": "be0c2290-95f5-98f0-10a6-2b2f336fd17b",
-            "worldPosition": {
-                "x": 12078.240234375,
-                "y": 8524.4208984375,
-                "z": 307.25469970703127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.026176711544394494,
-                "w": 0.9996573328971863
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c5ac8afd-0c2d-8e04-7fea-f83484cc49ef",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\a3306382\\NPC_1413_Watcher_be0c229095f598f010a62b2f336fd17b",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:6fd17b"
-        },
-        {
-            "id": "dca2a3f4-7fab-731c-0735-8740558bb48d",
-            "worldPosition": {
-                "x": 10351.0,
-                "y": 8918.0,
-                "z": 713.4483642578125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6755902767181397,
-                "w": 0.7372772693634033
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7c6733f0-9df7-3b86-580e-027dd8af01ab",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\a3306382\\NPC_0718_Ranger_dca2a3f47fab731c7358740558bb48d",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:8bb48d"
-        },
-        {
-            "id": "6054acaa-d7c9-9d55-9d14-e507cf7c305e",
-            "worldPosition": {
-                "x": 11102.4931640625,
-                "y": 8545.130859375,
-                "z": 278.7760009765625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.23344537615776063,
-                "w": 0.972369909286499
-            },
-            "scale": 8.0,
-            "footprint": {
-                "type": "Circle",
-                "id": "cacc3b42-6dda-351b-44ca-cfe6175dbf8d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1130_Bridge",
-            "sliceAssetId": "{3D4890EA-C182-5E3D-A561-83B989CC4A48}:2"
-        },
-        {
-            "id": "29767123-cc0f-cf23-66c3-d55fec740e4c",
-            "worldPosition": {
-                "x": 12076.8427734375,
-                "y": 8507.330078125,
-                "z": 307.25469970703127
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.052336130291223529,
-                "w": 0.9986295104026794
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7c7f6adb-1e0f-3522-1236-ace7deeb9238",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\a3306382\\NPC_1417_Warden_29767123cc0fcf2366c3d55fec740e4c",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:740e4c"
-        },
-        {
-            "id": "2731256f-3ce3-5bfc-849a-db65fe72fcee",
-            "worldPosition": {
-                "x": 10334.509765625,
-                "y": 8905.3515625,
-                "z": 713.537109375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.11320339888334274,
-                "w": 0.9935718178749085
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7d25ee74-4ade-ade3-1c0b-80700940394b",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\a3306382\\NPC_0716_Warden_2731256f3ce35bfc849adb65fe72fcee",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:72fcee"
         },
         {
             "id": "d526a5c7-eccb-04b6-8202-24c43964d372",
@@ -648,25 +676,26 @@
             "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:64d372"
         },
         {
-            "id": "282c4bcf-01d6-c69f-789c-89dca5e8e487",
+            "id": "6054acaa-d7c9-9d55-9d14-e507cf7c305e",
             "worldPosition": {
-                "x": 12072.439453125,
-                "y": 8502.333984375,
-                "z": 307.3376770019531
+                "x": 11102.4931640625,
+                "y": 8545.130859375,
+                "z": 278.7760009765625
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.258819043636322,
-                "w": 0.9659258127212524
+                "z": -0.23344537615776063,
+                "w": 0.972369909286499
             },
+            "scale": 8.0,
             "footprint": {
                 "type": "Circle",
-                "id": "bb5fef33-2d73-8a1a-e16f-041d9d1d906b",
+                "id": "cacc3b42-6dda-351b-44ca-cfe6175dbf8d",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\a3306382\\NPC_1403_SurvivalistA_NoSetDressing_282c4bcf01d6c69f789c89dca5e8e487",
-            "sliceAssetId": "{59AB68F5-B58E-5DDE-A798-128D0C62520A}:e8e487"
+            "sliceName": "slices/WorldEvents/Mourningdale/TriggerVol_1130_Bridge",
+            "sliceAssetId": "{3D4890EA-C182-5E3D-A561-83B989CC4A48}:2"
         }
     ]
 }

@@ -1,69 +1,6 @@
 {
     "Capitals": [
         {
-            "id": "976dbb34-2735-d1b5-ca80-a00a66e93b04",
-            "worldPosition": {
-                "x": 8395.2734375,
-                "y": 3610.374267578125,
-                "z": 161.27960205078126
-            },
-            "rotation": {
-                "x": 0.10166644304990769,
-                "y": 0.024150416254997255,
-                "z": 0.21525467932224275,
-                "w": 0.9709511399269104
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2e4dda3a-8595-e33f-6634-d2a36c06318a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_976dbb342735d1b5ca80a00a66e93b04",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:e93b04"
-        },
-        {
-            "id": "aecf1b41-a78e-c8c7-e55a-986f91d76ba9",
-            "worldPosition": {
-                "x": 8305.294921875,
-                "y": 2993.589111328125,
-                "z": 57.083457946777347
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5738f6e0-0d9d-6547-4d70-4dfdf67fc1b5",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_aecf1b41a78ec8c7e55a986f91d76ba9",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:d76ba9"
-        },
-        {
-            "id": "581f4095-7ba8-86cd-ec0c-15a96d550c7c",
-            "worldPosition": {
-                "x": 8382.0390625,
-                "y": 3657.546875,
-                "z": 170.3847198486328
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8571673035621643,
-                "w": 0.5150380730628967
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e1048577-e4ec-c32f-2bc1-c7cefb236f11",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_581f40957ba886cdec0c15a96d550c7c",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:550c7c"
-        },
-        {
             "id": "8ab5de9d-4b6b-d245-1808-46141a214016",
             "worldPosition": {
                 "x": 9020.9052734375,
@@ -83,27 +20,6 @@
             },
             "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_8ab5de9d4b6bd245180846141a214016",
             "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:214016"
-        },
-        {
-            "id": "1ac0126c-6e06-25e9-a76a-45f7fe0090cf",
-            "worldPosition": {
-                "x": 8831.7890625,
-                "y": 3827.802001953125,
-                "z": 93.79210662841797
-            },
-            "rotation": {
-                "x": 0.11298072338104248,
-                "y": 0.06278201937675476,
-                "z": -5.780781293651671e-7,
-                "w": 0.9916117191314697
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "63e0c0ab-4134-4a23-cc7d-2081b8b6d719",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_1ac0126c6e0625e9a76a45f7fe0090cf",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:90cf"
         },
         {
             "id": "6e68dbef-04eb-4788-0fd8-efc4a1949982",
@@ -128,6 +44,27 @@
             "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:949982"
         },
         {
+            "id": "1ac0126c-6e06-25e9-a76a-45f7fe0090cf",
+            "worldPosition": {
+                "x": 8831.7890625,
+                "y": 3827.802001953125,
+                "z": 93.79210662841797
+            },
+            "rotation": {
+                "x": 0.11298070847988129,
+                "y": 0.06278204172849655,
+                "z": -5.761996817454929e-7,
+                "w": 0.9916117191314697
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "63e0c0ab-4134-4a23-cc7d-2081b8b6d719",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_1ac0126c6e0625e9a76a45f7fe0090cf",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:90cf"
+        },
+        {
             "id": "d673935f-190f-30d4-e833-4b8c075b99fa",
             "worldPosition": {
                 "x": 8701.5888671875,
@@ -149,36 +86,275 @@
             "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:5b99fa"
         },
         {
-            "id": "edac67ff-f3f2-3d94-a23f-89eb061fd0cd",
+            "id": "aecf1b41-a78e-c8c7-e55a-986f91d76ba9",
             "worldPosition": {
-                "x": 8450.953125,
-                "y": 3603.343505859375,
-                "z": 147.73434448242188
+                "x": 8305.294921875,
+                "y": 2993.589111328125,
+                "z": 57.083457946777347
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9848077297210693,
-                "w": -0.17364831268787385
+                "z": 0.0,
+                "w": 1.0
             },
             "footprint": {
-                "type": "Rectangle",
-                "id": "46e2be58-5016-4f9e-6fcc-93e6ac12133f",
-                "width": 3.5,
-                "height": 2.0
+                "type": "Circle",
+                "id": "5738f6e0-0d9d-6547-4d70-4dfdf67fc1b5",
+                "radius": 1.0
             },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_edac67fff3f23d94a23f89eb061fd0cd",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:1fd0cd",
+            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_aecf1b41a78ec8c7e55a986f91d76ba9",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:d76ba9"
+        },
+        {
+            "id": "976dbb34-2735-d1b5-ca80-a00a66e93b04",
+            "worldPosition": {
+                "x": 8395.2734375,
+                "y": 3610.374267578125,
+                "z": 161.27960205078126
+            },
+            "rotation": {
+                "x": 0.10166644304990769,
+                "y": 0.024150416254997255,
+                "z": 0.21525467932224275,
+                "w": 0.9709511399269104
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2e4dda3a-8595-e33f-6634-d2a36c06318a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Prime_Trigger_Volume_976dbb342735d1b5ca80a00a66e93b04",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:e93b04"
+        },
+        {
+            "id": "221b6b95-c4f6-c790-31ad-927c6b7ae938",
+            "worldPosition": {
+                "x": 8275.9931640625,
+                "y": 3837.82958984375,
+                "z": 142.12591552734376
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b2e6c59e-a195-8250-7509-f3ca5d2c228a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_221b6b95c4f6c79031ad927c6b7ae938",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:7ae938"
+        },
+        {
+            "id": "25dfaf2a-005c-b63f-e5a3-6c0a6c8a2dd1",
+            "worldPosition": {
+                "x": 8245.6240234375,
+                "y": 3854.52099609375,
+                "z": 149.98960876464845
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0861c667-62c0-59f8-0d35-8d3847aef7ad",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_25dfaf2a005cb63fe5a36c0a6c8a2dd1",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:8a2dd1"
+        },
+        {
+            "id": "bfb9dd9f-e5bb-b9a5-2164-b0c7e1775ea7",
+            "worldPosition": {
+                "x": 8280.1591796875,
+                "y": 3799.395263671875,
+                "z": 142.50318908691407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6a71369d-1753-180f-8458-6032c1bd7374",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_bfb9dd9fe5bbb9a52164b0c7e1775ea7",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:775ea7"
+        },
+        {
+            "id": "1b93ada0-d492-a7c6-9f4e-d565b0be7c62",
+            "worldPosition": {
+                "x": 8234.0,
+                "y": 3955.0,
+                "z": 192.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6bc94320-14cb-de6b-8b98-c46363c2111b",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_1b93ada0d492a7c69f4ed565b0be7c62",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:be7c62"
+        },
+        {
+            "id": "1500b702-b639-0a03-6f42-5ce88beb25c6",
+            "worldPosition": {
+                "x": 8245.1748046875,
+                "y": 3792.685791015625,
+                "z": 153.44894409179688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "efa711ec-7dd0-f6d3-1211-bd4a0a160c88",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_1500b702b6390a036f425ce88beb25c6",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:eb25c6"
+        },
+        {
+            "id": "ed33eec5-292f-c087-4824-91ce3dd6efb5",
+            "worldPosition": {
+                "x": 8234.0205078125,
+                "y": 3824.18798828125,
+                "z": 154.21060180664063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c6d1a5ed-d62e-10ea-d79f-6c70689e597a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_ed33eec5292fc087482491ce3dd6efb5",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:d6efb5"
+        },
+        {
+            "id": "55efaa47-79ab-595d-a87c-fd410038750a",
+            "worldPosition": {
+                "x": 8193.9716796875,
+                "y": 3480.576904296875,
+                "z": 107.50900268554688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a116b959-8b77-bdbf-352d-d90928e5f870",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\MasterNpc_SwapHidden_Spawner_55efaa4779ab595da87cfd410038750a",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:38750a"
+        },
+        {
+            "id": "54d7cbba-65ca-9f1e-cb1e-7e8b07b638dd",
+            "worldPosition": {
+                "x": 8383.9013671875,
+                "y": 3205.26220703125,
+                "z": 52.01206970214844
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4067365825176239,
+                "w": 0.9135454893112183
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5590d572-2646-d950-4fa2-3d14cb6891f3",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_WoodpileB_00_54d7cbba65ca9f1ecb1e7e8b07b638dd",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:b638dd",
             "params": {
-                "HAS_VEG_COMPONENTS": "1"
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
-            "id": "bacdbaba-6fe5-cf50-954c-bbd6c7264da6",
+            "id": "cfd205db-9015-5182-c570-4fab1e4ac0d7",
             "worldPosition": {
-                "x": 8335.25,
-                "y": 3964.423828125,
-                "z": 191.75088500976563
+                "x": 8702.4091796875,
+                "y": 3365.340087890625,
+                "z": 73.43434143066406
+            },
+            "rotation": {
+                "x": -0.12529847025871278,
+                "y": 0.007126868236809969,
+                "z": 0.9882068634033203,
+                "w": -0.08773098140954972
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5ba79d4d-a94d-9c33-5650-bf69ffc5899c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\SwapSlice_Lore_HouseofGiacomo_Title_01_02_cfd205db90155182c5704fab1e4ac0d7",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:4ac0d7",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "5e53d4fa-9498-14e0-7370-a7aeebbead36",
+            "worldPosition": {
+                "x": 8305.28125,
+                "y": 2993.40673828125,
+                "z": 57.16901397705078
+            },
+            "rotation": {
+                "x": -0.049307823181152347,
+                "y": -0.14387787878513337,
+                "z": -0.6946474313735962,
+                "w": 0.7030880451202393
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "9dec49bd-8fc7-5528-a309-56e27d887acc",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\SwapSlice_Lore_HouseofGiacomo_Title_01_02_5e53d4fa949814e07370a7aeebbead36",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:bead36",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "75ad425d-5fb1-dfbf-af48-ee8caf055a56",
+            "worldPosition": {
+                "x": 8379.232421875,
+                "y": 3202.603515625,
+                "z": 51.867000579833987
             },
             "rotation": {
                 "x": 0.0,
@@ -188,807 +364,7 @@
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "7e43bb35-4bad-a7b5-1626-cebd7b47ba0e",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_bacdbaba6fe5cf50954cbbd6c7264da6",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:264da6",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e5b78c0e-cfb6-843f-2355-67cdf18e849d",
-            "worldPosition": {
-                "x": 8351.0927734375,
-                "y": 3965.142822265625,
-                "z": 195.9056854248047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.05233593285083771,
-                "w": 0.9986295104026794
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "338aa93f-8349-1e34-7b67-14b07364746e",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_e5b78c0ecfb6843f235567cdf18e849d",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:8e849d",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e3242e36-d91c-2383-43b7-824ed7489232",
-            "worldPosition": {
-                "x": 8541.6396484375,
-                "y": 3498.3828125,
-                "z": 110.81807708740235
-            },
-            "rotation": {
-                "x": -0.010017519816756249,
-                "y": -0.024184362962841989,
-                "z": 0.9584912061691284,
-                "w": 0.28391799330711367
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "e58af5bd-ba5a-daec-b38a-4ff55832f5bb",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_e3242e36d91c238343b7824ed7489232",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:489232",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "186fb965-be0c-9301-1488-a2876f7fe430",
-            "worldPosition": {
-                "x": 8476.962890625,
-                "y": 3563.897216796875,
-                "z": 135.30438232421876
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7547094821929932,
-                "w": 0.6560591459274292
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "295fccdf-a8e4-c687-f140-451f52ee2de4",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_186fb965be0c93011488a2876f7fe430",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:7fe430",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "b25d8523-ea6d-c43e-1f05-2d37d8725add",
-            "worldPosition": {
-                "x": 8357.0068359375,
-                "y": 4008.072265625,
-                "z": 191.9324493408203
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7132502198219299,
-                "w": 0.7009094953536987
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "fd50988a-9e54-312e-fc61-9c92d738f8a5",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_b25d8523ea6dc43e1f052d37d8725add",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:725add",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "96d05f4d-b05b-d805-5777-2677a769ec83",
-            "worldPosition": {
-                "x": 8289.4765625,
-                "y": 4036.1630859375,
-                "z": 190.6041259765625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.2840152978897095,
-                "w": 0.9588198065757752
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ed250b51-446c-e43f-6ab1-76bdcfed4b31",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_96d05f4db05bd80557772677a769ec83",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:69ec83",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f299551f-a66f-1e12-e36c-252a4be40a66",
-            "worldPosition": {
-                "x": 8507.0732421875,
-                "y": 3515.27734375,
-                "z": 123.51288604736328
-            },
-            "rotation": {
-                "x": 0.013677411712706089,
-                "y": -0.022319553419947625,
-                "z": 0.333692342042923,
-                "w": 0.9423184990882874
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a7fb6fa3-cbd8-8e8a-ae47-c7dfb1be3f5f",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_f299551fa66f1e12e36c252a4be40a66",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:e40a66",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "eefac4aa-2ac9-0dfa-31c5-3e5748fd09e8",
-            "worldPosition": {
-                "x": 8373.1171875,
-                "y": 3647.2529296875,
-                "z": 169.36041259765626
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.2672382891178131,
-                "w": 0.9636304974555969
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "f46623c0-604a-da2f-151b-ef7ca60c68a6",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_eefac4aa2ac90dfa31c53e5748fd09e8",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:fd09e8",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a2cc1f78-6151-a2e4-7b18-342150ec0b75",
-            "worldPosition": {
-                "x": 8428.3583984375,
-                "y": 3633.450927734375,
-                "z": 157.56565856933595
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.2840152084827423,
-                "w": 0.9588198065757752
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d602afaa-db35-89ae-76c5-f451caac9db5",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_a2cc1f786151a2e47b18342150ec0b75",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:ec0b75",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "fb80a2df-bb5e-7664-da86-f4ac0e030926",
-            "worldPosition": {
-                "x": 8372.287109375,
-                "y": 3659.234375,
-                "z": 169.0992889404297
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.5,
-                "w": 0.8660253882408142
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "7487cd75-d8e4-5f2c-6fc5-56067dc35bce",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_fb80a2dfbb5e7664da86f4ac0e030926",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:30926",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c02b9f2a-c422-e5d6-bbb7-78a174740481",
-            "worldPosition": {
-                "x": 8382.1474609375,
-                "y": 3638.169677734375,
-                "z": 168.23782348632813
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.25037986040115359,
-                "w": 0.9681476950645447
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8f50df3f-01c5-9203-fcb1-3d23c4293982",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_c02b9f2ac422e5d6bbb778a174740481",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:740481",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "5be3b738-5fbe-2c14-cee8-393e92a843a9",
-            "worldPosition": {
-                "x": 8402.99609375,
-                "y": 3634.76318359375,
-                "z": 164.48675537109376
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9612616300582886,
-                "w": -0.27563759684562685
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a8710e07-0f1f-7e48-2fae-ca0fc1ebb868",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_5be3b7385fbe2c14cee8393e92a843a9",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:a843a9",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "7eb6352b-e830-40f7-b8f4-4c95cbb52489",
-            "worldPosition": {
-                "x": 8257.912109375,
-                "y": 3813.666015625,
-                "z": 145.1078643798828
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.04361932352185249,
-                "w": 0.9990482330322266
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "80634f4d-7653-382a-601e-b772a71fb42f",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_7eb6352be83040f7b8f44c95cbb52489",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:b52489",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a46017dc-6965-caa2-ef61-45350df8423d",
-            "worldPosition": {
-                "x": 8259.765625,
-                "y": 3804.0810546875,
-                "z": 146.87002563476563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d61627c6-3bb6-ad8b-0d7c-c89bc8860d5a",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_a46017dc6965caa2ef6145350df8423d",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:f8423d",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "8e81dcbb-f860-a187-f5d4-61e034166a1c",
-            "worldPosition": {
-                "x": 8354.8251953125,
-                "y": 3951.50244140625,
-                "z": 191.99411010742188
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9975640773773193,
-                "w": -0.06975648552179337
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "d99e9a5e-9188-5b39-08e9-5a335ba33b0f",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_8e81dcbbf860a187f5d461e034166a1c",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:166a1c",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "3717a2c4-6164-d8ca-7813-5cf8dcac9912",
-            "worldPosition": {
-                "x": 8249.2509765625,
-                "y": 3831.398193359375,
-                "z": 145.81515502929688
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": 1.9470718370939722e-7
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "146c5bbd-3930-187b-ea58-4bc9b8b5f116",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_3717a2c46164d8ca78135cf8dcac9912",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:ac9912",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "27e89d71-456a-d35c-f246-385d98e4217f",
-            "worldPosition": {
-                "x": 8241.4130859375,
-                "y": 3842.6015625,
-                "z": 149.91583251953126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "1e2f2eb4-f943-89c3-8935-5fbb96d01ddc",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_27e89d71456ad35cf246385d98e4217f",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:e4217f",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "98cab543-e745-848b-06ae-327ac8c5074c",
-            "worldPosition": {
-                "x": 8356.9697265625,
-                "y": 4026.1240234375,
-                "z": 190.94297790527345
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7009094953536987,
-                "w": 0.7132502198219299
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8f4b0da4-2867-8765-63ec-72acb287f95d",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_98cab543e745848b6ae327ac8c5074c",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:c5074c",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "ee8ea712-08c0-70a7-5c88-882f126e89c4",
-            "worldPosition": {
-                "x": 8340.828125,
-                "y": 3685.2978515625,
-                "z": 167.06504821777345
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.2503798305988312,
-                "w": 0.9681476950645447
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "25258266-6a90-9a4b-cf70-3f4f2a170c84",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_ee8ea71208c070a75c88882f126e89c4",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:6e89c4",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "0cc097da-2199-ebfb-b8b1-487f60fbced0",
-            "worldPosition": {
-                "x": 8456.96875,
-                "y": 3430.366455078125,
-                "z": 95.72248077392578
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.20791159570217133,
-                "w": 0.9781476259231567
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a82d8a7b-2afa-a85a-799e-7129c0ce73b4",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_0cc097da2199ebfbb8b1487f60fbced0",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:fbced0",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "442464b5-859b-76d0-025e-846c165f511b",
-            "worldPosition": {
-                "x": 8464.0439453125,
-                "y": 3505.715087890625,
-                "z": 122.38681030273438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1218692809343338,
-                "w": 0.9925461411476135
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "cd4ae529-12fe-8e07-1ba4-680c1c91ed68",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_442464b5859b76d025e846c165f511b",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:5f511b",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "773fd5b4-71e2-8559-1786-69af61505108",
-            "worldPosition": {
-                "x": 8330.6884765625,
-                "y": 4026.800048828125,
-                "z": 190.2452392578125
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9876883029937744,
-                "w": 0.15643471479415894
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "5e63c195-4e3e-eeae-2c38-16e533b8ad32",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_773fd5b471e28559178669af61505108",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:505108",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e8500050-c6b7-de5c-2367-803ab3ec81da",
-            "worldPosition": {
-                "x": 8418.140625,
-                "y": 3639.9306640625,
-                "z": 164.2066192626953
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8746196627616882,
-                "w": 0.4848097264766693
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a2d64596-554d-6897-4211-e9e149c26093",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_e8500050c6b7de5c2367803ab3ec81da",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:ec81da",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e319286d-35a8-d7b3-a77c-ca003f2a9155",
-            "worldPosition": {
-                "x": 8256.228515625,
-                "y": 3850.158935546875,
-                "z": 145.6959991455078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6883544921875,
-                "w": 0.7253744602203369
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b46fe9a3-09f6-1591-2315-b71b8fd18665",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_e319286d35a8d7b3a77cca003f2a9155",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:2a9155",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c775bdff-1a54-6a54-a362-a84eb9ca3713",
-            "worldPosition": {
-                "x": 8358.7548828125,
-                "y": 3648.609130859375,
-                "z": 168.00018310546876
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1478094458580017,
-                "w": 0.9890158772468567
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "87c7206f-03fd-8ebf-4918-8319861119af",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_c775bdff1a546a54a362a84eb9ca3713",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:ca3713",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "76d5d319-809b-4155-46da-f995a2a7be08",
-            "worldPosition": {
-                "x": 8355.134765625,
-                "y": 3976.97216796875,
-                "z": 194.46202087402345
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "48b0c78e-aa8f-0a16-3ba5-50d6088a0ac1",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_76d5d319809b415546daf995a2a7be08",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:a7be08",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c2ad24d1-6385-a117-f36c-6c9a95e9a638",
-            "worldPosition": {
-                "x": 8337.119140625,
-                "y": 3985.129150390625,
-                "z": 192.0526580810547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7193397283554077,
-                "w": 0.6946584582328796
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "3359315e-0085-753e-1f9f-a33e7f775399",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_c2ad24d16385a117f36c6c9a95e9a638",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:e9a638",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "63d0af7a-57ca-8425-4bb1-8bfca5663013",
-            "worldPosition": {
-                "x": 8311.8779296875,
-                "y": 4060.37939453125,
-                "z": 186.49729919433595
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9993908405303955,
-                "w": 0.03489937633275986
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "601bf515-0a52-4348-6ad1-c3a438d9e398",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_63d0af7a57ca84254bb18bfca5663013",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:663013",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "81c30f3e-85a5-0c44-29ad-70f985e32242",
-            "worldPosition": {
-                "x": 8385.701171875,
-                "y": 3660.902099609375,
-                "z": 170.1873016357422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8660253882408142,
-                "w": 0.5000000596046448
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "5e37698a-084c-5d33-677c-7e3264afb2bf",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_81c30f3e85a50c4429ad70f985e32242",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:e32242",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9a2c0bfc-9966-468b-6ed6-581150025602",
-            "worldPosition": {
-                "x": 8470.40625,
-                "y": 3528.260009765625,
-                "z": 129.81800842285157
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7604060173034668,
-                "w": 0.649448037147522
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "3577b206-1fea-bcf0-a5ef-78980faa256d",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_9a2c0bfc9966468b6ed6581150025602",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:25602",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "980efd1f-fb5c-628a-5419-401a8c45fc06",
-            "worldPosition": {
-                "x": 8284.8427734375,
-                "y": 3793.1591796875,
-                "z": 146.70591735839845
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6691305041313171,
-                "w": 0.7431449294090271
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c12daffd-2933-8dab-5c07-e15992031109",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_980efd1ffb5c628a5419401a8c45fc06",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:45fc06",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "983d1273-2a2a-da82-ece4-1b1c4d942b29",
-            "worldPosition": {
-                "x": 8471.63671875,
-                "y": 3461.617431640625,
-                "z": 102.28296661376953
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9681476354598999,
-                "w": 0.2503799796104431
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "89bb8b69-29c4-4a58-644a-2affd5ff34be",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_WorldEvent_MSQ_0008_ClearingVines_983d12732a2ada82ece41b1c4d942b29",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:942b29",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "af0ec1da-8036-77ef-f8f8-263f32b672a8",
-            "worldPosition": {
-                "x": 8375.9775390625,
-                "y": 3208.81298828125,
-                "z": 52.78196716308594
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "ae84d7ae-3fca-6fee-ff42-0191e9d1a164",
+                "id": "4cfa26f0-ea6e-a2f7-0cc2-3cea0c12c853",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -1024,11 +400,11 @@
             }
         },
         {
-            "id": "75ad425d-5fb1-dfbf-af48-ee8caf055a56",
+            "id": "af0ec1da-8036-77ef-f8f8-263f32b672a8",
             "worldPosition": {
-                "x": 8379.232421875,
-                "y": 3202.603515625,
-                "z": 51.867000579833987
+                "x": 8375.9775390625,
+                "y": 3208.81298828125,
+                "z": 52.78196716308594
             },
             "rotation": {
                 "x": 0.0,
@@ -1038,7 +414,7 @@
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "4cfa26f0-ea6e-a2f7-0cc2-3cea0c12c853",
+                "id": "ae84d7ae-3fca-6fee-ff42-0191e9d1a164",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -1046,6 +422,31 @@
             "sliceAssetId": "{411CF82E-3470-540C-B50A-AD2A0B1EBE1B}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "aff22e89-4231-f480-0364-6b074c236f90",
+            "worldPosition": {
+                "x": 9021.111328125,
+                "y": 2764.955810546875,
+                "z": 69.86819458007813
+            },
+            "rotation": {
+                "x": -0.1387389451265335,
+                "y": -0.0005329754203557968,
+                "z": -3.581778571515315e-7,
+                "w": 0.990328848361969
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b8264ede-40fa-6960-8f03-c3dd57ca6cb0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_Prop_1225_CampfireProp_FL_aff22e894231f4803646b074c236f90",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:236f90",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
@@ -1099,56 +500,6 @@
             }
         },
         {
-            "id": "3bca3f85-132d-01cc-9932-455a100252ce",
-            "worldPosition": {
-                "x": 8702.099609375,
-                "y": 3365.318115234375,
-                "z": 73.34443664550781
-            },
-            "rotation": {
-                "x": 0.043657250702381137,
-                "y": -0.0003244714462198317,
-                "z": 5.219109588949777e-9,
-                "w": 0.9990465044975281
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "14e16544-9d6d-ac45-e565-ac74c9b9c25f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_Prop_1225_CampfireProp_FL_3bca3f85132d01cc9932455a100252ce",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:252ce",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "aff22e89-4231-f480-0364-6b074c236f90",
-            "worldPosition": {
-                "x": 9021.111328125,
-                "y": 2764.955810546875,
-                "z": 69.86819458007813
-            },
-            "rotation": {
-                "x": -0.1387389451265335,
-                "y": -0.0005329754203557968,
-                "z": -3.581778571515315e-7,
-                "w": 0.990328848361969
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b8264ede-40fa-6960-8f03-c3dd57ca6cb0",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_Prop_1225_CampfireProp_FL_aff22e894231f4803646b074c236f90",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:236f90",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
             "id": "e790a62f-f809-488d-1ffa-f1f2793e9e86",
             "worldPosition": {
                 "x": 8831.7890625,
@@ -1156,9 +507,9 @@
                 "z": 93.79210662841797
             },
             "rotation": {
-                "x": 0.11298072338104248,
-                "y": 0.06278201937675476,
-                "z": -5.780781293651671e-7,
+                "x": 0.11298070847988129,
+                "y": 0.06278204172849655,
+                "z": -5.761996817454929e-7,
                 "w": 0.9916117191314697
             },
             "footprint": {
@@ -1174,7 +525,95 @@
             }
         },
         {
-            "id": "291e6367-eb63-2a84-2efa-5fb60f782da9",
+            "id": "3bca3f85-132d-01cc-9932-455a100252ce",
+            "worldPosition": {
+                "x": 8702.099609375,
+                "y": 3365.318115234375,
+                "z": 73.34443664550781
+            },
+            "rotation": {
+                "x": 0.043657250702381137,
+                "y": -0.0003244714462198317,
+                "z": 5.258255164619641e-9,
+                "w": 0.9990465044975281
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "14e16544-9d6d-ac45-e565-ac74c9b9c25f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_Prop_1225_CampfireProp_FL_3bca3f85132d01cc9932455a100252ce",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:252ce",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "dfad9c55-99ea-a14f-5396-1b16903dc5e0",
+            "worldPosition": {
+                "x": 9287.0,
+                "y": 3189.0,
+                "z": 91.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7009094953536987,
+                "w": 0.7132502198219299
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "eae49e86-9c50-0c86-6b97-4013096f4a26",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Cinematics_Banner_Master_dfad9c5599eaa14f53961b16903dc5e0",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:3dc5e0"
+        },
+        {
+            "id": "4f50e4d3-5fe7-d442-fd03-05c60c0b9865",
+            "worldPosition": {
+                "x": 8550.3505859375,
+                "y": 3262.983642578125,
+                "z": 50.94194030761719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c91538af-e76d-9317-b290-4b5b1b1b1441",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Cinematics_Banner_Master_4f50e4d35fe7d442fd0305c60c0b9865",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:b9865"
+        },
+        {
+            "id": "40856854-3fad-49b1-aacf-3c0a8abe6bdc",
+            "worldPosition": {
+                "x": 8203.1484375,
+                "y": 3481.5380859375,
+                "z": 106.68499755859375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7f74c0a4-7ac4-fcfc-d1a2-59c27e9e31cb",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\MasterNpc_SwapShown_Spawner_408568543fad49b1aacf3c0a8abe6bdc",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:be6bdc"
+        },
+        {
+            "id": "ec7d0081-023c-d438-7559-041cd9a555d0",
             "worldPosition": {
                 "x": 8387.8359375,
                 "y": 3208.4501953125,
@@ -1188,188 +627,60 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "fc9e0ac3-25b1-deb7-591c-b5f9ea0ccdd9",
+                "id": "7306da3a-ec1a-a58f-ab2b-326c512fe88a",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_TravelerA_Stage0_291e6367eb632a842efa5fb60f782da9",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:782da9",
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_TravelerA_Stage3_ec7d0081023cd4387559041cd9a555d0",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:a555d0",
             "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
+                "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "aadd5b97-3cbd-0544-d2fe-e8be72ebe79c",
+            "id": "a530db76-c3f9-aa19-c2f6-c5915b9034e8",
             "worldPosition": {
-                "x": 8351.068359375,
-                "y": 3965.196533203125,
-                "z": 195.91229248046876
+                "x": 8395.69140625,
+                "y": 3613.931396484375,
+                "z": 162.173095703125
             },
             "rotation": {
-                "x": -0.029748963192105295,
-                "y": 0.6813492178916931,
-                "z": 0.7311030626296997,
-                "w": -0.019144656136631967
-            },
-            "scale": 1.3999998569488526,
-            "footprint": {
-                "type": "Circle",
-                "id": "5475782b-05af-41cb-a604-3c4b56509687",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/MainStoryQuest/Lore_99_MSQ_AncientPlaque_01_Swapped",
-            "sliceAssetId": "{B29F7CED-669C-5816-8123-B64808D226E4}:2"
-        },
-        {
-            "id": "bfb9dd9f-e5bb-b9a5-2164-b0c7e1775ea7",
-            "worldPosition": {
-                "x": 8280.1591796875,
-                "y": 3799.395263671875,
-                "z": 142.50318908691407
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.005470654461532831,
+                "y": 0.10438543558120728,
+                "z": -0.5561305284500122,
+                "w": 0.8244953751564026
             },
             "footprint": {
-                "type": "Circle",
-                "id": "6a71369d-1753-180f-8458-6032c1bd7374",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "0e89597a-19ff-15cd-8469-4f5e89d5ffcb",
+                "width": 1.0,
+                "height": 8.0
             },
-            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_bfb9dd9fe5bbb9a52164b0c7e1775ea7",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:775ea7"
-        },
-        {
-            "id": "ed33eec5-292f-c087-4824-91ce3dd6efb5",
-            "worldPosition": {
-                "x": 8234.0205078125,
-                "y": 3824.18798828125,
-                "z": 154.21060180664063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c6d1a5ed-d62e-10ea-d79f-6c70689e597a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_ed33eec5292fc087482491ce3dd6efb5",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:d6efb5"
-        },
-        {
-            "id": "25dfaf2a-005c-b63f-e5a3-6c0a6c8a2dd1",
-            "worldPosition": {
-                "x": 8245.6240234375,
-                "y": 3854.52099609375,
-                "z": 149.98960876464845
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0861c667-62c0-59f8-0d35-8d3847aef7ad",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_25dfaf2a005cb63fe5a36c0a6c8a2dd1",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:8a2dd1"
-        },
-        {
-            "id": "1500b702-b639-0a03-6f42-5ce88beb25c6",
-            "worldPosition": {
-                "x": 8245.1748046875,
-                "y": 3792.685791015625,
-                "z": 153.44894409179688
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "efa711ec-7dd0-f6d3-1211-bd4a0a160c88",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_1500b702b6390a036f425ce88beb25c6",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:eb25c6"
-        },
-        {
-            "id": "221b6b95-c4f6-c790-31ad-927c6b7ae938",
-            "worldPosition": {
-                "x": 8275.9931640625,
-                "y": 3837.82958984375,
-                "z": 142.12591552734376
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b2e6c59e-a195-8250-7509-f3ca5d2c228a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Trigger_Volume_Sphere_Test_221b6b95c4f6c79031ad927c6b7ae938",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:7ae938"
-        },
-        {
-            "id": "5e53d4fa-9498-14e0-7370-a7aeebbead36",
-            "worldPosition": {
-                "x": 8305.28125,
-                "y": 2993.40673828125,
-                "z": 57.16901397705078
-            },
-            "rotation": {
-                "x": -0.049307823181152347,
-                "y": -0.14387787878513337,
-                "z": -0.6946474313735962,
-                "w": 0.7030880451202393
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "9dec49bd-8fc7-5528-a309-56e27d887acc",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\SwapSlice_Lore_HouseofGiacomo_Title_01_02_5e53d4fa949814e07370a7aeebbead36",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:bead36",
+            "sliceName": "CoatGen\\19c67e7b\\Roadside_abnd_campsite_chason_steep_a530db76c3f9aa19c2f6c5915b9034e8",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:9034e8",
             "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
+                "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "cfd205db-9015-5182-c570-4fab1e4ac0d7",
+            "id": "6ca2f8c7-3e95-c296-a75a-eb0f0e688add",
             "worldPosition": {
-                "x": 8702.4091796875,
-                "y": 3365.340087890625,
-                "z": 73.43434143066406
+                "x": 8383.1064453125,
+                "y": 3215.70947265625,
+                "z": 53.14833068847656
             },
             "rotation": {
-                "x": -0.12529847025871278,
-                "y": 0.007126868236809969,
-                "z": 0.9882068634033203,
-                "w": -0.08773098140954972
+                "x": 0.06585109978914261,
+                "y": 0.0042093126103281979,
+                "z": 0.35758697986602785,
+                "w": 0.9315457344055176
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5ba79d4d-a94d-9c33-5650-bf69ffc5899c",
+                "id": "ac375f1c-de9e-34e0-e4f2-bfa61e3b84c1",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\19c67e7b\\SwapSlice_Lore_HouseofGiacomo_Title_01_02_cfd205db90155182c5704fab1e4ac0d7",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:4ac0d7",
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_WorkbenchC_00_6ca2f8c73e95c296a75aeb0f0e688add",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:688add",
             "params": {
                 "HAS_VEG_COMPONENTS": "1",
                 "HAS_WATER_COMPONENTS": "2"
@@ -1426,51 +737,32 @@
             }
         },
         {
-            "id": "0bc4efb5-ffd1-4747-415e-975e0729082d",
+            "id": "595ed959-9794-80ed-dc18-6f930edd26ea",
             "worldPosition": {
-                "x": 8385.6787109375,
-                "y": 3660.950927734375,
-                "z": 170.56817626953126
+                "x": 8392.5263671875,
+                "y": 3212.20703125,
+                "z": 51.96636199951172
             },
             "rotation": {
-                "x": 0.33677613735198977,
-                "y": 0.6202878952026367,
-                "z": -0.597497284412384,
-                "w": -0.38055452704429629
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9702957272529602,
+                "w": -0.24192187190055848
             },
-            "scale": 1.2000000476837159,
             "footprint": {
                 "type": "Circle",
-                "id": "e73835e7-1bb7-41e2-59e9-3b34f9b75cf3",
+                "id": "d8f16bd7-768f-54c1-ea50-9f96f3c59c10",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/MainStoryQuest/Lore_99_MSQ_AncientPlaque_03_Swapped",
-            "sliceAssetId": "{1BD73E43-AE6B-5FC1-ABD0-86BDA8D41A87}:2"
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_WorkbenchA_00_595ed959979480eddc186f930edd26ea",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:dd26ea",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
         },
         {
-            "id": "dfc98b84-c9bc-132b-520f-9b450a096e1e",
-            "worldPosition": {
-                "x": 8257.9541015625,
-                "y": 3813.75927734375,
-                "z": 145.49241638183595
-            },
-            "rotation": {
-                "x": -0.7125715613365173,
-                "y": -0.030573327094316484,
-                "z": 0.03111165761947632,
-                "w": 0.7002421617507935
-            },
-            "scale": 1.2000000476837159,
-            "footprint": {
-                "type": "Circle",
-                "id": "d236f337-593e-088f-4d67-1e416046a28a",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/MainStoryQuest/Lore_99_MSQ_AncientPlaque_02_Swapped",
-            "sliceAssetId": "{6558AB87-334C-56A0-B4DF-053C8F68FC40}:2"
-        },
-        {
-            "id": "1852d946-d9a9-2f00-7926-0a2e79eca9fb",
+            "id": "291e6367-eb63-2a84-2efa-5fb60f782da9",
             "worldPosition": {
                 "x": 8387.8359375,
                 "y": 3208.4501953125,
@@ -1484,13 +776,14 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "75cb2413-41e7-7c5b-b708-cd9547b17b1b",
+                "id": "fc9e0ac3-25b1-deb7-591c-b5f9ea0ccdd9",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_TravelerA_Stage1_1852d946d9a92f0079260a2e79eca9fb",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:eca9fb",
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_TravelerA_Stage0_291e6367eb632a842efa5fb60f782da9",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:782da9",
             "params": {
-                "HAS_VEG_COMPONENTS": "1"
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
             }
         },
         {
@@ -1501,8 +794,8 @@
                 "z": 52.641815185546878
             },
             "rotation": {
-                "x": 0.005424841307103634,
-                "y": 0.08726833760738373,
+                "x": 0.005424832925200462,
+                "y": 0.08726828545331955,
                 "z": -0.740298867225647,
                 "w": 0.6665676832199097
             },
@@ -1516,227 +809,6 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1",
                 "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "a530db76-c3f9-aa19-c2f6-c5915b9034e8",
-            "worldPosition": {
-                "x": 8395.69140625,
-                "y": 3613.931396484375,
-                "z": 162.173095703125
-            },
-            "rotation": {
-                "x": 0.005470686126500368,
-                "y": 0.10438545793294907,
-                "z": -0.556130051612854,
-                "w": 0.8244956731796265
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "0e89597a-19ff-15cd-8469-4f5e89d5ffcb",
-                "width": 1.0,
-                "height": 8.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Roadside_abnd_campsite_chason_steep_a530db76c3f9aa19c2f6c5915b9034e8",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:9034e8",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "6ca2f8c7-3e95-c296-a75a-eb0f0e688add",
-            "worldPosition": {
-                "x": 8383.1064453125,
-                "y": 3215.70947265625,
-                "z": 53.14833068847656
-            },
-            "rotation": {
-                "x": 0.06585109978914261,
-                "y": 0.0042093126103281979,
-                "z": 0.35758697986602785,
-                "w": 0.9315457344055176
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ac375f1c-de9e-34e0-e4f2-bfa61e3b84c1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_WorkbenchC_00_6ca2f8c73e95c296a75aeb0f0e688add",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:688add",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "63bc9998-4bf6-743a-7611-18381eb8a7dc",
-            "worldPosition": {
-                "x": 8378.29296875,
-                "y": 3212.460205078125,
-                "z": 52.838932037353519
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4226181209087372,
-                "w": 0.9063078761100769
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2d3d5aca-5d12-ac46-2c7c-b07df968b433",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Roadside_Sanct_woodpile_A_63bc99984bf6743a761118381eb8a7dc",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:b8a7dc",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "54d7cbba-65ca-9f1e-cb1e-7e8b07b638dd",
-            "worldPosition": {
-                "x": 8383.9013671875,
-                "y": 3205.26220703125,
-                "z": 52.01206970214844
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4067365825176239,
-                "w": 0.9135454893112183
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5590d572-2646-d950-4fa2-3d14cb6891f3",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_WoodpileB_00_54d7cbba65ca9f1ecb1e7e8b07b638dd",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:b638dd",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "5fa4e737-9dd5-63e9-0ad4-6dc72fba41ff",
-            "worldPosition": {
-                "x": 8385.78125,
-                "y": 3661.00732421875,
-                "z": 170.40940856933595
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 1.0000001192092896,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "0e648ea4-a12d-a85d-7fc6-51f6fac3f204",
-                "width": 1.6200000047683716,
-                "height": 0.10000000149011612
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Ancient_Stone_Wall_Plaque_D_5fa4e7379dd563e9ad46dc72fba41ff",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:ba41ff",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "ec7d0081-023c-d438-7559-041cd9a555d0",
-            "worldPosition": {
-                "x": 8387.8359375,
-                "y": 3208.4501953125,
-                "z": 51.83495330810547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9063078165054321,
-                "w": 0.42261818051338198
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7306da3a-ec1a-a58f-ab2b-326c512fe88a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_TravelerA_Stage3_ec7d0081023cd4387559041cd9a555d0",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:a555d0",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9b1253fe-8559-389c-dd2c-779793193fdd",
-            "worldPosition": {
-                "x": 8257.931640625,
-                "y": 3813.567626953125,
-                "z": 145.33721923828126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b54302eb-6d85-4973-3786-792596fbd78e",
-                "width": 1.6200000047683716,
-                "height": 0.10000000149011612
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Ancient_Stone_Wall_Plaque_C_9b1253fe8559389cdd2c779793193fdd",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:193fdd",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "7d75ca35-484a-bae9-b9bc-4b99fbf64a94",
-            "worldPosition": {
-                "x": 8242.435546875,
-                "y": 3848.478271484375,
-                "z": 150.47152709960938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.258819043636322,
-                "w": 0.9659258127212524
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f76836ab-f6ec-c35c-e749-5fd5fa7c9760",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_AnonymousManuscripts0310",
-            "sliceAssetId": "{99DEF4C1-DDE3-5646-904E-10787ED5BBB2}:2"
-        },
-        {
-            "id": "e9e1b242-b533-e450-45f7-c77fd38809a6",
-            "worldPosition": {
-                "x": 8351.1181640625,
-                "y": 3965.0712890625,
-                "z": 196.10325622558595
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "scale": 0.9999998211860657,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "f1008161-c691-2ec7-5321-8b9dc37e4f86",
-                "width": 1.6200000047683716,
-                "height": 0.10000000149011612
-            },
-            "sliceName": "CoatGen\\19c67e7b\\Ancient_Stone_Wall_Plaque_B_e9e1b242b533e45045f7c77fd38809a6",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:8809a6",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
@@ -1764,36 +836,59 @@
             }
         },
         {
-            "id": "595ed959-9794-80ed-dc18-6f930edd26ea",
+            "id": "1852d946-d9a9-2f00-7926-0a2e79eca9fb",
             "worldPosition": {
-                "x": 8392.5263671875,
-                "y": 3212.20703125,
-                "z": 51.96636199951172
+                "x": 8387.8359375,
+                "y": 3208.4501953125,
+                "z": 51.83495330810547
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.9702957272529602,
-                "w": -0.24192187190055848
+                "z": 0.9063078165054321,
+                "w": 0.42261818051338198
             },
             "footprint": {
                 "type": "Circle",
-                "id": "d8f16bd7-768f-54c1-ea50-9f96f3c59c10",
+                "id": "75cb2413-41e7-7c5b-b708-cd9547b17b1b",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_WorkbenchA_00_595ed959979480eddc186f930edd26ea",
-            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:dd26ea",
+            "sliceName": "CoatGen\\19c67e7b\\IO_SwapSlice_1225_TravelerA_Stage1_1852d946d9a92f0079260a2e79eca9fb",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:eca9fb",
             "params": {
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
+                "HAS_VEG_COMPONENTS": "1"
             }
         },
         {
-            "id": "6e5903e5-f6a3-86b3-5590-99223af6a0a9",
+            "id": "63bc9998-4bf6-743a-7611-18381eb8a7dc",
             "worldPosition": {
-                "x": 8506.849609375,
-                "y": 3273.501220703125,
-                "z": 52.192405700683597
+                "x": 8378.29296875,
+                "y": 3212.460205078125,
+                "z": 52.838932037353519
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4226181209087372,
+                "w": 0.9063078761100769
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2d3d5aca-5d12-ac46-2c7c-b07df968b433",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\19c67e7b\\Roadside_Sanct_woodpile_A_63bc99984bf6743a761118381eb8a7dc",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:b8a7dc",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "444c6582-7d2c-19d8-7789-4d8bcb9af30e",
+            "worldPosition": {
+                "x": 8194.951171875,
+                "y": 3491.394775390625,
+                "z": 108.56216430664063
             },
             "rotation": {
                 "x": 0.0,
@@ -1803,32 +898,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "6508b3e7-719b-e48a-9787-66745bf261df",
+                "id": "b44e3d83-4ae3-55ae-6c31-296dca09d637",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_AnonymousManuscripts0307",
-            "sliceAssetId": "{2802C2CB-E645-5F8B-8D8F-55A3B189DC9E}:2"
-        },
-        {
-            "id": "e946131b-f40b-e8cf-b32e-18554bbd2b0b",
-            "worldPosition": {
-                "x": 8458.240234375,
-                "y": 3597.196533203125,
-                "z": 148.94969177246095
-            },
-            "rotation": {
-                "x": -0.0560772642493248,
-                "y": -0.012404951266944409,
-                "z": 0.0016029299004003406,
-                "w": 0.9983481168746948
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "371066bb-2bad-314c-a01b-a010930ab367",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_AnonymousManuscripts0309",
-            "sliceAssetId": "{E11A308F-34A4-5406-9DDF-AE31329EEB60}:2"
+            "sliceName": "CoatGen\\19c67e7b\\12_MonarchsBluffs_Title_20_02_444c65827d2c19d877894d8bcb9af30e",
+            "sliceAssetId": "{F916DD6F-3F41-5E8D-92D1-6BF713D5729E}:9af30e"
         }
     ]
 }
