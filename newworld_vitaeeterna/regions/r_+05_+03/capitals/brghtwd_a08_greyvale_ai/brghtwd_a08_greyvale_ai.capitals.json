@@ -1,6 +1,132 @@
 {
     "Capitals": [
         {
+            "id": "59ffa692-b689-2e41-c70c-ce44117aeaff",
+            "worldPosition": {
+                "x": 10543.0,
+                "y": 6395.0,
+                "z": 296.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "039aa88d-1022-33cf-d88a-811b557c2607",
+                "radius": 5.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_5m",
+            "sliceAssetId": "{C472F5E5-E222-5D7C-86DE-91B86C6CCD03}:2"
+        },
+        {
+            "id": "c011045a-11bc-c0b9-7f5e-c675cfb79691",
+            "worldPosition": {
+                "x": 10258.9248046875,
+                "y": 6396.4169921875,
+                "z": 271.1519775390625
+            },
+            "rotation": {
+                "x": -0.046964049339294437,
+                "y": 0.013107514008879662,
+                "z": -0.721153736114502,
+                "w": 0.691057026386261
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "037a2784-f877-2e17-325e-30fa825f32b9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\193cca39\\PointSpawner_Bear_Black_Patrol_10m_c011045a11bcc0b97f5ec675cfb79691",
+            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:b79691"
+        },
+        {
+            "id": "98439633-b3df-f1fe-d2ad-6bbae91bb8fd",
+            "worldPosition": {
+                "x": 10341.5029296875,
+                "y": 6388.96923828125,
+                "z": 289.8118896484375
+            },
+            "rotation": {
+                "x": -0.046964045614004138,
+                "y": 0.01310750748962164,
+                "z": -0.721153736114502,
+                "w": 0.691057026386261
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0bd905da-a1fe-6563-7bc9-483cb8f32314",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\193cca39\\PointSpawner_Bear_Black_Patrol_10m_98439633b3dff1fed2ad6bbae91bb8fd",
+            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:1bb8fd"
+        },
+        {
+            "id": "e64edc88-d50e-a776-f797-62c1f98ff09f",
+            "worldPosition": {
+                "x": 10298.2119140625,
+                "y": 6352.76904296875,
+                "z": 271.8250427246094
+            },
+            "rotation": {
+                "x": -0.046964049339294437,
+                "y": 0.013107514008879662,
+                "z": -0.721153736114502,
+                "w": 0.691057026386261
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bb46447f-9678-c592-c305-182b5f4ff9ea",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\193cca39\\PointSpawner_Bear_Black_Patrol_10m_e64edc88d50ea776f79762c1f98ff09f",
+            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:8ff09f"
+        },
+        {
+            "id": "c9fd8dce-b303-0536-cc1a-a7c2d90b8c1a",
+            "worldPosition": {
+                "x": 10264.2919921875,
+                "y": 6289.05322265625,
+                "z": 272.40081787109377
+            },
+            "rotation": {
+                "x": -0.046964049339294437,
+                "y": 0.013107514008879662,
+                "z": -0.721153736114502,
+                "w": 0.691057026386261
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "40c70a44-1b53-a658-b0f1-d01ca14c8dbb",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\193cca39\\PointSpawner_Bear_Black_Patrol_10m_c9fd8dceb3030536cc1aa7c2d90b8c1a",
+            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:b8c1a"
+        },
+        {
+            "id": "d71d07da-f612-921e-b206-dac911e2429c",
+            "worldPosition": {
+                "x": 10540.9990234375,
+                "y": 6392.0,
+                "z": 295.9999694824219
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7492c4b5-d277-86b7-47e1-6862ec2c165d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\193cca39\\PointSpawner_Bear_Black_Patrol_10m_d71d07daf612921eb206dac911e2429c",
+            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:e2429c"
+        },
+        {
             "id": "2e709553-f1f0-66c4-c6c4-b4f7e2d0349b",
             "worldPosition": {
                 "x": 10548.3212890625,
@@ -25,27 +151,6 @@
             }
         },
         {
-            "id": "59ffa692-b689-2e41-c70c-ce44117aeaff",
-            "worldPosition": {
-                "x": 10543.0,
-                "y": 6395.0,
-                "z": 296.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "039aa88d-1022-33cf-d88a-811b557c2607",
-                "radius": 5.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_5m",
-            "sliceAssetId": "{C472F5E5-E222-5D7C-86DE-91B86C6CCD03}:2"
-        },
-        {
             "id": "2d74dcdc-5e1e-a806-eee4-a6e1cab514a7",
             "worldPosition": {
                 "x": 10516.1572265625,
@@ -67,11 +172,11 @@
             "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:b514a7"
         },
         {
-            "id": "d71d07da-f612-921e-b206-dac911e2429c",
+            "id": "49f7a05f-b1f3-df2f-4f6b-9905e6bd5cf8",
             "worldPosition": {
-                "x": 10540.9990234375,
-                "y": 6392.0,
-                "z": 295.9999694824219
+                "x": 10326.0,
+                "y": 6346.0,
+                "z": 276.0
             },
             "rotation": {
                 "x": 0.0,
@@ -81,11 +186,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "7492c4b5-d277-86b7-47e1-6862ec2c165d",
-                "radius": 1.0
+                "id": "3297d331-8312-87d8-37cf-3c5f249d048f",
+                "radius": 0.0
             },
-            "sliceName": "CoatGen\\193cca39\\PointSpawner_Bear_Black_Patrol_10m_d71d07daf612921eb206dac911e2429c",
-            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:e2429c"
+            "sliceName": "CoatGen\\193cca39\\SpawnScalingBound_ConfigF_49f7a05fb1f3df2f4f6b9905e6bd5cf8",
+            "sliceAssetId": "{A7DF250B-4AC5-5071-AACD-20ACED513ECA}:bd5cf8"
         },
         {
             "id": "3054b89c-e0bf-43f2-fab8-2c9fea5f125e",
