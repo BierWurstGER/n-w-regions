@@ -1,6 +1,1322 @@
 {
     "Capitals": [
         {
+            "id": "f974f752-c123-d328-eccc-783ab18bb57e",
+            "worldPosition": {
+                "x": 6047.7197265625,
+                "y": 9777.5537109375,
+                "z": 319.5048828125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a0692967-d6a3-8d32-7bbf-b7f235646a0b",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldBoss/WorldBoss_Cookie_Footprint_Master",
+            "sliceAssetId": "{F391707C-6F83-5166-B097-9367AC7EA6D7}:2",
+            "cookie": {
+                "innerRadius": 12.0,
+                "outerRadius": 35.0,
+                "maxHeightBlend": 0.5,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.05000000074505806
+            }
+        },
+        {
+            "id": "4b865e79-bf0c-6602-8050-8e2ca633898f",
+            "worldPosition": {
+                "x": 4687.734375,
+                "y": 8659.06640625,
+                "z": 273.7312316894531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5c2541e9-53b5-60bb-7fe4-227ee72c8b05",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldBoss/WorldBoss_Cookie_Footprint_Master",
+            "sliceAssetId": "{F391707C-6F83-5166-B097-9367AC7EA6D7}:2",
+            "cookie": {
+                "innerRadius": 12.0,
+                "outerRadius": 35.0,
+                "maxHeightBlend": 0.5,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.05000000074505806
+            }
+        },
+        {
+            "id": "b0645d4e-d3ed-1889-993a-f6472cd7b913",
+            "worldPosition": {
+                "x": 4512.2060546875,
+                "y": 8654.609375,
+                "z": 281.56103515625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8191520571708679,
+                "w": 0.5735764503479004
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "4f0438b0-7177-6619-3c8e-d9504ef85c88",
+                "radius": 20.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\BlankSpace_A_b0645d4ed3ed1889993af6472cd7b913",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:d7b913"
+        },
+        {
+            "id": "83ca6c38-599a-58e0-f904-8085d06a8c6b",
+            "worldPosition": {
+                "x": 4967.50830078125,
+                "y": 9138.0595703125,
+                "z": 304.53472900390627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.04361953213810921,
+                "w": 0.9990481734275818
+            },
+            "scale": 1.3000000715255738,
+            "footprint": {
+                "type": "Circle",
+                "id": "5fdb506b-5c47-de14-fcc8-feaf0430ff06",
+                "radius": 20.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_30m",
+            "sliceAssetId": "{0056D011-1E5D-5049-9408-0DFE93D66A7E}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612
+            }
+        },
+        {
+            "id": "958b4707-0ce6-cd8b-07f1-6ac41a4f9f07",
+            "worldPosition": {
+                "x": 4940.60986328125,
+                "y": 9140.4130859375,
+                "z": 304.53472900390627
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.04361953213810921,
+                "w": 0.9990481734275818
+            },
+            "scale": 1.2999999523162842,
+            "footprint": {
+                "type": "Circle",
+                "id": "bdf4d790-6082-1726-aeef-0c13f5e0c75c",
+                "radius": 20.0
+            },
+            "sliceName": "slices/POIs/Test/BlankSpace_30m",
+            "sliceAssetId": "{0056D011-1E5D-5049-9408-0DFE93D66A7E}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612
+            }
+        },
+        {
+            "id": "e122f111-040d-a9eb-422a-8e601dacf2b6",
+            "worldPosition": {
+                "x": 4532.220703125,
+                "y": 8641.064453125,
+                "z": 281.34417724609377
+            },
+            "rotation": {
+                "x": -0.02122567407786846,
+                "y": 0.025559503585100175,
+                "z": -0.6429414749145508,
+                "w": 0.7651944160461426
+            },
+            "scale": 0.699999988079071,
+            "footprint": {
+                "type": "Circle",
+                "id": "eb2ede4b-f448-bccc-227f-6894724bed4a",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
+            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "02547a5a-80a5-003f-5cd3-208bbeade27e",
+            "worldPosition": {
+                "x": 4527.89404296875,
+                "y": 8642.1865234375,
+                "z": 281.3727111816406
+            },
+            "rotation": {
+                "x": -0.011813649907708168,
+                "y": 0.012060528621077538,
+                "z": 0.6618428826332092,
+                "w": 0.7494524717330933
+            },
+            "scale": 0.699999988079071,
+            "footprint": {
+                "type": "Circle",
+                "id": "998a6f47-deb1-e0f0-f239-f2dd716b5278",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
+            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "52e88772-9e11-455b-f910-0759fec2d919",
+            "worldPosition": {
+                "x": 4526.79248046875,
+                "y": 8642.6103515625,
+                "z": 281.361083984375
+            },
+            "rotation": {
+                "x": -0.004768534563481808,
+                "y": 0.016195055097341539,
+                "z": 0.9362240433692932,
+                "w": 0.35099780559539797
+            },
+            "scale": 0.7000000476837158,
+            "footprint": {
+                "type": "Circle",
+                "id": "bed60990-eeab-febf-0dc0-d3f9274d2998",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
+            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a418d1e6-118f-6957-dd9e-061dece50e0e",
+            "worldPosition": {
+                "x": 4500.56005859375,
+                "y": 8669.9677734375,
+                "z": 281.6700134277344
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "49618313-5ce2-10dc-6b84-b75da31c3d02",
+                "radius": 5.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "6af1c60c-f757-3bb6-56d5-89638ebd91d2",
+            "worldPosition": {
+                "x": 4503.33642578125,
+                "y": 8676.33203125,
+                "z": 282.1501770019531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "e4351a25-e55b-1f5d-27d0-7cb2928d03c3",
+                "radius": 5.0
+            },
+            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
+            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
+        },
+        {
+            "id": "48c329f5-7570-29d8-c5cb-963deb6b3069",
+            "worldPosition": {
+                "x": 4870.96240234375,
+                "y": 8524.4248046875,
+                "z": 234.0446014404297
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8290375471115112,
+                "w": 0.559192955493927
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0704de78-32aa-d34f-29cc-92173a884f12",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "ede57a27-6b14-309e-e60c-0d84d1aca4d6",
+            "worldPosition": {
+                "x": 4914.712890625,
+                "y": 8373.1494140625,
+                "z": 255.95603942871095
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6560590267181397,
+                "w": 0.7547096014022827
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5cebcbe2-c02f-ba2c-a00b-b5f9b4d4cdad",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "d3642144-6f69-149c-0a24-b591a724e5bf",
+            "worldPosition": {
+                "x": 4815.580078125,
+                "y": 8779.4091796875,
+                "z": 208.5144805908203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.6560590267181397,
+                "w": 0.7547096014022827
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d4c199cc-d644-4f08-dffa-fe7c68149e7f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "f4ea49ff-8972-9b3a-1433-700ea79801a6",
+            "worldPosition": {
+                "x": 5346.55029296875,
+                "y": 8287.8994140625,
+                "z": 192.94264221191407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.7986358404159546,
+                "w": 0.6018146872520447
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0d09a527-2a46-a41e-927c-6ad01164dd7f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "9911f557-0653-0a61-6f80-dd97e0265764",
+            "worldPosition": {
+                "x": 4932.6650390625,
+                "y": 8722.755859375,
+                "z": 189.6512908935547
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9238795638084412,
+                "w": 0.38268333673477175
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "d396a6fe-9cd8-35c5-0f0e-9310596b5324",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "48649ea4-36c6-66ba-e7ff-2b3ab70219da",
+            "worldPosition": {
+                "x": 5099.2626953125,
+                "y": 8816.9375,
+                "z": 180.93728637695313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.29237163066864016,
+                "w": 0.9563047885894775
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "96926d6c-f116-9709-fe1f-8615beac8c74",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "2117b0ac-fcf6-8494-b024-ffaf88383bad",
+            "worldPosition": {
+                "x": 4909.70361328125,
+                "y": 8895.546875,
+                "z": 203.52487182617188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.36941009759902956,
+                "w": 0.9292665123939514
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3708d07b-ca14-f57a-f4e3-361e5fb8669d",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
+            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "801c79ce-260d-4fb2-01b3-f674e96a96bb",
+            "worldPosition": {
+                "x": 5502.0,
+                "y": 8801.0,
+                "z": 223.37294006347657
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.1305265575647354,
+                "w": 0.9914448261260986
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6c3db6e9-f966-f4ed-1687-30524c03a066",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\Trigger_Volume_Template_801c79ce260d4fb21b3f674e96a96bb",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:6a96bb"
+        },
+        {
+            "id": "ef4af9b1-0bd1-96b3-30b0-2ebf9f5349c8",
+            "worldPosition": {
+                "x": 5180.501953125,
+                "y": 8336.0673828125,
+                "z": 183.06666564941407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "b28fe196-5037-9996-3580-94c6a66bb7d9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\Darkness_SpawnGroup_Major_Master_ef4af9b10bd196b330b02ebf9f5349c8",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:5349c8"
+        },
+        {
+            "id": "7699083a-d206-ad1c-74b4-ba4ee504102e",
+            "worldPosition": {
+                "x": 4495.0908203125,
+                "y": 8662.2783203125,
+                "z": 281.12518310546877
+            },
+            "rotation": {
+                "x": -0.004752920474857092,
+                "y": 0.03107285127043724,
+                "z": 0.15113329887390138,
+                "w": 0.9880134463310242
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "482d9abe-7f25-50d4-40dd-c394425f39ef",
+                "width": 2.0,
+                "height": 2.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_01_a",
+            "sliceAssetId": "{2D2AC952-7D57-5B47-9308-0CE99D36FC22}:2"
+        },
+        {
+            "id": "9e8e0356-085d-7318-ebb8-62e5c61eec14",
+            "worldPosition": {
+                "x": 4499.62255859375,
+                "y": 8659.3173828125,
+                "z": 281.0904235839844
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.17364811897277833,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "8609ef38-87a7-7a9f-0e8a-7a19af72082a",
+                "width": 2.0,
+                "height": 2.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_01_a",
+            "sliceAssetId": "{2D2AC952-7D57-5B47-9308-0CE99D36FC22}:2"
+        },
+        {
+            "id": "1db26ab1-0ef0-925b-49b0-00a13f8668a2",
+            "worldPosition": {
+                "x": 4519.318359375,
+                "y": 8675.2861328125,
+                "z": 281.6777648925781
+            },
+            "rotation": {
+                "x": -0.5792276859283447,
+                "y": 0.40557989478111269,
+                "z": 0.5792279243469238,
+                "w": 0.405580073595047
+            },
+            "scale": 1.2000001668930054,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "46e07aed-4820-3330-2a8b-f7a8e0a5be6d",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "30fe2fe1-a2bd-e0ce-95b4-98240a5abc26",
+            "worldPosition": {
+                "x": 4496.8193359375,
+                "y": 8659.9091796875,
+                "z": 281.3804931640625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.14630819857120515,
+                "w": 0.9892390966415405
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "84df8cf1-7564-7c92-21fb-9ae1a9bb0740",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "f81ac9b3-ef7b-ff59-3ba5-2aa82c96d789",
+            "worldPosition": {
+                "x": 4522.93115234375,
+                "y": 8677.7177734375,
+                "z": 281.67132568359377
+            },
+            "rotation": {
+                "x": -0.12278761714696884,
+                "y": 0.6963642835617065,
+                "z": 0.12278799712657929,
+                "w": 0.6963642239570618
+            },
+            "scale": 1.2000001668930054,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "fb665cc6-9c09-2e90-a425-d51b7d8aa908",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "e2ddeb71-7921-5a19-c386-c29c10a1c2ae",
+            "worldPosition": {
+                "x": 4519.78759765625,
+                "y": 8676.234375,
+                "z": 281.83172607421877
+            },
+            "rotation": {
+                "x": 0.9914448261260986,
+                "y": 0.1305265575647354,
+                "z": 1.0794033045158358e-7,
+                "w": -1.5011586640412134e-7
+            },
+            "scale": 1.2000001668930054,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "c4afe4c6-0cca-23df-4f9a-3bee0dfcd314",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "7ba8ba4c-de64-4126-94e7-13bfeb55d4d6",
+            "worldPosition": {
+                "x": 4498.3173828125,
+                "y": 8659.41015625,
+                "z": 281.6941223144531
+            },
+            "rotation": {
+                "x": 2.3040463759116393e-7,
+                "y": 0.7071068286895752,
+                "z": 2.3040463759116393e-7,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "67e3afcc-114d-14e7-7357-a432f8ef9c86",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "1cda2dd1-7f6f-1d7c-443a-33a48f982be4",
+            "worldPosition": {
+                "x": 4499.0703125,
+                "y": 8659.876953125,
+                "z": 281.6941223144531
+            },
+            "rotation": {
+                "x": 0.3799283504486084,
+                "y": 0.5963679552078247,
+                "z": -0.3799280524253845,
+                "w": 0.5963677167892456
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "06277730-6717-4976-6746-bab7e11fbc40",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "af8a3bca-4fb6-9e25-9792-07646174da41",
+            "worldPosition": {
+                "x": 4498.76708984375,
+                "y": 8660.3466796875,
+                "z": 281.6915588378906
+            },
+            "rotation": {
+                "x": 0.40557998418807986,
+                "y": 0.5792280435562134,
+                "z": -0.4055795967578888,
+                "w": 0.579227864742279
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "037aac4a-adba-bc1c-7fcf-28dd073bcf85",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "48718382-af62-f0b7-6c9b-e04f3fb4ee59",
+            "worldPosition": {
+                "x": 4499.75439453125,
+                "y": 8660.2578125,
+                "z": 281.58990478515627
+            },
+            "rotation": {
+                "x": -0.5609856247901917,
+                "y": 0.43045908212661745,
+                "z": 0.560985803604126,
+                "w": 0.43045923113822939
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "2307df23-d7fa-937f-c753-d01aeccb5849",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "640b8519-a150-94e7-25f9-c0e2eca8dc42",
+            "worldPosition": {
+                "x": 4548.875,
+                "y": 8664.4541015625,
+                "z": 281.4180908203125
+            },
+            "rotation": {
+                "x": -0.5416753888130188,
+                "y": 0.45451903343200686,
+                "z": 0.5416756272315979,
+                "w": 0.45451927185058596
+            },
+            "scale": 1.2000001668930054,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "4c4c28e7-ded9-bfaa-1afb-5157da78d8bc",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "320a4706-051d-182c-e8c6-267da85393f2",
+            "worldPosition": {
+                "x": 4524.390625,
+                "y": 8677.1015625,
+                "z": 281.6601867675781
+            },
+            "rotation": {
+                "x": 0.6123722195625305,
+                "y": -0.35355344414711,
+                "z": -0.5416751503944397,
+                "w": -0.4545198082923889
+            },
+            "scale": 1.200000286102295,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "cce1efb7-49a1-f0af-6f73-d197ed6613cc",
+                "width": 1.0,
+                "height": 1.5
+            },
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
+            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
+        },
+        {
+            "id": "8bbadfc6-a8a8-2c75-99e7-aea4be5b99f2",
+            "worldPosition": {
+                "x": 6025.44970703125,
+                "y": 9785.771484375,
+                "z": 319.4969177246094
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.1305260956287384,
+                "w": 0.9914448857307434
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c4717327-6b62-1b59-a1a5-732d9bf20e53",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Major_Slope",
+            "sliceAssetId": "{6E4EB2E2-18BF-5737-89B9-3326EA3B225B}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_major/major_darkness_footprint_slope.obj"
+            }
+        },
+        {
+            "id": "f766cc39-ef35-c05a-01a5-6685ba8c34b5",
+            "worldPosition": {
+                "x": 4590.18896484375,
+                "y": 9210.298828125,
+                "z": 365.0438537597656
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7721636295318604,
+                "w": 0.6354237794876099
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "75dbb034-6d29-16bf-0492-6363e9355512",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Dungeon/ApophisBrimstone/Entrance_QuestApophis",
+            "sliceAssetId": "{4FCD7125-42B4-5FC9-A48A-E4DC21B7BA88}:2"
+        },
+        {
+            "id": "50c2beea-6daa-7f1e-fa08-ae07584128e0",
+            "worldPosition": {
+                "x": 6034.74658203125,
+                "y": 9048.33984375,
+                "z": 185.71974182128907
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.12105417996644974,
+                "w": 0.9926459193229675
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "56dd3ccf-7417-8c1c-ce38-e824e25fa7b0",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_50c2beea6daa7f1efa08ae07584128e0",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:4128e0",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "f8262012-51de-268f-4bf5-b58dba1a1c19",
+            "worldPosition": {
+                "x": 5291.14990234375,
+                "y": 8326.0732421875,
+                "z": 183.1722869873047
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.11977235972881317,
+                "w": 0.9928013682365418
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "a01a5ee8-6adc-9579-adcf-ca05dffca649",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_f826201251de268f4bf5b58dba1a1c19",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:1a1c19",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "10af01fd-8384-e1da-a061-e8dd43b05fd3",
+            "worldPosition": {
+                "x": 4272.33447265625,
+                "y": 9321.0205078125,
+                "z": 372.6228332519531
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9926459193229675,
+                "w": -0.12105414271354675
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "5970b990-b093-8138-013f-cdd2bcd4327c",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_10af01fd8384e1daa061e8dd43b05fd3",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:b05fd3",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "59584c36-1640-1bcc-9e3d-01967fd220e1",
+            "worldPosition": {
+                "x": 6061.89990234375,
+                "y": 9856.013671875,
+                "z": 323.9154968261719
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7933534979820252,
+                "w": 0.6087613105773926
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "17d0f2df-0d90-f8b7-bad7-42c2e07d2427",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_59584c3616401bcc9e3d01967fd220e1",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:d220e1",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "0d5e00d4-6551-43d9-8ec1-398489fef4b8",
+            "worldPosition": {
+                "x": 5075.3095703125,
+                "y": 8578.7890625,
+                "z": 181.78890991210938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6626203060150147,
+                "w": 0.748955488204956
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "11c6105d-6fb6-986c-7198-635d5b0177bb",
+                "width": 15.0,
+                "height": 10.0
+            },
+            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_0d5e00d4655143d98ec1398489fef4b8",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:fef4b8",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c3462883-7b67-a249-2440-060e5b2a0618",
+            "worldPosition": {
+                "x": 4767.28857421875,
+                "y": 9350.548828125,
+                "z": 330.30926513671877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.537299633026123,
+                "w": 0.8433914184570313
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5e6fd5b9-94d8-3c14-9bd2-bcc2f5b309bd",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "295c52b2-b509-95c6-e33b-0d9536419052",
+            "worldPosition": {
+                "x": 4984.79736328125,
+                "y": 8910.650390625,
+                "z": 198.97975158691407
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9999619126319885,
+                "w": 0.008726919069886208
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a1fcd753-480c-c7c3-82ee-7c5b18da7e12",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b2b005d4-916d-1f2e-2776-03e16016e8c9",
+            "worldPosition": {
+                "x": 5265.59814453125,
+                "y": 8314.4658203125,
+                "z": 179.97607421875
+            },
+            "rotation": {
+                "x": 0.010926092974841595,
+                "y": 0.023084044456481935,
+                "z": -0.6751693487167358,
+                "w": 0.7372205257415772
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bbb24d79-d367-c082-3066-27915a053195",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.0
+            },
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "aaee4682-86ed-f5aa-8332-a784c7c1d30d",
+            "worldPosition": {
+                "x": 4327.59375,
+                "y": 9150.5517578125,
+                "z": 292.9056091308594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7933534979820252,
+                "w": 0.6087613105773926
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "dcd72650-2e92-0732-d80e-6b9761a0bca2",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "3f28c970-1765-12e0-dd5e-85bd7b2bf873",
+            "worldPosition": {
+                "x": 5960.71337890625,
+                "y": 9619.9716796875,
+                "z": 297.6241760253906
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070579051971438,
+                "w": 0.9537169933319092
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "a9d22cb5-bed7-54ae-a348-3b506dd2ae77",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.0
+            },
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2b5d8e4d-f8af-9c67-2766-94cdf087e532",
+            "worldPosition": {
+                "x": 6107.4775390625,
+                "y": 9079.6455078125,
+                "z": 222.1041717529297
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070579051971438,
+                "w": 0.9537169933319092
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "634b5231-fcd6-080f-c5e5-5f5289284375",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "7594ac0a-80b2-4e92-9074-f593be9f0f8e",
+            "worldPosition": {
+                "x": 4950.17333984375,
+                "y": 8603.6357421875,
+                "z": 211.97198486328126
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9990481734275818,
+                "w": -0.04361966252326965
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0fd08a6e-04b3-efbe-f133-bcb70b02714d",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e0fc2667-b962-e0c0-ebc4-aa3aea5a534e",
+            "worldPosition": {
+                "x": 5188.5908203125,
+                "y": 9479.251953125,
+                "z": 299.59832763671877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070579051971438,
+                "w": 0.9537169933319092
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "8766be23-d61c-b2d9-c84c-ad6bd83756ff",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.0
+            },
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "a920a234-63b4-62b6-e774-7576fec615fa",
+            "worldPosition": {
+                "x": 5526.36572265625,
+                "y": 8541.9482421875,
+                "z": 177.0629119873047
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9396926164627075,
+                "w": 0.3420201539993286
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "35931ed8-36ea-4fb1-6477-7d4479a128bc",
+                "radius": 8.0
+            },
+            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
+            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "cookie": {
+                "innerRadius": 10.0,
+                "outerRadius": 20.0,
+                "maxHeightBlend": 1.0,
+                "edgeNoise": 0.10000000149011612,
+                "edgeNoiseFeatureSize": 4.0,
+                "groundNoiseScale": 0.0
+            },
+            "params": {
+                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "03a97448-39a7-df53-2488-18224cf3d3c8",
+            "worldPosition": {
+                "x": 4529.77294921875,
+                "y": 8666.5361328125,
+                "z": 281.56103515625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8191518783569336,
+                "w": 0.5735766887664795
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "0f6a5e8c-6a8e-e5f3-c050-0650d7b730ff",
+                "radius": 26.0
+            },
+            "sliceName": "slices/POI/Outpost/Outpost_Brimstone_A",
+            "sliceAssetId": "{8CFED957-2BB5-55AF-8A47-719BF656ED6F}:2",
+            "params": {
+                "CAPITAL_TYPE": "Outpost",
+                "HAS_VEG_COMPONENTS": "1",
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        },
+        {
+            "id": "36e642b1-614c-06b6-6b99-2fb84a89f918",
+            "worldPosition": {
+                "x": 5648.0,
+                "y": 9641.0,
+                "z": 310.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "199b18a2-6934-2ba0-2023-e6ce9f7e92c9",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Area_CapitalPlot",
+            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
+        },
+        {
+            "id": "2a34ed56-03aa-1bdc-dd60-fe21b5497fca",
+            "worldPosition": {
+                "x": 4503.0,
+                "y": 9142.0,
+                "z": 339.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "eec3c1df-dd25-011c-27b7-f8a4b077e0ac",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Area_CapitalPlot",
+            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
+        },
+        {
+            "id": "963aa534-3fd9-32e5-0b28-2f6d86be9a39",
+            "worldPosition": {
+                "x": 5476.0,
+                "y": 8670.0,
+                "z": 174.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "aa2edd3c-6263-6ed3-1029-7e842ceef888",
+                "radius": 0.0
+            },
+            "sliceName": "slices/POIs/Area_CapitalPlot",
+            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
+        },
+        {
+            "id": "f586a014-10fc-4ad3-11bf-f0bc41914e11",
+            "worldPosition": {
+                "x": 4428.49267578125,
+                "y": 9023.240234375,
+                "z": 289.916015625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4226185381412506,
+                "w": 0.9063076972961426
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "e9fc3b47-fdf7-cf33-8aae-b555e8b34c77",
+                "width": 7.0,
+                "height": 3.0
+            },
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/AncientGlyphWall/WorldEvent_IO_AncientGlyphWall_13_07",
+            "sliceAssetId": "{1D5B22C3-E730-5049-B896-F61F4EDB858D}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "7a86e799-9884-60c1-2341-4d7c74e2deee",
+            "worldPosition": {
+                "x": 4547.95556640625,
+                "y": 8683.1376953125,
+                "z": 281.4446716308594
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.8598583340644836,
+                "w": 0.5105327367782593
+            },
+            "scale": 0.9000000953674316,
+            "footprint": {
+                "type": "Circle",
+                "id": "d16c32c0-db27-f7f0-0ff0-4e5a8c097fe6",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_fort_props_kit/legion_ruins_pile_e",
+            "sliceAssetId": "{969EBC14-EF97-5A6D-890F-EACFCFB5D716}:2"
+        },
+        {
+            "id": "fd6a718a-b42b-dbf2-d8a3-f035089cb064",
+            "worldPosition": {
+                "x": 4509.72412109375,
+                "y": 8680.826171875,
+                "z": 281.68035888671877
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9998254179954529,
+                "w": 0.01868397369980812
+            },
+            "scale": 0.8000001907348633,
+            "footprint": {
+                "type": "Circle",
+                "id": "878889ed-d069-5487-df88-22728e7531c7",
+                "radius": 2.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_fort_props_kit/legion_ruins_pile_e",
+            "sliceAssetId": "{969EBC14-EF97-5A6D-890F-EACFCFB5D716}:2"
+        },
+        {
             "id": "8524ba90-7ca3-ca8f-2b4f-3026f5e0b14f",
             "worldPosition": {
                 "x": 5566.220703125,
@@ -59,534 +1375,11 @@
             }
         },
         {
-            "id": "958b4707-0ce6-cd8b-07f1-6ac41a4f9f07",
+            "id": "b80fb569-9cff-fe30-dfc1-3383c0168cda",
             "worldPosition": {
-                "x": 4940.60986328125,
-                "y": 9140.4130859375,
-                "z": 304.53472900390627
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.04361953213810921,
-                "w": 0.9990481734275818
-            },
-            "scale": 1.2999999523162842,
-            "footprint": {
-                "type": "Circle",
-                "id": "bdf4d790-6082-1726-aeef-0c13f5e0c75c",
-                "radius": 20.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_30m",
-            "sliceAssetId": "{0056D011-1E5D-5049-9408-0DFE93D66A7E}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612
-            }
-        },
-        {
-            "id": "83ca6c38-599a-58e0-f904-8085d06a8c6b",
-            "worldPosition": {
-                "x": 4967.50830078125,
-                "y": 9138.0595703125,
-                "z": 304.53472900390627
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.04361953213810921,
-                "w": 0.9990481734275818
-            },
-            "scale": 1.3000000715255738,
-            "footprint": {
-                "type": "Circle",
-                "id": "5fdb506b-5c47-de14-fcc8-feaf0430ff06",
-                "radius": 20.0
-            },
-            "sliceName": "slices/POIs/Test/BlankSpace_30m",
-            "sliceAssetId": "{0056D011-1E5D-5049-9408-0DFE93D66A7E}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612
-            }
-        },
-        {
-            "id": "5ccbe3c1-871d-4372-ff73-d5b55d3b3af8",
-            "worldPosition": {
-                "x": 4525.283203125,
-                "y": 8675.435546875,
-                "z": 281.57598876953127
-            },
-            "rotation": {
-                "x": -0.09229586273431778,
-                "y": 0.701057493686676,
-                "z": 0.0922960638999939,
-                "w": 0.7010572552680969
-            },
-            "scale": 1.2000000476837159,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "eb87323f-5457-9255-3f5e-c1ce6a6c5d64",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_b",
-            "sliceAssetId": "{061D24C1-197F-563D-8FBF-745E3E676DFF}:2"
-        },
-        {
-            "id": "e122f111-040d-a9eb-422a-8e601dacf2b6",
-            "worldPosition": {
-                "x": 4532.220703125,
-                "y": 8641.064453125,
-                "z": 281.34417724609377
-            },
-            "rotation": {
-                "x": -0.02122570388019085,
-                "y": 0.02555953897535801,
-                "z": -0.6429414749145508,
-                "w": 0.7651944160461426
-            },
-            "scale": 0.699999988079071,
-            "footprint": {
-                "type": "Circle",
-                "id": "eb2ede4b-f448-bccc-227f-6894724bed4a",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
-            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "52e88772-9e11-455b-f910-0759fec2d919",
-            "worldPosition": {
-                "x": 4526.79248046875,
-                "y": 8642.6103515625,
-                "z": 281.361083984375
-            },
-            "rotation": {
-                "x": -0.004768534563481808,
-                "y": 0.016195055097341539,
-                "z": 0.9362240433692932,
-                "w": 0.35099780559539797
-            },
-            "scale": 0.7000000476837158,
-            "footprint": {
-                "type": "Circle",
-                "id": "bed60990-eeab-febf-0dc0-d3f9274d2998",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
-            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "02547a5a-80a5-003f-5cd3-208bbeade27e",
-            "worldPosition": {
-                "x": 4527.89404296875,
-                "y": 8642.1865234375,
-                "z": 281.3727111816406
-            },
-            "rotation": {
-                "x": -0.011813650839030743,
-                "y": 0.012060528621077538,
-                "z": 0.6618428826332092,
-                "w": 0.7494524717330933
-            },
-            "scale": 0.699999988079071,
-            "footprint": {
-                "type": "Circle",
-                "id": "998a6f47-deb1-e0f0-f239-f2dd716b5278",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Assembly/Crafting/Props/Destruction/Debris/PRP_Destr_WoodPile_A",
-            "sliceAssetId": "{4977ABA4-EEE4-5BF5-9621-0810FFD7052A}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f4ea49ff-8972-9b3a-1433-700ea79801a6",
-            "worldPosition": {
-                "x": 5346.55029296875,
-                "y": 8287.8994140625,
-                "z": 192.94264221191407
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7986358404159546,
-                "w": 0.6018146872520447
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0d09a527-2a46-a41e-927c-6ad01164dd7f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "48649ea4-36c6-66ba-e7ff-2b3ab70219da",
-            "worldPosition": {
-                "x": 5099.2626953125,
-                "y": 8816.9375,
-                "z": 180.93728637695313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.29237163066864016,
-                "w": 0.9563047885894775
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "96926d6c-f116-9709-fe1f-8615beac8c74",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "d3642144-6f69-149c-0a24-b591a724e5bf",
-            "worldPosition": {
-                "x": 4815.580078125,
-                "y": 8779.4091796875,
-                "z": 208.5144805908203
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6560590267181397,
-                "w": 0.7547096014022827
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d4c199cc-d644-4f08-dffa-fe7c68149e7f",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "48c329f5-7570-29d8-c5cb-963deb6b3069",
-            "worldPosition": {
-                "x": 4870.96240234375,
-                "y": 8524.4248046875,
-                "z": 234.0446014404297
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8290375471115112,
-                "w": 0.559192955493927
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0704de78-32aa-d34f-29cc-92173a884f12",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "ede57a27-6b14-309e-e60c-0d84d1aca4d6",
-            "worldPosition": {
-                "x": 4914.712890625,
-                "y": 8373.1494140625,
-                "z": 255.95603942871095
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.6560590267181397,
-                "w": 0.7547096014022827
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5cebcbe2-c02f-ba2c-a00b-b5f9b4d4cdad",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "9911f557-0653-0a61-6f80-dd97e0265764",
-            "worldPosition": {
-                "x": 4932.6650390625,
-                "y": 8722.755859375,
-                "z": 189.6512908935547
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9238795638084412,
-                "w": 0.38268333673477175
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "d396a6fe-9cd8-35c5-0f0e-9310596b5324",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Footprint_Minor_Slope",
-            "sliceAssetId": "{6D5B6AA0-BD92-5A31-A57D-58E91C123789}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint_slope.obj"
-            }
-        },
-        {
-            "id": "7ba8ba4c-de64-4126-94e7-13bfeb55d4d6",
-            "worldPosition": {
-                "x": 4498.3173828125,
-                "y": 8659.41015625,
-                "z": 281.6941223144531
-            },
-            "rotation": {
-                "x": 2.3040463759116393e-7,
-                "y": 0.7071068286895752,
-                "z": 2.3040463759116393e-7,
-                "w": 0.7071067094802856
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "67e3afcc-114d-14e7-7357-a432f8ef9c86",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "af8a3bca-4fb6-9e25-9792-07646174da41",
-            "worldPosition": {
-                "x": 4498.76708984375,
-                "y": 8660.3466796875,
-                "z": 281.6915588378906
-            },
-            "rotation": {
-                "x": 0.40557998418807986,
-                "y": 0.5792280435562134,
-                "z": -0.4055795967578888,
-                "w": 0.579227864742279
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "037aac4a-adba-bc1c-7fcf-28dd073bcf85",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "320a4706-051d-182c-e8c6-267da85393f2",
-            "worldPosition": {
-                "x": 4524.390625,
-                "y": 8677.1015625,
-                "z": 281.6601867675781
-            },
-            "rotation": {
-                "x": 0.6123722195625305,
-                "y": -0.35355344414711,
-                "z": -0.5416751503944397,
-                "w": -0.4545198082923889
-            },
-            "scale": 1.200000286102295,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "cce1efb7-49a1-f0af-6f73-d197ed6613cc",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "48718382-af62-f0b7-6c9b-e04f3fb4ee59",
-            "worldPosition": {
-                "x": 4499.75439453125,
-                "y": 8660.2578125,
-                "z": 281.58990478515627
-            },
-            "rotation": {
-                "x": -0.5609856247901917,
-                "y": 0.43045908212661745,
-                "z": 0.560985803604126,
-                "w": 0.43045923113822939
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "2307df23-d7fa-937f-c753-d01aeccb5849",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "e2ddeb71-7921-5a19-c386-c29c10a1c2ae",
-            "worldPosition": {
-                "x": 4519.78759765625,
-                "y": 8676.234375,
-                "z": 281.83172607421877
-            },
-            "rotation": {
-                "x": 0.9914448261260986,
-                "y": 0.1305265575647354,
-                "z": 1.0794033045158358e-7,
-                "w": -1.5011586640412134e-7
-            },
-            "scale": 1.2000001668930054,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "c4afe4c6-0cca-23df-4f9a-3bee0dfcd314",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "30fe2fe1-a2bd-e0ce-95b4-98240a5abc26",
-            "worldPosition": {
-                "x": 4496.8193359375,
-                "y": 8659.9091796875,
-                "z": 281.3804931640625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.14630819857120515,
-                "w": 0.9892390966415405
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "84df8cf1-7564-7c92-21fb-9ae1a9bb0740",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "640b8519-a150-94e7-25f9-c0e2eca8dc42",
-            "worldPosition": {
-                "x": 4548.875,
-                "y": 8664.4541015625,
-                "z": 281.4180908203125
-            },
-            "rotation": {
-                "x": -0.5416753888130188,
-                "y": 0.45451903343200686,
-                "z": 0.5416756272315979,
-                "w": 0.45451927185058596
-            },
-            "scale": 1.2000001668930054,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "4c4c28e7-ded9-bfaa-1afb-5157da78d8bc",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "1cda2dd1-7f6f-1d7c-443a-33a48f982be4",
-            "worldPosition": {
-                "x": 4499.0703125,
-                "y": 8659.876953125,
-                "z": 281.6941223144531
-            },
-            "rotation": {
-                "x": 0.3799283504486084,
-                "y": 0.5963679552078247,
-                "z": -0.3799280524253845,
-                "w": 0.5963677167892456
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "06277730-6717-4976-6746-bab7e11fbc40",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "f81ac9b3-ef7b-ff59-3ba5-2aa82c96d789",
-            "worldPosition": {
-                "x": 4522.93115234375,
-                "y": 8677.7177734375,
-                "z": 281.67132568359377
-            },
-            "rotation": {
-                "x": -0.12278761714696884,
-                "y": 0.6963642835617065,
-                "z": 0.12278799712657929,
-                "w": 0.6963642239570618
-            },
-            "scale": 1.2000001668930054,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "fb665cc6-9c09-2e90-a425-d51b7d8aa908",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "1db26ab1-0ef0-925b-49b0-00a13f8668a2",
-            "worldPosition": {
-                "x": 4519.318359375,
-                "y": 8675.2861328125,
-                "z": 281.6777648925781
-            },
-            "rotation": {
-                "x": -0.5792276859283447,
-                "y": 0.40557989478111269,
-                "z": 0.5792279243469238,
-                "w": 0.405580073595047
-            },
-            "scale": 1.2000001668930054,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "46e07aed-4820-3330-2a8b-f7a8e0a5be6d",
-                "width": 1.0,
-                "height": 1.5
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_a",
-            "sliceAssetId": "{65876945-5C13-5918-ADC7-DEAB4EDB1FD2}:2"
-        },
-        {
-            "id": "36e642b1-614c-06b6-6b99-2fb84a89f918",
-            "worldPosition": {
-                "x": 5648.0,
-                "y": 9641.0,
-                "z": 310.0
+                "x": 5165.0,
+                "y": 8550.0,
+                "z": 123.0
             },
             "rotation": {
                 "x": 0.0,
@@ -596,459 +1389,34 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "199b18a2-6934-2ba0-2023-e6ce9f7e92c9",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Area_CapitalPlot",
-            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
-        },
-        {
-            "id": "963aa534-3fd9-32e5-0b28-2f6d86be9a39",
-            "worldPosition": {
-                "x": 5476.0,
-                "y": 8670.0,
-                "z": 174.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "aa2edd3c-6263-6ed3-1029-7e842ceef888",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Area_CapitalPlot",
-            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
-        },
-        {
-            "id": "2a34ed56-03aa-1bdc-dd60-fe21b5497fca",
-            "worldPosition": {
-                "x": 4503.0,
-                "y": 9142.0,
-                "z": 339.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "eec3c1df-dd25-011c-27b7-f8a4b077e0ac",
-                "radius": 0.0
-            },
-            "sliceName": "slices/POIs/Area_CapitalPlot",
-            "sliceAssetId": "{3924A2DD-7B28-5930-846C-05699DAF7C99}:2"
-        },
-        {
-            "id": "6af1c60c-f757-3bb6-56d5-89638ebd91d2",
-            "worldPosition": {
-                "x": 4503.33642578125,
-                "y": 8676.33203125,
-                "z": 282.1501770019531
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "e4351a25-e55b-1f5d-27d0-7cb2928d03c3",
-                "radius": 5.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "a418d1e6-118f-6957-dd9e-061dece50e0e",
-            "worldPosition": {
-                "x": 4500.56005859375,
-                "y": 8669.9677734375,
-                "z": 281.6700134277344
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "49618313-5ce2-10dc-6b84-b75da31c3d02",
-                "radius": 5.0
-            },
-            "sliceName": "slices/POIs/Damned/BlankSpace_Damned",
-            "sliceAssetId": "{EB9AA609-8085-57E0-9C1E-375AD6054071}:2"
-        },
-        {
-            "id": "801c79ce-260d-4fb2-01b3-f674e96a96bb",
-            "worldPosition": {
-                "x": 5502.0,
-                "y": 8801.0,
-                "z": 223.37294006347657
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.1305265575647354,
-                "w": 0.9914448261260986
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "6c3db6e9-f966-f4ed-1687-30524c03a066",
+                "id": "1577af17-038d-b843-777d-64b819b4ab21",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\e6c87a3\\Trigger_Volume_Template_801c79ce260d4fb21b3f674e96a96bb",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:6a96bb"
+            "sliceName": "CoatGen\\e6c87a3\\Darkness_SpawnGroup_Minor_Master_b80fb5699cfffe30dfc13383c0168cda",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:168cda"
         },
         {
-            "id": "9e8e0356-085d-7318-ebb8-62e5c61eec14",
+            "id": "c99c35ba-30aa-3020-ecda-2f3cbb3ebfc7",
             "worldPosition": {
-                "x": 4499.62255859375,
-                "y": 8659.3173828125,
-                "z": 281.0904235839844
+                "x": 5726.3984375,
+                "y": 8536.48828125,
+                "z": 225.9852752685547
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.17364811897277833,
-                "w": 0.9848077893257141
+                "z": 0.8290379047393799,
+                "w": 0.5591924786567688
             },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8609ef38-87a7-7a9f-0e8a-7a19af72082a",
-                "width": 2.0,
-                "height": 2.0
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_01_a",
-            "sliceAssetId": "{2D2AC952-7D57-5B47-9308-0CE99D36FC22}:2"
-        },
-        {
-            "id": "7699083a-d206-ad1c-74b4-ba4ee504102e",
-            "worldPosition": {
-                "x": 4495.0908203125,
-                "y": 8662.2783203125,
-                "z": 281.12518310546877
-            },
-            "rotation": {
-                "x": -0.004752920474857092,
-                "y": 0.03107285127043724,
-                "z": 0.15113329887390138,
-                "w": 0.9880134463310242
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "482d9abe-7f25-50d4-40dd-c394425f39ef",
-                "width": 2.0,
-                "height": 2.0
-            },
-            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_01_a",
-            "sliceAssetId": "{2D2AC952-7D57-5B47-9308-0CE99D36FC22}:2"
-        },
-        {
-            "id": "39a96b32-e5d0-00ff-ea95-da8943bdfc44",
-            "worldPosition": {
-                "x": 4512.0498046875,
-                "y": 8678.0517578125,
-                "z": 281.8800048828125
-            },
-            "rotation": {
-                "x": 0.05569145828485489,
-                "y": 0.0014139307895675302,
-                "z": 0.18602615594863892,
-                "w": 0.980964183807373
-            },
-            "scale": 0.8000000715255737,
-            "footprint": {
-                "type": "Rectangle",
-                "id": "29df1e2e-d8f0-8fdc-10bd-4638b436878a",
-                "width": 4.5,
-                "height": 1.0
-            },
-            "sliceName": "slices/POIs/Legion/Legion_fort_props_kit/legion_ruins_pile_g",
-            "sliceAssetId": "{B7AF09B3-BEB5-58FA-99F0-A94153A39E54}:2"
-        },
-        {
-            "id": "f766cc39-ef35-c05a-01a5-6685ba8c34b5",
-            "worldPosition": {
-                "x": 4590.18896484375,
-                "y": 9210.298828125,
-                "z": 365.0438537597656
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7721636295318604,
-                "w": 0.6354237794876099
-            },
+            "scale": 1.2499998807907105,
             "footprint": {
                 "type": "Circle",
-                "id": "75dbb034-6d29-16bf-0492-6363e9355512",
+                "id": "beff556a-b80c-bd72-6d69-5e40969f7f89",
                 "radius": 1.0
             },
-            "sliceName": "slices/Dungeon/ApophisBrimstone/Entrance_QuestApophis",
-            "sliceAssetId": "{4FCD7125-42B4-5FC9-A48A-E4DC21B7BA88}:2"
-        },
-        {
-            "id": "7594ac0a-80b2-4e92-9074-f593be9f0f8e",
-            "worldPosition": {
-                "x": 4950.17333984375,
-                "y": 8603.6357421875,
-                "z": 211.97198486328126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9990481734275818,
-                "w": -0.04361966252326965
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0fd08a6e-04b3-efbe-f133-bcb70b02714d",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/AnubianPortal/WorldEvent_IO_Anubian_Portal_16BS10_A",
+            "sliceAssetId": "{E649D797-EBE4-5613-AB7C-0C69E7AA0B58}:2",
             "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "a920a234-63b4-62b6-e774-7576fec615fa",
-            "worldPosition": {
-                "x": 5526.36572265625,
-                "y": 8541.9482421875,
-                "z": 177.0629119873047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9396926164627075,
-                "w": 0.3420201539993286
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "35931ed8-36ea-4fb1-6477-7d4479a128bc",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.0
-            },
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "c3462883-7b67-a249-2440-060e5b2a0618",
-            "worldPosition": {
-                "x": 4767.28857421875,
-                "y": 9350.548828125,
-                "z": 330.30926513671877
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.537299633026123,
-                "w": 0.8433914184570313
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5e6fd5b9-94d8-3c14-9bd2-bcc2f5b309bd",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "2b5d8e4d-f8af-9c67-2766-94cdf087e532",
-            "worldPosition": {
-                "x": 6107.4775390625,
-                "y": 9079.6455078125,
-                "z": 222.1041717529297
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070579051971438,
-                "w": 0.9537169933319092
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "634b5231-fcd6-080f-c5e5-5f5289284375",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "b2b005d4-916d-1f2e-2776-03e16016e8c9",
-            "worldPosition": {
-                "x": 5265.59814453125,
-                "y": 8314.4658203125,
-                "z": 179.97607421875
-            },
-            "rotation": {
-                "x": 0.010926083661615849,
-                "y": 0.02308405563235283,
-                "z": -0.6751693487167358,
-                "w": 0.7372205257415772
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bbb24d79-d367-c082-3066-27915a053195",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.0
-            },
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "295c52b2-b509-95c6-e33b-0d9536419052",
-            "worldPosition": {
-                "x": 4984.79736328125,
-                "y": 8910.650390625,
-                "z": 198.97975158691407
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9999619126319885,
-                "w": 0.008726919069886208
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a1fcd753-480c-c7c3-82ee-7c5b18da7e12",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "aaee4682-86ed-f5aa-8332-a784c7c1d30d",
-            "worldPosition": {
-                "x": 4327.59375,
-                "y": 9150.5517578125,
-                "z": 292.9056091308594
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7933534979820252,
-                "w": 0.6087613105773926
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dcd72650-2e92-0732-d80e-6b9761a0bca2",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e0fc2667-b962-e0c0-ebc4-aa3aea5a534e",
-            "worldPosition": {
-                "x": 5188.5908203125,
-                "y": 9479.251953125,
-                "z": 299.59832763671877
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070579051971438,
-                "w": 0.9537169933319092
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "8766be23-d61c-b2d9-c84c-ad6bd83756ff",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.0
-            },
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "3f28c970-1765-12e0-dd5e-85bd7b2bf873",
-            "worldPosition": {
-                "x": 5960.71337890625,
-                "y": 9619.9716796875,
-                "z": 297.6241760253906
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070579051971438,
-                "w": 0.9537169933319092
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a9d22cb5-bed7-54ae-a348-3b506dd2ae77",
-                "radius": 8.0
-            },
-            "sliceName": "slices/POIs/Camp/BlankSpace_for_Player_Camp_Brim",
-            "sliceAssetId": "{3F07E924-70F2-541E-8009-AE5BD0576D18}:2",
-            "cookie": {
-                "innerRadius": 10.0,
-                "outerRadius": 20.0,
-                "maxHeightBlend": 1.0,
-                "edgeNoise": 0.10000000149011612,
-                "edgeNoiseFeatureSize": 4.0,
-                "groundNoiseScale": 0.0
-            },
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Claims/Footprint_Claim_10m.obj",
                 "HAS_VEG_COMPONENTS": "1"
             }
         },
@@ -1077,265 +1445,92 @@
             }
         },
         {
-            "id": "f586a014-10fc-4ad3-11bf-f0bc41914e11",
+            "id": "ad185c51-164d-3143-1884-ac58731d5e91",
             "worldPosition": {
-                "x": 4428.49267578125,
-                "y": 9023.240234375,
-                "z": 289.916015625
+                "x": 5263.19287109375,
+                "y": 8371.8662109375,
+                "z": 179.55142211914063
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.4226185381412506,
-                "w": 0.9063076972961426
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "e9fc3b47-fdf7-cf33-8aae-b555e8b34c77",
-                "width": 7.0,
-                "height": 3.0
-            },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/AncientGlyphWall/WorldEvent_IO_AncientGlyphWall_13_07",
-            "sliceAssetId": "{1D5B22C3-E730-5049-B896-F61F4EDB858D}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "59584c36-1640-1bcc-9e3d-01967fd220e1",
-            "worldPosition": {
-                "x": 6072.06884765625,
-                "y": 9845.1328125,
-                "z": 330.9999694824219
-            },
-            "rotation": {
-                "x": 0.040722187608480456,
-                "y": -0.01563182845711708,
-                "z": 0.9326913952827454,
-                "w": 0.3580280840396881
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "17d0f2df-0d90-f8b7-bad7-42c2e07d2427",
-                "width": 15.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_59584c3616401bcc9e3d01967fd220e1",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:d220e1",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "10af01fd-8384-e1da-a061-e8dd43b05fd3",
-            "worldPosition": {
-                "x": 4272.33447265625,
-                "y": 9321.0205078125,
-                "z": 372.6228332519531
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9926459193229675,
-                "w": -0.12105414271354675
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "5970b990-b093-8138-013f-cdd2bcd4327c",
-                "width": 15.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_10af01fd8384e1daa061e8dd43b05fd3",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:b05fd3",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "50c2beea-6daa-7f1e-fa08-ae07584128e0",
-            "worldPosition": {
-                "x": 6034.74658203125,
-                "y": 9048.33984375,
-                "z": 185.71974182128907
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.12105417996644974,
-                "w": 0.9926459193229675
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "56dd3ccf-7417-8c1c-ce38-e824e25fa7b0",
-                "width": 15.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_50c2beea6daa7f1efa08ae07584128e0",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:4128e0",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "f8262012-51de-268f-4bf5-b58dba1a1c19",
-            "worldPosition": {
-                "x": 5291.14990234375,
-                "y": 8326.0732421875,
-                "z": 183.1722869873047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.11977235972881317,
-                "w": 0.9928013682365418
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a01a5ee8-6adc-9579-adcf-ca05dffca649",
-                "width": 15.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_f826201251de268f4bf5b58dba1a1c19",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:1a1c19",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "0d5e00d4-6551-43d9-8ec1-398489fef4b8",
-            "worldPosition": {
-                "x": 5075.3095703125,
-                "y": 8578.7890625,
-                "z": 181.78890991210938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6626203060150147,
-                "w": 0.748955488204956
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "11c6105d-6fb6-986c-7198-635d5b0177bb",
-                "width": 15.0,
-                "height": 10.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\16BS_FastTravel_Teleporter_0d5e00d4655143d98ec1398489fef4b8",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:fef4b8",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "7a86e799-9884-60c1-2341-4d7c74e2deee",
-            "worldPosition": {
-                "x": 4547.95556640625,
-                "y": 8683.1376953125,
-                "z": 281.4446716308594
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8598583340644836,
-                "w": 0.5105327367782593
-            },
-            "scale": 0.9000000953674316,
-            "footprint": {
-                "type": "Circle",
-                "id": "d16c32c0-db27-f7f0-0ff0-4e5a8c097fe6",
-                "radius": 2.0
-            },
-            "sliceName": "slices/POIs/Legion/Legion_fort_props_kit/legion_ruins_pile_e",
-            "sliceAssetId": "{969EBC14-EF97-5A6D-890F-EACFCFB5D716}:2"
-        },
-        {
-            "id": "fd6a718a-b42b-dbf2-d8a3-f035089cb064",
-            "worldPosition": {
-                "x": 4509.72412109375,
-                "y": 8680.826171875,
-                "z": 281.68035888671877
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9998254179954529,
-                "w": 0.01868397369980812
-            },
-            "scale": 0.8000001907348633,
-            "footprint": {
-                "type": "Circle",
-                "id": "878889ed-d069-5487-df88-22728e7531c7",
-                "radius": 2.0
-            },
-            "sliceName": "slices/POIs/Legion/Legion_fort_props_kit/legion_ruins_pile_e",
-            "sliceAssetId": "{969EBC14-EF97-5A6D-890F-EACFCFB5D716}:2"
-        },
-        {
-            "id": "b80fb569-9cff-fe30-dfc1-3383c0168cda",
-            "worldPosition": {
-                "x": 5165.0,
-                "y": 8550.0,
-                "z": 123.0
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.4226182997226715,
+                "w": 0.9063077569007874
             },
             "footprint": {
                 "type": "Circle",
-                "id": "1577af17-038d-b843-777d-64b819b4ab21",
+                "id": "de63c77f-5693-67ac-6646-4cee6ca2a9f4",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\e6c87a3\\Darkness_SpawnGroup_Minor_Master_b80fb5699cfffe30dfc13383c0168cda",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:168cda"
+            "sliceName": "CoatGen\\e6c87a3\\MasterNpc_SwapHidden_Spawner_ad185c51164d31431884ac58731d5e91",
+            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:1d5e91"
         },
         {
-            "id": "ef4af9b1-0bd1-96b3-30b0-2ebf9f5349c8",
+            "id": "39a96b32-e5d0-00ff-ea95-da8943bdfc44",
             "worldPosition": {
-                "x": 5180.501953125,
-                "y": 8336.0673828125,
-                "z": 183.06666564941407
+                "x": 4512.0498046875,
+                "y": 8678.0517578125,
+                "z": 281.8800048828125
+            },
+            "rotation": {
+                "x": 0.05569145828485489,
+                "y": 0.0014139307895675302,
+                "z": 0.18602615594863892,
+                "w": 0.980964183807373
+            },
+            "scale": 0.8000000715255737,
+            "footprint": {
+                "type": "Rectangle",
+                "id": "29df1e2e-d8f0-8fdc-10bd-4638b436878a",
+                "width": 4.5,
+                "height": 1.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_fort_props_kit/legion_ruins_pile_g",
+            "sliceAssetId": "{B7AF09B3-BEB5-58FA-99F0-A94153A39E54}:2"
+        },
+        {
+            "id": "ec4d94f8-e35a-51af-a48a-e968541dcfaf",
+            "worldPosition": {
+                "x": 4504.83154296875,
+                "y": 8665.7744140625,
+                "z": 281.70416259765627
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 0.4960990250110626,
+                "w": 0.8682659268379211
             },
             "footprint": {
                 "type": "Circle",
-                "id": "b28fe196-5037-9996-3580-94c6a66bb7d9",
+                "id": "cbecdcb3-5329-e6b5-5ed7-8138e0a67736",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\e6c87a3\\Darkness_SpawnGroup_Major_Master_ef4af9b10bd196b330b02ebf9f5349c8",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:5349c8"
+            "sliceName": "slices/POIs/InteractFurniture/POI_InteractFurniture_Chair_Snapped_NoMesh",
+            "sliceAssetId": "{D9685DDD-5A1F-582C-8C38-873CBFEAC8D6}:2"
         },
         {
-            "id": "c99c35ba-30aa-3020-ecda-2f3cbb3ebfc7",
+            "id": "5ccbe3c1-871d-4372-ff73-d5b55d3b3af8",
             "worldPosition": {
-                "x": 5726.3984375,
-                "y": 8536.48828125,
-                "z": 225.9852752685547
+                "x": 4525.283203125,
+                "y": 8675.435546875,
+                "z": 281.57598876953127
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8290379047393799,
-                "w": 0.5591924786567688
+                "x": -0.09229586273431778,
+                "y": 0.701057493686676,
+                "z": 0.0922960638999939,
+                "w": 0.7010572552680969
             },
-            "scale": 1.2499998807907105,
+            "scale": 1.2000000476837159,
             "footprint": {
-                "type": "Circle",
-                "id": "beff556a-b80c-bd72-6d69-5e40969f7f89",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "eb87323f-5457-9255-3f5e-c1ce6a6c5d64",
+                "width": 1.0,
+                "height": 1.5
             },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/AnubianPortal/WorldEvent_IO_Anubian_Portal_16BS10_A",
-            "sliceAssetId": "{E649D797-EBE4-5613-AB7C-0C69E7AA0B58}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/POIs/Legion/Legion_ruins_kit/Individual_Parts/legion_bricks_02_b",
+            "sliceAssetId": "{061D24C1-197F-563D-8FBF-745E3E676DFF}:2"
         },
         {
             "id": "b39cf5e2-0f16-1ba5-160c-626acde57b35",
@@ -1360,119 +1555,6 @@
             "params": {
                 "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_major/major_darkness_footprint.obj"
             }
-        },
-        {
-            "id": "03a97448-39a7-df53-2488-18224cf3d3c8",
-            "worldPosition": {
-                "x": 4529.77294921875,
-                "y": 8666.5361328125,
-                "z": 281.56103515625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8191518783569336,
-                "w": 0.5735766887664795
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0f6a5e8c-6a8e-e5f3-c050-0650d7b730ff",
-                "radius": 26.0
-            },
-            "sliceName": "slices/POI/Outpost/Outpost_Brimstone_A",
-            "sliceAssetId": "{8CFED957-2BB5-55AF-8A47-719BF656ED6F}:2",
-            "params": {
-                "CAPITAL_TYPE": "Outpost",
-                "HAS_VEG_COMPONENTS": "1",
-                "HAS_WATER_COMPONENTS": "2"
-            }
-        },
-        {
-            "id": "ec4d94f8-e35a-51af-a48a-e968541dcfaf",
-            "worldPosition": {
-                "x": 4504.83154296875,
-                "y": 8665.7744140625,
-                "z": 281.70416259765627
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4960990250110626,
-                "w": 0.8682659268379211
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "cbecdcb3-5329-e6b5-5ed7-8138e0a67736",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/InteractFurniture/POI_InteractFurniture_Chair_Snapped_NoMesh",
-            "sliceAssetId": "{D9685DDD-5A1F-582C-8C38-873CBFEAC8D6}:2"
-        },
-        {
-            "id": "ad185c51-164d-3143-1884-ac58731d5e91",
-            "worldPosition": {
-                "x": 5263.19287109375,
-                "y": 8371.8662109375,
-                "z": 179.55142211914063
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4226182997226715,
-                "w": 0.9063077569007874
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "de63c77f-5693-67ac-6646-4cee6ca2a9f4",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\MasterNpc_SwapHidden_Spawner_ad185c51164d31431884ac58731d5e91",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:1d5e91"
-        },
-        {
-            "id": "adae3bfb-f46a-4ffc-3278-cba8b2791bac",
-            "worldPosition": {
-                "x": 4668.478515625,
-                "y": 8652.234375,
-                "z": 274.1883544921875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.017452379688620569,
-                "w": 0.9998477101325989
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "545df8ed-208f-0853-b928-faf15b88b245",
-                "radius": 1.0
-            },
-            "sliceName": "slices/Darkness/SpawnGroups/Darkness_Minor_Footprint_Master",
-            "sliceAssetId": "{DDB0EEED-324F-5C01-9428-3AD7B1B63B9A}:2",
-            "params": {
-                "FOOTPRINT_MESH_PATH": "/Assets/Objects/POIs/Terrain/Footprints/Darkness_Event/darkness_minor/minor_darkness_footprint.obj"
-            }
-        },
-        {
-            "id": "b0645d4e-d3ed-1889-993a-f6472cd7b913",
-            "worldPosition": {
-                "x": 4512.2060546875,
-                "y": 8654.609375,
-                "z": 281.56103515625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.8191520571708679,
-                "w": 0.5735764503479004
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4f0438b0-7177-6619-3c8e-d9504ef85c88",
-                "radius": 20.0
-            },
-            "sliceName": "CoatGen\\e6c87a3\\BlankSpace_A_b0645d4ed3ed1889993af6472cd7b913",
-            "sliceAssetId": "{1CA4D151-2F18-50B2-93AE-ABEA8C6E5CFA}:d7b913"
         }
     ]
 }

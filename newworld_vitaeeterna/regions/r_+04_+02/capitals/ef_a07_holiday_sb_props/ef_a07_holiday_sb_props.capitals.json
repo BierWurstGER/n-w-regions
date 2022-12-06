@@ -1,3 +1,28 @@
 {
-    "Capitals": []
+    "Capitals": [
+        {
+            "id": "7a76b222-b1a5-21cc-f60f-dddafab2abe3",
+            "worldPosition": {
+                "x": 8930.82421875,
+                "y": 4223.8232421875,
+                "z": 135.19403076171876
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9990623593330383,
+                "w": -0.04329428821802139
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "63fddccf-b381-91d5-162f-0d97fb76c3ab",
+                "radius": 1.0
+            },
+            "sliceName": "slices/Structures/Settlements/V2_Settlements/Spring_Bloom/Everfall_SpringBloom_Props",
+            "sliceAssetId": "{B93277F0-AD55-59CE-AFDC-30C153AB05A1}:2",
+            "params": {
+                "HAS_WATER_COMPONENTS": "2"
+            }
+        }
+    ]
 }

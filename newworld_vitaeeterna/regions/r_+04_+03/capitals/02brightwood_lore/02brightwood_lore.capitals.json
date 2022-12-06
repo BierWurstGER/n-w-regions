@@ -1,25 +1,25 @@
 {
     "Capitals": [
         {
-            "id": "cac0d121-2b72-a005-88e4-ff4038976234",
+            "id": "2d8b92f1-2317-9f18-1f9a-4c11208de256",
             "worldPosition": {
-                "x": 9982.0,
-                "y": 6344.0,
-                "z": 231.02999877929688
+                "x": 10146.810546875,
+                "y": 6207.30517578125,
+                "z": 233.56396484375
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.17364811897277833,
-                "w": 0.9848077893257141
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
             },
             "footprint": {
                 "type": "Circle",
-                "id": "6a985e32-0045-a2b4-c774-a50da22cba3c",
+                "id": "c2856e43-885b-064c-49a1-8f9368427071",
                 "radius": 1.0
             },
-            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselA",
-            "sliceAssetId": "{A2CD4647-C121-5601-A600-F0AE86B05079}:2",
+            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselH",
+            "sliceAssetId": "{05820FB7-7E17-55C4-A359-ED97932207D9}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -49,30 +49,6 @@
             }
         },
         {
-            "id": "2d8b92f1-2317-9f18-1f9a-4c11208de256",
-            "worldPosition": {
-                "x": 10146.810546875,
-                "y": 6207.30517578125,
-                "z": 233.56396484375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c2856e43-885b-064c-49a1-8f9368427071",
-                "radius": 1.0
-            },
-            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselH",
-            "sliceAssetId": "{05820FB7-7E17-55C4-A359-ED97932207D9}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "207cf652-1a1a-f418-1265-f385e3a31030",
             "worldPosition": {
                 "x": 9525.943359375,
@@ -92,6 +68,30 @@
             },
             "sliceName": "slices/POIs/Lore/Lore_00_Aeternum_Title_03_01",
             "sliceAssetId": "{B99D0994-C969-5E8E-99A0-D5946CFADCBF}:2"
+        },
+        {
+            "id": "cac0d121-2b72-a005-88e4-ff4038976234",
+            "worldPosition": {
+                "x": 9982.0,
+                "y": 6344.0,
+                "z": 231.02999877929688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.17364811897277833,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "6a985e32-0045-a2b4-c774-a50da22cba3c",
+                "radius": 1.0
+            },
+            "sliceName": "slices/WorldEvents/Brightwood/Interact/WolcottsEasel/IO_0231_WolcottsEaselA",
+            "sliceAssetId": "{A2CD4647-C121-5601-A600-F0AE86B05079}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         }
     ]
 }

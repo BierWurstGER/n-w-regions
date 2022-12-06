@@ -1,6 +1,27 @@
 {
     "Capitals": [
         {
+            "id": "73ea4b0a-4cfc-d95c-e1c1-902832085c14",
+            "worldPosition": {
+                "x": 7729.689453125,
+                "y": 7201.8056640625,
+                "z": 185.43649291992188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.3420202136039734,
+                "w": 0.9396926164627075
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "357c7be4-c0c8-48d8-bfae-67215854b2ef",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_73ea4b0a4cfcd95ce1c1902832085c14",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:85c14"
+        },
+        {
             "id": "99f72f0a-94dc-1eb5-396f-245903834c6f",
             "worldPosition": {
                 "x": 7721.5107421875,
@@ -20,27 +41,6 @@
             },
             "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_99f72f0a94dc1eb5396f245903834c6f",
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:834c6f"
-        },
-        {
-            "id": "6adb81f9-237e-8434-ecf4-b7c12ee8696a",
-            "worldPosition": {
-                "x": 6523.68505859375,
-                "y": 7599.07861328125,
-                "z": 109.56124877929688
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9396926164627075,
-                "w": -0.3420201241970062
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4fb5f6f7-3089-6de0-e4c7-7e7cabbe1a53",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_6adb81f9237e8434ecf4b7c12ee8696a",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:e8696a"
         },
         {
             "id": "71878208-05d9-9327-f52c-7393459076eb",
@@ -85,46 +85,25 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:8ec304"
         },
         {
-            "id": "73ea4b0a-4cfc-d95c-e1c1-902832085c14",
+            "id": "e8ef41ed-6b98-22d7-8590-686071087188",
             "worldPosition": {
-                "x": 7729.689453125,
-                "y": 7201.8056640625,
-                "z": 185.43649291992188
+                "x": 6592.306640625,
+                "y": 7211.42919921875,
+                "z": 104.49799346923828
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.3420202136039734,
-                "w": 0.9396926164627075
+                "z": 0.258819043636322,
+                "w": 0.9659258127212524
             },
             "footprint": {
                 "type": "Circle",
-                "id": "357c7be4-c0c8-48d8-bfae-67215854b2ef",
+                "id": "cf085bf8-64ae-fdeb-3e9a-5cff8bcf5ef1",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_73ea4b0a4cfcd95ce1c1902832085c14",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:85c14"
-        },
-        {
-            "id": "50f83294-6e62-75c9-7e6e-a7a03c7ccd42",
-            "worldPosition": {
-                "x": 6801.6611328125,
-                "y": 7526.3828125,
-                "z": 115.63272094726563
-            },
-            "rotation": {
-                "x": -0.10292430222034455,
-                "y": -0.04854762554168701,
-                "z": -0.387264609336853,
-                "w": 0.9149184823036194
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f035e39f-74df-6d3a-2ebf-25fcbe0fb7a0",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_50f832946e6275c97e6ea7a03c7ccd42",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:7ccd42"
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_e8ef41ed6b9822d78590686071087188",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:87188"
         },
         {
             "id": "f1dc9713-e540-b0bf-07f3-aa6f6da46fc1",
@@ -148,130 +127,46 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:a46fc1"
         },
         {
-            "id": "e8ef41ed-6b98-22d7-8590-686071087188",
+            "id": "6adb81f9-237e-8434-ecf4-b7c12ee8696a",
             "worldPosition": {
-                "x": 6592.306640625,
-                "y": 7211.42919921875,
-                "z": 104.49799346923828
+                "x": 6523.68505859375,
+                "y": 7599.07861328125,
+                "z": 109.56124877929688
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.258819043636322,
-                "w": 0.9659258127212524
+                "z": 0.9396926164627075,
+                "w": -0.3420201241970062
             },
             "footprint": {
                 "type": "Circle",
-                "id": "cf085bf8-64ae-fdeb-3e9a-5cff8bcf5ef1",
+                "id": "4fb5f6f7-3089-6de0-e4c7-7e7cabbe1a53",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_e8ef41ed6b9822d78590686071087188",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:87188"
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_6adb81f9237e8434ecf4b7c12ee8696a",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:e8696a"
         },
         {
-            "id": "7475e4ca-8ddd-ac07-76cd-3b259d6c140f",
+            "id": "50f83294-6e62-75c9-7e6e-a7a03c7ccd42",
             "worldPosition": {
-                "x": 7707.11376953125,
-                "y": 7212.99169921875,
-                "z": 185.00637817382813
+                "x": 6801.6611328125,
+                "y": 7526.3828125,
+                "z": 115.63272094726563
             },
             "rotation": {
-                "x": -0.018794843927025796,
-                "y": -0.013810097239911557,
-                "z": 0.5015324950218201,
-                "w": 0.8648244142532349
+                "x": -0.10292430222034455,
+                "y": -0.04854762554168701,
+                "z": -0.387264609336853,
+                "w": 0.9149184823036194
             },
             "footprint": {
                 "type": "Circle",
-                "id": "acda4fdc-697b-b119-50ff-582be2cbfa8d",
+                "id": "f035e39f-74df-6d3a-2ebf-25fcbe0fb7a0",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_7475e4ca8dddac0776cd3b259d6c140f",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:6c140f"
-        },
-        {
-            "id": "478f41a0-890d-320c-e5e9-b41f1c743139",
-            "worldPosition": {
-                "x": 7715.30078125,
-                "y": 7207.455078125,
-                "z": 185.1150665283203
-            },
-            "rotation": {
-                "x": 0.014537336304783821,
-                "y": 0.013557307422161103,
-                "z": -0.8657075762748718,
-                "w": 0.5001553893089294
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a883eb22-6e83-f220-d389-fba776117854",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_478f41a0890d320ce5e9b41f1c743139",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:743139"
-        },
-        {
-            "id": "8142732b-affa-096f-30fc-6783932c4988",
-            "worldPosition": {
-                "x": 6566.99853515625,
-                "y": 7636.94580078125,
-                "z": 112.81427001953125
-            },
-            "rotation": {
-                "x": -0.02657969854772091,
-                "y": 0.01811966858804226,
-                "z": 0.8234642744064331,
-                "w": 0.566455602645874
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5a69c5c7-cda9-e150-56b0-a5f255535eee",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_8142732baffa096f30fc6783932c4988",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2c4988"
-        },
-        {
-            "id": "6568c4a9-ae25-b1f3-8f52-69808e5f5c47",
-            "worldPosition": {
-                "x": 7614.44189453125,
-                "y": 7274.0107421875,
-                "z": 183.1876678466797
-            },
-            "rotation": {
-                "x": 0.04237374663352966,
-                "y": 0.011018672958016396,
-                "z": -0.7064593434333801,
-                "w": 0.7063981294631958
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "441d759e-4035-a602-3787-b870fda8235c",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_6568c4a9ae25b1f38f5269808e5f5c47",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5f5c47"
-        },
-        {
-            "id": "b1b124ba-14c8-232c-8c83-d54e294361ec",
-            "worldPosition": {
-                "x": 6867.59716796875,
-                "y": 7171.859375,
-                "z": 168.84776306152345
-            },
-            "rotation": {
-                "x": -0.011587590910494328,
-                "y": 0.030008839443325998,
-                "z": 0.9994814991950989,
-                "w": -0.0013948710402473808
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0cf474df-532b-ec4d-e407-4cec623785d4",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_b1b124ba14c8232c8c83d54e294361ec",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4361ec"
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapHidden_Spawner_50f832946e6275c97e6ea7a03c7ccd42",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:7ccd42"
         },
         {
             "id": "332fb93d-2de9-818c-d253-3372bf5c1cae",
@@ -295,6 +190,27 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5c1cae"
         },
         {
+            "id": "c6c4957d-483b-ced8-f875-5fa4857ee72f",
+            "worldPosition": {
+                "x": 7717.4111328125,
+                "y": 7191.0419921875,
+                "z": 184.95741271972657
+            },
+            "rotation": {
+                "x": -0.02655421942472458,
+                "y": 0.00946877058595419,
+                "z": -0.42836472392082217,
+                "w": 0.9031660556793213
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5f65e793-807c-716c-f364-6bd907d99361",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_c6c4957d483bced8f8755fa4857ee72f",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:7ee72f"
+        },
+        {
             "id": "d318a97d-af49-8bab-f99b-ec62122642a5",
             "worldPosition": {
                 "x": 6516.96240234375,
@@ -314,69 +230,6 @@
             },
             "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_d318a97daf498babf99bec62122642a5",
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2642a5"
-        },
-        {
-            "id": "aa8bc33f-18fa-3ca8-84eb-fc18b96e97be",
-            "worldPosition": {
-                "x": 7558.0,
-                "y": 7290.0,
-                "z": 183.22154235839845
-            },
-            "rotation": {
-                "x": -0.02888566069304943,
-                "y": 0.004199655260890722,
-                "z": 0.9046820402145386,
-                "w": -0.4250863492488861
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1e568a02-a978-69a5-1566-29ce7b388e76",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_aa8bc33f18fa3ca884ebfc18b96e97be",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:6e97be"
-        },
-        {
-            "id": "b54deec4-d66b-d1e7-2bb6-49dca31ea279",
-            "worldPosition": {
-                "x": 7717.3837890625,
-                "y": 7214.17578125,
-                "z": 185.02212524414063
-            },
-            "rotation": {
-                "x": -0.013153744861483574,
-                "y": -0.0005345273530110717,
-                "z": 0.923799455165863,
-                "w": -0.38265034556388857
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "4e90c09c-71bc-b307-d7a0-9e0f2dbd6e6a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_b54deec4d66bd1e72bb649dca31ea279",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:1ea279"
-        },
-        {
-            "id": "763c7fdb-dc3a-2a9b-3e9f-cc16bbdb61f8",
-            "worldPosition": {
-                "x": 6321.05126953125,
-                "y": 7825.2783203125,
-                "z": 89.82963562011719
-            },
-            "rotation": {
-                "x": 0.019616344943642618,
-                "y": -0.027445165440440179,
-                "z": -0.7067042589187622,
-                "w": 0.7067043781280518
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "45064c54-06ff-34fd-85d8-9bbf79dd3f7a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_763c7fdbdc3a2a9b3e9fcc16bbdb61f8",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:db61f8"
         },
         {
             "id": "cb201573-c25a-d44f-b643-e77f1bb3b87f",
@@ -400,25 +253,25 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:b3b87f"
         },
         {
-            "id": "c6c4957d-483b-ced8-f875-5fa4857ee72f",
+            "id": "b54deec4-d66b-d1e7-2bb6-49dca31ea279",
             "worldPosition": {
-                "x": 7717.4111328125,
-                "y": 7191.0419921875,
-                "z": 184.95741271972657
+                "x": 7717.3837890625,
+                "y": 7214.17578125,
+                "z": 185.02212524414063
             },
             "rotation": {
-                "x": -0.02655421942472458,
-                "y": 0.00946877058595419,
-                "z": -0.42836472392082217,
-                "w": 0.9031660556793213
+                "x": -0.013153744861483574,
+                "y": -0.0005345273530110717,
+                "z": 0.923799455165863,
+                "w": -0.38265034556388857
             },
             "footprint": {
                 "type": "Circle",
-                "id": "5f65e793-807c-716c-f364-6bd907d99361",
+                "id": "4e90c09c-71bc-b307-d7a0-9e0f2dbd6e6a",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_c6c4957d483bced8f8755fa4857ee72f",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:7ee72f"
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_b54deec4d66bd1e72bb649dca31ea279",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:1ea279"
         },
         {
             "id": "326f233f-5ab9-3682-85d5-47d4604705d2",
@@ -442,217 +295,173 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4705d2"
         },
         {
-            "id": "94f28aba-e39e-78b8-a2f5-80262046fc6d",
+            "id": "6568c4a9-ae25-b1f3-8f52-69808e5f5c47",
             "worldPosition": {
-                "x": 7269.61181640625,
-                "y": 7215.3994140625,
-                "z": 224.40098571777345
+                "x": 7614.44189453125,
+                "y": 7274.0107421875,
+                "z": 183.1876678466797
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.04237374663352966,
+                "y": 0.011018672958016396,
+                "z": -0.7064593434333801,
+                "w": 0.7063981294631958
             },
             "footprint": {
                 "type": "Circle",
-                "id": "f90c2be8-719b-cd80-5f14-e32daa761fc8",
+                "id": "441d759e-4035-a602-3787-b870fda8235c",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_94f28abae39e78b8a2f580262046fc6d",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:46fc6d",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_6568c4a9ae25b1f38f5269808e5f5c47",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5f5c47"
         },
         {
-            "id": "b08651e0-6ace-a28d-bb94-5c15a3e98ca4",
+            "id": "aa8bc33f-18fa-3ca8-84eb-fc18b96e97be",
             "worldPosition": {
-                "x": 6781.8564453125,
-                "y": 7084.86865234375,
-                "z": 173.17807006835938
+                "x": 7558.0,
+                "y": 7290.0,
+                "z": 183.22154235839845
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.537299633026123,
-                "w": 0.8433914184570313
+                "x": -0.02888566069304943,
+                "y": 0.004199655260890722,
+                "z": 0.9046820402145386,
+                "w": -0.4250863492488861
             },
             "footprint": {
                 "type": "Circle",
-                "id": "f59fa100-9cb9-e238-7fb2-301daae6a271",
+                "id": "1e568a02-a978-69a5-1566-29ce7b388e76",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_b08651e06acea28dbb945c15a3e98ca4",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:e98ca4",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_aa8bc33f18fa3ca884ebfc18b96e97be",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:6e97be"
         },
         {
-            "id": "0685beb3-f165-9d43-14f0-66c05bea7d80",
+            "id": "7475e4ca-8ddd-ac07-76cd-3b259d6c140f",
             "worldPosition": {
-                "x": 7366.46484375,
-                "y": 7289.77001953125,
-                "z": 205.14854431152345
+                "x": 7707.11376953125,
+                "y": 7212.99169921875,
+                "z": 185.00637817382813
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": -0.018794843927025796,
+                "y": -0.013810097239911557,
+                "z": 0.5015324950218201,
+                "w": 0.8648244142532349
             },
             "footprint": {
                 "type": "Circle",
-                "id": "09cb2740-f064-85cf-bbf1-4a13888604f6",
+                "id": "acda4fdc-697b-b119-50ff-582be2cbfa8d",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_0685beb3f1659d4314f066c05bea7d80",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:ea7d80",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_7475e4ca8dddac0776cd3b259d6c140f",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:6c140f"
         },
         {
-            "id": "ce8571fc-0c8f-d0be-d399-e5d3c842925c",
+            "id": "b1b124ba-14c8-232c-8c83-d54e294361ec",
             "worldPosition": {
-                "x": 6812.68701171875,
-                "y": 7094.6806640625,
-                "z": 173.35804748535157
+                "x": 6867.59716796875,
+                "y": 7171.859375,
+                "z": 168.84776306152345
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070585012435915,
-                "w": 0.9537169337272644
+                "x": -0.011587590910494328,
+                "y": 0.030008839443325998,
+                "z": 0.9994814991950989,
+                "w": -0.0013948710402473808
             },
             "footprint": {
                 "type": "Circle",
-                "id": "404ff9fe-d513-7311-d33e-3c9cbc7bb644",
+                "id": "0cf474df-532b-ec4d-e407-4cec623785d4",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_ce8571fc0c8fd0bed399e5d3c842925c",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:42925c",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_b1b124ba14c8232c8c83d54e294361ec",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4361ec"
         },
         {
-            "id": "c9d2a746-1740-b01a-2921-77780bcf87c5",
+            "id": "8142732b-affa-096f-30fc-6783932c4988",
             "worldPosition": {
-                "x": 6780.4853515625,
-                "y": 7044.53662109375,
-                "z": 180.33184814453126
+                "x": 6566.99853515625,
+                "y": 7636.94580078125,
+                "z": 112.81427001953125
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.7071068286895752,
-                "w": 0.7071067094802856
+                "x": -0.02657969854772091,
+                "y": 0.01811966858804226,
+                "z": 0.8234642744064331,
+                "w": 0.566455602645874
             },
             "footprint": {
                 "type": "Circle",
-                "id": "ca822dc0-b0b7-79e5-c836-69d79ee84a9c",
+                "id": "5a69c5c7-cda9-e150-56b0-a5f255535eee",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_c9d2a7461740b01a292177780bcf87c5",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:cf87c5",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_8142732baffa096f30fc6783932c4988",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2c4988"
         },
         {
-            "id": "c1ffe998-3fb2-9d59-981a-a2ab68ddea7f",
+            "id": "478f41a0-890d-320c-e5e9-b41f1c743139",
             "worldPosition": {
-                "x": 7335.4189453125,
-                "y": 7260.1337890625,
-                "z": 217.06361389160157
+                "x": 7715.30078125,
+                "y": 7207.455078125,
+                "z": 185.1150665283203
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.014537336304783821,
+                "y": 0.013557307422161103,
+                "z": -0.8657075762748718,
+                "w": 0.5001553893089294
             },
             "footprint": {
                 "type": "Circle",
-                "id": "af89ed14-11a7-6ddc-d7c5-6d1f897a8f28",
+                "id": "a883eb22-6e83-f220-d389-fba776117854",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_c1ffe9983fb29d59981aa2ab68ddea7f",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:ddea7f",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_478f41a0890d320ce5e9b41f1c743139",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:743139"
         },
         {
-            "id": "80d5a661-0a3c-abe5-1847-c1a6aa945efb",
+            "id": "763c7fdb-dc3a-2a9b-3e9f-cc16bbdb61f8",
             "worldPosition": {
-                "x": 6735.9638671875,
-                "y": 7058.82861328125,
-                "z": 199.55416870117188
+                "x": 6321.05126953125,
+                "y": 7825.2783203125,
+                "z": 89.82963562011719
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.04361977055668831,
-                "w": 0.9990481734275818
+                "x": 0.019616344943642618,
+                "y": -0.027445165440440179,
+                "z": -0.7067042589187622,
+                "w": 0.7067043781280518
             },
             "footprint": {
                 "type": "Circle",
-                "id": "087fc3b6-89f2-ca30-4280-e09084f44cb6",
+                "id": "45064c54-06ff-34fd-85d8-9bbf79dd3f7a",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_80d5a6610a3cabe51847c1a6aa945efb",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:945efb",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_Spawner_763c7fdbdc3a2a9b3e9fcc16bbdb61f8",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:db61f8"
         },
         {
-            "id": "dacb43cf-a995-f81d-5a5e-3593726e9077",
+            "id": "015d7201-55e0-ff93-6742-877ec2b1aaad",
             "worldPosition": {
-                "x": 6765.57666015625,
-                "y": 7106.7626953125,
-                "z": 184.934326171875
+                "x": 6552.7314453125,
+                "y": 7248.06787109375,
+                "z": 95.64442443847656
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.34202009439468386,
-                "w": 0.9396926760673523
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
             },
             "footprint": {
-                "type": "Circle",
-                "id": "f14e8838-1914-b3e9-ab61-72d0151d50a9",
-                "radius": 1.0
+                "type": "Rectangle",
+                "id": "a88e00cf-6331-99e3-c5f3-7b8735ff4859",
+                "width": 3.5,
+                "height": 2.0
             },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_dacb43cfa995f81d5a5e3593726e9077",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:6e9077",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "62ce972d-a248-1206-d0d7-35d5edf615b1",
-            "worldPosition": {
-                "x": 7327.5849609375,
-                "y": 7244.27587890625,
-                "z": 221.28799438476563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5255499c-c52a-4f42-b832-13096006de46",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_62ce972da2481206d0d735d5edf615b1",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:f615b1",
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1622_altar",
+            "sliceAssetId": "{B6997093-6CC1-5297-A259-A1A3721C15B6}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -673,31 +482,6 @@
             "footprint": {
                 "type": "Rectangle",
                 "id": "ee884a7f-8685-3b81-8ecb-25c337f15610",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1622_altar",
-            "sliceAssetId": "{B6997093-6CC1-5297-A259-A1A3721C15B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "015d7201-55e0-ff93-6742-877ec2b1aaad",
-            "worldPosition": {
-                "x": 6552.7314453125,
-                "y": 7248.06787109375,
-                "z": 95.64442443847656
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "a88e00cf-6331-99e3-c5f3-7b8735ff4859",
                 "width": 3.5,
                 "height": 2.0
             },
@@ -733,31 +517,6 @@
             }
         },
         {
-            "id": "32316971-fb5e-749d-2b02-7fe56a26e059",
-            "worldPosition": {
-                "x": 6557.875,
-                "y": 7264.18896484375,
-                "z": 104.4991226196289
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.7071065902709961,
-                "w": 0.7071069478988648
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "6dab8db5-9e34-6e1c-eee6-5a37df900cf5",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1622_altar",
-            "sliceAssetId": "{B6997093-6CC1-5297-A259-A1A3721C15B6}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
             "id": "b271ccec-9dc9-f76a-0aef-9d40eb0fc02a",
             "worldPosition": {
                 "x": 6479.9130859375,
@@ -783,478 +542,29 @@
             }
         },
         {
-            "id": "ccd66809-4114-0ee9-b2be-28c0294e0bfa",
+            "id": "32316971-fb5e-749d-2b02-7fe56a26e059",
             "worldPosition": {
-                "x": 7107.1689453125,
-                "y": 6662.45654296875,
-                "z": 168.1384735107422
+                "x": 6557.875,
+                "y": 7264.18896484375,
+                "z": 104.4991226196289
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.28401535749435427,
-                "w": 0.9588196873664856
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2e4e15a5-9fa9-7814-970f-69b9642aad5f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_ccd6680941140ee9b2be28c0294e0bfa",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4e0bfa"
-        },
-        {
-            "id": "a11daec1-f48b-ae49-e1a4-460c8385a655",
-            "worldPosition": {
-                "x": 7217.22216796875,
-                "y": 6948.55615234375,
-                "z": 190.5896759033203
-            },
-            "rotation": {
-                "x": 0.012593396008014679,
-                "y": -0.06804028898477555,
-                "z": -0.6073026061058044,
-                "w": 0.7914515137672424
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "dd732652-52b9-def7-692c-a6e1dbbb04f0",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_a11daec1f48bae49e1a4460c8385a655",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:85a655"
-        },
-        {
-            "id": "dc9bf2b4-d825-e7e1-836f-5707038cc3bd",
-            "worldPosition": {
-                "x": 7247.068359375,
-                "y": 7229.56689453125,
-                "z": 236.88900756835938
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "60118df0-869d-d684-1aab-e2a7282f88fa",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_dc9bf2b4d825e7e1836f5707038cc3bd",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:8cc3bd"
-        },
-        {
-            "id": "9099f886-701a-125f-747f-8200175a0a25",
-            "worldPosition": {
-                "x": 7113.67578125,
-                "y": 6903.14111328125,
-                "z": 184.4499969482422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "518a823c-7137-0439-bc88-f58ef8e019ea",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_9099f886701a125f747f8200175a0a25",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5a0a25"
-        },
-        {
-            "id": "040b275e-8434-69f1-cf24-feace5a92b18",
-            "worldPosition": {
-                "x": 6508.99658203125,
-                "y": 7245.06884765625,
-                "z": 60.56163787841797
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "829af209-586e-de18-9f6b-e0c460eb9313",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_040b275e843469f1cf24feace5a92b18",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:a92b18"
-        },
-        {
-            "id": "9f18fefc-eb4e-4778-3504-211ae833ff75",
-            "worldPosition": {
-                "x": 7366.68310546875,
-                "y": 7295.1591796875,
-                "z": 205.0265350341797
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.08715575188398361,
-                "w": 0.9961947202682495
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2036c095-8715-5244-074e-438f3d59696a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_9f18fefceb4e47783504211ae833ff75",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:33ff75"
-        },
-        {
-            "id": "4dca8ef6-2cf2-0686-caa7-8e489a8276b8",
-            "worldPosition": {
-                "x": 6216.9892578125,
-                "y": 7316.61767578125,
-                "z": 59.09035873413086
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "b14542cb-7f73-a1da-1db4-ad52aa60d207",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_4dca8ef62cf20686caa78e489a8276b8",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:8276b8"
-        },
-        {
-            "id": "866abc74-6b74-3c4f-684a-bcd33c9cbbd7",
-            "worldPosition": {
-                "x": 6775.462890625,
-                "y": 7929.27392578125,
-                "z": 79.35016632080078
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "10f87536-90e4-00f5-8ab7-31853bde6903",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_866abc746b743c4f684abcd33c9cbbd7",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:9cbbd7"
-        },
-        {
-            "id": "8e0e92e7-a57f-8802-c261-94d581fe1dde",
-            "worldPosition": {
-                "x": 7497.79296875,
-                "y": 7116.52099609375,
-                "z": 187.62652587890626
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "a1f4798c-418d-a9fd-811c-7c684f180e0a",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_8e0e92e7a57f8802c26194d581fe1dde",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:fe1dde"
-        },
-        {
-            "id": "f09df48d-f3d4-f9b6-932a-7a9a2ac0cef6",
-            "worldPosition": {
-                "x": 6589.794921875,
-                "y": 7219.05322265625,
-                "z": 99.98500061035156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070579051971438,
-                "w": 0.9537169933319092
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c1a6bf64-828a-987e-182b-9f826f692c0d",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_f09df48df3d4f9b6932a7a9a2ac0cef6",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:c0cef6"
-        },
-        {
-            "id": "0a91f7f5-5bae-db8d-0344-7c136f2d24d6",
-            "worldPosition": {
-                "x": 6270.6318359375,
-                "y": 7476.76611328125,
-                "z": 68.62129974365235
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.07175011932849884,
-                "w": 0.9974226355552673
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "93268220-352c-d52a-79dc-abfd383c2e0e",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_0a91f7f55baedb8d3447c136f2d24d6",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2d24d6"
-        },
-        {
-            "id": "3aa56af4-4c0f-2167-9814-e8e69163e181",
-            "worldPosition": {
-                "x": 7053.587890625,
-                "y": 6756.44677734375,
-                "z": 181.32723999023438
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.258819043636322,
-                "w": 0.9659258127212524
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bfc82768-8921-3f52-cc72-e8573ac7dec9",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_3aa56af44c0f21679814e8e69163e181",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:63e181"
-        },
-        {
-            "id": "66d3277e-ea5e-eb23-bd25-0f85559ffe0a",
-            "worldPosition": {
-                "x": 7652.3232421875,
-                "y": 7063.7431640625,
-                "z": 176.3679962158203
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.17364782094955445,
-                "w": 0.9848077893257141
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "bea20aa3-9b6f-c9f9-82f5-cdebbe29ee34",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_66d3277eea5eeb23bd250f85559ffe0a",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:9ffe0a"
-        },
-        {
-            "id": "b722dfd1-162e-1ba4-0b86-aac7d47a98c2",
-            "worldPosition": {
-                "x": 6252.99951171875,
-                "y": 7605.0,
-                "z": 65.1884765625
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.25881901383399966,
-                "w": 0.9659258127212524
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3c22efbc-4f2c-1c16-cc62-40b19b9da141",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_b722dfd1162e1ba4b86aac7d47a98c2",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:7a98c2"
-        },
-        {
-            "id": "fe421622-a3f1-498d-2e19-c52ea95ba256",
-            "worldPosition": {
-                "x": 6594.09765625,
-                "y": 7213.0703125,
-                "z": 104.49798583984375
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.4226182997226715,
-                "w": 0.9063077569007874
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "964b0452-8cd5-de15-3cbd-9af4cee038e7",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_fe421622a3f1498d2e19c52ea95ba256",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5ba256"
-        },
-        {
-            "id": "22fa2eca-e041-3434-a3f6-47f73e0205ab",
-            "worldPosition": {
-                "x": 7508.3427734375,
-                "y": 7027.50390625,
-                "z": 195.51199340820313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.6087612509727478,
-                "w": 0.7933534979820252
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "5cfc43fa-4a91-7730-07d2-683f2cad1797",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_22fa2ecae0413434a3f647f73e0205ab",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:205ab"
-        },
-        {
-            "id": "b3f5e51f-83d8-e419-5040-2ab9cd143a4b",
-            "worldPosition": {
-                "x": 7358.0751953125,
-                "y": 7010.66796875,
-                "z": 189.9010009765625
-            },
-            "rotation": {
-                "x": -0.015252559445798397,
-                "y": -0.031362470239400867,
-                "z": -0.6083912253379822,
-                "w": 0.7928706407546997
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "912257c9-1a82-41d5-1769-dfca01caecb2",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_b3f5e51f83d8e41950402ab9cd143a4b",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:143a4b"
-        },
-        {
-            "id": "c60b6224-5074-1b65-b492-8d064ccde3b4",
-            "worldPosition": {
-                "x": 7246.865234375,
-                "y": 7307.412109375,
-                "z": 213.97000122070313
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "c1a1af2f-dc64-690f-ffee-505178d399c2",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_c60b622450741b65b4928d064ccde3b4",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:cde3b4"
-        },
-        {
-            "id": "1bb50c36-b802-89c1-e308-1b8b4041120b",
-            "worldPosition": {
-                "x": 6966.00634765625,
-                "y": 7915.19482421875,
-                "z": 213.2362823486328
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.17364782094955445,
-                "w": 0.9848077893257141
+                "z": -0.7071065902709961,
+                "w": 0.7071069478988648
             },
             "footprint": {
                 "type": "Rectangle",
-                "id": "9955fd7f-7b16-723a-f228-67c8d2b47df4",
+                "id": "6dab8db5-9e34-6e1c-eee6-5a37df900cf5",
                 "width": 3.5,
                 "height": 2.0
             },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1609_water",
-            "sliceAssetId": "{565B1BA6-45B5-56B8-AEBE-97AC4876B638}:2",
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1622_altar",
+            "sliceAssetId": "{B6997093-6CC1-5297-A259-A1A3721C15B6}:2",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
-        },
-        {
-            "id": "275e2a76-0b52-e651-e78d-cc7ee282e61d",
-            "worldPosition": {
-                "x": 6951.98876953125,
-                "y": 8000.74755859375,
-                "z": 211.05221557617188
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "19236651-3e64-a3f1-f97a-43e666733158",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1609_water",
-            "sliceAssetId": "{565B1BA6-45B5-56B8-AEBE-97AC4876B638}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "fee572af-20ff-2c6f-94e9-09cdc8d50203",
-            "worldPosition": {
-                "x": 6944.126953125,
-                "y": 7960.677734375,
-                "z": 207.73565673828126
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 8.726645717160864e-8,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "2c077021-9d76-9664-45c9-cd520cbaf545",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1609_water",
-            "sliceAssetId": "{565B1BA6-45B5-56B8-AEBE-97AC4876B638}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "3b81e8eb-3a63-2d5d-59c9-b95485eea52e",
-            "worldPosition": {
-                "x": 7558.39892578125,
-                "y": 7314.73193359375,
-                "z": 182.94091796875
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.9948490262031555,
-                "w": -0.1013675108551979
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "7b786da3-bbcf-eb86-76f9-4b80bcaacb6f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapShown_Spawner_3b81e8eb3a632d5d59c9b95485eea52e",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:eea52e"
         },
         {
             "id": "bf5bd9d2-57cd-563a-a4cc-95ba96a0d664",
@@ -1320,6 +630,390 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:270594"
         },
         {
+            "id": "3b81e8eb-3a63-2d5d-59c9-b95485eea52e",
+            "worldPosition": {
+                "x": 7558.39892578125,
+                "y": 7314.73193359375,
+                "z": 182.94091796875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.9948490262031555,
+                "w": -0.1013675108551979
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "7b786da3-bbcf-eb86-76f9-4b80bcaacb6f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\MasterNpc_SwapShown_Spawner_3b81e8eb3a632d5d59c9b95485eea52e",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:eea52e"
+        },
+        {
+            "id": "62ce972d-a248-1206-d0d7-35d5edf615b1",
+            "worldPosition": {
+                "x": 7327.5849609375,
+                "y": 7244.27587890625,
+                "z": 221.28799438476563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5255499c-c52a-4f42-b832-13096006de46",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_62ce972da2481206d0d735d5edf615b1",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:f615b1",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "b08651e0-6ace-a28d-bb94-5c15a3e98ca4",
+            "worldPosition": {
+                "x": 6781.8564453125,
+                "y": 7084.86865234375,
+                "z": 173.17807006835938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.537299633026123,
+                "w": 0.8433914184570313
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f59fa100-9cb9-e238-7fb2-301daae6a271",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_b08651e06acea28dbb945c15a3e98ca4",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:e98ca4",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c9d2a746-1740-b01a-2921-77780bcf87c5",
+            "worldPosition": {
+                "x": 6780.4853515625,
+                "y": 7044.53662109375,
+                "z": 180.33184814453126
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.7071068286895752,
+                "w": 0.7071067094802856
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ca822dc0-b0b7-79e5-c836-69d79ee84a9c",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_c9d2a7461740b01a292177780bcf87c5",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:cf87c5",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "0685beb3-f165-9d43-14f0-66c05bea7d80",
+            "worldPosition": {
+                "x": 7366.46484375,
+                "y": 7289.77001953125,
+                "z": 205.14854431152345
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "09cb2740-f064-85cf-bbf1-4a13888604f6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_0685beb3f1659d4314f066c05bea7d80",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:ea7d80",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "80d5a661-0a3c-abe5-1847-c1a6aa945efb",
+            "worldPosition": {
+                "x": 6735.9638671875,
+                "y": 7058.82861328125,
+                "z": 199.55416870117188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.04361977055668831,
+                "w": 0.9990481734275818
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "087fc3b6-89f2-ca30-4280-e09084f44cb6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_80d5a6610a3cabe51847c1a6aa945efb",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:945efb",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "ce8571fc-0c8f-d0be-d399-e5d3c842925c",
+            "worldPosition": {
+                "x": 6812.68701171875,
+                "y": 7094.6806640625,
+                "z": 173.35804748535157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070585012435915,
+                "w": 0.9537169337272644
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "404ff9fe-d513-7311-d33e-3c9cbc7bb644",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_ce8571fc0c8fd0bed399e5d3c842925c",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:42925c",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "dacb43cf-a995-f81d-5a5e-3593726e9077",
+            "worldPosition": {
+                "x": 6765.57666015625,
+                "y": 7106.7626953125,
+                "z": 184.934326171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.34202009439468386,
+                "w": 0.9396926760673523
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f14e8838-1914-b3e9-ab61-72d0151d50a9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_dacb43cfa995f81d5a5e3593726e9077",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:6e9077",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "94f28aba-e39e-78b8-a2f5-80262046fc6d",
+            "worldPosition": {
+                "x": 7269.61181640625,
+                "y": 7215.3994140625,
+                "z": 224.40098571777345
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f90c2be8-719b-cd80-5f14-e32daa761fc8",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_94f28abae39e78b8a2f580262046fc6d",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:46fc6d",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "c1ffe998-3fb2-9d59-981a-a2ab68ddea7f",
+            "worldPosition": {
+                "x": 7335.4189453125,
+                "y": 7260.1337890625,
+                "z": 217.06361389160157
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "af89ed14-11a7-6ddc-d7c5-6d1f897a8f28",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Instanced_Spawner_c1ffe9983fb29d59981aa2ab68ddea7f",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:ddea7f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "fee572af-20ff-2c6f-94e9-09cdc8d50203",
+            "worldPosition": {
+                "x": 6944.126953125,
+                "y": 7960.677734375,
+                "z": 207.73565673828126
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 8.726645717160864e-8,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "2c077021-9d76-9664-45c9-cd520cbaf545",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1609_water",
+            "sliceAssetId": "{565B1BA6-45B5-56B8-AEBE-97AC4876B638}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "1bb50c36-b802-89c1-e308-1b8b4041120b",
+            "worldPosition": {
+                "x": 6966.00634765625,
+                "y": 7915.19482421875,
+                "z": 213.2362823486328
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.17364782094955445,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "9955fd7f-7b16-723a-f228-67c8d2b47df4",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1609_water",
+            "sliceAssetId": "{565B1BA6-45B5-56B8-AEBE-97AC4876B638}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "275e2a76-0b52-e651-e78d-cc7ee282e61d",
+            "worldPosition": {
+                "x": 6951.98876953125,
+                "y": 8000.74755859375,
+                "z": 211.05221557617188
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "19236651-3e64-a3f1-f97a-43e666733158",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "slices/WorldEvents/BrimstoneSands/Interact/IO_WorldEvent_FM_1609_water",
+            "sliceAssetId": "{565B1BA6-45B5-56B8-AEBE-97AC4876B638}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "2b5641be-0c64-2f12-07c4-5373b281192f",
+            "worldPosition": {
+                "x": 6773.671875,
+                "y": 7931.41650390625,
+                "z": 90.43816375732422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "1a3ed7a4-02ef-7674-5dbe-9acf5f7c207e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Damageable_Instanced_Spawner_2b5641be0c642f127c45373b281192f",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:81192f",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "90b3ba7b-8abf-1dc9-9c45-8325c161f854",
+            "worldPosition": {
+                "x": 6771.31689453125,
+                "y": 7931.732421875,
+                "z": 85.0213394165039
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2d531560-12d9-ef4f-625a-6e41d97724ee",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Damageable_Instanced_Spawner_90b3ba7b8abf1dc99c458325c161f854",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:61f854",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "9aaa7c24-e5cb-9c88-25ae-4887c8fefb51",
+            "worldPosition": {
+                "x": 6780.7587890625,
+                "y": 7928.12451171875,
+                "z": 89.53771209716797
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "49a28efb-ad3c-ef31-a68f-08d10e478b11",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Damageable_Instanced_Spawner_9aaa7c24e5cb9c8825ae4887c8fefb51",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:fefb51",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "6281a20a-ce01-4f89-f4c1-384044973c3b",
             "worldPosition": {
                 "x": 7729.35888671875,
@@ -1341,11 +1035,11 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:973c3b"
         },
         {
-            "id": "d47db3dc-2017-3e48-a969-4eb31c01cb2d",
+            "id": "8e0e92e7-a57f-8802-c261-94d581fe1dde",
             "worldPosition": {
-                "x": 6802.06689453125,
-                "y": 7526.8427734375,
-                "z": 115.57319641113281
+                "x": 7497.79296875,
+                "y": 7116.52099609375,
+                "z": 187.62652587890626
             },
             "rotation": {
                 "x": 0.0,
@@ -1355,18 +1049,39 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "afce91de-90b8-4495-9ad1-c29816e67aba",
+                "id": "a1f4798c-418d-a9fd-811c-7c684f180e0a",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Gaius",
-            "sliceAssetId": "{0B8AE027-3711-57B2-BD2C-4062DEC15FF7}:2"
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_8e0e92e7a57f8802c26194d581fe1dde",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:fe1dde"
         },
         {
-            "id": "18fbaaf1-3378-dba9-9d00-a50dd0e39a52",
+            "id": "b3f5e51f-83d8-e419-5040-2ab9cd143a4b",
             "worldPosition": {
-                "x": 6320.919921875,
-                "y": 7826.10009765625,
-                "z": 89.84829711914063
+                "x": 7358.0751953125,
+                "y": 7010.66796875,
+                "z": 189.9010009765625
+            },
+            "rotation": {
+                "x": -0.015252559445798397,
+                "y": -0.031362470239400867,
+                "z": -0.6083912253379822,
+                "w": 0.7928706407546997
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "912257c9-1a82-41d5-1769-dfca01caecb2",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_b3f5e51f83d8e41950402ab9cd143a4b",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:143a4b"
+        },
+        {
+            "id": "4dca8ef6-2cf2-0686-caa7-8e489a8276b8",
+            "worldPosition": {
+                "x": 6216.9892578125,
+                "y": 7316.61767578125,
+                "z": 59.09035873413086
             },
             "rotation": {
                 "x": 0.0,
@@ -1376,74 +1091,398 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "47b02f87-a1ea-c5e1-448f-ada1c8a7943f",
+                "id": "b14542cb-7f73-a1da-1db4-ad52aa60d207",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Sokmenis",
-            "sliceAssetId": "{A4D35B84-978D-53D0-B161-AF7ADECAC108}:2"
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_4dca8ef62cf20686caa78e489a8276b8",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:8276b8"
         },
         {
-            "id": "3ea82a56-f01f-05fd-c727-8a9af6c27005",
+            "id": "ccd66809-4114-0ee9-b2be-28c0294e0bfa",
             "worldPosition": {
-                "x": 7730.375,
-                "y": 7184.25,
-                "z": 186.07699584960938
+                "x": 7107.1689453125,
+                "y": 6662.45654296875,
+                "z": 168.1384735107422
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.17364811897277833,
+                "z": 0.28401535749435427,
+                "w": 0.9588196873664856
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2e4e15a5-9fa9-7814-970f-69b9642aad5f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_ccd6680941140ee9b2be28c0294e0bfa",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4e0bfa"
+        },
+        {
+            "id": "3aa56af4-4c0f-2167-9814-e8e69163e181",
+            "worldPosition": {
+                "x": 7053.587890625,
+                "y": 6756.44677734375,
+                "z": 181.32723999023438
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.258819043636322,
+                "w": 0.9659258127212524
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "bfc82768-8921-3f52-cc72-e8573ac7dec9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_3aa56af44c0f21679814e8e69163e181",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:63e181"
+        },
+        {
+            "id": "a11daec1-f48b-ae49-e1a4-460c8385a655",
+            "worldPosition": {
+                "x": 7217.22216796875,
+                "y": 6948.55615234375,
+                "z": 190.5896759033203
+            },
+            "rotation": {
+                "x": 0.012593396008014679,
+                "y": -0.06804028898477555,
+                "z": -0.6073026061058044,
+                "w": 0.7914515137672424
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "dd732652-52b9-def7-692c-a6e1dbbb04f0",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_a11daec1f48bae49e1a4460c8385a655",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:85a655"
+        },
+        {
+            "id": "040b275e-8434-69f1-cf24-feace5a92b18",
+            "worldPosition": {
+                "x": 6508.99658203125,
+                "y": 7245.06884765625,
+                "z": 60.56163787841797
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "829af209-586e-de18-9f6b-e0c460eb9313",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_040b275e843469f1cf24feace5a92b18",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:a92b18"
+        },
+        {
+            "id": "f09df48d-f3d4-f9b6-932a-7a9a2ac0cef6",
+            "worldPosition": {
+                "x": 6589.794921875,
+                "y": 7219.05322265625,
+                "z": 99.98500061035156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070579051971438,
+                "w": 0.9537169933319092
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c1a6bf64-828a-987e-182b-9f826f692c0d",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_f09df48df3d4f9b6932a7a9a2ac0cef6",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:c0cef6"
+        },
+        {
+            "id": "866abc74-6b74-3c4f-684a-bcd33c9cbbd7",
+            "worldPosition": {
+                "x": 6775.462890625,
+                "y": 7929.27392578125,
+                "z": 79.35016632080078
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "10f87536-90e4-00f5-8ab7-31853bde6903",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_866abc746b743c4f684abcd33c9cbbd7",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:9cbbd7"
+        },
+        {
+            "id": "c60b6224-5074-1b65-b492-8d064ccde3b4",
+            "worldPosition": {
+                "x": 7246.865234375,
+                "y": 7307.412109375,
+                "z": 213.97000122070313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.21643996238708497,
+                "w": 0.9762959480285645
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "c1a1af2f-dc64-690f-ffee-505178d399c2",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_c60b622450741b65b4928d064ccde3b4",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:cde3b4"
+        },
+        {
+            "id": "9099f886-701a-125f-747f-8200175a0a25",
+            "worldPosition": {
+                "x": 7113.67578125,
+                "y": 6903.14111328125,
+                "z": 184.4499969482422
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "518a823c-7137-0439-bc88-f58ef8e019ea",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_9099f886701a125f747f8200175a0a25",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5a0a25"
+        },
+        {
+            "id": "9f18fefc-eb4e-4778-3504-211ae833ff75",
+            "worldPosition": {
+                "x": 7366.68310546875,
+                "y": 7295.1591796875,
+                "z": 205.0265350341797
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.08715575188398361,
+                "w": 0.9961947202682495
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "2036c095-8715-5244-074e-438f3d59696a",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_9f18fefceb4e47783504211ae833ff75",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:33ff75"
+        },
+        {
+            "id": "22fa2eca-e041-3434-a3f6-47f73e0205ab",
+            "worldPosition": {
+                "x": 7508.3427734375,
+                "y": 7027.50390625,
+                "z": 195.51199340820313
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.6087612509727478,
+                "w": 0.7933534979820252
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "5cfc43fa-4a91-7730-07d2-683f2cad1797",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_22fa2ecae0413434a3f647f73e0205ab",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:205ab"
+        },
+        {
+            "id": "0a91f7f5-5bae-db8d-0344-7c136f2d24d6",
+            "worldPosition": {
+                "x": 6270.6318359375,
+                "y": 7476.76611328125,
+                "z": 68.62129974365235
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.07175011932849884,
+                "w": 0.9974226355552673
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "93268220-352c-d52a-79dc-abfd383c2e0e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_0a91f7f55baedb8d3447c136f2d24d6",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2d24d6"
+        },
+        {
+            "id": "66d3277e-ea5e-eb23-bd25-0f85559ffe0a",
+            "worldPosition": {
+                "x": 7652.3232421875,
+                "y": 7063.7431640625,
+                "z": 176.3679962158203
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.17364782094955445,
                 "w": 0.9848077893257141
             },
             "footprint": {
                 "type": "Circle",
-                "id": "46df09f9-636e-71bf-d1a5-9352c0d07cdf",
+                "id": "bea20aa3-9b6f-c9f9-82f5-cdebbe29ee34",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_Tales_of_Brimstone_Sands_Title_29_01",
-            "sliceAssetId": "{C9FC80A3-8FCB-5C25-A881-EC3397CFEA12}:2"
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_66d3277eea5eeb23bd250f85559ffe0a",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:9ffe0a"
         },
         {
-            "id": "6a3542b3-b96d-f79f-0f44-2ed46fc8f45b",
+            "id": "b722dfd1-162e-1ba4-0b86-aac7d47a98c2",
             "worldPosition": {
-                "x": 7729.0,
-                "y": 7230.0,
-                "z": 185.09657287597657
+                "x": 6252.99951171875,
+                "y": 7605.0,
+                "z": 65.1884765625
             },
             "rotation": {
-                "x": 0.022015878930687906,
-                "y": -0.017323823645710946,
-                "z": -0.49980372190475466,
-                "w": 0.8656855225563049
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.25881901383399966,
+                "w": 0.9659258127212524
             },
             "footprint": {
                 "type": "Circle",
-                "id": "1ae6e154-6f26-4ff9-6e9a-ff01c006dd14",
+                "id": "3c22efbc-4f2c-1c16-cc62-40b19b9da141",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\NPC_1671_Commander2_6a3542b3b96df79ff442ed46fc8f45b",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:c8f45b"
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_b722dfd1162e1ba4b86aac7d47a98c2",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:7a98c2"
         },
         {
-            "id": "d4033d00-e0e7-6abc-7944-dcb68b0108e7",
+            "id": "fe421622-a3f1-498d-2e19-c52ea95ba256",
             "worldPosition": {
-                "x": 6255.6513671875,
-                "y": 7609.4833984375,
-                "z": 65.45574951171875
+                "x": 6594.09765625,
+                "y": 7213.0703125,
+                "z": 104.49798583984375
             },
             "rotation": {
-                "x": 0.15869267284870149,
-                "y": -0.09192072600126267,
-                "z": -4.831691668982785e-8,
-                "w": 0.9830397963523865
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.4226182997226715,
+                "w": 0.9063077569007874
             },
             "footprint": {
                 "type": "Circle",
-                "id": "7d988c64-afcf-09a2-fd49-ad806adab568",
+                "id": "964b0452-8cd5-de15-3cbd-9af4cee038e7",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\SwapHidden_1625_ImhotepJournalB_d4033d00e0e76abc7944dcb68b0108e7",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:108e7",
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_fe421622a3f1498d2e19c52ea95ba256",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:5ba256"
+        },
+        {
+            "id": "dc9bf2b4-d825-e7e1-836f-5707038cc3bd",
+            "worldPosition": {
+                "x": 7247.068359375,
+                "y": 7229.56689453125,
+                "z": 236.88900756835938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "60118df0-869d-d684-1aab-e2a7282f88fa",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Trigger_Volume_Template_dc9bf2b4d825e7e1836f5707038cc3bd",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:8cc3bd"
+        },
+        {
+            "id": "7535ad5a-62d0-d4c9-2e6b-e1cc8ad67e2d",
+            "worldPosition": {
+                "x": 6729.57421875,
+                "y": 7565.15771484375,
+                "z": 99.5306167602539
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.4617488980293274,
+                "w": 0.8870106935501099
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "8cfa411b-a81e-6839-56ba-603d87a0821c",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\48f29272\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_7535ad5a62d0d4c92e6be1cc8ad67e2d",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:d67e2d",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "e6204eeb-b8ca-9d67-c99e-2cfb902e2ab4",
+            "worldPosition": {
+                "x": 6244.49462890625,
+                "y": 7965.62548828125,
+                "z": 52.50749206542969
+            },
+            "rotation": {
+                "x": -0.006526340264827013,
+                "y": 0.08912394195795059,
+                "z": -0.6728875637054443,
+                "w": 0.7343273758888245
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "2d192ca0-67e9-d775-58dc-a440c19479b9",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\48f29272\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_e6204eebb8ca9d67c99e2cfb902e2ab4",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2e2ab4",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "3a15fb72-194e-0ac7-2586-09ee15355f97",
+            "worldPosition": {
+                "x": 6327.69140625,
+                "y": 7281.59521484375,
+                "z": 42.99589920043945
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -0.08715634793043137,
+                "w": 0.9961946606636047
+            },
+            "footprint": {
+                "type": "Rectangle",
+                "id": "b340db30-5fb0-6cf9-60f3-abbd4b178d49",
+                "width": 3.5,
+                "height": 2.0
+            },
+            "sliceName": "CoatGen\\48f29272\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_3a15fb72194e0ac7258609ee15355f97",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:355f97",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -1470,6 +1509,114 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:ffb14b"
         },
         {
+            "id": "6f253a36-c47d-72bc-f91a-757773e2741a",
+            "worldPosition": {
+                "x": 6771.875,
+                "y": 7080.0,
+                "z": 186.88906860351563
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "21b1e4db-2632-b972-4455-a47f4980ad86",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_32_05_6f253a36c47d72bcf91a757773e2741a",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:e2741a"
+        },
+        {
+            "id": "18fbaaf1-3378-dba9-9d00-a50dd0e39a52",
+            "worldPosition": {
+                "x": 6320.919921875,
+                "y": 7826.10009765625,
+                "z": 89.84829711914063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "47b02f87-a1ea-c5e1-448f-ada1c8a7943f",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Sokmenis",
+            "sliceAssetId": "{A4D35B84-978D-53D0-B161-AF7ADECAC108}:2"
+        },
+        {
+            "id": "d47db3dc-2017-3e48-a969-4eb31c01cb2d",
+            "worldPosition": {
+                "x": 6802.06689453125,
+                "y": 7526.8427734375,
+                "z": 115.57319641113281
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "afce91de-90b8-4495-9ad1-c29816e67aba",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Gaius",
+            "sliceAssetId": "{0B8AE027-3711-57B2-BD2C-4062DEC15FF7}:2"
+        },
+        {
+            "id": "91017dce-7154-129c-a960-c09776b5c6c0",
+            "worldPosition": {
+                "x": 7287.54052734375,
+                "y": 7231.71240234375,
+                "z": 224.54714965820313
+            },
+            "rotation": {
+                "x": 0.012661171145737172,
+                "y": 0.013478810898959637,
+                "z": 3.376330823812168e-7,
+                "w": 0.9998289942741394
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "ba665bdd-6c9d-740c-b03a-83c9b5d13f0e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_22_01_91017dce7154129ca960c09776b5c6c0",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:b5c6c0"
+        },
+        {
+            "id": "b6e9ccc4-733f-6d47-3234-c5cd350baae9",
+            "worldPosition": {
+                "x": 7259.05810546875,
+                "y": 7213.92822265625,
+                "z": 242.5590057373047
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "f6b4614f-1c6b-c605-7314-b7b77957007f",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\SwapHidden_1625_ImhotepJournalA_b6e9ccc4733f6d473234c5cd350baae9",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:baae9",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
             "id": "e3ca744a-6d1f-687f-e8bf-4c3b090b6140",
             "worldPosition": {
                 "x": 6501.00048828125,
@@ -1477,9 +1624,9 @@
                 "z": 60.146244049072269
             },
             "rotation": {
-                "x": 0.005456258077174425,
+                "x": 0.005456258542835712,
                 "y": 0.00018822778656613082,
-                "z": -3.160740220664593e-7,
+                "z": -3.1607390837962159e-7,
                 "w": 0.9999850988388062
             },
             "footprint": {
@@ -1491,46 +1638,71 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:b6140"
         },
         {
-            "id": "8e6bb54d-abbf-9a0c-6bea-3553f373f70b",
+            "id": "e8ae93b5-5bb0-4a1f-1bcd-5b3ac12221d1",
             "worldPosition": {
-                "x": 7614.5400390625,
-                "y": 7274.83984375,
-                "z": 183.31900024414063
+                "x": 7720.0859375,
+                "y": 7224.6083984375,
+                "z": 185.0902862548828
+            },
+            "rotation": {
+                "x": 0.021757598966360093,
+                "y": -0.006986370775848627,
+                "z": 0.47695082426071169,
+                "w": 0.8786329030990601
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "860c2cf1-662d-017e-7f4f-2106ef597623",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\NPC_1673_Adjudicator2_e8ae93b55bb04a1f1bcd5b3ac12221d1",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2221d1"
+        },
+        {
+            "id": "aef3a3b7-6aee-5df8-2253-9e2ce2bde178",
+            "worldPosition": {
+                "x": 7745.396484375,
+                "y": 7201.42626953125,
+                "z": 186.55511474609376
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": -0.6451225876808167,
+                "w": 0.7640790939331055
             },
+            "scale": 0.5,
             "footprint": {
                 "type": "Circle",
-                "id": "79601650-0ed3-e579-9a80-6bcb6f0d0cb2",
+                "id": "cbfe3eb2-3e44-a207-4115-1285e94a59b4",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Senhyris",
-            "sliceAssetId": "{9DCE29E7-A2C7-5EAD-B332-AFFDBA445803}:2"
+            "sliceName": "slices/POIs/Lore/Lore_Tales_of_Brimstone_Sands_Title_27_04",
+            "sliceAssetId": "{32E3D154-F715-5040-91B1-6460E1A6500E}:2"
         },
         {
-            "id": "69bf5cdc-7d3e-dfee-fa35-78f2c69c2b02",
+            "id": "d4033d00-e0e7-6abc-7944-dcb68b0108e7",
             "worldPosition": {
-                "x": 7575.0,
-                "y": 7930.0,
-                "z": 245.7913360595703
+                "x": 6255.6513671875,
+                "y": 7609.4833984375,
+                "z": 65.45574951171875
             },
             "rotation": {
-                "x": 8.742273394091171e-8,
-                "y": -3.8941436741879445e-7,
-                "z": 8.742273394091171e-8,
-                "w": 1.0
+                "x": 0.15869267284870149,
+                "y": -0.09192072600126267,
+                "z": -4.831691668982785e-8,
+                "w": 0.9830397963523865
             },
             "footprint": {
                 "type": "Circle",
-                "id": "81fe6d5c-45a2-e2f3-9b54-cce39d0c84f6",
+                "id": "7d988c64-afcf-09a2-fd49-ad806adab568",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_11_02_69bf5cdc7d3edfeefa3578f2c69c2b02",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:9c2b02"
+            "sliceName": "CoatGen\\48f29272\\SwapHidden_1625_ImhotepJournalB_d4033d00e0e76abc7944dcb68b0108e7",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:108e7",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
             "id": "3f524c59-cb6a-89c7-c4c9-6775ae11f5b5",
@@ -1555,6 +1727,48 @@
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
+        },
+        {
+            "id": "5a9d18bc-c37f-1fb4-cac0-975505076f20",
+            "worldPosition": {
+                "x": 7729.0,
+                "y": 7230.0,
+                "z": 185.09657287597657
+            },
+            "rotation": {
+                "x": 0.022015878930687906,
+                "y": -0.017323823645710946,
+                "z": -0.49980372190475466,
+                "w": 0.8656855225563049
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "92ec9cba-ba66-df96-54cb-7ea7ecb9a9c9",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\NPC_1671_Commander2_5a9d18bcc37f1fb4cac0975505076f20",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:76f20"
+        },
+        {
+            "id": "5a34a722-8ee6-58e9-da89-5df447374bf7",
+            "worldPosition": {
+                "x": 7678.22998046875,
+                "y": 8017.580078125,
+                "z": 227.7259979248047
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "3c5ce5b8-1046-1df4-65f3-4839d9e679b3",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Tasechmi",
+            "sliceAssetId": "{7727B174-96EA-511E-9988-CCC6F1B24573}:2"
         },
         {
             "id": "f4b03fb3-4446-44d9-50b4-5277d141bf28",
@@ -1602,122 +1816,49 @@
             "sliceAssetId": "{DF9E9050-FB24-5A04-9E32-5323211C9606}:2"
         },
         {
-            "id": "01017bec-51be-e7e3-3ee0-e8350a677dd7",
+            "id": "c40a21e3-7b4e-961d-6618-582a204c370e",
             "worldPosition": {
-                "x": 7097.0,
-                "y": 6680.0,
-                "z": 178.0
+                "x": 6259.9111328125,
+                "y": 7309.08984375,
+                "z": 56.958412170410159
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "z": 1.0,
+                "w": -1.6292068494294654e-7
             },
             "footprint": {
                 "type": "Circle",
-                "id": "3b350f28-9a61-17c2-2f39-80109348ea60",
+                "id": "0bac26fb-15ad-0467-979b-acd044e1a237",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Cinematics_Banner_Master_01017bec51bee7e33ee0e8350a677dd7",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:677dd7"
+            "sliceName": "slices/POIs/Brimstone/AncientGlyphs/Lore_GlyphTablet_AncientRuins_13_11",
+            "sliceAssetId": "{3F37B932-1B98-57D5-8546-721452AB6062}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
         },
         {
-            "id": "014d306c-e295-ca62-647a-c1d8f15e2e73",
+            "id": "f653fab4-7114-174a-55e1-7b379027b8a6",
             "worldPosition": {
-                "x": 7326.98779296875,
-                "y": 7251.7080078125,
-                "z": 221.27877807617188
+                "x": 6704.12548828125,
+                "y": 7820.61474609375,
+                "z": 46.40294647216797
             },
             "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
+                "x": 0.5995849370956421,
+                "y": 0.3748306334018707,
+                "z": 0.37483036518096926,
+                "w": 0.5995849370956421
             },
-            "scale": 0.75,
             "footprint": {
                 "type": "Circle",
-                "id": "1888676c-d5fc-2eae-3926-b954a4409aea",
+                "id": "235d2490-dbac-4889-32b6-c385275ec97d",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_Tales of Brimstone Sands_12_01",
-            "sliceAssetId": "{D0AC1EDE-85C3-5F9E-AA4B-75A770387E8D}:2"
-        },
-        {
-            "id": "3a15fb72-194e-0ac7-2586-09ee15355f97",
-            "worldPosition": {
-                "x": 6327.69140625,
-                "y": 7281.59521484375,
-                "z": 42.99589920043945
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.08715634793043137,
-                "w": 0.9961946606636047
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "b340db30-5fb0-6cf9-60f3-abbd4b178d49",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\48f29272\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_3a15fb72194e0ac7258609ee15355f97",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:355f97",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e6204eeb-b8ca-9d67-c99e-2cfb902e2ab4",
-            "worldPosition": {
-                "x": 6244.49462890625,
-                "y": 7965.62548828125,
-                "z": 52.50749206542969
-            },
-            "rotation": {
-                "x": -0.006526340264827013,
-                "y": 0.08912394195795059,
-                "z": -0.6728875637054443,
-                "w": 0.7343273758888245
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "2d192ca0-67e9-d775-58dc-a440c19479b9",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\48f29272\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_e6204eebb8ca9d67c99e2cfb902e2ab4",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2e2ab4",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "7535ad5a-62d0-d4c9-2e6b-e1cc8ad67e2d",
-            "worldPosition": {
-                "x": 6729.57421875,
-                "y": 7565.15771484375,
-                "z": 99.5306167602539
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.4617488980293274,
-                "w": 0.8870106935501099
-            },
-            "footprint": {
-                "type": "Rectangle",
-                "id": "8cfa411b-a81e-6839-56ba-603d87a0821c",
-                "width": 3.5,
-                "height": 2.0
-            },
-            "sliceName": "CoatGen\\48f29272\\IO_WorldEvent_PVP_0001_DeadDropGiveItem_00_7535ad5a62d0d4c92e6be1cc8ad67e2d",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:d67e2d",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
+            "sliceName": "slices/POIs/Lore/Lore_Tales_of_Brimstone_Sands_Title_33_04",
+            "sliceAssetId": "{2A70A40A-2302-5CFD-8546-0C327E7AB70B}:2"
         },
         {
             "id": "85527e0b-27d8-2896-fc77-8b6f253953c1",
@@ -1739,144 +1880,6 @@
             },
             "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_22_04_85527e0b27d82896fc778b6f253953c1",
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:3953c1"
-        },
-        {
-            "id": "5a34a722-8ee6-58e9-da89-5df447374bf7",
-            "worldPosition": {
-                "x": 7678.22998046875,
-                "y": 8017.580078125,
-                "z": 227.7259979248047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "3c5ce5b8-1046-1df4-65f3-4839d9e679b3",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Tasechmi",
-            "sliceAssetId": "{7727B174-96EA-511E-9988-CCC6F1B24573}:2"
-        },
-        {
-            "id": "92f81908-c15b-10ff-a495-6e2d45846fca",
-            "worldPosition": {
-                "x": 6589.794921875,
-                "y": 7219.05322265625,
-                "z": 99.98500061035156
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.30070579051971438,
-                "w": 0.9537169933319092
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "cf973176-31a2-857e-27c6-854f79692ac1",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Proximity_Instanced_Spawner_92f81908c15b10ffa4956e2d45846fca",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:846fca",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "90b3ba7b-8abf-1dc9-9c45-8325c161f854",
-            "worldPosition": {
-                "x": 6771.31689453125,
-                "y": 7931.732421875,
-                "z": 85.0213394165039
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "2d531560-12d9-ef4f-625a-6e41d97724ee",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Damageable_Instanced_Spawner_90b3ba7b8abf1dc99c458325c161f854",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:61f854",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "2b5641be-0c64-2f12-07c4-5373b281192f",
-            "worldPosition": {
-                "x": 6773.671875,
-                "y": 7931.41650390625,
-                "z": 90.43816375732422
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "1a3ed7a4-02ef-7674-5dbe-9acf5f7c207e",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Damageable_Instanced_Spawner_2b5641be0c642f127c45373b281192f",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:81192f",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "9aaa7c24-e5cb-9c88-25ae-4887c8fefb51",
-            "worldPosition": {
-                "x": 6780.7587890625,
-                "y": 7928.12451171875,
-                "z": 89.53771209716797
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": -0.21643996238708497,
-                "w": 0.9762959480285645
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "49a28efb-ad3c-ef31-a68f-08d10e478b11",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Damageable_Instanced_Spawner_9aaa7c24e5cb9c8825ae4887c8fefb51",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:fefb51",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "e8ae93b5-5bb0-4a1f-1bcd-5b3ac12221d1",
-            "worldPosition": {
-                "x": 7720.0859375,
-                "y": 7224.6083984375,
-                "z": 185.0902862548828
-            },
-            "rotation": {
-                "x": 0.021757598966360093,
-                "y": -0.006986370775848627,
-                "z": 0.47695082426071169,
-                "w": 0.8786329030990601
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "860c2cf1-662d-017e-7f4f-2106ef597623",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\NPC_1673_Adjudicator2_e8ae93b55bb04a1f1bcd5b3ac12221d1",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:2221d1"
         },
         {
             "id": "310a33e8-c0be-b6e2-a195-06c030944fe4",
@@ -1903,6 +1906,90 @@
             }
         },
         {
+            "id": "69bf5cdc-7d3e-dfee-fa35-78f2c69c2b02",
+            "worldPosition": {
+                "x": 7575.0,
+                "y": 7930.0,
+                "z": 245.7913360595703
+            },
+            "rotation": {
+                "x": 8.742273394091171e-8,
+                "y": -3.8941436741879445e-7,
+                "z": 8.742273394091171e-8,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "81fe6d5c-45a2-e2f3-9b54-cce39d0c84f6",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_11_02_69bf5cdc7d3edfeefa3578f2c69c2b02",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:9c2b02"
+        },
+        {
+            "id": "b056b1dc-bec5-c49f-a44d-5eab611cdf34",
+            "worldPosition": {
+                "x": 7738.9443359375,
+                "y": 7227.30712890625,
+                "z": 185.16519165039063
+            },
+            "rotation": {
+                "x": 0.014934548176825047,
+                "y": -0.009293990209698677,
+                "z": -0.49992257356643679,
+                "w": 0.8658914566040039
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "66ed506c-525d-ce11-41ef-c15978c1acce",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\NPC_1672_Alchemist2_b056b1dcbec5c49fa44d5eab611cdf34",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:1cdf34"
+        },
+        {
+            "id": "6f4e781b-4388-f7ec-bdfa-24c7fbc62007",
+            "worldPosition": {
+                "x": 6267.0,
+                "y": 7305.0,
+                "z": 64.7485122680664
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "60aefe2b-98df-266b-dd90-c149e4ea9634",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_11_01_6f4e781b4388f7ecbdfa24c7fbc62007",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:c62007"
+        },
+        {
+            "id": "8e6bb54d-abbf-9a0c-6bea-3553f373f70b",
+            "worldPosition": {
+                "x": 7614.5400390625,
+                "y": 7274.83984375,
+                "z": 183.31900024414063
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "79601650-0ed3-e579-9a80-6bcb6f0d0cb2",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Legion/Legion_NPC_SetDress/NPC_SetDress_Senhyris",
+            "sliceAssetId": "{9DCE29E7-A2C7-5EAD-B332-AFFDBA445803}:2"
+        },
+        {
             "id": "be1a18cd-d71e-8ae0-212f-a328933368ef",
             "worldPosition": {
                 "x": 7382.18310546875,
@@ -1922,6 +2009,51 @@
             },
             "sliceName": "slices/POIs/Brimstone/AncientGlyphs/Lore_GlyphTablet_AncientRuins_13_02",
             "sliceAssetId": "{9D068A92-F7A3-5455-95F9-76D84FF3BFA5}:2",
+            "params": {
+                "HAS_VEG_COMPONENTS": "1"
+            }
+        },
+        {
+            "id": "518e9e4e-7c7c-8a6a-2013-43153b970298",
+            "worldPosition": {
+                "x": 7401.42529296875,
+                "y": 8089.1083984375,
+                "z": 275.26702880859377
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cedf9547-e2c6-2416-499f-cae1ee8d195e",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_22_03_518e9e4e7c7c8a6a201343153b970298",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:970298"
+        },
+        {
+            "id": "92f81908-c15b-10ff-a495-6e2d45846fca",
+            "worldPosition": {
+                "x": 6589.794921875,
+                "y": 7219.05322265625,
+                "z": 99.98500061035156
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.30070579051971438,
+                "w": 0.9537169933319092
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "cf973176-31a2-857e-27c6-854f79692ac1",
+                "radius": 1.0
+            },
+            "sliceName": "CoatGen\\48f29272\\Master_Quest_IO_Proximity_Instanced_Spawner_92f81908c15b10ffa4956e2d45846fca",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:846fca",
             "params": {
                 "HAS_VEG_COMPONENTS": "1"
             }
@@ -1952,11 +2084,11 @@
             }
         },
         {
-            "id": "518e9e4e-7c7c-8a6a-2013-43153b970298",
+            "id": "01017bec-51be-e7e3-3ee0-e8350a677dd7",
             "worldPosition": {
-                "x": 7401.42529296875,
-                "y": 8089.1083984375,
-                "z": 275.26702880859377
+                "x": 7097.0,
+                "y": 6680.0,
+                "z": 178.0
             },
             "rotation": {
                 "x": 0.0,
@@ -1966,164 +2098,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "cedf9547-e2c6-2416-499f-cae1ee8d195e",
+                "id": "3b350f28-9a61-17c2-2f39-80109348ea60",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_22_03_518e9e4e7c7c8a6a201343153b970298",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:970298"
-        },
-        {
-            "id": "bdd501c2-d9ac-89b1-d61c-b900254012fa",
-            "worldPosition": {
-                "x": 6229.12451171875,
-                "y": 7316.75,
-                "z": 58.139286041259769
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ebb3fd84-9387-f4d3-3836-b927b6935d70",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_32_02_bdd501c2d9ac89b1d61cb900254012fa",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4012fa"
-        },
-        {
-            "id": "b056b1dc-bec5-c49f-a44d-5eab611cdf34",
-            "worldPosition": {
-                "x": 7738.9443359375,
-                "y": 7227.30712890625,
-                "z": 185.16519165039063
-            },
-            "rotation": {
-                "x": 0.014934548176825047,
-                "y": -0.009293990209698677,
-                "z": -0.49992257356643679,
-                "w": 0.8658914566040039
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "66ed506c-525d-ce11-41ef-c15978c1acce",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\NPC_1672_Alchemist2_b056b1dcbec5c49fa44d5eab611cdf34",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:1cdf34"
-        },
-        {
-            "id": "c40a21e3-7b4e-961d-6618-582a204c370e",
-            "worldPosition": {
-                "x": 6259.9111328125,
-                "y": 7309.08984375,
-                "z": 56.958412170410159
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 1.0,
-                "w": -1.6292068494294654e-7
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "0bac26fb-15ad-0467-979b-acd044e1a237",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Brimstone/AncientGlyphs/Lore_GlyphTablet_AncientRuins_13_11",
-            "sliceAssetId": "{3F37B932-1B98-57D5-8546-721452AB6062}:2",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "b6e9ccc4-733f-6d47-3234-c5cd350baae9",
-            "worldPosition": {
-                "x": 7259.05810546875,
-                "y": 7213.92822265625,
-                "z": 242.5590057373047
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "f6b4614f-1c6b-c605-7314-b7b77957007f",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\SwapHidden_1625_ImhotepJournalA_b6e9ccc4733f6d473234c5cd350baae9",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:baae9",
-            "params": {
-                "HAS_VEG_COMPONENTS": "1"
-            }
-        },
-        {
-            "id": "91017dce-7154-129c-a960-c09776b5c6c0",
-            "worldPosition": {
-                "x": 7287.54052734375,
-                "y": 7231.71240234375,
-                "z": 224.54714965820313
-            },
-            "rotation": {
-                "x": 0.012661171145737172,
-                "y": 0.013478810898959637,
-                "z": 3.376330823812168e-7,
-                "w": 0.9998289942741394
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "ba665bdd-6c9d-740c-b03a-83c9b5d13f0e",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_22_01_91017dce7154129ca960c09776b5c6c0",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:b5c6c0"
-        },
-        {
-            "id": "6f253a36-c47d-72bc-f91a-757773e2741a",
-            "worldPosition": {
-                "x": 6771.875,
-                "y": 7080.0,
-                "z": 186.88906860351563
-            },
-            "rotation": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0,
-                "w": 1.0
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "21b1e4db-2632-b972-4455-a47f4980ad86",
-                "radius": 1.0
-            },
-            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_32_05_6f253a36c47d72bcf91a757773e2741a",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:e2741a"
-        },
-        {
-            "id": "f653fab4-7114-174a-55e1-7b379027b8a6",
-            "worldPosition": {
-                "x": 6704.12548828125,
-                "y": 7820.61474609375,
-                "z": 46.40294647216797
-            },
-            "rotation": {
-                "x": 0.5995849370956421,
-                "y": 0.3748306334018707,
-                "z": 0.37483036518096926,
-                "w": 0.5995849370956421
-            },
-            "footprint": {
-                "type": "Circle",
-                "id": "235d2490-dbac-4889-32b6-c385275ec97d",
-                "radius": 1.0
-            },
-            "sliceName": "slices/POIs/Lore/Lore_Tales_of_Brimstone_Sands_Title_33_04",
-            "sliceAssetId": "{2A70A40A-2302-5CFD-8546-0C327E7AB70B}:2"
+            "sliceName": "CoatGen\\48f29272\\Cinematics_Banner_Master_01017bec51bee7e33ee0e8350a677dd7",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:677dd7"
         },
         {
             "id": "1d0e7df3-a005-2369-2124-a06d62ec76a8",
@@ -2147,33 +2126,54 @@
             "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:ec76a8"
         },
         {
-            "id": "aef3a3b7-6aee-5df8-2253-9e2ce2bde178",
+            "id": "014d306c-e295-ca62-647a-c1d8f15e2e73",
             "worldPosition": {
-                "x": 7745.396484375,
-                "y": 7201.42626953125,
-                "z": 186.55511474609376
+                "x": 7326.98779296875,
+                "y": 7251.7080078125,
+                "z": 221.27877807617188
             },
             "rotation": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": -0.6451225876808167,
-                "w": 0.7640790939331055
+                "z": 0.0,
+                "w": 1.0
             },
-            "scale": 0.5,
+            "scale": 0.75,
             "footprint": {
                 "type": "Circle",
-                "id": "cbfe3eb2-3e44-a207-4115-1285e94a59b4",
+                "id": "1888676c-d5fc-2eae-3926-b954a4409aea",
                 "radius": 1.0
             },
-            "sliceName": "slices/POIs/Lore/Lore_Tales_of_Brimstone_Sands_Title_27_04",
-            "sliceAssetId": "{32E3D154-F715-5040-91B1-6460E1A6500E}:2"
+            "sliceName": "slices/POIs/Lore/Lore_Tales of Brimstone Sands_12_01",
+            "sliceAssetId": "{D0AC1EDE-85C3-5F9E-AA4B-75A770387E8D}:2"
         },
         {
-            "id": "6f4e781b-4388-f7ec-bdfa-24c7fbc62007",
+            "id": "3ea82a56-f01f-05fd-c727-8a9af6c27005",
             "worldPosition": {
-                "x": 6267.0,
-                "y": 7305.0,
-                "z": 64.7485122680664
+                "x": 7730.375,
+                "y": 7184.25,
+                "z": 186.07699584960938
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.17364811897277833,
+                "w": 0.9848077893257141
+            },
+            "footprint": {
+                "type": "Circle",
+                "id": "46df09f9-636e-71bf-d1a5-9352c0d07cdf",
+                "radius": 1.0
+            },
+            "sliceName": "slices/POIs/Lore/Lore_Tales_of_Brimstone_Sands_Title_29_01",
+            "sliceAssetId": "{C9FC80A3-8FCB-5C25-A881-EC3397CFEA12}:2"
+        },
+        {
+            "id": "bdd501c2-d9ac-89b1-d61c-b900254012fa",
+            "worldPosition": {
+                "x": 6229.12451171875,
+                "y": 7316.75,
+                "z": 58.139286041259769
             },
             "rotation": {
                 "x": 0.0,
@@ -2183,11 +2183,11 @@
             },
             "footprint": {
                 "type": "Circle",
-                "id": "60aefe2b-98df-266b-dd90-c149e4ea9634",
+                "id": "ebb3fd84-9387-f4d3-3836-b927b6935d70",
                 "radius": 1.0
             },
-            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_11_01_6f4e781b4388f7ecbdfa24c7fbc62007",
-            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:c62007"
+            "sliceName": "CoatGen\\48f29272\\Lore_Tales_of_Brimstone_Sands_Title_32_02_bdd501c2d9ac89b1d61cb900254012fa",
+            "sliceAssetId": "{A003E135-8382-5B55-8118-BBEB7CF052D8}:4012fa"
         }
     ]
 }
